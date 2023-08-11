@@ -1,0 +1,31 @@
+Action	C:◯↑▢	D:◯↓▢	B:◯←▢	A:◯→▢
+walked	1	0	0	0
+perched	1	0	0	0
+respected	0	0	0	1
+fled	0	0	0	1
+pulled	0	0	0	1
+wanted	0	0	0	1
+pushed	0	0	0	1
+argued with	1	0	0	0
+obeyed	0	0	0	1
+showed	1	0	0	0
+sank	1	0	0	0
+lifted	1	0	0	0
+regretted	0	0	0	1
+gave to	0	0	0	1
+pointed at	0	0	0	1
+succeeded	0	0	0	1
+impacted	0	0	0	1
+owned	0	0	0	1
+smashed	0	0	0	1
+increased	0	0	0	1
+floated	1	0	0	0
+bombed	1	1	0	0
+hunted	1	0	0	0
+tempted	0	0	0	1
+hoped	1	0	0	0
+rushed	1	0	0	0
+flew	1	0	0	0
+rested	1	0	0	0
+offended	0	0	0	1
+warned	1	0	0	0
