@@ -14,6 +14,8 @@ Paper: ["Language is Spatial": Experimental Evidence for Image Schemas of Concre
 Verbs](https://escholarship.org/content/qt9vs820bx/qt9vs820bx.pdf)
 
 Three versions of the first experiment by Richardson et. al (2001) have been implemented. 
+
+
 **Version 01** (labelled "01") represents a **text-image version**. Here, different prompts have been tested to probe the LM with version of Unicode options with the final prompt being:
 
 `"Select the image that best represents the event described by the sentence: "+action_word+"\n[◯→▢]\n\n[◯←▢]\n\n[◯\n↑\n▢]\n\n[◯\n↓\n▢]\n\nThe best representation is [◯"`
