@@ -1,0 +1,4 @@
+1) Evaluate different endings to the prompts using LWs heuristic
+2) Run my experiments with OpenAI models (davinci002 base)
+3) Set temperature in experiments to 0. In generate function (top_k=1)
+4) Related works expanding with more related works
