@@ -2,6 +2,7 @@ import torch.nn.functional as F
 import torch
 import json
 import pandas as pd
+import random
 from tqdm import tqdm
 
 
@@ -127,3 +128,49 @@ def store_accuracies(json_in, data_in, csv_out):
 
           #print(out_line)
           f_out.write(out_line+"\n")
+
+
+def convert_to_float(value):
+    try:
+        return float(value)
+    except ValueError:
+        return value
+
+def load_richardson_data():
+    with open("../../data/richardson_actions.txt", "r") as d_in:
+        lines = [line.split() for line in d_in.readlines()]
+
+    output = []
+    for entry in lines:
+        new_entry = [convert_to_float(item) for item in entry]
+        
+        if isinstance(new_entry[1],str):
+            new_entry[0] = " ".join(new_entry[:2])
+            del new_entry[1]
+        output.append(new_entry)
+
+    richardson_data = dict()
+    for elem in output:
+        richardson_data[elem[0]] = [i for i in elem[1:]]
+
+    # Randomizing Richardson's data
+    action_words = list(richardson_data.keys())
+    random.shuffle(action_words)
+
+    richardson_categorial = dict()
+    for k, v in richardson_data.items():
+        if k == 0:
+            continue
+        vals = [0,0,0,0]
+        vals[v.index(max(v))] = 1
+
+        richardson_categorial[k] = vals
+    richardson_normed = dict()
+
+    for action, values in richardson_data.items():
+        if action == 0:
+            continue
+        
+        richardson_normed[action] = [round(val/sum(values),4) for val in values]
+
+    return richardson_categorial, richardson_data, richardson_normed
