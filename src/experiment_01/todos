@@ -2,3 +2,10 @@
 2) Run my experiments with OpenAI models (davinci002 base)
 3) Set temperature in experiments to 0. In generate function (top_k=1)
 4) Related works expanding with more related works
+
+
+0) Create new code base for all two-text-based experiments
+    - Set temperature to 0
+    - Create list of feasible models
+    - Run with Llama model
+    - Create some form of table that shows the results of agreement between LLM and Human
