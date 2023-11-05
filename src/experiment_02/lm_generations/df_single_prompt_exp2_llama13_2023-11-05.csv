@@ -1,0 +1,408 @@
+Stimulus,SUPPORT,PRESSURE,CONSTRAINT,COVERING,VISIBILITY,SUPPORT_Completion_Text,PRESSURE_Completion_Text,CONSTRAINT_Completion_Text,COVERING_Completion_Text,VISIBILITY_Completion_Text
+The family depends on the father,5,3,5,4,4,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The family depends on the father""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The family depends on the father""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The family depends on the father""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The family depends on the father""? I choose the number 4.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The family depends on the father""? I choose the number 4.
+On a"
+There is a physician on call,5,3,5,5,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""There is a physician on call""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""There is a physician on call""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""There is a physician on call""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""There is a physician on call""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""There is a physician on call""? I choose the number 5.
+On a"
+All books are on sale,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""All books are on sale""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""All books are on sale""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""All books are on sale""? I choose the number 3.
+In the","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""All books are on sale""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""All books are on sale""? I choose the number 3.
+On a"
+The band is on tour,3,3,5,5,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The band is on tour""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The band is on tour""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The band is on tour""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The band is on tour""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The band is on tour""? I choose the number 5.
+On a"
+The boat is on course,5,3,5,5,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The boat is on course""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The boat is on course""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The boat is on course""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The boat is on course""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The boat is on course""? I choose the number 5.
+On a"
+The bus is on schedule,3,3,5,3,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The bus is on schedule""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The bus is on schedule""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The bus is on schedule""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The bus is on schedule""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The bus is on schedule""? I choose the number 5.
+On a"
+Jeff is on time,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""Jeff is on time""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""Jeff is on time""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""Jeff is on time""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""Jeff is on time""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""Jeff is on time""? I choose the number 3.
+On a"
+Sam is on his way home,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""Sam is on his way home""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""Sam is on his way home""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""Sam is on his way home""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""Sam is on his way home""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""Sam is on his way home""? I choose the number 3.
+On a"
+She puts the blame on my actions,4,4,5,4,4,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""She puts the blame on my actions""? I choose the number 4.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""She puts the blame on my actions""? I choose the number 4.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""She puts the blame on my actions""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""She puts the blame on my actions""? I choose the number 4.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""She puts the blame on my actions""? I choose the number 4.
+On a"
+He pulled a gun on me,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""He pulled a gun on me""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""He pulled a gun on me""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""He pulled a gun on me""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""He pulled a gun on me""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""He pulled a gun on me""? I choose the number 3.
+On a"
+Pat has been on sick leave,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""Pat has been on sick leave""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""Pat has been on sick leave""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""Pat has been on sick leave""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""Pat has been on sick leave""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""Pat has been on sick leave""? I choose the number 3.
+On a"
+There is a parade on Sunday,3,3,3,3,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""There is a parade on Sunday""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""There is a parade on Sunday""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""There is a parade on Sunday""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""There is a parade on Sunday""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""There is a parade on Sunday""? I choose the number 5.
+On a"
+The program will be broadcast on CBS,3,3,3,3,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The program will be broadcast on CBS""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The program will be broadcast on CBS""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The program will be broadcast on CBS""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The program will be broadcast on CBS""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The program will be broadcast on CBS""? I choose the number 5.
+On a"
+Joan works on the committee,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""Joan works on the committee""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""Joan works on the committee""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""Joan works on the committee""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""Joan works on the committee""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""Joan works on the committee""? I choose the number 3.
+On a"
+Linda is very knowledgeable on this subject,5,3,5,5,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""Linda is very knowledgeable on this subject""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""Linda is very knowledgeable on this subject""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""Linda is very knowledgeable on this subject""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""Linda is very knowledgeable on this subject""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""Linda is very knowledgeable on this subject""? I choose the number 5.
+On a"
+The factory workers are on strike for a second day,3,3,5,3,4,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The factory workers are on strike for a second day""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The factory workers are on strike for a second day""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The factory workers are on strike for a second day""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The factory workers are on strike for a second day""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The factory workers are on strike for a second day""? I choose the number 4.
+On a"
+These cold nights are very hard on the homeless,5,5,5,5,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""These cold nights are very hard on the homeless""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""These cold nights are very hard on the homeless""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""These cold nights are very hard on the homeless""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""These cold nights are very hard on the homeless""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""These cold nights are very hard on the homeless""? I choose the number 5.
+On a"
+They ordered a court martial to be held on him,4,3,5,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""They ordered a court martial to be held on him""? I choose the number 4.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""They ordered a court martial to be held on him""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""They ordered a court martial to be held on him""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""They ordered a court martial to be held on him""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""They ordered a court martial to be held on him""? I choose the number 3.
+On a"
+Pam is on a diet,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""Pam is on a diet""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""Pam is on a diet""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""Pam is on a diet""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""Pam is on a diet""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""Pam is on a diet""? I choose the number 3.
+On a"
+The dog is on the leash,5,3,5,5,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The dog is on the leash""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The dog is on the leash""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The dog is on the leash""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The dog is on the leash""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The dog is on the leash""? I choose the number 5.
+On a"
+She is on the pill,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""She is on the pill""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""She is on the pill""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""She is on the pill""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""She is on the pill""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""She is on the pill""? I choose the number 3.
+On a"
+The ship is on the anchor,5,3,5,5,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The ship is on the anchor""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The ship is on the anchor""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The ship is on the anchor""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The ship is on the anchor""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The ship is on the anchor""? I choose the number 5.
+On a"
+The lunch is on George,3,3,5,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The lunch is on George""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The lunch is on George""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The lunch is on George""? I choose the number 5.
+In the","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The lunch is on George""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The lunch is on George""? I choose the number 3.
+On a"
+He lives on a pension,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""He lives on a pension""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""He lives on a pension""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""He lives on a pension""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""He lives on a pension""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""He lives on a pension""? I choose the number 3.
+On a"
+The boss is on my neck,3,4,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The boss is on my neck""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The boss is on my neck""? I choose the number 4.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The boss is on my neck""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The boss is on my neck""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The boss is on my neck""? I choose the number 3.
+On a"
+There are fifty nurses on the hospital staff,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""There are fifty nurses on the hospital staff""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""There are fifty nurses on the hospital staff""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""There are fifty nurses on the hospital staff""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""There are fifty nurses on the hospital staff""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""There are fifty nurses on the hospital staff""? I choose the number 3.
+On a"
+There is ten cent interest on the dollar,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""There is ten cent interest on the dollar""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""There is ten cent interest on the dollar""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""There is ten cent interest on the dollar""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""There is ten cent interest on the dollar""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""There is ten cent interest on the dollar""? I choose the number 3.
+On a"
+The vase is on the table,5,3,5,5,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The vase is on the table""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The vase is on the table""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The vase is on the table""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The vase is on the table""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The vase is on the table""? I choose the number 5.
+On a"
+The fish is on the surface,3,3,5,5,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The fish is on the surface""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The fish is on the surface""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The fish is on the surface""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The fish is on the surface""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The fish is on the surface""? I choose the number 5.
+On a"
+The fly is on the ceiling,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The fly is on the ceiling""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The fly is on the ceiling""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The fly is on the ceiling""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The fly is on the ceiling""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The fly is on the ceiling""? I choose the number 3.
+On a"
+She has a beautiful ring on her finger,3,3,5,5,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""She has a beautiful ring on her finger""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""She has a beautiful ring on her finger""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""She has a beautiful ring on her finger""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""She has a beautiful ring on her finger""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""She has a beautiful ring on her finger""? I choose the number 5.
+On a"
+The house rests on the foundation,7,5,5,5,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The house rests on the foundation""? I choose the number 7.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The house rests on the foundation""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The house rests on the foundation""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The house rests on the foundation""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The house rests on the foundation""? I choose the number 3.
+On a"
+They hung a picture on the wall,5,3,5,5,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""They hung a picture on the wall""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""They hung a picture on the wall""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""They hung a picture on the wall""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""They hung a picture on the wall""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""They hung a picture on the wall""? I choose the number 5.
+On a"
+I have a cut on my finger,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""I have a cut on my finger""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""I have a cut on my finger""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""I have a cut on my finger""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""I have a cut on my finger""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""I have a cut on my finger""? I choose the number 3.
+On a"
+I have a rash on my back,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""I have a rash on my back""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""I have a rash on my back""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""I have a rash on my back""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""I have a rash on my back""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""I have a rash on my back""? I choose the number 3.
+On a"
+The actor is on stage,3,3,5,3,5,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""The actor is on stage""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""The actor is on stage""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""The actor is on stage""? I choose the number 5.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""The actor is on stage""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""The actor is on stage""? I choose the number 5.
+On a"
+He resides on the continent,3,3,3,3,3,"In the case of the use of ""on"" in ""the book is on the desk"": the SUPPORT relation refers to the desk supporting the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept SUPPORT in regards to the phrase: ""He resides on the continent""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the PRESSURE relation refers to the book exerting some pressure on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept PRESSURE in regards to the phrase: ""He resides on the continent""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the CONSTRAINT relation refers to the desk constraining the possible motions of the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept CONSTRAINT in regards to the phrase: ""He resides on the continent""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the COVERING relation refers to the book concealing the part of the desk that is under the book.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept COVERING in regards to the phrase: ""He resides on the continent""? I choose the number 3.
+On a","In the case of the use of ""on"" in ""the book is on the desk"": the VISIBILITY relation refers to the book being visible on the desk.
+On a scale from 1 (not at all appropriate) to 7 (very appropriate), how appropriate is the concept VISIBILITY in regards to the phrase: ""He resides on the continent""? I choose the number 3.
+On a"
