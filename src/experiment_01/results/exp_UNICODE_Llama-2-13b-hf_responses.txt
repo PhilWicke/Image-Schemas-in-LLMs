@@ -1,0 +1,1166 @@
+fled	↑, ↓, ←, →	 ↑.
+Select
+fled	↑, ↓, →, ←	 ↑.
+Select
+fled	↑, ←, ↓, →	 ↑.
+Select
+fled	↑, ←, →, ↓	 ↑.
+Select
+fled	↑, →, ↓, ←	 ↑.
+Select
+fled	↑, →, ←, ↓	 ↑.
+Select
+fled	↓, ↑, ←, →	 ↓.
+Select
+fled	↓, ↑, →, ←	 ↓.
+Select
+fled	↓, ←, ↑, →	 ↓.
+Select
+fled	↓, ←, →, ↑	 ↓.
+Select
+fled	↓, →, ↑, ←	 →.
+Select the
+fled	↓, →, ←, ↑	 ↓.
+Select
+fled	←, ↑, ↓, →	 ↑.
+Select
+fled	←, ↑, →, ↓	 ↑.
+Select
+fled	←, ↓, ↑, →	 ↓.
+Select
+fled	←, ↓, →, ↑	 ↓.
+Select
+fled	←, →, ↑, ↓	 →. This is because
+fled	←, →, ↓, ↑	 →. This is because
+fled	→, ↑, ↓, ←	 →. This is because
+fled	→, ↑, ←, ↓	 →. This is because
+fled	→, ↓, ↑, ←	 →. This is because
+fled	→, ↓, ←, ↑	 →. This is because
+fled	→, ←, ↑, ↓	 →. This is because
+fled	→, ←, ↓, ↑	 →. This is because
+pointed at	↑, ↓, ←, →	 ↑.
+Select
+pointed at	↑, ↓, →, ←	 ↑.
+Select
+pointed at	↑, ←, ↓, →	 ↑.
+Select
+pointed at	↑, ←, →, ↓	 ↑.
+Select
+pointed at	↑, →, ↓, ←	 ↑.
+Select
+pointed at	↑, →, ←, ↓	 ↑.
+Select
+pointed at	↓, ↑, ←, →	 ↓.
+Select
+pointed at	↓, ↑, →, ←	 ↓.
+Select
+pointed at	↓, ←, ↑, →	 ↓.
+Select
+pointed at	↓, ←, →, ↑	 ↓.
+Select
+pointed at	↓, →, ↑, ←	 →.
+The arrow
+pointed at	↓, →, ←, ↑	 ↓.
+Select
+pointed at	←, ↑, ↓, →	 ↑.
+Select
+pointed at	←, ↑, →, ↓	 ↑.
+Select
+pointed at	←, ↓, ↑, →	 ↓.
+Select
+pointed at	←, ↓, →, ↑	 ↓.
+Select
+pointed at	←, →, ↑, ↓	 ↑.
+Select
+pointed at	←, →, ↓, ↑	 ↓.
+Select
+pointed at	→, ↑, ↓, ←	 →.
+Select the
+pointed at	→, ↑, ←, ↓	 →.
+Select the
+pointed at	→, ↓, ↑, ←	 →.
+Select the
+pointed at	→, ↓, ←, ↑	 →.
+Select the
+pointed at	→, ←, ↑, ↓	 →.
+Select the
+pointed at	→, ←, ↓, ↑	 →.
+Select the
+pulled	↑, ↓, ←, →	
+The arrow that best
+pulled	↑, ↓, →, ←	
+The arrow that best
+pulled	↑, ←, ↓, →	 ↑.
+Select
+pulled	↑, ←, →, ↓	 ↑.
+Select
+pulled	↑, →, ↓, ←	
+The arrow that best
+pulled	↑, →, ←, ↓	
+The arrow that best
+pulled	↓, ↑, ←, →	
+The arrow that best
+pulled	↓, ↑, →, ←	
+The arrow that best
+pulled	↓, ←, ↑, →	
+The arrow that best
+pulled	↓, ←, →, ↑	
+The arrow that best
+pulled	↓, →, ↑, ←	
+The arrow that best
+pulled	↓, →, ←, ↑	
+The arrow that best
+pulled	←, ↑, ↓, →	
+The arrow that best
+pulled	←, ↑, →, ↓	
+The arrow that best
+pulled	←, ↓, ↑, →	
+The arrow that best
+pulled	←, ↓, →, ↑	
+The arrow that best
+pulled	←, →, ↑, ↓	
+The arrow that best
+pulled	←, →, ↓, ↑	
+The arrow that best
+pulled	→, ↑, ↓, ←	 →.
+Select the
+pulled	→, ↑, ←, ↓	 →.
+Select the
+pulled	→, ↓, ↑, ←	 →.
+Select the
+pulled	→, ↓, ←, ↑	 →.
+Select the
+pulled	→, ←, ↑, ↓	 →.
+The arrow
+pulled	→, ←, ↓, ↑	 →.
+Select the
+pushed	↑, ↓, ←, →	
+The arrow that best
+pushed	↑, ↓, →, ←	 ↑.
+Select
+pushed	↑, ←, ↓, →	 ↑.
+Select
+pushed	↑, ←, →, ↓	 ↑.
+Select
+pushed	↑, →, ↓, ←	
+The arrow that best
+pushed	↑, →, ←, ↓	 ↑.
+Select
+pushed	↓, ↑, ←, →	
+The arrow that best
+pushed	↓, ↑, →, ←	
+The arrow that best
+pushed	↓, ←, ↑, →	
+The arrow that best
+pushed	↓, ←, →, ↑	
+The arrow that best
+pushed	↓, →, ↑, ←	
+The arrow that best
+pushed	↓, →, ←, ↑	
+The arrow that best
+pushed	←, ↑, ↓, →	
+The arrow that best
+pushed	←, ↑, →, ↓	 ↑.
+Select
+pushed	←, ↓, ↑, →	
+The arrow that best
+pushed	←, ↓, →, ↑	 ↓.
+Select
+pushed	←, →, ↑, ↓	
+The arrow that best
+pushed	←, →, ↓, ↑	
+The arrow that best
+pushed	→, ↑, ↓, ←	 →.
+Select the
+pushed	→, ↑, ←, ↓	 →.
+Select the
+pushed	→, ↓, ↑, ←	 →.
+Select the
+pushed	→, ↓, ←, ↑	 →.
+Select the
+pushed	→, ←, ↑, ↓	 →.
+Select the
+pushed	→, ←, ↓, ↑	 →.
+Select the
+walked	↑, ↓, ←, →	 ↑.
+Select
+walked	↑, ↓, →, ←	 ↑.
+Select
+walked	↑, ←, ↓, →	 ↑.
+Select
+walked	↑, ←, →, ↓	 ↑.
+Select
+walked	↑, →, ↓, ←	 ↑.
+Select
+walked	↑, →, ←, ↓	 ↑.
+Select
+walked	↓, ↑, ←, →	
+The arrow that best
+walked	↓, ↑, →, ←	
+The arrow that best
+walked	↓, ←, ↑, →	
+The arrow that best
+walked	↓, ←, →, ↑	 ↓.
+Select
+walked	↓, →, ↑, ←	
+The arrow that best
+walked	↓, →, ←, ↑	 ↓.
+Select
+walked	←, ↑, ↓, →	 ↑.
+Select
+walked	←, ↑, →, ↓	 ↑.
+Select
+walked	←, ↓, ↑, →	 ↑.
+Select
+walked	←, ↓, →, ↑	 ↓.
+Select
+walked	←, →, ↑, ↓	 ↑.
+Select
+walked	←, →, ↓, ↑	 ←.
+Select
+walked	→, ↑, ↓, ←	 →.
+Select the
+walked	→, ↑, ←, ↓	 →.
+Select the
+walked	→, ↓, ↑, ←	 →.
+Select the
+walked	→, ↓, ←, ↑	 →.
+Select the
+walked	→, ←, ↑, ↓	 →.
+Select the
+walked	→, ←, ↓, ↑	 →.
+Select the
+hunted	↑, ↓, ←, →	 ↑.
+Select
+hunted	↑, ↓, →, ←	 ↑.
+Select
+hunted	↑, ←, ↓, →	 ↑.
+Select
+hunted	↑, ←, →, ↓	 ↑.
+Select
+hunted	↑, →, ↓, ←	 ↑.
+Select
+hunted	↑, →, ←, ↓	 ↑.
+Select
+hunted	↓, ↑, ←, →	 ↓.
+Select
+hunted	↓, ↑, →, ←	 ↓.
+Select
+hunted	↓, ←, ↑, →	 ↓.
+Select
+hunted	↓, ←, →, ↑	 ↓.
+Select
+hunted	↓, →, ↑, ←	 ↓.
+Select
+hunted	↓, →, ←, ↑	 ↓.
+Select
+hunted	←, ↑, ↓, →	 ↑.
+Select
+hunted	←, ↑, →, ↓	 ↑.
+Select
+hunted	←, ↓, ↑, →	 ↓.
+Select
+hunted	←, ↓, →, ↑	 ↓.
+Select
+hunted	←, →, ↑, ↓	 ↓.
+Select
+hunted	←, →, ↓, ↑	 ↓.
+Select
+hunted	→, ↑, ↓, ←	 →.
+Select the
+hunted	→, ↑, ←, ↓	 →.
+Select the
+hunted	→, ↓, ↑, ←	 →.
+Select the
+hunted	→, ↓, ←, ↑	 →.
+Select the
+hunted	→, ←, ↑, ↓	 →.
+Select the
+hunted	→, ←, ↓, ↑	 →. The arrow points
+impacted	↑, ↓, ←, →	 ↓.
+The
+impacted	↑, ↓, →, ←	 ↓.
+The
+impacted	↑, ←, ↓, →	 ↓.
+The
+impacted	↑, ←, →, ↓	 ↑. This is
+impacted	↑, →, ↓, ←	 ↑.
+The
+impacted	↑, →, ←, ↓	 ↑.
+The
+impacted	↓, ↑, ←, →	 ↓. This is
+impacted	↓, ↑, →, ←	 ↓.
+The
+impacted	↓, ←, ↑, →	 ↓.
+The
+impacted	↓, ←, →, ↑	 ↓.
+The
+impacted	↓, →, ↑, ←	 ↓.
+The
+impacted	↓, →, ←, ↑	 ↓.
+The
+impacted	←, ↑, ↓, →	 ↑. This is
+impacted	←, ↑, →, ↓	 ↑. This is
+impacted	←, ↓, ↑, →	 ↓. This is
+impacted	←, ↓, →, ↑	 ↓. The arrow
+impacted	←, →, ↑, ↓	 ↓. The arrow
+impacted	←, →, ↓, ↑	 ↓. The arrow
+impacted	→, ↑, ↓, ←	 →. This is because
+impacted	→, ↑, ←, ↓	 →. This is because
+impacted	→, ↓, ↑, ←	 →. This is because
+impacted	→, ↓, ←, ↑	 →. This is because
+impacted	→, ←, ↑, ↓	 →. The arrow is
+impacted	→, ←, ↓, ↑	 →. This is because
+perched	↑, ↓, ←, →	 ↑.
+Select
+perched	↑, ↓, →, ←	 ↑.
+Select
+perched	↑, ←, ↓, →	 ↑.
+Select
+perched	↑, ←, →, ↓	 ↑.
+Select
+perched	↑, →, ↓, ←	 ↑.
+Select
+perched	↑, →, ←, ↓	 ↑.
+Select
+perched	↓, ↑, ←, →	 ↓.
+Select
+perched	↓, ↑, →, ←	 ↓.
+Select
+perched	↓, ←, ↑, →	 ↓.
+Select
+perched	↓, ←, →, ↑	 ↓.
+Select
+perched	↓, →, ↑, ←	 ↓.
+Select
+perched	↓, →, ←, ↑	 ↓.
+Select
+perched	←, ↑, ↓, →	 ↑.
+Select
+perched	←, ↑, →, ↓	 ↑.
+Select
+perched	←, ↓, ↑, →	 ↓.
+Select
+perched	←, ↓, →, ↑	 ↓.
+Select
+perched	←, →, ↑, ↓	 ↓.
+Select
+perched	←, →, ↓, ↑	 ↓.
+Select
+perched	→, ↑, ↓, ←	 →.
+Select the
+perched	→, ↑, ←, ↓	 →.
+Select the
+perched	→, ↓, ↑, ←	 →.
+Select the
+perched	→, ↓, ←, ↑	 →.
+Select the
+perched	→, ←, ↑, ↓	 →. This is because
+perched	→, ←, ↓, ↑	 →. This is because
+showed	↑, ↓, ←, →	 ↑.
+Select
+showed	↑, ↓, →, ←	 ↑.
+Select
+showed	↑, ←, ↓, →	 ↑.
+Select
+showed	↑, ←, →, ↓	 ↑.
+Select
+showed	↑, →, ↓, ←	 ↑.
+Select
+showed	↑, →, ←, ↓	 ↑.
+Select
+showed	↓, ↑, ←, →	
+The arrow that best
+showed	↓, ↑, →, ←	 ↓.
+Select
+showed	↓, ←, ↑, →	 ↓.
+Select
+showed	↓, ←, →, ↑	 ↓.
+Select
+showed	↓, →, ↑, ←	 ↓.
+Select
+showed	↓, →, ←, ↑	 ↓.
+Select
+showed	←, ↑, ↓, →	 ↑.
+Select
+showed	←, ↑, →, ↓	 ↑.
+Select
+showed	←, ↓, ↑, →	 ↓.
+Select
+showed	←, ↓, →, ↑	 ↓.
+Select
+showed	←, →, ↑, ↓	 →. The arrow points
+showed	←, →, ↓, ↑	 ←.
+Select
+showed	→, ↑, ↓, ←	 →.
+Select the
+showed	→, ↑, ←, ↓	 →.
+Select the
+showed	→, ↓, ↑, ←	 →.
+Select the
+showed	→, ↓, ←, ↑	 →.
+Select the
+showed	→, ←, ↑, ↓	 →. The arrow shows
+showed	→, ←, ↓, ↑	 →. The arrow shows
+smashed	↑, ↓, ←, →	 ↓.
+Select
+smashed	↑, ↓, →, ←	
+The arrow that best
+smashed	↑, ←, ↓, →	 ↑.
+Select
+smashed	↑, ←, →, ↓	 ↓.
+Select
+smashed	↑, →, ↓, ←	
+The arrow that best
+smashed	↑, →, ←, ↓	
+The arrow that best
+smashed	↓, ↑, ←, →	
+The arrow that best
+smashed	↓, ↑, →, ←	
+The arrow that best
+smashed	↓, ←, ↑, →	
+The arrow that best
+smashed	↓, ←, →, ↑	 ↓.
+Select
+smashed	↓, →, ↑, ←	
+The arrow that best
+smashed	↓, →, ←, ↑	
+The arrow that best
+smashed	←, ↑, ↓, →	
+The arrow that best
+smashed	←, ↑, →, ↓	 ↓.
+Select
+smashed	←, ↓, ↑, →	
+The arrow that best
+smashed	←, ↓, →, ↑	 ↓.
+Select
+smashed	←, →, ↑, ↓	
+The arrow that best
+smashed	←, →, ↓, ↑	
+The arrow that best
+smashed	→, ↑, ↓, ←	 →.
+Select the
+smashed	→, ↑, ←, ↓	 →.
+Select the
+smashed	→, ↓, ↑, ←	 →.
+Select the
+smashed	→, ↓, ←, ↑	 →.
+Select the
+smashed	→, ←, ↑, ↓	 →.
+Select the
+smashed	→, ←, ↓, ↑	 →.
+Select the
+bombed	↑, ↓, ←, →	 ↑.
+Select
+bombed	↑, ↓, →, ←	 ↑.
+Select
+bombed	↑, ←, ↓, →	 ↑.
+Select
+bombed	↑, ←, →, ↓	 ↑.
+Select
+bombed	↑, →, ↓, ←	 ↑.
+Select
+bombed	↑, →, ←, ↓	 ↑.
+Select
+bombed	↓, ↑, ←, →	 ↓.
+Select
+bombed	↓, ↑, →, ←	
+The arrow that best
+bombed	↓, ←, ↑, →	
+The arrow that best
+bombed	↓, ←, →, ↑	 ↓.
+Select
+bombed	↓, →, ↑, ←	
+The arrow that best
+bombed	↓, →, ←, ↑	 ↓.
+Select
+bombed	←, ↑, ↓, →	 ↑.
+Select
+bombed	←, ↑, →, ↓	 ↑. The arrow
+bombed	←, ↓, ↑, →	 ↓.
+Select
+bombed	←, ↓, →, ↑	 ↓. The arrow
+bombed	←, →, ↑, ↓	
+The arrow that best
+bombed	←, →, ↓, ↑	 ↓. The arrow
+bombed	→, ↑, ↓, ←	 →. The arrow is
+bombed	→, ↑, ←, ↓	 →. The arrow is
+bombed	→, ↓, ↑, ←	 →. The arrow is
+bombed	→, ↓, ←, ↑	 →. The arrow is
+bombed	→, ←, ↑, ↓	 →. The arrow is
+bombed	→, ←, ↓, ↑	 →. The arrow is
+flew	↑, ↓, ←, →	 ↑.
+Select
+flew	↑, ↓, →, ←	 ↑.
+Select
+flew	↑, ←, ↓, →	 ↑.
+Select
+flew	↑, ←, →, ↓	 ↑.
+Select
+flew	↑, →, ↓, ←	 ↑.
+Select
+flew	↑, →, ←, ↓	 ↑.
+Select
+flew	↓, ↑, ←, →	 ↓.
+Select
+flew	↓, ↑, →, ←	 ↓.
+Select
+flew	↓, ←, ↑, →	 ↓.
+Select
+flew	↓, ←, →, ↑	 ↓.
+Select
+flew	↓, →, ↑, ←	 ↓.
+Select
+flew	↓, →, ←, ↑	 ↓.
+Select
+flew	←, ↑, ↓, →	 ↑.
+Select
+flew	←, ↑, →, ↓	 ↑.
+Select
+flew	←, ↓, ↑, →	 ↑.
+Select
+flew	←, ↓, →, ↑	 ↓.
+Select
+flew	←, →, ↑, ↓	 ↑.
+Select
+flew	←, →, ↓, ↑	 ↑.
+Select
+flew	→, ↑, ↓, ←	 →.
+Select the
+flew	→, ↑, ←, ↓	 →. The arrow is
+flew	→, ↓, ↑, ←	 →.
+Select the
+flew	→, ↓, ←, ↑	 →. The arrow is
+flew	→, ←, ↑, ↓	 →. The arrow points
+flew	→, ←, ↓, ↑	 →. The arrow points
+floated	↑, ↓, ←, →	 ↑.
+Select
+floated	↑, ↓, →, ←	 ↑.
+Select
+floated	↑, ←, ↓, →	 ↑.
+Select
+floated	↑, ←, →, ↓	 ↑.
+Select
+floated	↑, →, ↓, ←	 ↑.
+Select
+floated	↑, →, ←, ↓	 ↑.
+Select
+floated	↓, ↑, ←, →	 ↓.
+Select
+floated	↓, ↑, →, ←	
+The arrow that best
+floated	↓, ←, ↑, →	 ↓.
+Select
+floated	↓, ←, →, ↑	 ↓.
+Select
+floated	↓, →, ↑, ←	
+The arrow that best
+floated	↓, →, ←, ↑	 ↓.
+Select
+floated	←, ↑, ↓, →	 ↑.
+Select
+floated	←, ↑, →, ↓	 ↑.
+Select
+floated	←, ↓, ↑, →	 ↓.
+Select
+floated	←, ↓, →, ↑	 ↓.
+Select
+floated	←, →, ↑, ↓	 ↑.
+Select
+floated	←, →, ↓, ↑	 ↓.
+Select
+floated	→, ↑, ↓, ←	 →.
+Select the
+floated	→, ↑, ←, ↓	 →.
+Select the
+floated	→, ↓, ↑, ←	 →.
+Select the
+floated	→, ↓, ←, ↑	 →.
+Select the
+floated	→, ←, ↑, ↓	 →.
+Select the
+floated	→, ←, ↓, ↑	 →. The arrow points
+lifted	↑, ↓, ←, →	 ↑.
+The
+lifted	↑, ↓, →, ←	 ↑.
+The
+lifted	↑, ←, ↓, →	 ↑.
+The
+lifted	↑, ←, →, ↓	 ↑.
+The
+lifted	↑, →, ↓, ←	
+The arrow that best
+lifted	↑, →, ←, ↓	
+The arrow that best
+lifted	↓, ↑, ←, →	
+The arrow that best
+lifted	↓, ↑, →, ←	
+The arrow that best
+lifted	↓, ←, ↑, →	
+The arrow that best
+lifted	↓, ←, →, ↑	
+The arrow that best
+lifted	↓, →, ↑, ←	
+The arrow that best
+lifted	↓, →, ←, ↑	
+The arrow that best
+lifted	←, ↑, ↓, →	 ↑.
+The
+lifted	←, ↑, →, ↓	 ↑.
+The
+lifted	←, ↓, ↑, →	
+The arrow that best
+lifted	←, ↓, →, ↑	 ↑.
+The
+lifted	←, →, ↑, ↓	
+The arrow that best
+lifted	←, →, ↓, ↑	
+The arrow that best
+lifted	→, ↑, ↓, ←	 →.
+The arrow
+lifted	→, ↑, ←, ↓	 →.
+The arrow
+lifted	→, ↓, ↑, ←	 →.
+The arrow
+lifted	→, ↓, ←, ↑	 →.
+The arrow
+lifted	→, ←, ↑, ↓	 →.
+The arrow
+lifted	→, ←, ↓, ↑	 →. This is because
+sank	↑, ↓, ←, →	 ↓.
+Select
+sank	↑, ↓, →, ←	 ↓.
+Select
+sank	↑, ←, ↓, →	 ↓.
+Select
+sank	↑, ←, →, ↓	 ↓.
+Select
+sank	↑, →, ↓, ←	 ↓.
+Select
+sank	↑, →, ←, ↓	 ↓.
+Select
+sank	↓, ↑, ←, →	
+The arrow that best
+sank	↓, ↑, →, ←	
+The arrow that best
+sank	↓, ←, ↑, →	
+The arrow that best
+sank	↓, ←, →, ↑	 ↓.
+Select
+sank	↓, →, ↑, ←	
+The arrow that best
+sank	↓, →, ←, ↑	
+The arrow that best
+sank	←, ↑, ↓, →	 ↓.
+Select
+sank	←, ↑, →, ↓	 ↓.
+Select
+sank	←, ↓, ↑, →	 ↓.
+Select
+sank	←, ↓, →, ↑	 ↓.
+Select
+sank	←, →, ↑, ↓	
+The arrow that best
+sank	←, →, ↓, ↑	
+The arrow that best
+sank	→, ↑, ↓, ←	 →.
+Select the
+sank	→, ↑, ←, ↓	 →.
+Select the
+sank	→, ↓, ↑, ←	 →.
+Select the
+sank	→, ↓, ←, ↑	 →.
+Select the
+sank	→, ←, ↑, ↓	 →.
+Select the
+sank	→, ←, ↓, ↑	 →.
+Select the
+argued with	↑, ↓, ←, →	 ↑. This is
+argued with	↑, ↓, →, ←	 ↑. This is
+argued with	↑, ←, ↓, →	 ↑. This is
+argued with	↑, ←, →, ↓	 ↑. This is
+argued with	↑, →, ↓, ←	 ↑. This is
+argued with	↑, →, ←, ↓	 ↑. This is
+argued with	↓, ↑, ←, →	 ↓. This is
+argued with	↓, ↑, →, ←	 ↓. This is
+argued with	↓, ←, ↑, →	 ↓. This is
+argued with	↓, ←, →, ↑	 ↓. This is
+argued with	↓, →, ↑, ←	 ↓. This is
+argued with	↓, →, ←, ↑	 ↓. This is
+argued with	←, ↑, ↓, →	 ↑. This is
+argued with	←, ↑, →, ↓	 ↑. This is
+argued with	←, ↓, ↑, →	 ↓. This is
+argued with	←, ↓, →, ↑	 ↓. This is
+argued with	←, →, ↑, ↓	 ↑. This is
+argued with	←, →, ↓, ↑	 ↓. This is
+argued with	→, ↑, ↓, ←	 →. This is because
+argued with	→, ↑, ←, ↓	 →. This is because
+argued with	→, ↓, ↑, ←	 →. This is because
+argued with	→, ↓, ←, ↑	 →. This is because
+argued with	→, ←, ↑, ↓	 →. This is because
+argued with	→, ←, ↓, ↑	 →. This is because
+gave to	↑, ↓, ←, →	 ↑. This is
+gave to	↑, ↓, →, ←	 ↑. This is
+gave to	↑, ←, ↓, →	 ↑. This is
+gave to	↑, ←, →, ↓	 ↑. This is
+gave to	↑, →, ↓, ←	 ↑. This is
+gave to	↑, →, ←, ↓	 ↑. This is
+gave to	↓, ↑, ←, →	 ↓. This is
+gave to	↓, ↑, →, ←	 ↓.
+Select
+gave to	↓, ←, ↑, →	 ↓. This is
+gave to	↓, ←, →, ↑	 ↓. This is
+gave to	↓, →, ↑, ←	 ↓.
+Select
+gave to	↓, →, ←, ↑	 ↓.
+Select
+gave to	←, ↑, ↓, →	 ↑. The arrow
+gave to	←, ↑, →, ↓	 ↑. This is
+gave to	←, ↓, ↑, →	 ↓. The arrow
+gave to	←, ↓, →, ↑	 ↓. The arrow
+gave to	←, →, ↑, ↓	 ←. This is
+gave to	←, →, ↓, ↑	 ←. This is
+gave to	→, ↑, ↓, ←	 →. This is because
+gave to	→, ↑, ←, ↓	 →. This is because
+gave to	→, ↓, ↑, ←	 →. This is because
+gave to	→, ↓, ←, ↑	 →. This is because
+gave to	→, ←, ↑, ↓	 →. This is because
+gave to	→, ←, ↓, ↑	 →. This is because
+offended	↑, ↓, ←, →	 ↑. This is
+offended	↑, ↓, →, ←	 ↑. This is
+offended	↑, ←, ↓, →	 ↑. This is
+offended	↑, ←, →, ↓	 ↑. This is
+offended	↑, →, ↓, ←	 ↑. This is
+offended	↑, →, ←, ↓	 ↑. This is
+offended	↓, ↑, ←, →	
+The arrow that best
+offended	↓, ↑, →, ←	
+The arrow that best
+offended	↓, ←, ↑, →	
+The arrow that best
+offended	↓, ←, →, ↑	 ↓. This is
+offended	↓, →, ↑, ←	 ↓.
+Select
+offended	↓, →, ←, ↑	 ↓.
+Select
+offended	←, ↑, ↓, →	 ↑. The arrow
+offended	←, ↑, →, ↓	 ↑. The arrow
+offended	←, ↓, ↑, →	 ↓. The arrow
+offended	←, ↓, →, ↑	 ↓. The arrow
+offended	←, →, ↑, ↓	
+The arrow that best
+offended	←, →, ↓, ↑	 ↓. This is
+offended	→, ↑, ↓, ←	 →. This is because
+offended	→, ↑, ←, ↓	 →. This is because
+offended	→, ↓, ↑, ←	 →. This is because
+offended	→, ↓, ←, ↑	 →. This is because
+offended	→, ←, ↑, ↓	 →. This is because
+offended	→, ←, ↓, ↑	 →. This is because
+rushed	↑, ↓, ←, →	 ↑. This is
+rushed	↑, ↓, →, ←	 ↑.
+Select
+rushed	↑, ←, ↓, →	 ↑.
+Select
+rushed	↑, ←, →, ↓	 ↑.
+Select
+rushed	↑, →, ↓, ←	
+The arrow that best
+rushed	↑, →, ←, ↓	 ↑.
+Select
+rushed	↓, ↑, ←, →	
+The arrow that best
+rushed	↓, ↑, →, ←	
+The arrow that best
+rushed	↓, ←, ↑, →	
+The arrow that best
+rushed	↓, ←, →, ↑	 ↓.
+Select
+rushed	↓, →, ↑, ←	
+The arrow that best
+rushed	↓, →, ←, ↑	
+The arrow that best
+rushed	←, ↑, ↓, →	 ↑.
+Select
+rushed	←, ↑, →, ↓	 ↑.
+Select
+rushed	←, ↓, ↑, →	 ↓.
+Select
+rushed	←, ↓, →, ↑	 ↓.
+Select
+rushed	←, →, ↑, ↓	 →. This is because
+rushed	←, →, ↓, ↑	 →. This is because
+rushed	→, ↑, ↓, ←	 →. This is because
+rushed	→, ↑, ←, ↓	 →. This is because
+rushed	→, ↓, ↑, ←	 →. This is because
+rushed	→, ↓, ←, ↑	 →. This is because
+rushed	→, ←, ↑, ↓	 →. This is because
+rushed	→, ←, ↓, ↑	 →. This is because
+warned	↑, ↓, ←, →	 ↑. This is
+warned	↑, ↓, →, ←	 ↑. This is
+warned	↑, ←, ↓, →	 ↑. This is
+warned	↑, ←, →, ↓	 ↑. This is
+warned	↑, →, ↓, ←	 ↑. This is
+warned	↑, →, ←, ↓	 ↑. This is
+warned	↓, ↑, ←, →	 ↓. This is
+warned	↓, ↑, →, ←	 ↓. This is
+warned	↓, ←, ↑, →	 ↓. This is
+warned	↓, ←, →, ↑	 ↓. This is
+warned	↓, →, ↑, ←	 ↓. This is
+warned	↓, →, ←, ↑	 ↓. This is
+warned	←, ↑, ↓, →	 ↑. This is
+warned	←, ↑, →, ↓	 ↑. This is
+warned	←, ↓, ↑, →	 ↓. This is
+warned	←, ↓, →, ↑	 ↓. This is
+warned	←, →, ↑, ↓	 →. This is because
+warned	←, →, ↓, ↑	 ←. This is
+warned	→, ↑, ↓, ←	 →. This is because
+warned	→, ↑, ←, ↓	 →. This is because
+warned	→, ↓, ↑, ←	 →. This is because
+warned	→, ↓, ←, ↑	 →. This is because
+warned	→, ←, ↑, ↓	 →. This is because
+warned	→, ←, ↓, ↑	 →. This is because
+owned	↑, ↓, ←, →	 ↑. This is
+owned	↑, ↓, →, ←	 ↑. This is
+owned	↑, ←, ↓, →	 ↑. This is
+owned	↑, ←, →, ↓	 ↑. This is
+owned	↑, →, ↓, ←	 ↑. This is
+owned	↑, →, ←, ↓	 ↑. This is
+owned	↓, ↑, ←, →	
+The arrow that best
+owned	↓, ↑, →, ←	
+The arrow that best
+owned	↓, ←, ↑, →	
+The arrow that best
+owned	↓, ←, →, ↑	 ↓. This is
+owned	↓, →, ↑, ←	 ↓.
+Select
+owned	↓, →, ←, ↑	 ↓. This is
+owned	←, ↑, ↓, →	 ↓. This is
+owned	←, ↑, →, ↓	 ↑. This is
+owned	←, ↓, ↑, →	 ↓. This is
+owned	←, ↓, →, ↑	 ↓. This is
+owned	←, →, ↑, ↓	 ↓. This is
+owned	←, →, ↓, ↑	 ↓. This is
+owned	→, ↑, ↓, ←	 →. This is because
+owned	→, ↑, ←, ↓	 →. This is because
+owned	→, ↓, ↑, ←	 →. This is because
+owned	→, ↓, ←, ↑	 →. This is because
+owned	→, ←, ↑, ↓	 →. This is because
+owned	→, ←, ↓, ↑	 →. This is because
+regretted	↑, ↓, ←, →	 ↑. This is
+regretted	↑, ↓, →, ←	 ↑. This is
+regretted	↑, ←, ↓, →	 ↑. This is
+regretted	↑, ←, →, ↓	 ↑. This is
+regretted	↑, →, ↓, ←	 ↑. This is
+regretted	↑, →, ←, ↓	 ↑. This is
+regretted	↓, ↑, ←, →	 ↓. This is
+regretted	↓, ↑, →, ←	 ↓. This is
+regretted	↓, ←, ↑, →	 ↓. This is
+regretted	↓, ←, →, ↑	 ↓. This is
+regretted	↓, →, ↑, ←	 ↓. This is
+regretted	↓, →, ←, ↑	 ↓. This is
+regretted	←, ↑, ↓, →	 ↑. This is
+regretted	←, ↑, →, ↓	 ↑. This is
+regretted	←, ↓, ↑, →	 ↓. This is
+regretted	←, ↓, →, ↑	 ↓. This is
+regretted	←, →, ↑, ↓	 ←. This is
+regretted	←, →, ↓, ↑	 ←. This is
+regretted	→, ↑, ↓, ←	 →. This is because
+regretted	→, ↑, ←, ↓	 →. This is because
+regretted	→, ↓, ↑, ←	 →. This is because
+regretted	→, ↓, ←, ↑	 →. This is because
+regretted	→, ←, ↑, ↓	 →. This is because
+regretted	→, ←, ↓, ↑	 →. This is because
+rested	↑, ↓, ←, →	 ↑. This is
+rested	↑, ↓, →, ←	 ↑. This is
+rested	↑, ←, ↓, →	 ↑. This is
+rested	↑, ←, →, ↓	 ↓. This is
+rested	↑, →, ↓, ←	 ↑. This is
+rested	↑, →, ←, ↓	 ↑. This is
+rested	↓, ↑, ←, →	 ↓. This is
+rested	↓, ↑, →, ←	 ↓. This is
+rested	↓, ←, ↑, →	 ↓. This is
+rested	↓, ←, →, ↑	 ↓. This is
+rested	↓, →, ↑, ←	 ↓. This is
+rested	↓, →, ←, ↑	 ↓. This is
+rested	←, ↑, ↓, →	 ←. This is
+rested	←, ↑, →, ↓	 ↑. This is
+rested	←, ↓, ↑, →	 ↓. This is
+rested	←, ↓, →, ↑	 ↓. This is
+rested	←, →, ↑, ↓	 ←. This is
+rested	←, →, ↓, ↑	 ↓. This is
+rested	→, ↑, ↓, ←	 →. This is because
+rested	→, ↑, ←, ↓	 →. This is because
+rested	→, ↓, ↑, ←	 →. This is because
+rested	→, ↓, ←, ↑	 →. This is because
+rested	→, ←, ↑, ↓	 →. This is because
+rested	→, ←, ↓, ↑	 →. This is because
+tempted	↑, ↓, ←, →	 ↑.
+Select
+tempted	↑, ↓, →, ←	 ↑.
+Select
+tempted	↑, ←, ↓, →	 ↑.
+Select
+tempted	↑, ←, →, ↓	 ↑.
+Select
+tempted	↑, →, ↓, ←	 ↑.
+Select
+tempted	↑, →, ←, ↓	 ↑.
+Select
+tempted	↓, ↑, ←, →	
+The arrow that best
+tempted	↓, ↑, →, ←	
+The arrow that best
+tempted	↓, ←, ↑, →	
+The arrow that best
+tempted	↓, ←, →, ↑	 ↓.
+Select
+tempted	↓, →, ↑, ←	
+The arrow that best
+tempted	↓, →, ←, ↑	 ↓.
+Select
+tempted	←, ↑, ↓, →	 ↑. The arrow
+tempted	←, ↑, →, ↓	 ↑. The arrow
+tempted	←, ↓, ↑, →	 ←. This is
+tempted	←, ↓, →, ↑	 ↓.
+Select
+tempted	←, →, ↑, ↓	 →. This is because
+tempted	←, →, ↓, ↑	 ←. This is
+tempted	→, ↑, ↓, ←	 →. This is because
+tempted	→, ↑, ←, ↓	 →. This is because
+tempted	→, ↓, ↑, ←	 →. This is because
+tempted	→, ↓, ←, ↑	 →. This is because
+tempted	→, ←, ↑, ↓	 →. This is because
+tempted	→, ←, ↓, ↑	 →. This is because
+wanted	↑, ↓, ←, →	 ↑.
+Select
+wanted	↑, ↓, →, ←	 ↑.
+Select
+wanted	↑, ←, ↓, →	 ↑.
+Select
+wanted	↑, ←, →, ↓	 ↑.
+Select
+wanted	↑, →, ↓, ←	 ↑.
+Select
+wanted	↑, →, ←, ↓	 ↑.
+Select
+wanted	↓, ↑, ←, →	
+The arrow that best
+wanted	↓, ↑, →, ←	
+The arrow that best
+wanted	↓, ←, ↑, →	
+The arrow that best
+wanted	↓, ←, →, ↑	 ↓.
+Select
+wanted	↓, →, ↑, ←	
+The arrow that best
+wanted	↓, →, ←, ↑	 ↓.
+Select
+wanted	←, ↑, ↓, →	 ↑.
+Select
+wanted	←, ↑, →, ↓	 ↑.
+Select
+wanted	←, ↓, ↑, →	 ↓.
+Select
+wanted	←, ↓, →, ↑	 ↓.
+Select
+wanted	←, →, ↑, ↓	 →. The arrow that
+wanted	←, →, ↓, ↑	 →. The arrow that
+wanted	→, ↑, ↓, ←	 →.
+Select the
+wanted	→, ↑, ←, ↓	 →.
+Select the
+wanted	→, ↓, ↑, ←	 →.
+Select the
+wanted	→, ↓, ←, ↑	 →.
+Select the
+wanted	→, ←, ↑, ↓	 →.
+Select the
+wanted	→, ←, ↓, ↑	 →.
+Select the
+hoped	↑, ↓, ←, →	 ↑. The arrow
+hoped	↑, ↓, →, ←	 ↑.
+Select
+hoped	↑, ←, ↓, →	 ↑.
+Select
+hoped	↑, ←, →, ↓	 ↑.
+Select
+hoped	↑, →, ↓, ←	
+The arrow that best
+hoped	↑, →, ←, ↓	 ↑.
+Select
+hoped	↓, ↑, ←, →	
+The arrow that best
+hoped	↓, ↑, →, ←	
+The arrow that best
+hoped	↓, ←, ↑, →	
+The arrow that best
+hoped	↓, ←, →, ↑	
+The arrow that best
+hoped	↓, →, ↑, ←	
+The arrow that best
+hoped	↓, →, ←, ↑	
+The arrow that best
+hoped	←, ↑, ↓, →	 ↑.
+Select
+hoped	←, ↑, →, ↓	 ↑. The arrow
+hoped	←, ↓, ↑, →	 ↓.
+Select
+hoped	←, ↓, →, ↑	 ↓.
+Select
+hoped	←, →, ↑, ↓	 ↑. The arrow
+hoped	←, →, ↓, ↑	 ↓. The arrow
+hoped	→, ↑, ↓, ←	 →. The arrow points
+hoped	→, ↑, ←, ↓	 →. The arrow points
+hoped	→, ↓, ↑, ←	 →. The arrow points
+hoped	→, ↓, ←, ↑	 →. The arrow points
+hoped	→, ←, ↑, ↓	 →. The arrow points
+hoped	→, ←, ↓, ↑	 →. The arrow points
+increased	↑, ↓, ←, →	 ↑.
+Select
+increased	↑, ↓, →, ←	 ↑.
+Select
+increased	↑, ←, ↓, →	 ↑.
+Select
+increased	↑, ←, →, ↓	 ↑.
+Select
+increased	↑, →, ↓, ←	 ↑.
+Select
+increased	↑, →, ←, ↓	 ↑.
+Select
+increased	↓, ↑, ←, →	 ↑.
+Select
+increased	↓, ↑, →, ←	 →.
+The arrow
+increased	↓, ←, ↑, →	 →.
+The arrow
+increased	↓, ←, →, ↑	 ↑.
+Select
+increased	↓, →, ↑, ←	 →.
+Select the
+increased	↓, →, ←, ↑	 ↑.
+Select
+increased	←, ↑, ↓, →	 ↑.
+Select
+increased	←, ↑, →, ↓	 ↑.
+Select
+increased	←, ↓, ↑, →	 ↑.
+Select
+increased	←, ↓, →, ↑	 ↑.
+Select
+increased	←, →, ↑, ↓	 →.
+The arrow
+increased	←, →, ↓, ↑	 ↑.
+Select
+increased	→, ↑, ↓, ←	 →.
+Select the
+increased	→, ↑, ←, ↓	 →.
+Select the
+increased	→, ↓, ↑, ←	 →.
+Select the
+increased	→, ↓, ←, ↑	 →.
+Select the
+increased	→, ←, ↑, ↓	 →.
+Select the
+increased	→, ←, ↓, ↑	 →.
+Select the
+obeyed	↑, ↓, ←, →	 ↓. The arrow
+obeyed	↑, ↓, →, ←	 ↓. The arrow
+obeyed	↑, ←, ↓, →	 ↑. This is
+obeyed	↑, ←, →, ↓	 ↑. This is
+obeyed	↑, →, ↓, ←	 ↑. This is
+obeyed	↑, →, ←, ↓	 ↑. This is
+obeyed	↓, ↑, ←, →	
+The arrow that best
+obeyed	↓, ↑, →, ←	
+The arrow that best
+obeyed	↓, ←, ↑, →	
+The arrow that best
+obeyed	↓, ←, →, ↑	
+The arrow that best
+obeyed	↓, →, ↑, ←	
+The arrow that best
+obeyed	↓, →, ←, ↑	
+The arrow that best
+obeyed	←, ↑, ↓, →	 ↑. This is
+obeyed	←, ↑, →, ↓	 ↑. This is
+obeyed	←, ↓, ↑, →	 ↓. The arrow
+obeyed	←, ↓, →, ↑	 ↓. This is
+obeyed	←, →, ↑, ↓	 →. This is because
+obeyed	←, →, ↓, ↑	 ↓. This is
+obeyed	→, ↑, ↓, ←	 →. This is because
+obeyed	→, ↑, ←, ↓	 →. This is because
+obeyed	→, ↓, ↑, ←	 →. This is because
+obeyed	→, ↓, ←, ↑	 →. This is because
+obeyed	→, ←, ↑, ↓	 →. This is because
+obeyed	→, ←, ↓, ↑	 →. This is because
+respected	↑, ↓, ←, →	 ↑. This is
+respected	↑, ↓, →, ←	 ↑. This is
+respected	↑, ←, ↓, →	 ↑. This is
+respected	↑, ←, →, ↓	 ↑. This is
+respected	↑, →, ↓, ←	 ↑. This is
+respected	↑, →, ←, ↓	 ↑. This is
+respected	↓, ↑, ←, →	 ↓. This is
+respected	↓, ↑, →, ←	 ↓. This is
+respected	↓, ←, ↑, →	 ↓. This is
+respected	↓, ←, →, ↑	 ↓. This is
+respected	↓, →, ↑, ←	 ↓. This is
+respected	↓, →, ←, ↑	 ↓. This is
+respected	←, ↑, ↓, →	 ↑. This is
+respected	←, ↑, →, ↓	 ↑. This is
+respected	←, ↓, ↑, →	 ↓. This is
+respected	←, ↓, →, ↑	 ↓. This is
+respected	←, →, ↑, ↓	 ↓. This is
+respected	←, →, ↓, ↑	 ↓. This is
+respected	→, ↑, ↓, ←	 →. This is because
+respected	→, ↑, ←, ↓	 →. This is because
+respected	→, ↓, ↑, ←	 →. This is because
+respected	→, ↓, ←, ↑	 →. This is because
+respected	→, ←, ↑, ↓	 →. This is because
+respected	→, ←, ↓, ↑	 →. This is because
+succeeded	↑, ↓, ←, →	 ↑.
+Select
+succeeded	↑, ↓, →, ←	 ↑.
+Select
+succeeded	↑, ←, ↓, →	 ↑.
+Select
+succeeded	↑, ←, →, ↓	 ↑.
+Select
+succeeded	↑, →, ↓, ←	 ↑.
+Select
+succeeded	↑, →, ←, ↓	 ↑.
+Select
+succeeded	↓, ↑, ←, →	 ↓.
+Select
+succeeded	↓, ↑, →, ←	 ↓.
+Select
+succeeded	↓, ←, ↑, →	 ↑.
+Select
+succeeded	↓, ←, →, ↑	 ↑.
+Select
+succeeded	↓, →, ↑, ←	 ↓.
+Select
+succeeded	↓, →, ←, ↑	 ↓.
+Select
+succeeded	←, ↑, ↓, →	 ↑.
+Select
+succeeded	←, ↑, →, ↓	 ↑.
+Select
+succeeded	←, ↓, ↑, →	 ↑.
+Select
+succeeded	←, ↓, →, ↑	 ↑.
+Select
+succeeded	←, →, ↑, ↓	 ↑.
+Select
+succeeded	←, →, ↓, ↑	 ↑.
+Select
+succeeded	→, ↑, ↓, ←	 →.
+Select the
+succeeded	→, ↑, ←, ↓	 →.
+Select the
+succeeded	→, ↓, ↑, ←	 →.
+Select the
+succeeded	→, ↓, ←, ↑	 →.
+Select the
+succeeded	→, ←, ↑, ↓	 →. This is because
+succeeded	→, ←, ↓, ↑	 →. This is because
