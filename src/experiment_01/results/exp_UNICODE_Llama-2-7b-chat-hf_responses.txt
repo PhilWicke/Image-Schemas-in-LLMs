@@ -1,0 +1,720 @@
+fled	↑, ↓, ←, →	 ↓. This is
+fled	↑, ↓, →, ←	 ↓. This is
+fled	↑, ←, ↓, →	 ↓. This is
+fled	↑, ←, →, ↓	 ↓. This is
+fled	↑, →, ↓, ←	 ↓. This is
+fled	↑, →, ←, ↓	 ↓. This is
+fled	↓, ↑, ←, →	 ↓. This is
+fled	↓, ↑, →, ←	 ↓. This is
+fled	↓, ←, ↑, →	 ↓. This is
+fled	↓, ←, →, ↑	 ↓. This is
+fled	↓, →, ↑, ←	 ↓. This is
+fled	↓, →, ←, ↑	 ↓. This is
+fled	←, ↑, ↓, →	 ↓. This is
+fled	←, ↑, →, ↓	 ↓. This is
+fled	←, ↓, ↑, →	 ↓. This is
+fled	←, ↓, →, ↑	 ↓. This is
+fled	←, →, ↑, ↓	 ↓. This is
+fled	←, →, ↓, ↑	 ↓. This is
+fled	→, ↑, ↓, ←	 ↓. This is
+fled	→, ↑, ←, ↓	 ↓. This is
+fled	→, ↓, ↑, ←	 ↓. This is
+fled	→, ↓, ←, ↑	 ↓. This is
+fled	→, ←, ↑, ↓	 ↓. This is
+fled	→, ←, ↓, ↑	 ↓. This is
+pointed at	↑, ↓, ←, →	 ←. The arrow
+pointed at	↑, ↓, →, ←	 ←. This is
+pointed at	↑, ←, ↓, →	 ←. The arrow
+pointed at	↑, ←, →, ↓	 ←. The arrow
+pointed at	↑, →, ↓, ←	 ↑. The arrow
+pointed at	↑, →, ←, ↓	 ↑. The arrow
+pointed at	↓, ↑, ←, →	 ←. The arrow
+pointed at	↓, ↑, →, ←	 ←. This is
+pointed at	↓, ←, ↑, →	 ←. The arrow
+pointed at	↓, ←, →, ↑	 ←. The arrow
+pointed at	↓, →, ↑, ←	 ←. This is
+pointed at	↓, →, ←, ↑	 ←. The arrow
+pointed at	←, ↑, ↓, →	 ←. The arrow
+pointed at	←, ↑, →, ↓	 ←. The arrow
+pointed at	←, ↓, ↑, →	 ←. The arrow
+pointed at	←, ↓, →, ↑	 ←. The arrow
+pointed at	←, →, ↑, ↓	 ←. The arrow
+pointed at	←, →, ↓, ↑	 ←. The arrow
+pointed at	→, ↑, ↓, ←	 ←. This is
+pointed at	→, ↑, ←, ↓	 ←. The arrow
+pointed at	→, ↓, ↑, ←	 ←. This is
+pointed at	→, ↓, ←, ↑	 ←. The arrow
+pointed at	→, ←, ↑, ↓	 ←. The arrow
+pointed at	→, ←, ↓, ↑	 ←. The arrow
+pulled	↑, ↓, ←, →	 ↓. This is
+pulled	↑, ↓, →, ←	 ↓. This is
+pulled	↑, ←, ↓, →	 ↓. This is
+pulled	↑, ←, →, ↓	 ↓. This is
+pulled	↑, →, ↓, ←	 ↓. This is
+pulled	↑, →, ←, ↓	 ↓. This is
+pulled	↓, ↑, ←, →	 ↓. This is
+pulled	↓, ↑, →, ←	 ↓. This is
+pulled	↓, ←, ↑, →	 ↓. This is
+pulled	↓, ←, →, ↑	 ↓. This is
+pulled	↓, →, ↑, ←	 ↓. This is
+pulled	↓, →, ←, ↑	 ↓. This is
+pulled	←, ↑, ↓, →	 ↓. This is
+pulled	←, ↑, →, ↓	 ↓. This is
+pulled	←, ↓, ↑, →	 ↓. This is
+pulled	←, ↓, →, ↑	 ↓. This is
+pulled	←, →, ↑, ↓	 ↓. This is
+pulled	←, →, ↓, ↑	 ↓. This is
+pulled	→, ↑, ↓, ←	 ↓. This is
+pulled	→, ↑, ←, ↓	 ↓. This is
+pulled	→, ↓, ↑, ←	 ↓. This is
+pulled	→, ↓, ←, ↑	 ↓. This is
+pulled	→, ←, ↑, ↓	 ↓. This is
+pulled	→, ←, ↓, ↑	 ↓. This is
+pushed	↑, ↓, ←, →	 ↓. This is
+pushed	↑, ↓, →, ←	 ↓. This is
+pushed	↑, ←, ↓, →	 ↓. This is
+pushed	↑, ←, →, ↓	 ↓. This is
+pushed	↑, →, ↓, ←	 ↓. This is
+pushed	↑, →, ←, ↓	 ↓. This is
+pushed	↓, ↑, ←, →	 ↓. This is
+pushed	↓, ↑, →, ←	 ↓. This is
+pushed	↓, ←, ↑, →	 ↓. This is
+pushed	↓, ←, →, ↑	 ↓. This is
+pushed	↓, →, ↑, ←	 ↓. This is
+pushed	↓, →, ←, ↑	 ↓. This is
+pushed	←, ↑, ↓, →	 ↓. This is
+pushed	←, ↑, →, ↓	 ↓. This is
+pushed	←, ↓, ↑, →	 ↓. This is
+pushed	←, ↓, →, ↑	 ↓. This is
+pushed	←, →, ↑, ↓	 ↓. This is
+pushed	←, →, ↓, ↑	 ↓. This is
+pushed	→, ↑, ↓, ←	 ↓. This is
+pushed	→, ↑, ←, ↓	 ↓. This is
+pushed	→, ↓, ↑, ←	 ↓. This is
+pushed	→, ↓, ←, ↑	 ↓. This is
+pushed	→, ←, ↑, ↓	 ↓. This is
+pushed	→, ←, ↓, ↑	 ↓. This is
+walked	↑, ↓, ←, →	 ↓. This is
+walked	↑, ↓, →, ←	 ↓. This is
+walked	↑, ←, ↓, →	 ↓. This is
+walked	↑, ←, →, ↓	 ↓. This is
+walked	↑, →, ↓, ←	 ↓. This is
+walked	↑, →, ←, ↓	 ↓. This is
+walked	↓, ↑, ←, →	 ↓. This is
+walked	↓, ↑, →, ←	 ↓. This is
+walked	↓, ←, ↑, →	 ↓. This is
+walked	↓, ←, →, ↑	 ↓. This is
+walked	↓, →, ↑, ←	 ↓. This is
+walked	↓, →, ←, ↑	 ↓. This is
+walked	←, ↑, ↓, →	 ↓. This is
+walked	←, ↑, →, ↓	 ↓. This is
+walked	←, ↓, ↑, →	 ↓. This is
+walked	←, ↓, →, ↑	 ↓. This is
+walked	←, →, ↑, ↓	 ↓. This is
+walked	←, →, ↓, ↑	 ↓. This is
+walked	→, ↑, ↓, ←	 ↓. This is
+walked	→, ↑, ←, ↓	 ↓. This is
+walked	→, ↓, ↑, ←	 ↓. This is
+walked	→, ↓, ←, ↑	 ↓. This is
+walked	→, ←, ↑, ↓	 ↓. This is
+walked	→, ←, ↓, ↑	 ↓. This is
+hunted	↑, ↓, ←, →	 ↓. This is
+hunted	↑, ↓, →, ←	 ↓. This is
+hunted	↑, ←, ↓, →	 ↓. This is
+hunted	↑, ←, →, ↓	 ↓. This is
+hunted	↑, →, ↓, ←	 ↓. This is
+hunted	↑, →, ←, ↓	 ↓. This is
+hunted	↓, ↑, ←, →	 ↓. This is
+hunted	↓, ↑, →, ←	 ↓. This is
+hunted	↓, ←, ↑, →	 ↓. This is
+hunted	↓, ←, →, ↑	 ↓. This is
+hunted	↓, →, ↑, ←	 ↓. This is
+hunted	↓, →, ←, ↑	 ↓. This is
+hunted	←, ↑, ↓, →	 ↓. This is
+hunted	←, ↑, →, ↓	 ↓. This is
+hunted	←, ↓, ↑, →	 ↓. This is
+hunted	←, ↓, →, ↑	 ↓. This is
+hunted	←, →, ↑, ↓	 ↓. This is
+hunted	←, →, ↓, ↑	 ↓. This is
+hunted	→, ↑, ↓, ←	 ↓. This is
+hunted	→, ↑, ←, ↓	 ↓. This is
+hunted	→, ↓, ↑, ←	 ↓. This is
+hunted	→, ↓, ←, ↑	 ↓. This is
+hunted	→, ←, ↑, ↓	 ↓. This is
+hunted	→, ←, ↓, ↑	 ↓. This is
+impacted	↑, ↓, ←, →	 ↓. This is
+impacted	↑, ↓, →, ←	 ↓. This is
+impacted	↑, ←, ↓, →	 ↓. This is
+impacted	↑, ←, →, ↓	 ↓. This is
+impacted	↑, →, ↓, ←	 ↓. This is
+impacted	↑, →, ←, ↓	 ↓. This is
+impacted	↓, ↑, ←, →	 ↓. This is
+impacted	↓, ↑, →, ←	 ↓. This is
+impacted	↓, ←, ↑, →	 ↓. The arrow
+impacted	↓, ←, →, ↑	 ↓. The arrow
+impacted	↓, →, ↑, ←	 ↓. The arrow
+impacted	↓, →, ←, ↑	 ↓. The arrow
+impacted	←, ↑, ↓, →	 ↓. This is
+impacted	←, ↑, →, ↓	 ↓. This is
+impacted	←, ↓, ↑, →	 ↓. The arrow
+impacted	←, ↓, →, ↑	 ↓. The arrow
+impacted	←, →, ↑, ↓	 ↓. This is
+impacted	←, →, ↓, ↑	 ↓. The arrow
+impacted	→, ↑, ↓, ←	 ↓. This is
+impacted	→, ↑, ←, ↓	 ↓. This is
+impacted	→, ↓, ↑, ←	 ↓. The arrow
+impacted	→, ↓, ←, ↑	 ↓. The arrow
+impacted	→, ←, ↑, ↓	 ↓. This is
+impacted	→, ←, ↓, ↑	 ↓. The arrow
+perched	↑, ↓, ←, →	 ↑. Perched
+perched	↑, ↓, →, ←	 ↑. Perched
+perched	↑, ←, ↓, →	 ↓. Perched
+perched	↑, ←, →, ↓	 ↑. Perched
+perched	↑, →, ↓, ←	 ↑. Perched
+perched	↑, →, ←, ↓	 ↑. Perched
+perched	↓, ↑, ←, →	 ↓. Perched
+perched	↓, ↑, →, ←	 ↓. Perched
+perched	↓, ←, ↑, →	 ↓. Perched
+perched	↓, ←, →, ↑	 ↓. Perched
+perched	↓, →, ↑, ←	 ↓. Perched
+perched	↓, →, ←, ↑	 ↓. Perched
+perched	←, ↑, ↓, →	 ↓. Perched
+perched	←, ↑, →, ↓	 ↓. Perched
+perched	←, ↓, ↑, →	 ↓. Perched
+perched	←, ↓, →, ↑	 ↓. Perched
+perched	←, →, ↑, ↓	 ↓. Perched
+perched	←, →, ↓, ↑	 ↓. Perched
+perched	→, ↑, ↓, ←	 ↓. Perched
+perched	→, ↑, ←, ↓	 ↓. Perched
+perched	→, ↓, ↑, ←	 ↑. Perched
+perched	→, ↓, ←, ↑	 ↓. Perched
+perched	→, ←, ↑, ↓	 ↓. Perched
+perched	→, ←, ↓, ↑	 ↓. Perched
+showed	↑, ↓, ←, →	 ↑. This is
+showed	↑, ↓, →, ←	 ↑. This is
+showed	↑, ←, ↓, →	 ↓. This is
+showed	↑, ←, →, ↓	 ↑. This is
+showed	↑, →, ↓, ←	 ↑. The arrow
+showed	↑, →, ←, ↓	 ↑. The arrow
+showed	↓, ↑, ←, →	 ↓. This is
+showed	↓, ↑, →, ←	 ↓. The arrow
+showed	↓, ←, ↑, →	 ↓. The arrow
+showed	↓, ←, →, ↑	 ↓. The arrow
+showed	↓, →, ↑, ←	 ↓. The arrow
+showed	↓, →, ←, ↑	 ↓. The arrow
+showed	←, ↑, ↓, →	 ↓. This is
+showed	←, ↑, →, ↓	 ↓. This is
+showed	←, ↓, ↑, →	 ↓. The event
+showed	←, ↓, →, ↑	 ↓. The event
+showed	←, →, ↑, ↓	 ↓. This is
+showed	←, →, ↓, ↑	 ↓. The event
+showed	→, ↑, ↓, ←	 ↓. The event
+showed	→, ↑, ←, ↓	 ↓. This is
+showed	→, ↓, ↑, ←	 ↑. The arrow
+showed	→, ↓, ←, ↑	 ↑. This is
+showed	→, ←, ↑, ↓	 ↓. This is
+showed	→, ←, ↓, ↑	 ↓. The event
+smashed	↑, ↓, ←, →	 ↓. This is
+smashed	↑, ↓, →, ←	 ↓. This is
+smashed	↑, ←, ↓, →	 ↓. This is
+smashed	↑, ←, →, ↓	 ↓. This is
+smashed	↑, →, ↓, ←	 ↓. This is
+smashed	↑, →, ←, ↓	 ↓. This is
+smashed	↓, ↑, ←, →	 ↓. This is
+smashed	↓, ↑, →, ←	 ↓. This is
+smashed	↓, ←, ↑, →	 ↓. This is
+smashed	↓, ←, →, ↑	 ↓. This is
+smashed	↓, →, ↑, ←	 ↓. This is
+smashed	↓, →, ←, ↑	 ↓. This is
+smashed	←, ↑, ↓, →	 ↓. This is
+smashed	←, ↑, →, ↓	 ↓. This is
+smashed	←, ↓, ↑, →	 ↓. This is
+smashed	←, ↓, →, ↑	 ↓. This is
+smashed	←, →, ↑, ↓	 ↓. This is
+smashed	←, →, ↓, ↑	 ↓. This is
+smashed	→, ↑, ↓, ←	 ↓. This is
+smashed	→, ↑, ←, ↓	 ↓. This is
+smashed	→, ↓, ↑, ←	 ↓. This is
+smashed	→, ↓, ←, ↑	 ↓. This is
+smashed	→, ←, ↑, ↓	 ↓. This is
+smashed	→, ←, ↓, ↑	 ↓. This is
+bombed	↑, ↓, ←, →	 ↓. This is
+bombed	↑, ↓, →, ←	 ↓. This is
+bombed	↑, ←, ↓, →	 ↓. This is
+bombed	↑, ←, →, ↓	 ↓. This is
+bombed	↑, →, ↓, ←	 ↓. This is
+bombed	↑, →, ←, ↓	 ↓. This is
+bombed	↓, ↑, ←, →	 ↓. This is
+bombed	↓, ↑, →, ←	 ↓. This is
+bombed	↓, ←, ↑, →	 ↓. This is
+bombed	↓, ←, →, ↑	 ↓. This is
+bombed	↓, →, ↑, ←	 ↓. This is
+bombed	↓, →, ←, ↑	 ↓. This is
+bombed	←, ↑, ↓, →	 ↓. This is
+bombed	←, ↑, →, ↓	 ↓. This is
+bombed	←, ↓, ↑, →	 ↓. This is
+bombed	←, ↓, →, ↑	 ↓. This is
+bombed	←, →, ↑, ↓	 ↓. This is
+bombed	←, →, ↓, ↑	 ↓. This is
+bombed	→, ↑, ↓, ←	 ↓. This is
+bombed	→, ↑, ←, ↓	 ↓. This is
+bombed	→, ↓, ↑, ←	 ↓. This is
+bombed	→, ↓, ←, ↑	 ↓. This is
+bombed	→, ←, ↑, ↓	 ↓ This arrow represents
+bombed	→, ←, ↓, ↑	 ↓. This is
+flew	↑, ↓, ←, →	 ↓. This is
+flew	↑, ↓, →, ←	 ↓. This is
+flew	↑, ←, ↓, →	 ↓. This is
+flew	↑, ←, →, ↓	 ↓. This is
+flew	↑, →, ↓, ←	 ↓. This is
+flew	↑, →, ←, ↓	 ↓. This is
+flew	↓, ↑, ←, →	 ↓. This is
+flew	↓, ↑, →, ←	 ↓. This is
+flew	↓, ←, ↑, →	 ↓. This is
+flew	↓, ←, →, ↑	 ↓. This is
+flew	↓, →, ↑, ←	 ↓. This is
+flew	↓, →, ←, ↑	 ↓. This is
+flew	←, ↑, ↓, →	 ↓. This is
+flew	←, ↑, →, ↓	 ↓. This is
+flew	←, ↓, ↑, →	 ↓. This is
+flew	←, ↓, →, ↑	 ↓. This is
+flew	←, →, ↑, ↓	 ↓. This is
+flew	←, →, ↓, ↑	 ↓. This is
+flew	→, ↑, ↓, ←	 ↓. This is
+flew	→, ↑, ←, ↓	 ↓. This is
+flew	→, ↓, ↑, ←	 ↓. This is
+flew	→, ↓, ←, ↑	 ↓. This is
+flew	→, ←, ↑, ↓	 ↓. This is
+flew	→, ←, ↓, ↑	 ↓. This is
+floated	↑, ↓, ←, →	 ↓. This is
+floated	↑, ↓, →, ←	 ↓. This is
+floated	↑, ←, ↓, →	 ↓. This is
+floated	↑, ←, →, ↓	 ↓. This is
+floated	↑, →, ↓, ←	 ↓. This is
+floated	↑, →, ←, ↓	 ↓. This is
+floated	↓, ↑, ←, →	 ↓. This is
+floated	↓, ↑, →, ←	 ↓. This is
+floated	↓, ←, ↑, →	 ↓. This is
+floated	↓, ←, →, ↑	 ↓. This is
+floated	↓, →, ↑, ←	 ↓. This is
+floated	↓, →, ←, ↑	 ↓. This is
+floated	←, ↑, ↓, →	 ↓. This is
+floated	←, ↑, →, ↓	 ↓. This is
+floated	←, ↓, ↑, →	 ↓. The reason
+floated	←, ↓, →, ↑	 ↓. The reason
+floated	←, →, ↑, ↓	 ↓. This is
+floated	←, →, ↓, ↑	 ↓. The reason
+floated	→, ↑, ↓, ←	 ↓. This is
+floated	→, ↑, ←, ↓	 ↓. This is
+floated	→, ↓, ↑, ←	 ↓. This is
+floated	→, ↓, ←, ↑	 ↓. This is
+floated	→, ←, ↑, ↓	 ↓. This is
+floated	→, ←, ↓, ↑	 ↓. This is
+lifted	↑, ↓, ←, →	 ↑. This is
+lifted	↑, ↓, →, ←	 ↑. This is
+lifted	↑, ←, ↓, →	 ↑. This is
+lifted	↑, ←, →, ↓	 ↑. This is
+lifted	↑, →, ↓, ←	 ↑. This is
+lifted	↑, →, ←, ↓	 ↑. This is
+lifted	↓, ↑, ←, →	 ↑. Lifting
+lifted	↓, ↑, →, ←	 ↑. This is
+lifted	↓, ←, ↑, →	 ↑. This is
+lifted	↓, ←, →, ↑	 ↑. This is
+lifted	↓, →, ↑, ←	 ↑. This is
+lifted	↓, →, ←, ↑	 ↑. This is
+lifted	←, ↑, ↓, →	 ↑. Lifting
+lifted	←, ↑, →, ↓	 ↑. Lifting
+lifted	←, ↓, ↑, →	 ↑. This is
+lifted	←, ↓, →, ↑	 ↑. This is
+lifted	←, →, ↑, ↓	 ↑. The arrow
+lifted	←, →, ↓, ↑	 ↑. This is
+lifted	→, ↑, ↓, ←	 ↑. Lifting
+lifted	→, ↑, ←, ↓	 ↑. Lifting
+lifted	→, ↓, ↑, ←	 ↑. This is
+lifted	→, ↓, ←, ↑	 ↑. This is
+lifted	→, ←, ↑, ↓	 ↑. This is
+lifted	→, ←, ↓, ↑	 ↑. This is
+sank	↑, ↓, ←, →	 ↓. This is
+sank	↑, ↓, →, ←	 ↓. This is
+sank	↑, ←, ↓, →	 ↓. This is
+sank	↑, ←, →, ↓	 ↓. This is
+sank	↑, →, ↓, ←	 ↓. This is
+sank	↑, →, ←, ↓	 ↓. This is
+sank	↓, ↑, ←, →	 ↓. This is
+sank	↓, ↑, →, ←	 ↓. This is
+sank	↓, ←, ↑, →	 ↓. This is
+sank	↓, ←, →, ↑	 ↓. This is
+sank	↓, →, ↑, ←	 ↓. This is
+sank	↓, →, ←, ↑	 ↓. This is
+sank	←, ↑, ↓, →	 ↓. This is
+sank	←, ↑, →, ↓	 ↓. This is
+sank	←, ↓, ↑, →	 ↓. This is
+sank	←, ↓, →, ↑	 ↓. This is
+sank	←, →, ↑, ↓	 ↓. This is
+sank	←, →, ↓, ↑	 ↓. This is
+sank	→, ↑, ↓, ←	 ↓. This is
+sank	→, ↑, ←, ↓	 ↓. This is
+sank	→, ↓, ↑, ←	 ↓. This is
+sank	→, ↓, ←, ↑	 ↓. This is
+sank	→, ←, ↑, ↓	 ↓. This is
+sank	→, ←, ↓, ↑	 ↓. This is
+argued with	↑, ↓, ←, →	 ←. This is
+argued with	↑, ↓, →, ←	 ↓. This is
+argued with	↑, ←, ↓, →	 ←. This is
+argued with	↑, ←, →, ↓	 ←. This is
+argued with	↑, →, ↓, ←	 ←. This is
+argued with	↑, →, ←, ↓	 ←. This is
+argued with	↓, ↑, ←, →	 ←. This is
+argued with	↓, ↑, →, ←	 ↓. This is
+argued with	↓, ←, ↑, →	 ↓. This is
+argued with	↓, ←, →, ↑	 ←. This is
+argued with	↓, →, ↑, ←	 ↓. This is
+argued with	↓, →, ←, ↑	 ↓. This is
+argued with	←, ↑, ↓, →	 ↓. This is
+argued with	←, ↑, →, ↓	 ←. This is
+argued with	←, ↓, ↑, →	 ←. This is
+argued with	←, ↓, →, ↑	 ←. This is
+argued with	←, →, ↑, ↓	 ←. This is
+argued with	←, →, ↓, ↑	 ←. This is
+argued with	→, ↑, ↓, ←	 ↓. This is
+argued with	→, ↑, ←, ↓	 ←. This is
+argued with	→, ↓, ↑, ←	 ↓. This is
+argued with	→, ↓, ←, ↑	 ↓. This is
+argued with	→, ←, ↑, ↓	 ←. This is
+argued with	→, ←, ↓, ↑	 ←. This is
+gave to	↑, ↓, ←, →	 ↓. This is
+gave to	↑, ↓, →, ←	 ↓. This is
+gave to	↑, ←, ↓, →	 ↓. This is
+gave to	↑, ←, →, ↓	 ↓. This is
+gave to	↑, →, ↓, ←	 ↓. This is
+gave to	↑, →, ←, ↓	 ↓. This is
+gave to	↓, ↑, ←, →	 ↓. This is
+gave to	↓, ↑, →, ←	 ↓. This is
+gave to	↓, ←, ↑, →	 ↓. This is
+gave to	↓, ←, →, ↑	 ↓. This is
+gave to	↓, →, ↑, ←	 ↓. This is
+gave to	↓, →, ←, ↑	 ↓. This is
+gave to	←, ↑, ↓, →	 ↓. This is
+gave to	←, ↑, →, ↓	 ←. This is
+gave to	←, ↓, ↑, →	 ←. This is
+gave to	←, ↓, →, ↑	 ←. This is
+gave to	←, →, ↑, ↓	 ←. This is
+gave to	←, →, ↓, ↑	 ←. This is
+gave to	→, ↑, ↓, ←	 ↓. This is
+gave to	→, ↑, ←, ↓	 ↓. This is
+gave to	→, ↓, ↑, ←	 ↓. This is
+gave to	→, ↓, ←, ↑	 ↓. This is
+gave to	→, ←, ↑, ↓	 ←. This is
+gave to	→, ←, ↓, ↑	 ↓. This is
+offended	↑, ↓, ←, →	 ↓. This is
+offended	↑, ↓, →, ←	 ↓. This is
+offended	↑, ←, ↓, →	 ↓. This is
+offended	↑, ←, →, ↓	 ↓. This is
+offended	↑, →, ↓, ←	 ↓. This is
+offended	↑, →, ←, ↓	 ↓. This is
+offended	↓, ↑, ←, →	 ↓. This is
+offended	↓, ↑, →, ←	 ↓. This is
+offended	↓, ←, ↑, →	 ↓. This is
+offended	↓, ←, →, ↑	 ↓. This is
+offended	↓, →, ↑, ←	 ↓. This is
+offended	↓, →, ←, ↑	 ↓. This is
+offended	←, ↑, ↓, →	 ↓. This is
+offended	←, ↑, →, ↓	 ↓. This is
+offended	←, ↓, ↑, →	 ↓. This is
+offended	←, ↓, →, ↑	 ↓. This is
+offended	←, →, ↑, ↓	 ↓. This is
+offended	←, →, ↓, ↑	 ↓. This is
+offended	→, ↑, ↓, ←	 ↓. This is
+offended	→, ↑, ←, ↓	 ↓. This is
+offended	→, ↓, ↑, ←	 ↓. This is
+offended	→, ↓, ←, ↑	 ↓. This is
+offended	→, ←, ↑, ↓	 ↓. This is
+offended	→, ←, ↓, ↑	 ↓. This is
+rushed	↑, ↓, ←, →	 ↓. This is
+rushed	↑, ↓, →, ←	 →. Rushing means
+rushed	↑, ←, ↓, →	 ↓. This is
+rushed	↑, ←, →, ↓	 ↓. This is
+rushed	↑, →, ↓, ←	 ↓. This is
+rushed	↑, →, ←, ↓	 ↓. This is
+rushed	↓, ↑, ←, →	 ↓. This is
+rushed	↓, ↑, →, ←	 ↓. This is
+rushed	↓, ←, ↑, →	 ↓. This is
+rushed	↓, ←, →, ↑	 ↓. This is
+rushed	↓, →, ↑, ←	 ↓. This is
+rushed	↓, →, ←, ↑	 ↓. This is
+rushed	←, ↑, ↓, →	 ↓. This is
+rushed	←, ↑, →, ↓	 ↓. This is
+rushed	←, ↓, ↑, →	 ↓. The arrow
+rushed	←, ↓, →, ↑	 ↓. This is
+rushed	←, →, ↑, ↓	 ↓. This is
+rushed	←, →, ↓, ↑	 ↓. This is
+rushed	→, ↑, ↓, ←	 ↓. This is
+rushed	→, ↑, ←, ↓	 ↓. This is
+rushed	→, ↓, ↑, ←	 ↓. This is
+rushed	→, ↓, ←, ↑	 ↓. This is
+rushed	→, ←, ↑, ↓	 ↓. This is
+rushed	→, ←, ↓, ↑	 ↓. This is
+warned	↑, ↓, ←, →	 ←. This is
+warned	↑, ↓, →, ←	 ←. This is
+warned	↑, ←, ↓, →	 ←. This is
+warned	↑, ←, →, ↓	 ←. This is
+warned	↑, →, ↓, ←	 ↓. This is
+warned	↑, →, ←, ↓	 ←. This is
+warned	↓, ↑, ←, →	 ←. This is
+warned	↓, ↑, →, ←	 ↓. This is
+warned	↓, ←, ↑, →	 ↓. This is
+warned	↓, ←, →, ↑	 ←. This is
+warned	↓, →, ↑, ←	 ↓. This is
+warned	↓, →, ←, ↑	 ↓. This is
+warned	←, ↑, ↓, →	 ←. This is
+warned	←, ↑, →, ↓	 ←. This is
+warned	←, ↓, ↑, →	 ←. This is
+warned	←, ↓, →, ↑	 ←. This is
+warned	←, →, ↑, ↓	 ←. This is
+warned	←, →, ↓, ↑	 ←. This is
+warned	→, ↑, ↓, ←	 ↓. This is
+warned	→, ↑, ←, ↓	 ←. This is
+warned	→, ↓, ↑, ←	 ↓. This is
+warned	→, ↓, ←, ↑	 ←. This is
+warned	→, ←, ↑, ↓	 ←. This is
+warned	→, ←, ↓, ↑	 ←. This is
+owned	↑, ↓, ←, →	 ↓. This is
+owned	↑, ↓, →, ←	 ↓. This is
+owned	↑, ←, ↓, →	 ↓. This is
+owned	↑, ←, →, ↓	 ↓. This is
+owned	↑, →, ↓, ←	 ↓. This is
+owned	↑, →, ←, ↓	 ↓. This is
+owned	↓, ↑, ←, →	 ↓. This is
+owned	↓, ↑, →, ←	 ↓. This is
+owned	↓, ←, ↑, →	 ↓. The arrow
+owned	↓, ←, →, ↑	 ↓. The arrow
+owned	↓, →, ↑, ←	 ↓. The arrow
+owned	↓, →, ←, ↑	 ↓. This is
+owned	←, ↑, ↓, →	 ↓. This is
+owned	←, ↑, →, ↓	 ↓. This is
+owned	←, ↓, ↑, →	 ←. This is
+owned	←, ↓, →, ↑	 ←. The arrow
+owned	←, →, ↑, ↓	 ↓. This is
+owned	←, →, ↓, ↑	 ←. The arrow
+owned	→, ↑, ↓, ←	 ↓. This is
+owned	→, ↑, ←, ↓	 ↓. This is
+owned	→, ↓, ↑, ←	 ↓. This is
+owned	→, ↓, ←, ↑	 ←. This is
+owned	→, ←, ↑, ↓	 ↓. This is
+owned	→, ←, ↓, ↑	 ↓. This is
+regretted	↑, ↓, ←, →	 ↓. This is
+regretted	↑, ↓, →, ←	 ↓. This is
+regretted	↑, ←, ↓, →	 ↓. This is
+regretted	↑, ←, →, ↓	 ↓. This is
+regretted	↑, →, ↓, ←	 ↓. This is
+regretted	↑, →, ←, ↓	 ↓. This is
+regretted	↓, ↑, ←, →	 ↓. This is
+regretted	↓, ↑, →, ←	 ↓. This is
+regretted	↓, ←, ↑, →	 ↓. This is
+regretted	↓, ←, →, ↑	 ↓. This is
+regretted	↓, →, ↑, ←	 ↓. This is
+regretted	↓, →, ←, ↑	 ↓. This is
+regretted	←, ↑, ↓, →	 ↓. This is
+regretted	←, ↑, →, ↓	 ↓. This is
+regretted	←, ↓, ↑, →	 ←. This is
+regretted	←, ↓, →, ↑	 ←. The arrow
+regretted	←, →, ↑, ↓	 ↓ This arrow represents
+regretted	←, →, ↓, ↑	 ←. The arrow
+regretted	→, ↑, ↓, ←	 ↓. This is
+regretted	→, ↑, ←, ↓	 ↓. This is
+regretted	→, ↓, ↑, ←	 ↓. The arrow
+regretted	→, ↓, ←, ↑	 ↓. The arrow
+regretted	→, ←, ↑, ↓	 ↓ This arrow represents
+regretted	→, ←, ↓, ↑	 ↓. The arrow
+rested	↑, ↓, ←, →	 ↓. This is
+rested	↑, ↓, →, ←	 ↓. This is
+rested	↑, ←, ↓, →	 ↓. This is
+rested	↑, ←, →, ↓	 ↓. This is
+rested	↑, →, ↓, ←	 ↓. This is
+rested	↑, →, ←, ↓	 ↓. This is
+rested	↓, ↑, ←, →	 ↓. This is
+rested	↓, ↑, →, ←	 ↓. This is
+rested	↓, ←, ↑, →	 ↓. This is
+rested	↓, ←, →, ↑	 ↓. This is
+rested	↓, →, ↑, ←	 ↓. This is
+rested	↓, →, ←, ↑	 ↓. This is
+rested	←, ↑, ↓, →	 ↓. This is
+rested	←, ↑, →, ↓	 ↓. This is
+rested	←, ↓, ↑, →	 ↓. This is
+rested	←, ↓, →, ↑	 ↓. This is
+rested	←, →, ↑, ↓	 ↓. This is
+rested	←, →, ↓, ↑	 ↓. This is
+rested	→, ↑, ↓, ←	 ↓. This is
+rested	→, ↑, ←, ↓	 ↓. This is
+rested	→, ↓, ↑, ←	 ↓. This is
+rested	→, ↓, ←, ↑	 ↓. This is
+rested	→, ←, ↑, ↓	 ↓. This is
+rested	→, ←, ↓, ↑	 ↓. This is
+tempted	↑, ↓, ←, →	 ↓. This is
+tempted	↑, ↓, →, ←	 ↓. This is
+tempted	↑, ←, ↓, →	 ↓. This is
+tempted	↑, ←, →, ↓	 ←. This is
+tempted	↑, →, ↓, ←	 ↓. This is
+tempted	↑, →, ←, ↓	 ←. This is
+tempted	↓, ↑, ←, →	 ↓. This is
+tempted	↓, ↑, →, ←	 ↓. This is
+tempted	↓, ←, ↑, →	 ↓. This is
+tempted	↓, ←, →, ↑	 ↓. This is
+tempted	↓, →, ↑, ←	 ↓. This is
+tempted	↓, →, ←, ↑	 ↓. This is
+tempted	←, ↑, ↓, →	 ↓. This is
+tempted	←, ↑, →, ↓	 ←. This is
+tempted	←, ↓, ↑, →	 ↓. Tempt
+tempted	←, ↓, →, ↑	 ↓. This is
+tempted	←, →, ↑, ↓	 ↓. This is
+tempted	←, →, ↓, ↑	 ↓. This is
+tempted	→, ↑, ↓, ←	 ↓. This is
+tempted	→, ↑, ←, ↓	 ↓. This is
+tempted	→, ↓, ↑, ←	 ↓. This is
+tempted	→, ↓, ←, ↑	 ↓. This is
+tempted	→, ←, ↑, ↓	 ↓. This is
+tempted	→, ←, ↓, ↑	 ↓. This is
+wanted	↑, ↓, ←, →	 ↑. This is
+wanted	↑, ↓, →, ←	 ↓. This is
+wanted	↑, ←, ↓, →	 ↓. This is
+wanted	↑, ←, →, ↓	 ↑. This is
+wanted	↑, →, ↓, ←	 ↑. This is
+wanted	↑, →, ←, ↓	 ↑. This is
+wanted	↓, ↑, ←, →	 ↓. This is
+wanted	↓, ↑, →, ←	 ↓. This is
+wanted	↓, ←, ↑, →	 ↓. This is
+wanted	↓, ←, →, ↑	 ↓. This is
+wanted	↓, →, ↑, ←	 ↓. This is
+wanted	↓, →, ←, ↑	 ↓. This is
+wanted	←, ↑, ↓, →	 ↓. This is
+wanted	←, ↑, →, ↓	 ←. This is
+wanted	←, ↓, ↑, →	 ↓. This is
+wanted	←, ↓, →, ↑	 ←. This is
+wanted	←, →, ↑, ↓	 ←. This is
+wanted	←, →, ↓, ↑	 ←. This is
+wanted	→, ↑, ↓, ←	 ↑. This is
+wanted	→, ↑, ←, ↓	 ↑. This is
+wanted	→, ↓, ↑, ←	 ↑. This is
+wanted	→, ↓, ←, ↑	 ↓. This is
+wanted	→, ←, ↑, ↓	 ↓. This is
+wanted	→, ←, ↓, ↑	 ↓. This is
+hoped	↑, ↓, ←, →	 ↑. This is
+hoped	↑, ↓, →, ←	 ↑. This is
+hoped	↑, ←, ↓, →	 ↑. The arrow
+hoped	↑, ←, →, ↓	 ↑. The arrow
+hoped	↑, →, ↓, ←	 ↑. The arrow
+hoped	↑, →, ←, ↓	 ↑. The arrow
+hoped	↓, ↑, ←, →	 ↑. This is
+hoped	↓, ↑, →, ←	 ↑. This is
+hoped	↓, ←, ↑, →	 ↓. The arrow
+hoped	↓, ←, →, ↑	 ↓. The arrow
+hoped	↓, →, ↑, ←	 ↓. The arrow
+hoped	↓, →, ←, ↑	 ↓. The arrow
+hoped	←, ↑, ↓, →	 ↓. The arrow
+hoped	←, ↑, →, ↓	 ↑. The arrow
+hoped	←, ↓, ↑, →	 ←. The arrow
+hoped	←, ↓, →, ↑	 ←. The arrow
+hoped	←, →, ↑, ↓	 ←. The arrow
+hoped	←, →, ↓, ↑	 ←. The arrow
+hoped	→, ↑, ↓, ←	 ↑. The arrow
+hoped	→, ↑, ←, ↓	 ↑. The arrow
+hoped	→, ↓, ↑, ←	 ↑. The arrow
+hoped	→, ↓, ←, ↑	 ↑. This is
+hoped	→, ←, ↑, ↓	 ↑. The arrow
+hoped	→, ←, ↓, ↑	 ↓. The arrow
+increased	↑, ↓, ←, →	 ↑. This is
+increased	↑, ↓, →, ←	 ↑. This is
+increased	↑, ←, ↓, →	 ↑. This is
+increased	↑, ←, →, ↓	 ↑. This is
+increased	↑, →, ↓, ←	 ↑. This is
+increased	↑, →, ←, ↓	 ↑. This is
+increased	↓, ↑, ←, →	 ↑. This is
+increased	↓, ↑, →, ←	 ↑. This is
+increased	↓, ←, ↑, →	 ↑. This is
+increased	↓, ←, →, ↑	 ↑. This is
+increased	↓, →, ↑, ←	 ↑. This is
+increased	↓, →, ←, ↑	 ↑. This is
+increased	←, ↑, ↓, →	 ↑. This is
+increased	←, ↑, →, ↓	 ↑. This is
+increased	←, ↓, ↑, →	 ↑. This is
+increased	←, ↓, →, ↑	 ↑. This is
+increased	←, →, ↑, ↓	 ↑. This is
+increased	←, →, ↓, ↑	 ↑. This is
+increased	→, ↑, ↓, ←	 ↑. This is
+increased	→, ↑, ←, ↓	 ↑. This is
+increased	→, ↓, ↑, ←	 ↑. This is
+increased	→, ↓, ←, ↑	 ↑. This is
+increased	→, ←, ↑, ↓	 ↑. This is
+increased	→, ←, ↓, ↑	 ↑. This is
+obeyed	↑, ↓, ←, →	 ↓. This is
+obeyed	↑, ↓, →, ←	 ↓. This is
+obeyed	↑, ←, ↓, →	 ↓. This is
+obeyed	↑, ←, →, ↓	 ↓. This is
+obeyed	↑, →, ↓, ←	 ↓. This is
+obeyed	↑, →, ←, ↓	 ↓. This is
+obeyed	↓, ↑, ←, →	 ↓. This is
+obeyed	↓, ↑, →, ←	 ↓. This is
+obeyed	↓, ←, ↑, →	 ↓. This is
+obeyed	↓, ←, →, ↑	 ↓. This is
+obeyed	↓, →, ↑, ←	 ↓. This is
+obeyed	↓, →, ←, ↑	 ↓. This is
+obeyed	←, ↑, ↓, →	 ↓. This is
+obeyed	←, ↑, →, ↓	 ↓. This is
+obeyed	←, ↓, ↑, →	 ↓. This is
+obeyed	←, ↓, →, ↑	 ↓. This is
+obeyed	←, →, ↑, ↓	 ↓. This is
+obeyed	←, →, ↓, ↑	 ↓. This is
+obeyed	→, ↑, ↓, ←	 ↓. This is
+obeyed	→, ↑, ←, ↓	 ↓. This is
+obeyed	→, ↓, ↑, ←	 ↓. This is
+obeyed	→, ↓, ←, ↑	 ↓. This is
+obeyed	→, ←, ↑, ↓	 ↓. This is
+obeyed	→, ←, ↓, ↑	 ↓. This is
+respected	↑, ↓, ←, →	 ↑. This is
+respected	↑, ↓, →, ←	 ↑. This is
+respected	↑, ←, ↓, →	 ↑. This is
+respected	↑, ←, →, ↓	 ↑. This is
+respected	↑, →, ↓, ←	 ↑. This is
+respected	↑, →, ←, ↓	 ↑. This is
+respected	↓, ↑, ←, →	 ↑. This is
+respected	↓, ↑, →, ←	 ↑. This is
+respected	↓, ←, ↑, →	 ↑. This is
+respected	↓, ←, →, ↑	 ↑. This is
+respected	↓, →, ↑, ←	 ↑. This is
+respected	↓, →, ←, ↑	 ↑. This is
+respected	←, ↑, ↓, →	 ↑. Respected
+respected	←, ↑, →, ↓	 ↑. This is
+respected	←, ↓, ↑, →	 ↑. This is
+respected	←, ↓, →, ↑	 ↑. This is
+respected	←, →, ↑, ↓	 ↑. This is
+respected	←, →, ↓, ↑	 ↑. This is
+respected	→, ↑, ↓, ←	 ↑. This is
+respected	→, ↑, ←, ↓	 ↑. This is
+respected	→, ↓, ↑, ←	 ↑. This is
+respected	→, ↓, ←, ↑	 ↑. This is
+respected	→, ←, ↑, ↓	 ↑. This is
+respected	→, ←, ↓, ↑	 ↑. This is
+succeeded	↑, ↓, ←, →	 ↑. This is
+succeeded	↑, ↓, →, ←	 ↑. This is
+succeeded	↑, ←, ↓, →	 ↑. This is
+succeeded	↑, ←, →, ↓	 ↑. This is
+succeeded	↑, →, ↓, ←	 ↑. This is
+succeeded	↑, →, ←, ↓	 ↑. This is
+succeeded	↓, ↑, ←, →	 ↑. This is
+succeeded	↓, ↑, →, ←	 ↑. This is
+succeeded	↓, ←, ↑, →	 ↑. This is
+succeeded	↓, ←, →, ↑	 ↑. This is
+succeeded	↓, →, ↑, ←	 ↑. This is
+succeeded	↓, →, ←, ↑	 ↑. This is
+succeeded	←, ↑, ↓, →	 ←. This is
+succeeded	←, ↑, →, ↓	 ←. This is
+succeeded	←, ↓, ↑, →	 ←. This is
+succeeded	←, ↓, →, ↑	 ←. This is
+succeeded	←, →, ↑, ↓	 ←. This is
+succeeded	←, →, ↓, ↑	 ←. This is
+succeeded	→, ↑, ↓, ←	 ↑. This is
+succeeded	→, ↑, ←, ↓	 ↑. This is
+succeeded	→, ↓, ↑, ←	 ↑. This is
+succeeded	→, ↓, ←, ↑	 ↑. This is
+succeeded	→, ←, ↑, ↓	 ↑. This is
+succeeded	→, ←, ↓, ↑	 ↑. This is

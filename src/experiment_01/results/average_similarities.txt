@@ -1,2 +1,3 @@
 Model Name  Average Cosine Similarity
 Llama-2-7b-hf	0.48403333333333337
+Llama-2-7b-chat-hf	0.40501666666666675
