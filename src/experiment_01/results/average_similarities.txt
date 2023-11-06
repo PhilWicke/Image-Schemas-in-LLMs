@@ -1,0 +1,2 @@
+Model Name  Average Cosine Similarity
+Llama-2-7b-hf	0.48403333333333337
