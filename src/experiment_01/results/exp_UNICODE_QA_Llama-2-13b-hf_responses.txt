@@ -1,0 +1,1332 @@
+fled	↑, ↓, ←, →	 ↑
+Q:
+fled	↑, ↓, →, ←	 ↑
+Q:
+fled	↑, ←, ↓, →	 ↑
+Q:
+fled	↑, ←, →, ↓	 ↑
+Q:
+fled	↑, →, ↓, ←	 →
+Q: Which
+fled	↑, →, ←, ↓	 ↑
+Q:
+fled	↓, ↑, ←, →	 ↓
+Q:
+fled	↓, ↑, →, ←	 →
+Q: Which
+fled	↓, ←, ↑, →	 ↓
+Q:
+fled	↓, ←, →, ↑	 ↓
+Q:
+fled	↓, →, ↑, ←	 ↓
+Q:
+fled	↓, →, ←, ↑	 ↓
+Q:
+fled	←, ↑, ↓, →	 ↑
+Q:
+fled	←, ↑, →, ↓	 ↑
+Q:
+fled	←, ↓, ↑, →	 ↓
+Q:
+fled	←, ↓, →, ↑	 ↓
+Q:
+fled	←, →, ↑, ↓	 ↑
+Q:
+fled	←, →, ↓, ↑	 ↓
+Q:
+fled	→, ↑, ↓, ←	 ↑
+Q:
+fled	→, ↑, ←, ↓	 ↑
+Q:
+fled	→, ↓, ↑, ←	 ↓
+Q:
+fled	→, ↓, ←, ↑	 ↓
+Q:
+fled	→, ←, ↑, ↓	 ↑
+Q:
+fled	→, ←, ↓, ↑	 ↓
+Q:
+pointed at	↑, ↓, ←, →	 ↑
+Q:
+pointed at	↑, ↓, →, ←	 ↑
+Q:
+pointed at	↑, ←, ↓, →	 ↑
+Q:
+pointed at	↑, ←, →, ↓	 ↑
+Q:
+pointed at	↑, →, ↓, ←	 ↑
+Q:
+pointed at	↑, →, ←, ↓	 ↑ B: →
+pointed at	↓, ↑, ←, →	 ↓
+Q:
+pointed at	↓, ↑, →, ←	 ↓
+Q:
+pointed at	↓, ←, ↑, →	 ↓
+Q:
+pointed at	↓, ←, →, ↑	 ↓
+Q:
+pointed at	↓, →, ↑, ←	 ↓
+Q:
+pointed at	↓, →, ←, ↑	 ↓ B: →
+pointed at	←, ↑, ↓, →	 ↑
+Q:
+pointed at	←, ↑, →, ↓	 ↑
+Q:
+pointed at	←, ↓, ↑, →	 ↓
+Q:
+pointed at	←, ↓, →, ↑	 ↓
+Q:
+pointed at	←, →, ↑, ↓	 ↑
+Q:
+pointed at	←, →, ↓, ↑	 ↓
+Q:
+pointed at	→, ↑, ↓, ←	 ↑
+Q:
+pointed at	→, ↑, ←, ↓	 ↑
+Q:
+pointed at	→, ↓, ↑, ←	 ↑
+Q:
+pointed at	→, ↓, ←, ↑	 ↓
+Q:
+pointed at	→, ←, ↑, ↓	 ↑
+Q:
+pointed at	→, ←, ↓, ↑	 ↑
+Q:
+pulled	↑, ↓, ←, →	 ↑
+Q:
+pulled	↑, ↓, →, ←	 ↑
+Q:
+pulled	↑, ←, ↓, →	 ↑
+Q:
+pulled	↑, ←, →, ↓	 ↑
+Q:
+pulled	↑, →, ↓, ←	 ↑
+Q:
+pulled	↑, →, ←, ↓	 ↑
+Q:
+pulled	↓, ↑, ←, →	 ↓
+Q:
+pulled	↓, ↑, →, ←	 →
+Q: Which
+pulled	↓, ←, ↑, →	 ↓
+Q:
+pulled	↓, ←, →, ↑	 ↓
+Q:
+pulled	↓, →, ↑, ←	 ↓
+Q:
+pulled	↓, →, ←, ↑	 ↓
+Q:
+pulled	←, ↑, ↓, →	 ↑
+Q:
+pulled	←, ↑, →, ↓	 ↑
+Q:
+pulled	←, ↓, ↑, →	 ↓
+Q:
+pulled	←, ↓, →, ↑	 ↓
+Q:
+pulled	←, →, ↑, ↓	 ↑
+Q:
+pulled	←, →, ↓, ↑	 ↓
+Q:
+pulled	→, ↑, ↓, ←	 ↑
+Q:
+pulled	→, ↑, ←, ↓	 ↑
+Q:
+pulled	→, ↓, ↑, ←	 ↑
+Q:
+pulled	→, ↓, ←, ↑	 ↑
+Q:
+pulled	→, ←, ↑, ↓	 ↑
+Q:
+pulled	→, ←, ↓, ↑	 ↑
+Q:
+pushed	↑, ↓, ←, →	 ↑
+Q:
+pushed	↑, ↓, →, ←	 ↑
+Q:
+pushed	↑, ←, ↓, →	 ↑
+Q:
+pushed	↑, ←, →, ↓	 ↑
+Q:
+pushed	↑, →, ↓, ←	 ↑
+Q:
+pushed	↑, →, ←, ↓	 ↑
+Q:
+pushed	↓, ↑, ←, →	 ↓
+Q:
+pushed	↓, ↑, →, ←	 →
+Q: Which
+pushed	↓, ←, ↑, →	 ↓
+Q:
+pushed	↓, ←, →, ↑	 ↓
+Q:
+pushed	↓, →, ↑, ←	 ↓
+Q:
+pushed	↓, →, ←, ↑	 ↓
+Q:
+pushed	←, ↑, ↓, →	 ↑
+Q:
+pushed	←, ↑, →, ↓	 ↑
+Q:
+pushed	←, ↓, ↑, →	 ↓
+Q:
+pushed	←, ↓, →, ↑	 ↓
+Q:
+pushed	←, →, ↑, ↓	 ↑
+Q:
+pushed	←, →, ↓, ↑	 ↓
+Q:
+pushed	→, ↑, ↓, ←	 ↑
+Q:
+pushed	→, ↑, ←, ↓	 ↑
+Q:
+pushed	→, ↓, ↑, ←	 ↑
+Q:
+pushed	→, ↓, ←, ↑	 ↓
+Q:
+pushed	→, ←, ↑, ↓	 ↑
+Q:
+pushed	→, ←, ↓, ↑	 ↑
+Q:
+walked	↑, ↓, ←, →	 ↑
+Q:
+walked	↑, ↓, →, ←	 ↑
+Q:
+walked	↑, ←, ↓, →	 ↑
+Q:
+walked	↑, ←, →, ↓	 ↑
+Q:
+walked	↑, →, ↓, ←	 ↑
+Q:
+walked	↑, →, ←, ↓	 ↑
+Q:
+walked	↓, ↑, ←, →	 ↓
+Q:
+walked	↓, ↑, →, ←	 ↓
+Q:
+walked	↓, ←, ↑, →	 ↓
+Q:
+walked	↓, ←, →, ↑	 ↓
+Q:
+walked	↓, →, ↑, ←	 ↓
+Q:
+walked	↓, →, ←, ↑	 ↓
+Q:
+walked	←, ↑, ↓, →	 ↑
+Q:
+walked	←, ↑, →, ↓	 ↑
+Q:
+walked	←, ↓, ↑, →	 ↓
+Q:
+walked	←, ↓, →, ↑	 ↓
+Q:
+walked	←, →, ↑, ↓	 ↑
+Q:
+walked	←, →, ↓, ↑	 ↓
+Q:
+walked	→, ↑, ↓, ←	 ↑
+Q:
+walked	→, ↑, ←, ↓	 ↑ B: 
+walked	→, ↓, ↑, ←	 ↑
+Q:
+walked	→, ↓, ←, ↑	 ↑
+Q:
+walked	→, ←, ↑, ↓	 ↑
+Q:
+walked	→, ←, ↓, ↑	 ↑
+Q:
+hunted	↑, ↓, ←, →	 ↑
+Q:
+hunted	↑, ↓, →, ←	 ↓
+Q:
+hunted	↑, ←, ↓, →	 ↑
+Q:
+hunted	↑, ←, →, ↓	 ↑
+Q:
+hunted	↑, →, ↓, ←	 ↑
+Q:
+hunted	↑, →, ←, ↓	 ↑
+Q:
+hunted	↓, ↑, ←, →	 ↓
+Q:
+hunted	↓, ↑, →, ←	 ↓
+Q:
+hunted	↓, ←, ↑, →	 ↓
+Q:
+hunted	↓, ←, →, ↑	 ↓
+Q:
+hunted	↓, →, ↑, ←	 ↓
+Q:
+hunted	↓, →, ←, ↑	 ↓
+Q:
+hunted	←, ↑, ↓, →	 ↑
+Q:
+hunted	←, ↑, →, ↓	 ↑
+Q:
+hunted	←, ↓, ↑, →	 ↓
+Q:
+hunted	←, ↓, →, ↑	 ↓
+Q:
+hunted	←, →, ↑, ↓	 ↑
+Q:
+hunted	←, →, ↓, ↑	 ↓
+Q:
+hunted	→, ↑, ↓, ←	 ↑
+Q:
+hunted	→, ↑, ←, ↓	 ↑
+Q:
+hunted	→, ↓, ↑, ←	 ↓
+Q:
+hunted	→, ↓, ←, ↑	 ↓
+Q:
+hunted	→, ←, ↑, ↓	 ↑
+Q:
+hunted	→, ←, ↓, ↑	 ↓
+Q:
+impacted	↑, ↓, ←, →	 ↓
+Q:
+impacted	↑, ↓, →, ←	 ↓
+Q:
+impacted	↑, ←, ↓, →	 The correct answer is 
+impacted	↑, ←, →, ↓	 ↓
+Q:
+impacted	↑, →, ↓, ←	 ↓
+Q:
+impacted	↑, →, ←, ↓	 ↓
+Q:
+impacted	↓, ↑, ←, →	 ↓
+Q:
+impacted	↓, ↑, →, ←	 ↓
+Q:
+impacted	↓, ←, ↑, →	 ↓
+Q:
+impacted	↓, ←, →, ↑	 ↓
+Q:
+impacted	↓, →, ↑, ←	 ↓
+Q:
+impacted	↓, →, ←, ↑	 ↓ B: →
+impacted	←, ↑, ↓, →	 The arrow that best represents
+impacted	←, ↑, →, ↓	 The correct answer is 
+impacted	←, ↓, ↑, →	 The arrow that best represents
+impacted	←, ↓, →, ↑	 The correct answer is 
+impacted	←, →, ↑, ↓	 ↓
+Q:
+impacted	←, →, ↓, ↑	 ↓
+Q:
+impacted	→, ↑, ↓, ←	 ↓
+Q:
+impacted	→, ↑, ←, ↓	 The correct answer is 
+impacted	→, ↓, ↑, ←	 ↓
+Q:
+impacted	→, ↓, ←, ↑	 ↓
+Q:
+impacted	→, ←, ↑, ↓	 ↓
+Q:
+impacted	→, ←, ↓, ↑	 ↓
+Q:
+perched	↑, ↓, ←, →	 ↓
+Q:
+perched	↑, ↓, →, ←	 ↓
+Q:
+perched	↑, ←, ↓, →	 ↓
+Q:
+perched	↑, ←, →, ↓	 ↓
+Q:
+perched	↑, →, ↓, ←	 ↓
+Q:
+perched	↑, →, ←, ↓	 ↓
+Q:
+perched	↓, ↑, ←, →	 ↓
+Q:
+perched	↓, ↑, →, ←	 ↓
+Q:
+perched	↓, ←, ↑, →	 ↓
+Q:
+perched	↓, ←, →, ↑	 ↓
+Q:
+perched	↓, →, ↑, ←	 ↓
+Q:
+perched	↓, →, ←, ↑	 ↓
+Q:
+perched	←, ↑, ↓, →	 ↑
+Q:
+perched	←, ↑, →, ↓	 ↑
+Q:
+perched	←, ↓, ↑, →	 ↓
+Q:
+perched	←, ↓, →, ↑	 ↓
+Q:
+perched	←, →, ↑, ↓	 ↑
+Q:
+perched	←, →, ↓, ↑	 ↓
+Q:
+perched	→, ↑, ↓, ←	 ↑
+Q:
+perched	→, ↑, ←, ↓	 ↑
+Q:
+perched	→, ↓, ↑, ←	 ↓
+Q:
+perched	→, ↓, ←, ↑	 ↓
+Q:
+perched	→, ←, ↑, ↓	 ↑
+Q:
+perched	→, ←, ↓, ↑	 ↓
+Q:
+showed	↑, ↓, ←, →	 The correct answer is 
+showed	↑, ↓, →, ←	 The correct answer is 
+showed	↑, ←, ↓, →	 The correct answer is 
+showed	↑, ←, →, ↓	 The correct answer is 
+showed	↑, →, ↓, ←	 The correct answer is 
+showed	↑, →, ←, ↓	 The correct answer is 
+showed	↓, ↑, ←, →	 The correct answer is 
+showed	↓, ↑, →, ←	 The correct answer is 
+showed	↓, ←, ↑, →	 The correct answer is 
+showed	↓, ←, →, ↑	 The correct answer is 
+showed	↓, →, ↑, ←	 The correct answer is 
+showed	↓, →, ←, ↑	 The correct answer is 
+showed	←, ↑, ↓, →	 The correct answer is 
+showed	←, ↑, →, ↓	 The correct answer is 
+showed	←, ↓, ↑, →	 The correct answer is 
+showed	←, ↓, →, ↑	 The correct answer is 
+showed	←, →, ↑, ↓	 The correct answer is 
+showed	←, →, ↓, ↑	 The correct answer is 
+showed	→, ↑, ↓, ←	 The correct answer is 
+showed	→, ↑, ←, ↓	 The correct answer is 
+showed	→, ↓, ↑, ←	 The correct answer is 
+showed	→, ↓, ←, ↑	 The correct answer is 
+showed	→, ←, ↑, ↓	 The correct answer is 
+showed	→, ←, ↓, ↑	 The correct answer is 
+smashed	↑, ↓, ←, →	 ↓
+Q:
+smashed	↑, ↓, →, ←	 ↓
+Q:
+smashed	↑, ←, ↓, →	 ↓
+Q:
+smashed	↑, ←, →, ↓	 ↓
+Q:
+smashed	↑, →, ↓, ←	 ↓
+Q:
+smashed	↑, →, ←, ↓	 ↓
+Q:
+smashed	↓, ↑, ←, →	 ↓
+Q:
+smashed	↓, ↑, →, ←	 ↓
+Q:
+smashed	↓, ←, ↑, →	 ↓
+Q:
+smashed	↓, ←, →, ↑	 ↓
+Q:
+smashed	↓, →, ↑, ←	 ↓
+Q:
+smashed	↓, →, ←, ↑	 ↓
+Q:
+smashed	←, ↑, ↓, →	 ↓
+Q:
+smashed	←, ↑, →, ↓	 ↓
+Q:
+smashed	←, ↓, ↑, →	 ↓
+Q:
+smashed	←, ↓, →, ↑	 ↓
+Q:
+smashed	←, →, ↑, ↓	 ↓
+Q:
+smashed	←, →, ↓, ↑	 ↓
+Q:
+smashed	→, ↑, ↓, ←	 ↓
+Q:
+smashed	→, ↑, ←, ↓	 ↓
+Q:
+smashed	→, ↓, ↑, ←	 ↓
+Q:
+smashed	→, ↓, ←, ↑	 ↓
+Q:
+smashed	→, ←, ↑, ↓	 ↑
+Q:
+smashed	→, ←, ↓, ↑	 ↓
+Q:
+bombed	↑, ↓, ←, →	 ↑
+Q:
+bombed	↑, ↓, →, ←	 ↑
+Q:
+bombed	↑, ←, ↓, →	 ↑
+Q:
+bombed	↑, ←, →, ↓	 ↑
+Q:
+bombed	↑, →, ↓, ←	 ↑
+Q:
+bombed	↑, →, ←, ↓	 ↓
+Q:
+bombed	↓, ↑, ←, →	 ↓
+Q:
+bombed	↓, ↑, →, ←	 ↓
+Q:
+bombed	↓, ←, ↑, →	 ↓
+Q:
+bombed	↓, ←, →, ↑	 ↓
+Q:
+bombed	↓, →, ↑, ←	 ↓
+Q:
+bombed	↓, →, ←, ↑	 ↓
+Q:
+bombed	←, ↑, ↓, →	 ↑
+Q:
+bombed	←, ↑, →, ↓	 ↑
+Q:
+bombed	←, ↓, ↑, →	 ↓
+Q:
+bombed	←, ↓, →, ↑	 ↓
+Q:
+bombed	←, →, ↑, ↓	 ↑
+Q:
+bombed	←, →, ↓, ↑	 ↓
+Q:
+bombed	→, ↑, ↓, ←	 ↑
+Q:
+bombed	→, ↑, ←, ↓	 ↑
+Q:
+bombed	→, ↓, ↑, ←	 ↓
+Q:
+bombed	→, ↓, ←, ↑	 ↓
+Q:
+bombed	→, ←, ↑, ↓	 ↑
+Q:
+bombed	→, ←, ↓, ↑	 ↓
+Q:
+flew	↑, ↓, ←, →	 ↑
+Q:
+flew	↑, ↓, →, ←	 ↑
+Q:
+flew	↑, ←, ↓, →	 ↑
+Q:
+flew	↑, ←, →, ↓	 ↑
+Q:
+flew	↑, →, ↓, ←	 ↑
+Q:
+flew	↑, →, ←, ↓	 ↑
+Q:
+flew	↓, ↑, ←, →	 ↓
+Q:
+flew	↓, ↑, →, ←	 →
+Q: Which
+flew	↓, ←, ↑, →	 ↓
+Q:
+flew	↓, ←, →, ↑	 ↓
+Q:
+flew	↓, →, ↑, ←	 ↓
+Q:
+flew	↓, →, ←, ↑	 ↓
+Q:
+flew	←, ↑, ↓, →	 ↑
+Q:
+flew	←, ↑, →, ↓	 ↑
+Q:
+flew	←, ↓, ↑, →	 ↑
+Q:
+flew	←, ↓, →, ↑	 ↓
+Q:
+flew	←, →, ↑, ↓	 ↑
+Q:
+flew	←, →, ↓, ↑	 ↓
+Q:
+flew	→, ↑, ↓, ←	 ↑
+Q:
+flew	→, ↑, ←, ↓	 ↑
+Q:
+flew	→, ↓, ↑, ←	 ↑
+Q:
+flew	→, ↓, ←, ↑	 ↑
+Q:
+flew	→, ←, ↑, ↓	 ↑
+Q:
+flew	→, ←, ↓, ↑	 ↑
+Q:
+floated	↑, ↓, ←, →	 ↑
+Q:
+floated	↑, ↓, →, ←	 ↑
+Q:
+floated	↑, ←, ↓, →	 ↑
+Q:
+floated	↑, ←, →, ↓	 ↑
+Q:
+floated	↑, →, ↓, ←	 ↑
+Q:
+floated	↑, →, ←, ↓	 ↑
+Q:
+floated	↓, ↑, ←, →	 ↓
+Q:
+floated	↓, ↑, →, ←	 →
+Q: Which
+floated	↓, ←, ↑, →	 ↓
+Q:
+floated	↓, ←, →, ↑	 ↓
+Q:
+floated	↓, →, ↑, ←	 ↓
+Q:
+floated	↓, →, ←, ↑	 ↓
+Q:
+floated	←, ↑, ↓, →	 ↑
+Q:
+floated	←, ↑, →, ↓	 ↑
+Q:
+floated	←, ↓, ↑, →	 ↓
+Q:
+floated	←, ↓, →, ↑	 ↓
+Q:
+floated	←, →, ↑, ↓	 ↑
+Q:
+floated	←, →, ↓, ↑	 ↓
+Q:
+floated	→, ↑, ↓, ←	 ↑
+Q:
+floated	→, ↑, ←, ↓	 ↑
+Q:
+floated	→, ↓, ↑, ←	 ↑
+Q:
+floated	→, ↓, ←, ↑	 ↓
+Q:
+floated	→, ←, ↑, ↓	 ↑
+Q:
+floated	→, ←, ↓, ↑	 ↓
+Q:
+lifted	↑, ↓, ←, →	 ↑
+Q:
+lifted	↑, ↓, →, ←	 ↑
+Q:
+lifted	↑, ←, ↓, →	 ↑
+Q:
+lifted	↑, ←, →, ↓	 ↑
+Q:
+lifted	↑, →, ↓, ←	 ↑
+Q:
+lifted	↑, →, ←, ↓	 ↑ B: →
+lifted	↓, ↑, ←, →	 ↓
+Q:
+lifted	↓, ↑, →, ←	 ↓
+Q:
+lifted	↓, ←, ↑, →	 ↑
+Q:
+lifted	↓, ←, →, ↑	 ↑
+Q:
+lifted	↓, →, ↑, ←	 ↓
+Q:
+lifted	↓, →, ←, ↑	 ↓
+Q:
+lifted	←, ↑, ↓, →	 ↑
+Q:
+lifted	←, ↑, →, ↓	 ↑
+Q:
+lifted	←, ↓, ↑, →	 ↑
+Q:
+lifted	←, ↓, →, ↑	 ↑
+Q:
+lifted	←, →, ↑, ↓	 ↑
+Q:
+lifted	←, →, ↓, ↑	 ↑
+Q:
+lifted	→, ↑, ↓, ←	 ↑ B: 
+lifted	→, ↑, ←, ↓	 ↑ B: 
+lifted	→, ↓, ↑, ←	 ↑
+Q:
+lifted	→, ↓, ←, ↑	 ↑
+Q:
+lifted	→, ←, ↑, ↓	 ↑
+Q:
+lifted	→, ←, ↓, ↑	 ↑
+Q:
+sank	↑, ↓, ←, →	 ↓
+Q:
+sank	↑, ↓, →, ←	 ↓
+Q:
+sank	↑, ←, ↓, →	 ↓
+Q:
+sank	↑, ←, →, ↓	 ↓
+Q:
+sank	↑, →, ↓, ←	 ↓
+Q:
+sank	↑, →, ←, ↓	 ↓
+Q:
+sank	↓, ↑, ←, →	 ↓
+Q:
+sank	↓, ↑, →, ←	 ↓
+Q:
+sank	↓, ←, ↑, →	 ↓
+Q:
+sank	↓, ←, →, ↑	 ↓
+Q:
+sank	↓, →, ↑, ←	 ↓
+Q:
+sank	↓, →, ←, ↑	 ↓
+Q:
+sank	←, ↑, ↓, →	 ↓
+Q:
+sank	←, ↑, →, ↓	 ↓
+Q:
+sank	←, ↓, ↑, →	 The arrow that best represents
+sank	←, ↓, →, ↑	 ↓
+Q:
+sank	←, →, ↑, ↓	 ↓
+Q:
+sank	←, →, ↓, ↑	 ↓
+Q:
+sank	→, ↑, ↓, ←	 ↓
+Q:
+sank	→, ↑, ←, ↓	 ↓
+Q:
+sank	→, ↓, ↑, ←	 ↓
+Q:
+sank	→, ↓, ←, ↑	 ↓
+Q:
+sank	→, ←, ↑, ↓	 ↓
+Q:
+sank	→, ←, ↓, ↑	 ↓
+Q:
+argued with	↑, ↓, ←, →	 The correct answer is 
+argued with	↑, ↓, →, ←	 ↓
+Q:
+argued with	↑, ←, ↓, →	 The correct answer is 
+argued with	↑, ←, →, ↓	 The correct answer is 
+argued with	↑, →, ↓, ←	 →
+Q: Which
+argued with	↑, →, ←, ↓	 ↓
+Q:
+argued with	↓, ↑, ←, →	 The arrow that best represents
+argued with	↓, ↑, →, ←	 The arrow that best represents
+argued with	↓, ←, ↑, →	 The arrow that best represents
+argued with	↓, ←, →, ↑	 ↓
+Q:
+argued with	↓, →, ↑, ←	 ↓
+Which
+argued with	↓, →, ←, ↑	 ↓
+Q:
+argued with	←, ↑, ↓, →	 The arrow that best represents
+argued with	←, ↑, →, ↓	 The correct answer is 
+argued with	←, ↓, ↑, →	 The arrow that best represents
+argued with	←, ↓, →, ↑	 The correct answer is 
+argued with	←, →, ↑, ↓	 The arrow that best represents
+argued with	←, →, ↓, ↑	 The arrow that best represents
+argued with	→, ↑, ↓, ←	 →
+Q: Which
+argued with	→, ↑, ←, ↓	 The correct answer is 
+argued with	→, ↓, ↑, ←	 →
+Q: Which
+argued with	→, ↓, ←, ↑	 ↓
+Q:
+argued with	→, ←, ↑, ↓	 ↑
+Q:
+argued with	→, ←, ↓, ↑	 ↓
+Q:
+gave to	↑, ↓, ←, →	 The correct answer is 
+gave to	↑, ↓, →, ←	 The correct answer is 
+gave to	↑, ←, ↓, →	 The correct answer is 
+gave to	↑, ←, →, ↓	 The correct answer is 
+gave to	↑, →, ↓, ←	 The correct answer is 
+gave to	↑, →, ←, ↓	 The correct answer is 
+gave to	↓, ↑, ←, →	 The arrow that best represents
+gave to	↓, ↑, →, ←	 The arrow that best represents
+gave to	↓, ←, ↑, →	 The arrow that best represents
+gave to	↓, ←, →, ↑	 The arrow that best represents
+gave to	↓, →, ↑, ←	 The correct answer is 
+gave to	↓, →, ←, ↑	 The correct answer is 
+gave to	←, ↑, ↓, →	 The arrow that best represents
+gave to	←, ↑, →, ↓	 The correct answer is 
+gave to	←, ↓, ↑, →	 The correct answer is 
+gave to	←, ↓, →, ↑	 The correct answer is 
+gave to	←, →, ↑, ↓	 The correct answer is 
+gave to	←, →, ↓, ↑	 The correct answer is 
+gave to	→, ↑, ↓, ←	 The correct answer is arrow
+gave to	→, ↑, ←, ↓	 The correct answer is 
+gave to	→, ↓, ↑, ←	 The correct answer is arrow
+gave to	→, ↓, ←, ↑	 The correct answer is arrow
+gave to	→, ←, ↑, ↓	 The correct answer is 
+gave to	→, ←, ↓, ↑	 The correct answer is arrow
+offended	↑, ↓, ←, →	 ↓
+Q:
+offended	↑, ↓, →, ←	 ↓
+Q:
+offended	↑, ←, ↓, →	 ↓
+Q:
+offended	↑, ←, →, ↓	 ↓
+Q:
+offended	↑, →, ↓, ←	 ↓
+Q:
+offended	↑, →, ←, ↓	 ↓
+Q:
+offended	↓, ↑, ←, →	 ↓
+Q:
+offended	↓, ↑, →, ←	 ↓
+Q:
+offended	↓, ←, ↑, →	 ↓
+Q:
+offended	↓, ←, →, ↑	 ↓
+Q:
+offended	↓, →, ↑, ←	 ↓
+Q:
+offended	↓, →, ←, ↑	 ↓
+Q:
+offended	←, ↑, ↓, →	 ↓
+Q:
+offended	←, ↑, →, ↓	 ↓
+Q:
+offended	←, ↓, ↑, →	 ↓
+Q:
+offended	←, ↓, →, ↑	 ↓
+Q:
+offended	←, →, ↑, ↓	 ↓
+Q:
+offended	←, →, ↓, ↑	 ↓
+Q:
+offended	→, ↑, ↓, ←	 ↑
+Q:
+offended	→, ↑, ←, ↓	 ↑
+Q:
+offended	→, ↓, ↑, ←	 ↓
+Q:
+offended	→, ↓, ←, ↑	 ↓
+Q:
+offended	→, ←, ↑, ↓	 ↑
+Q:
+offended	→, ←, ↓, ↑	 ↓
+Q:
+rushed	↑, ↓, ←, →	 ↑
+Q:
+rushed	↑, ↓, →, ←	 ↑
+Q:
+rushed	↑, ←, ↓, →	 ↑
+Q:
+rushed	↑, ←, →, ↓	 ↑
+Q:
+rushed	↑, →, ↓, ←	 ↑
+Q:
+rushed	↑, →, ←, ↓	 ↑
+Q:
+rushed	↓, ↑, ←, →	 ↓
+Q:
+rushed	↓, ↑, →, ←	 ↓
+Q:
+rushed	↓, ←, ↑, →	 ↓
+Q:
+rushed	↓, ←, →, ↑	 ↓
+Q:
+rushed	↓, →, ↑, ←	 ↓
+Q:
+rushed	↓, →, ←, ↑	 ↓
+Q:
+rushed	←, ↑, ↓, →	 ↑
+Q:
+rushed	←, ↑, →, ↓	 ↑
+Q:
+rushed	←, ↓, ↑, →	 ↓
+Q:
+rushed	←, ↓, →, ↑	 ↓
+Q:
+rushed	←, →, ↑, ↓	 ↑
+Q:
+rushed	←, →, ↓, ↑	 ↓
+Q:
+rushed	→, ↑, ↓, ←	 ↑
+Q:
+rushed	→, ↑, ←, ↓	 ↑
+Q:
+rushed	→, ↓, ↑, ←	 ↑
+Q:
+rushed	→, ↓, ←, ↑	 ↓
+Q:
+rushed	→, ←, ↑, ↓	 →
+Q: Which
+rushed	→, ←, ↓, ↑	 →
+Q: Which
+warned	↑, ↓, ←, →	 ↑
+Q:
+warned	↑, ↓, →, ←	 ↑
+Q:
+warned	↑, ←, ↓, →	 ↑
+Q:
+warned	↑, ←, →, ↓	 ↑
+Q:
+warned	↑, →, ↓, ←	 ↑
+Q:
+warned	↑, →, ←, ↓	 ↑
+Q:
+warned	↓, ↑, ←, →	 ↓
+Q:
+warned	↓, ↑, →, ←	 →
+Q: Which
+warned	↓, ←, ↑, →	 ↓
+Q:
+warned	↓, ←, →, ↑	 ↓
+Q:
+warned	↓, →, ↑, ←	 ↓
+Q:
+warned	↓, →, ←, ↑	 ↓
+Q:
+warned	←, ↑, ↓, →	 ↑
+Q:
+warned	←, ↑, →, ↓	 ↑
+Q:
+warned	←, ↓, ↑, →	 ↑
+Q:
+warned	←, ↓, →, ↑	 ↓
+Q:
+warned	←, →, ↑, ↓	 ↑
+Q:
+warned	←, →, ↓, ↑	 ↓
+Q:
+warned	→, ↑, ↓, ←	 ↑
+Q:
+warned	→, ↑, ←, ↓	 ↑
+Q:
+warned	→, ↓, ↑, ←	 ↑
+Q:
+warned	→, ↓, ←, ↑	 ↑
+Q:
+warned	→, ←, ↑, ↓	 ↑
+Q:
+warned	→, ←, ↓, ↑	 ↑
+Q:
+owned	↑, ↓, ←, →	 ↓
+Q:
+owned	↑, ↓, →, ←	 ↓
+Q:
+owned	↑, ←, ↓, →	 ↓
+Q:
+owned	↑, ←, →, ↓	 ↓
+Q:
+owned	↑, →, ↓, ←	 ↓
+Q:
+owned	↑, →, ←, ↓	 ↓
+Q:
+owned	↓, ↑, ←, →	 ↓
+Q:
+owned	↓, ↑, →, ←	 ↓
+Q:
+owned	↓, ←, ↑, →	 ↓
+Q:
+owned	↓, ←, →, ↑	 ↓
+Q:
+owned	↓, →, ↑, ←	 ↓
+Q:
+owned	↓, →, ←, ↑	 ↓
+Q:
+owned	←, ↑, ↓, →	 ↓
+Q:
+owned	←, ↑, →, ↓	 ↓
+Q:
+owned	←, ↓, ↑, →	 ↓
+Q:
+owned	←, ↓, →, ↑	 ↓
+Q:
+owned	←, →, ↑, ↓	 ↓
+Q:
+owned	←, →, ↓, ↑	 ↓
+Q:
+owned	→, ↑, ↓, ←	 ↑
+Q:
+owned	→, ↑, ←, ↓	 ↑
+Q:
+owned	→, ↓, ↑, ←	 ↓
+Q:
+owned	→, ↓, ←, ↑	 ↓
+Q:
+owned	→, ←, ↑, ↓	 ↑
+Q:
+owned	→, ←, ↓, ↑	 ↓
+Q:
+regretted	↑, ↓, ←, →	 ↑
+Q:
+regretted	↑, ↓, →, ←	 ↑
+Q:
+regretted	↑, ←, ↓, →	 ↑
+Q:
+regretted	↑, ←, →, ↓	 ↑
+Q:
+regretted	↑, →, ↓, ←	 ↑
+Q:
+regretted	↑, →, ←, ↓	 ↑
+Q:
+regretted	↓, ↑, ←, →	 ↓
+Q:
+regretted	↓, ↑, →, ←	 ↓
+Q:
+regretted	↓, ←, ↑, →	 ↓
+Q:
+regretted	↓, ←, →, ↑	 ↓
+Q:
+regretted	↓, →, ↑, ←	 ↓
+Q:
+regretted	↓, →, ←, ↑	 ↓
+Q:
+regretted	←, ↑, ↓, →	 ↑
+Q:
+regretted	←, ↑, →, ↓	 ↑
+Q:
+regretted	←, ↓, ↑, →	 ←
+Q:
+regretted	←, ↓, →, ↑	 ←
+Q:
+regretted	←, →, ↑, ↓	 ↑
+Q:
+regretted	←, →, ↓, ↑	 ←
+Q:
+regretted	→, ↑, ↓, ←	 ↑
+Q:
+regretted	→, ↑, ←, ↓	 ↑
+Q:
+regretted	→, ↓, ↑, ←	 ↑
+Q:
+regretted	→, ↓, ←, ↑	 ↑
+Q:
+regretted	→, ←, ↑, ↓	 ↑
+Q:
+regretted	→, ←, ↓, ↑	 ↑
+Q:
+rested	↑, ↓, ←, →	 ↓
+Q:
+rested	↑, ↓, →, ←	 ↓
+Q:
+rested	↑, ←, ↓, →	 ↓
+Q:
+rested	↑, ←, →, ↓	 ↓
+Q:
+rested	↑, →, ↓, ←	 ↓
+Q:
+rested	↑, →, ←, ↓	 ↓
+Q:
+rested	↓, ↑, ←, →	 ↓
+Q:
+rested	↓, ↑, →, ←	 ↓
+Q:
+rested	↓, ←, ↑, →	 ↓
+Q:
+rested	↓, ←, →, ↑	 ↓
+Q:
+rested	↓, →, ↑, ←	 ↓
+Q:
+rested	↓, →, ←, ↑	 ↓
+Q:
+rested	←, ↑, ↓, →	 ↓
+Q:
+rested	←, ↑, →, ↓	 ↓
+Q:
+rested	←, ↓, ↑, →	 ↓
+Q:
+rested	←, ↓, →, ↑	 ↓
+Q:
+rested	←, →, ↑, ↓	 ↓
+Q:
+rested	←, →, ↓, ↑	 ↓
+Q:
+rested	→, ↑, ↓, ←	 ↓
+Q:
+rested	→, ↑, ←, ↓	 ↓
+Q:
+rested	→, ↓, ↑, ←	 ↓
+Q:
+rested	→, ↓, ←, ↑	 ↓
+Q:
+rested	→, ←, ↑, ↓	 ↑
+Q:
+rested	→, ←, ↓, ↑	 ↓
+Q:
+tempted	↑, ↓, ←, →	 ↓
+Q:
+tempted	↑, ↓, →, ←	 ↓
+Q:
+tempted	↑, ←, ↓, →	 ↑
+Q:
+tempted	↑, ←, →, ↓	 ↑
+Q:
+tempted	↑, →, ↓, ←	 →
+Q: Which
+tempted	↑, →, ←, ↓	 →
+Q: Which
+tempted	↓, ↑, ←, →	 ↓
+Q:
+tempted	↓, ↑, →, ←	 →
+Q: Which
+tempted	↓, ←, ↑, →	 ↓
+Q:
+tempted	↓, ←, →, ↑	 ↓
+Q:
+tempted	↓, →, ↑, ←	 ↓
+Q:
+tempted	↓, →, ←, ↑	 ↓
+Q:
+tempted	←, ↑, ↓, →	 ↑
+Q:
+tempted	←, ↑, →, ↓	 ↑
+Q:
+tempted	←, ↓, ↑, →	 ↓
+Q:
+tempted	←, ↓, →, ↑	 ↓
+Q:
+tempted	←, →, ↑, ↓	 ←
+Q:
+tempted	←, →, ↓, ↑	 ↓
+Q:
+tempted	→, ↑, ↓, ←	 →
+Q: Which
+tempted	→, ↑, ←, ↓	 →
+Q: Which
+tempted	→, ↓, ↑, ←	 ↓
+Q:
+tempted	→, ↓, ←, ↑	 ↓
+Q:
+tempted	→, ←, ↑, ↓	 →
+Q: Which
+tempted	→, ←, ↓, ↑	 →
+Q: Which
+wanted	↑, ↓, ←, →	 ↑
+Q:
+wanted	↑, ↓, →, ←	 ↑
+Q:
+wanted	↑, ←, ↓, →	 ↑
+Q:
+wanted	↑, ←, →, ↓	 ↑
+Q:
+wanted	↑, →, ↓, ←	 →
+Q: Which
+wanted	↑, →, ←, ↓	 ↑
+Q:
+wanted	↓, ↑, ←, →	 ↓
+Q:
+wanted	↓, ↑, →, ←	 →
+Q: Which
+wanted	↓, ←, ↑, →	 The arrow that best represents
+wanted	↓, ←, →, ↑	 ↓
+Q:
+wanted	↓, →, ↑, ←	 ↓
+Q:
+wanted	↓, →, ←, ↑	 ↓
+Q:
+wanted	←, ↑, ↓, →	 The arrow that best represents
+wanted	←, ↑, →, ↓	 ↑
+Q:
+wanted	←, ↓, ↑, →	 The arrow that best represents
+wanted	←, ↓, →, ↑	 The arrow that best represents
+wanted	←, →, ↑, ↓	 ↑
+Q:
+wanted	←, →, ↓, ↑	 ↓
+Q:
+wanted	→, ↑, ↓, ←	 ↑
+Q:
+wanted	→, ↑, ←, ↓	 The arrow that best represents
+wanted	→, ↓, ↑, ←	 ↑
+Q:
+wanted	→, ↓, ←, ↑	 ↓
+Q:
+wanted	→, ←, ↑, ↓	 →
+Q: Which
+wanted	→, ←, ↓, ↑	 →
+Q: Which
+hoped	↑, ↓, ←, →	 ↑
+Q:
+hoped	↑, ↓, →, ←	 ↑
+Q:
+hoped	↑, ←, ↓, →	 ↑
+Q:
+hoped	↑, ←, →, ↓	 ↑
+Q:
+hoped	↑, →, ↓, ←	 ↑
+Q:
+hoped	↑, →, ←, ↓	 ↑
+Q:
+hoped	↓, ↑, ←, →	 ↓
+Q:
+hoped	↓, ↑, →, ←	 ↓
+Q:
+hoped	↓, ←, ↑, →	 ↓
+Q:
+hoped	↓, ←, →, ↑	 ↓
+Q:
+hoped	↓, →, ↑, ←	 ↓
+Q:
+hoped	↓, →, ←, ↑	 ↓
+Q:
+hoped	←, ↑, ↓, →	 ↑
+Q:
+hoped	←, ↑, →, ↓	 ↑
+Q:
+hoped	←, ↓, ↑, →	 ↓
+Q:
+hoped	←, ↓, →, ↑	 ↓
+Q:
+hoped	←, →, ↑, ↓	 ↑
+Q:
+hoped	←, →, ↓, ↑	 ↓
+Q:
+hoped	→, ↑, ↓, ←	 ↑
+Q:
+hoped	→, ↑, ←, ↓	 ↑ B: 
+hoped	→, ↓, ↑, ←	 ↑
+Q:
+hoped	→, ↓, ←, ↑	 ↑
+Q:
+hoped	→, ←, ↑, ↓	 ↑
+Q:
+hoped	→, ←, ↓, ↑	 ↑
+Q:
+increased	↑, ↓, ←, →	 ↑ B: 
+increased	↑, ↓, →, ←	 ↑ B: 
+increased	↑, ←, ↓, →	 ↑ B: 
+increased	↑, ←, →, ↓	 ↑ B: 
+increased	↑, →, ↓, ←	 ↑ B: →
+increased	↑, →, ←, ↓	 ↑ B: →
+increased	↓, ↑, ←, →	 ↑
+Q:
+increased	↓, ↑, →, ←	 ↑
+Q:
+increased	↓, ←, ↑, →	 ↑
+Q:
+increased	↓, ←, →, ↑	 ↑
+Q:
+increased	↓, →, ↑, ←	 ↑ B: →
+increased	↓, →, ←, ↑	 ↑
+Q:
+increased	←, ↑, ↓, →	 ↑
+Q:
+increased	←, ↑, →, ↓	 ↑
+Q:
+increased	←, ↓, ↑, →	 ↑
+Q:
+increased	←, ↓, →, ↑	 The arrow that best represents
+increased	←, →, ↑, ↓	 ↑
+Q:
+increased	←, →, ↓, ↑	 ↑
+Q:
+increased	→, ↑, ↓, ←	 ↑ B: 
+increased	→, ↑, ←, ↓	 ↑ B: 
+increased	→, ↓, ↑, ←	 ↑ B: 
+increased	→, ↓, ←, ↑	 ↑ B: 
+increased	→, ←, ↑, ↓	 ↑ B: 
+increased	→, ←, ↓, ↑	 ↑ B: 
+obeyed	↑, ↓, ←, →	 ↓
+Q:
+obeyed	↑, ↓, →, ←	 ↓
+Q:
+obeyed	↑, ←, ↓, →	 The correct answer is 
+obeyed	↑, ←, →, ↓	 ↓
+Q:
+obeyed	↑, →, ↓, ←	 ↓
+Q:
+obeyed	↑, →, ←, ↓	 ↓
+Q:
+obeyed	↓, ↑, ←, →	 ↓
+Q:
+obeyed	↓, ↑, →, ←	 ↓
+Q:
+obeyed	↓, ←, ↑, →	 The correct answer is 
+obeyed	↓, ←, →, ↑	 ↓
+Q:
+obeyed	↓, →, ↑, ←	 ↓
+Q:
+obeyed	↓, →, ←, ↑	 ↓ B: →
+obeyed	←, ↑, ↓, →	 The correct answer is 
+obeyed	←, ↑, →, ↓	 The correct answer is 
+obeyed	←, ↓, ↑, →	 The correct answer is 
+obeyed	←, ↓, →, ↑	 The correct answer is 
+obeyed	←, →, ↑, ↓	 ↓
+Q:
+obeyed	←, →, ↓, ↑	 ↓
+Q:
+obeyed	→, ↑, ↓, ←	 ↑ B: 
+obeyed	→, ↑, ←, ↓	 ↑ B: 
+obeyed	→, ↓, ↑, ←	 ↓
+Q:
+obeyed	→, ↓, ←, ↑	 ↓ B: 
+obeyed	→, ←, ↑, ↓	 ↑
+Q:
+obeyed	→, ←, ↓, ↑	 ↓
+Q:
+respected	↑, ↓, ←, →	 ↑
+Q:
+respected	↑, ↓, →, ←	 ↑
+Q:
+respected	↑, ←, ↓, →	 The arrow that best represents
+respected	↑, ←, →, ↓	 ↑
+Q:
+respected	↑, →, ↓, ←	 ↑
+Q:
+respected	↑, →, ←, ↓	 ↑
+Q:
+respected	↓, ↑, ←, →	 ↓
+Q:
+respected	↓, ↑, →, ←	 ↓
+Q:
+respected	↓, ←, ↑, →	 ↓
+Q:
+respected	↓, ←, →, ↑	 ↓
+Q:
+respected	↓, →, ↑, ←	 ↓
+Q:
+respected	↓, →, ←, ↑	 ↓
+Q:
+respected	←, ↑, ↓, →	 The arrow that best represents
+respected	←, ↑, →, ↓	 ↑
+Q:
+respected	←, ↓, ↑, →	 The arrow that best represents
+respected	←, ↓, →, ↑	 ↓
+Q:
+respected	←, →, ↑, ↓	 ↑
+Q:
+respected	←, →, ↓, ↑	 ↓
+Q:
+respected	→, ↑, ↓, ←	 ↑
+Q:
+respected	→, ↑, ←, ↓	 ↑
+Q:
+respected	→, ↓, ↑, ←	 ↓
+Q:
+respected	→, ↓, ←, ↑	 ↓
+Q:
+respected	→, ←, ↑, ↓	 ↑
+Q:
+respected	→, ←, ↓, ↑	 ↓
+Q:
+succeeded	↑, ↓, ←, →	 ↑
+Q:
+succeeded	↑, ↓, →, ←	 ↑
+Q:
+succeeded	↑, ←, ↓, →	 ↑
+Q:
+succeeded	↑, ←, →, ↓	 ↑
+Q:
+succeeded	↑, →, ↓, ←	 ↑
+Q:
+succeeded	↑, →, ←, ↓	 ↑
+Q:
+succeeded	↓, ↑, ←, →	 ↓
+Q:
+succeeded	↓, ↑, →, ←	 ↓
+Q:
+succeeded	↓, ←, ↑, →	 ↓
+Q:
+succeeded	↓, ←, →, ↑	 ↓
+Q:
+succeeded	↓, →, ↑, ←	 ↓
+Q:
+succeeded	↓, →, ←, ↑	 ↓
+Q:
+succeeded	←, ↑, ↓, →	 ↑
+Q:
+succeeded	←, ↑, →, ↓	 ↑
+Q:
+succeeded	←, ↓, ↑, →	 ↑
+Q:
+succeeded	←, ↓, →, ↑	 ↑
+Q:
+succeeded	←, →, ↑, ↓	 ↑
+Q:
+succeeded	←, →, ↓, ↑	 ↓
+Q:
+succeeded	→, ↑, ↓, ←	 ↑
+Q:
+succeeded	→, ↑, ←, ↓	 ↑
+Q:
+succeeded	→, ↓, ↑, ←	 ↑
+Q:
+succeeded	→, ↓, ←, ↑	 ↑
+Q:
+succeeded	→, ←, ↑, ↓	 ↑
+Q:
+succeeded	→, ←, ↓, ↑	 ↑
+Q:

@@ -1,0 +1,1019 @@
+fled	↑, ↓, ←, →	 ←.
+Select
+fled	↑, ↓, →, ←	 ↓. The best
+fled	↑, ←, ↓, →	 ↓. The word
+fled	↑, ←, →, ↓	 ↓.
+Select
+fled	↑, →, ↓, ←	 ←.
+Select
+fled	↑, →, ←, ↓	 ↓.
+Select
+fled	↓, ↑, ←, →	 ←.
+Select
+fled	↓, ↑, →, ←	 ←.
+Select
+fled	↓, ←, ↑, →	 ↑.
+Select
+fled	↓, ←, →, ↑	 ↑.
+Select
+fled	↓, →, ↑, ←	 ↑.
+Select
+fled	↓, →, ←, ↑	 ↑.
+Select
+fled	←, ↑, ↓, →	 ↑.
+Select
+fled	←, ↑, →, ↓	 ↑.
+Select
+fled	←, ↓, ↑, →	 ↑.
+Select
+fled	←, ↓, →, ↑	 ↑.
+Select
+fled	←, →, ↑, ↓	 ←.
+Select
+fled	←, →, ↓, ↑	 ↑.
+Select
+fled	→, ↑, ↓, ←	 ←.
+Select
+fled	→, ↑, ←, ↓	 ↓. The word
+fled	→, ↓, ↑, ←	 ←.
+Select
+fled	→, ↓, ←, ↑	 ↑.
+Select
+fled	→, ←, ↑, ↓	 ←. The reason
+fled	→, ←, ↓, ↑	 ←.
+Select
+pointed at	↑, ↓, ←, →	 ↓.
+Select
+pointed at	↑, ↓, →, ←	 ↓.
+Select
+pointed at	↑, ←, ↓, →	 ↑.
+Select
+pointed at	↑, ←, →, ↓	 ↓.
+Select
+pointed at	↑, →, ↓, ←	 ↑.
+Select
+pointed at	↑, →, ←, ↓	 ↓.
+Select
+pointed at	↓, ↑, ←, →	 ↓.
+Select
+pointed at	↓, ↑, →, ←	 ↓.
+Select
+pointed at	↓, ←, ↑, →	 ↓.
+Select
+pointed at	↓, ←, →, ↑	 ↓.
+Select
+pointed at	↓, →, ↑, ←	 ↓.
+Select
+pointed at	↓, →, ←, ↑	 ↓.
+Select
+pointed at	←, ↑, ↓, →	 ↑.
+Select
+pointed at	←, ↑, →, ↓	 ↓.
+Select
+pointed at	←, ↓, ↑, →	 ↓. This is
+pointed at	←, ↓, →, ↑	 ↓.
+Select
+pointed at	←, →, ↑, ↓	 ←.
+Select
+pointed at	←, →, ↓, ↑	 ←.
+Select
+pointed at	→, ↑, ↓, ←	 ↑.
+Select
+pointed at	→, ↑, ←, ↓	 ↓.
+Select
+pointed at	→, ↓, ↑, ←	 ←.
+Select
+pointed at	→, ↓, ←, ↑	 ↓.
+Select
+pointed at	→, ←, ↑, ↓	 ←.
+Select
+pointed at	→, ←, ↓, ↑	 ←.
+Select
+pulled	↑, ↓, ←, →	 ↓.
+Select
+pulled	↑, ↓, →, ←	 ↓.
+Select
+pulled	↑, ←, ↓, →	 ↓.
+Select
+pulled	↑, ←, →, ↓	 ↓.
+Select
+pulled	↑, →, ↓, ←	 ↓.
+Select
+pulled	↑, →, ←, ↓	 ↓.
+Select
+pulled	↓, ↑, ←, →	 ↓.
+Select
+pulled	↓, ↑, →, ←	 ↓.
+Select
+pulled	↓, ←, ↑, →	 ↓.
+Select
+pulled	↓, ←, →, ↑	 ↓.
+Select
+pulled	↓, →, ↑, ←	 ↓.
+Select
+pulled	↓, →, ←, ↑	 ↓.
+Select
+pulled	←, ↑, ↓, →	 ↓.
+Select
+pulled	←, ↑, →, ↓	 ↓.
+Select
+pulled	←, ↓, ↑, →	 ↓.
+Select
+pulled	←, ↓, →, ↑	 ↓.
+Select
+pulled	←, →, ↑, ↓	 ↓.
+Select
+pulled	←, →, ↓, ↑	 ↓.
+Select
+pulled	→, ↑, ↓, ←	 ↓.
+Select
+pulled	→, ↑, ←, ↓	 ↓.
+Select
+pulled	→, ↓, ↑, ←	 ↓.
+Select
+pulled	→, ↓, ←, ↑	 ↓.
+Select
+pulled	→, ←, ↑, ↓	 ↓.
+Select
+pulled	→, ←, ↓, ↑	 ↓.
+Select
+pushed	↑, ↓, ←, →	 ↓.
+Select
+pushed	↑, ↓, →, ←	 ↓.
+Select
+pushed	↑, ←, ↓, →	 ↓.
+Select
+pushed	↑, ←, →, ↓	 ↓.
+Select
+pushed	↑, →, ↓, ←	 ↓.
+Select
+pushed	↑, →, ←, ↓	 ↓.
+Select
+pushed	↓, ↑, ←, →	 ↓.
+Select
+pushed	↓, ↑, →, ←	 ↓.
+Select
+pushed	↓, ←, ↑, →	 ↓.
+Select
+pushed	↓, ←, →, ↑	 ↓.
+Select
+pushed	↓, →, ↑, ←	 ↓.
+Select
+pushed	↓, →, ←, ↑	 ↓.
+Select
+pushed	←, ↑, ↓, →	 ↓.
+Select
+pushed	←, ↑, →, ↓	 ↓.
+Select
+pushed	←, ↓, ↑, →	 ↓.
+Select
+pushed	←, ↓, →, ↑	 ↓.
+Select
+pushed	←, →, ↑, ↓	 ↓.
+Select
+pushed	←, →, ↓, ↑	 ↓.
+Select
+pushed	→, ↑, ↓, ←	 ↓.
+Select
+pushed	→, ↑, ←, ↓	 ↓.
+Select
+pushed	→, ↓, ↑, ←	 ↓.
+Select
+pushed	→, ↓, ←, ↑	 ↓.
+Select
+pushed	→, ←, ↑, ↓	 ↓.
+Select
+pushed	→, ←, ↓, ↑	 ↓.
+Select
+walked	↑, ↓, ←, →	 ↓.
+The
+walked	↑, ↓, →, ←	 ↓.
+The
+walked	↑, ←, ↓, →	 ↓.
+The
+walked	↑, ←, →, ↓	 ↓.
+The
+walked	↑, →, ↓, ←	 ↓.
+The
+walked	↑, →, ←, ↓	 ↓.
+The
+walked	↓, ↑, ←, →	 ↓. The reason
+walked	↓, ↑, →, ←	 ↓. The reason
+walked	↓, ←, ↑, →	 ↓.
+The
+walked	↓, ←, →, ↑	 ↓.
+The
+walked	↓, →, ↑, ←	 ↓.
+The
+walked	↓, →, ←, ↑	 ↓.
+The
+walked	←, ↑, ↓, →	 ↓. The reason
+walked	←, ↑, →, ↓	 ↓.
+The
+walked	←, ↓, ↑, →	 ↓. The reason
+walked	←, ↓, →, ↑	 ↓.
+The
+walked	←, →, ↑, ↓	 ←.
+Select
+walked	←, →, ↓, ↑	 ↓. The reason
+walked	→, ↑, ↓, ←	 ↓.
+The
+walked	→, ↑, ←, ↓	 ↓.
+The
+walked	→, ↓, ↑, ←	 ↓.
+The
+walked	→, ↓, ←, ↑	 ↓.
+The
+walked	→, ←, ↑, ↓	 ↓.
+The
+walked	→, ←, ↓, ↑	 ↓.
+The
+hunted	↑, ↓, ←, →	 ↓. The reason
+hunted	↑, ↓, →, ←	 ↓. The reason
+hunted	↑, ←, ↓, →	 ↓. The reason
+hunted	↑, ←, →, ↓	 ↓. The reason
+hunted	↑, →, ↓, ←	 ↓. The reason
+hunted	↑, →, ←, ↓	 ↓. The reason
+hunted	↓, ↑, ←, →	 ↓. This is
+hunted	↓, ↑, →, ←	 ↓. This is
+hunted	↓, ←, ↑, →	 ↓. This is
+hunted	↓, ←, →, ↑	 ↓. This is
+hunted	↓, →, ↑, ←	 ↓. This is
+hunted	↓, →, ←, ↑	 ↓. This is
+hunted	←, ↑, ↓, →	 ↓. The reason
+hunted	←, ↑, →, ↓	 ↓. The reason
+hunted	←, ↓, ↑, →	 ↓. The reason
+hunted	←, ↓, →, ↑	 ↓. The reason
+hunted	←, →, ↑, ↓	 ↓. The reason
+hunted	←, →, ↓, ↑	 ←. The reason
+hunted	→, ↑, ↓, ←	 ↓. The reason
+hunted	→, ↑, ←, ↓	 ↓. The reason
+hunted	→, ↓, ↑, ←	 ↓. The reason
+hunted	→, ↓, ←, ↑	 ↓. The reason
+hunted	→, ←, ↑, ↓	 ←. The reason
+hunted	→, ←, ↓, ↑	 ←. The reason
+impacted	↑, ↓, ←, →	 ↓. The reason
+impacted	↑, ↓, →, ←	 ↓.
+The
+impacted	↑, ←, ↓, →	 ↓.
+Select
+impacted	↑, ←, →, ↓	 ↓.
+Select
+impacted	↑, →, ↓, ←	 ↓.
+The
+impacted	↑, →, ←, ↓	 ↓.
+Select
+impacted	↓, ↑, ←, →	 ↓.
+The
+impacted	↓, ↑, →, ←	 ↓.
+The
+impacted	↓, ←, ↑, →	 ↓.
+The
+impacted	↓, ←, →, ↑	 ↓.
+Select
+impacted	↓, →, ↑, ←	 ↓.
+The
+impacted	↓, →, ←, ↑	 ↓.
+The
+impacted	←, ↑, ↓, →	 ↓.
+Select
+impacted	←, ↑, →, ↓	 ↓.
+Select
+impacted	←, ↓, ↑, →	 ↓.
+The
+impacted	←, ↓, →, ↑	 ↓.
+Select
+impacted	←, →, ↑, ↓	 ↓.
+Select
+impacted	←, →, ↓, ↑	 ↓.
+Select
+impacted	→, ↑, ↓, ←	 ↓.
+The
+impacted	→, ↑, ←, ↓	 ↓.
+Select
+impacted	→, ↓, ↑, ←	 ↓.
+The
+impacted	→, ↓, ←, ↑	 ↓.
+The
+impacted	→, ←, ↑, ↓	 ↓.
+Select
+impacted	→, ←, ↓, ↑	 ↓.
+Select
+perched	↑, ↓, ←, →	 ↑. Perched
+perched	↑, ↓, →, ←	 ↑. Perched
+perched	↑, ←, ↓, →	 ↑. Perched
+perched	↑, ←, →, ↓	 ↑. Perched
+perched	↑, →, ↓, ←	 ↑. Perched
+perched	↑, →, ←, ↓	 ↑. Perched
+perched	↓, ↑, ←, →	 ↓. Perched
+perched	↓, ↑, →, ←	 ↓. Perched
+perched	↓, ←, ↑, →	 ↑. Perched
+perched	↓, ←, →, ↑	 ↑. Perched
+perched	↓, →, ↑, ←	 ↓. Perched
+perched	↓, →, ←, ↑	 ↓. Perched
+perched	←, ↑, ↓, →	 ↑. Perched
+perched	←, ↑, →, ↓	 ↑. Perched
+perched	←, ↓, ↑, →	 ↑. Perched
+perched	←, ↓, →, ↑	 ↑. Perched
+perched	←, →, ↑, ↓	 ↑. Perched
+perched	←, →, ↓, ↑	 ↑. Perched
+perched	→, ↑, ↓, ←	 ↑. Perched
+perched	→, ↑, ←, ↓	 ↑. Perched
+perched	→, ↓, ↑, ←	 ↑. Perched
+perched	→, ↓, ←, ↑	 ↑. Perched
+perched	→, ←, ↑, ↓	 ↑. Perched
+perched	→, ←, ↓, ↑	 ↑. Perched
+showed	↑, ↓, ←, →	 ↑.
+Select
+showed	↑, ↓, →, ←	 ↑.
+Select
+showed	↑, ←, ↓, →	 ↑.
+Select
+showed	↑, ←, →, ↓	 ↑.
+Select
+showed	↑, →, ↓, ←	 ↑.
+Select
+showed	↑, →, ←, ↓	 ↑.
+Select
+showed	↓, ↑, ←, →	 ↓.
+Select
+showed	↓, ↑, →, ←	 ↓.
+Select
+showed	↓, ←, ↑, →	 ↓. The arrow
+showed	↓, ←, →, ↑	 ↓. The arrow
+showed	↓, →, ↑, ←	 ↓.
+Select
+showed	↓, →, ←, ↑	 ↓. The arrow
+showed	←, ↑, ↓, →	 ↑. The arrow
+showed	←, ↑, →, ↓	 ↑. The arrow
+showed	←, ↓, ↑, →	 ↓. The arrow
+showed	←, ↓, →, ↑	 ↑.
+Select
+showed	←, →, ↑, ↓	 ↑. The arrow
+showed	←, →, ↓, ↑	 ↑. The arrow
+showed	→, ↑, ↓, ←	 ↑.
+Select
+showed	→, ↑, ←, ↓	 ↑. The arrow
+showed	→, ↓, ↑, ←	 ↓.
+Select
+showed	→, ↓, ←, ↑	 ↑. The arrow
+showed	→, ←, ↑, ↓	 ↑. The arrow
+showed	→, ←, ↓, ↑	 ↑. The arrow
+smashed	↑, ↓, ←, →	 ↓. The reason
+smashed	↑, ↓, →, ←	 ↓. This is
+smashed	↑, ←, ↓, →	 ↓. This is
+smashed	↑, ←, →, ↓	 ↓. The reason
+smashed	↑, →, ↓, ←	 ↓. This is
+smashed	↑, →, ←, ↓	 ↓. This is
+smashed	↓, ↑, ←, →	 ↓. This is
+smashed	↓, ↑, →, ←	 ↓. This is
+smashed	↓, ←, ↑, →	 ↓. This is
+smashed	↓, ←, →, ↑	 ↓. This is
+smashed	↓, →, ↑, ←	 ↓. This is
+smashed	↓, →, ←, ↑	 ↓. This is
+smashed	←, ↑, ↓, →	 ↓. The reason
+smashed	←, ↑, →, ↓	 ↓. The reason
+smashed	←, ↓, ↑, →	 ↓. This is
+smashed	←, ↓, →, ↑	 ↓. The reason
+smashed	←, →, ↑, ↓	 ↓. The reason
+smashed	←, →, ↓, ↑	 ↓. This is
+smashed	→, ↑, ↓, ←	 ↓. This is
+smashed	→, ↑, ←, ↓	 ↓. The reason
+smashed	→, ↓, ↑, ←	 ↓. This is
+smashed	→, ↓, ←, ↑	 ↓. This is
+smashed	→, ←, ↑, ↓	 ↓. This is
+smashed	→, ←, ↓, ↑	 ↓. This is
+bombed	↑, ↓, ←, →	 ↓. The reason
+bombed	↑, ↓, →, ←	 ↓. The reason
+bombed	↑, ←, ↓, →	 ↓. The reason
+bombed	↑, ←, →, ↓	 ↓. The reason
+bombed	↑, →, ↓, ←	 ↓. The reason
+bombed	↑, →, ←, ↓	 ↓. The reason
+bombed	↓, ↑, ←, →	 ↓. The reason
+bombed	↓, ↑, →, ←	 ↓. This is
+bombed	↓, ←, ↑, →	 ↓. The reason
+bombed	↓, ←, →, ↑	 ↓. The reason
+bombed	↓, →, ↑, ←	 ↓. The reason
+bombed	↓, →, ←, ↑	 ↓. The reason
+bombed	←, ↑, ↓, →	 ↓. The reason
+bombed	←, ↑, →, ↓	 ↓. The reason
+bombed	←, ↓, ↑, →	 ↓. The reason
+bombed	←, ↓, →, ↑	 ↓. The reason
+bombed	←, →, ↑, ↓	 ↓. The reason
+bombed	←, →, ↓, ↑	 ↓. The reason
+bombed	→, ↑, ↓, ←	 ↓. The reason
+bombed	→, ↑, ←, ↓	 ↓. The reason
+bombed	→, ↓, ↑, ←	 ↓. The reason
+bombed	→, ↓, ←, ↑	 ↓. The reason
+bombed	→, ←, ↑, ↓	 ↓. The reason
+bombed	→, ←, ↓, ↑	 ↓. The reason
+flew	↑, ↓, ←, →	 ↑. The reason
+flew	↑, ↓, →, ←	 ↑.
+Select
+flew	↑, ←, ↓, →	 ↑.
+Select
+flew	↑, ←, →, ↓	 ↑.
+Select
+flew	↑, →, ↓, ←	 ↑.
+Select
+flew	↑, →, ←, ↓	 ↑.
+Select
+flew	↓, ↑, ←, →	 ↑.
+Select
+flew	↓, ↑, →, ←	 ↑.
+Select
+flew	↓, ←, ↑, →	 ↑.
+Select
+flew	↓, ←, →, ↑	 ↑.
+Select
+flew	↓, →, ↑, ←	 ↑.
+Select
+flew	↓, →, ←, ↑	 ↑.
+Select
+flew	←, ↑, ↓, →	 ↑. The reason
+flew	←, ↑, →, ↓	 ↑.
+Select
+flew	←, ↓, ↑, →	 ↑.
+Select
+flew	←, ↓, →, ↑	 ↑.
+Select
+flew	←, →, ↑, ↓	 ↑.
+Select
+flew	←, →, ↓, ↑	 ↑.
+Select
+flew	→, ↑, ↓, ←	 ↑.
+Select
+flew	→, ↑, ←, ↓	 ↑.
+Select
+flew	→, ↓, ↑, ←	 ↑.
+Select
+flew	→, ↓, ←, ↑	 ↑.
+Select
+flew	→, ←, ↑, ↓	 ↑.
+Select
+flew	→, ←, ↓, ↑	 ↑.
+Select
+floated	↑, ↓, ←, →	 ↑.
+Select
+floated	↑, ↓, →, ←	 ↑.
+Select
+floated	↑, ←, ↓, →	 ↓.
+Select
+floated	↑, ←, →, ↓	 ↓.
+Select
+floated	↑, →, ↓, ←	 ↑.
+Select
+floated	↑, →, ←, ↓	 ↓.
+Select
+floated	↓, ↑, ←, →	 ↓.
+Select
+floated	↓, ↑, →, ←	 ↓.
+Select
+floated	↓, ←, ↑, →	 ↓.
+Select
+floated	↓, ←, →, ↑	 ↓.
+Select
+floated	↓, →, ↑, ←	 ↓.
+Select
+floated	↓, →, ←, ↑	 ↓.
+Select
+floated	←, ↑, ↓, →	 ←.
+Select
+floated	←, ↑, →, ↓	 ↓.
+Select
+floated	←, ↓, ↑, →	 ←.
+Select
+floated	←, ↓, →, ↑	 ↓.
+Select
+floated	←, →, ↑, ↓	 ↑.
+Select
+floated	←, →, ↓, ↑	 ←.
+Select
+floated	→, ↑, ↓, ←	 ↑.
+Select
+floated	→, ↑, ←, ↓	 ↑.
+Select
+floated	→, ↓, ↑, ←	 ↓.
+Select
+floated	→, ↓, ←, ↑	 ↓.
+Select
+floated	→, ←, ↑, ↓	 ↑.
+Select
+floated	→, ←, ↓, ↑	 ↓. The reason
+lifted	↑, ↓, ←, →	 ↑.
+Select
+lifted	↑, ↓, →, ←	 ↑.
+Select
+lifted	↑, ←, ↓, →	 ↑.
+Select
+lifted	↑, ←, →, ↓	 ↑.
+Select
+lifted	↑, →, ↓, ←	 ↑.
+Select
+lifted	↑, →, ←, ↓	 ↑.
+Select
+lifted	↓, ↑, ←, →	 ↑.
+Select
+lifted	↓, ↑, →, ←	 ↑.
+Select
+lifted	↓, ←, ↑, →	 ↑.
+Select
+lifted	↓, ←, →, ↑	 ↑.
+Select
+lifted	↓, →, ↑, ←	 ↑.
+Select
+lifted	↓, →, ←, ↑	 ↑.
+Select
+lifted	←, ↑, ↓, →	 ↑.
+Select
+lifted	←, ↑, →, ↓	 ↑.
+Select
+lifted	←, ↓, ↑, →	 ↑.
+Select
+lifted	←, ↓, →, ↑	 ↑.
+Select
+lifted	←, →, ↑, ↓	 ↑.
+Select
+lifted	←, →, ↓, ↑	 ↑.
+Select
+lifted	→, ↑, ↓, ←	 ↑.
+Select
+lifted	→, ↑, ←, ↓	 ↑.
+Select
+lifted	→, ↓, ↑, ←	 ↑.
+Select
+lifted	→, ↓, ←, ↑	 ↑.
+Select
+lifted	→, ←, ↑, ↓	 ↑.
+Select
+lifted	→, ←, ↓, ↑	 ↑.
+Select
+sank	↑, ↓, ←, →	 ↓.
+Select
+sank	↑, ↓, →, ←	 ↓.
+Select
+sank	↑, ←, ↓, →	 ↓.
+Select
+sank	↑, ←, →, ↓	 ↓.
+Select
+sank	↑, →, ↓, ←	 ↓.
+Select
+sank	↑, →, ←, ↓	 ↓.
+Select
+sank	↓, ↑, ←, →	 ↓. The best
+sank	↓, ↑, →, ←	 ↓.
+Select
+sank	↓, ←, ↑, →	 ↓.
+Select
+sank	↓, ←, →, ↑	 ↓.
+Select
+sank	↓, →, ↑, ←	 ↓.
+Select
+sank	↓, →, ←, ↑	 ↓.
+Select
+sank	←, ↑, ↓, →	 ↓.
+Select
+sank	←, ↑, →, ↓	 ↓.
+Select
+sank	←, ↓, ↑, →	 ↓.
+Select
+sank	←, ↓, →, ↑	 ↓.
+Select
+sank	←, →, ↑, ↓	 ↓.
+Select
+sank	←, →, ↓, ↑	 ↓. The best
+sank	→, ↑, ↓, ←	 ↓.
+Select
+sank	→, ↑, ←, ↓	 ↓.
+Select
+sank	→, ↓, ↑, ←	 ↓.
+Select
+sank	→, ↓, ←, ↑	 ↓.
+Select
+sank	→, ←, ↑, ↓	 ↓. The best
+sank	→, ←, ↓, ↑	 ↓. The best
+argued with	↑, ↓, ←, →	 ↓. The reason
+argued with	↑, ↓, →, ←	 ↓. The reason
+argued with	↑, ←, ↓, →	 ↓. The reason
+argued with	↑, ←, →, ↓	 ↓. The reason
+argued with	↑, →, ↓, ←	 ↓. The reason
+argued with	↑, →, ←, ↓	 ↓. The reason
+argued with	↓, ↑, ←, →	 ↓. The reason
+argued with	↓, ↑, →, ←	 ↓. The reason
+argued with	↓, ←, ↑, →	 ↓. The reason
+argued with	↓, ←, →, ↑	 ↓. The reason
+argued with	↓, →, ↑, ←	 ↓. The reason
+argued with	↓, →, ←, ↑	 ↓. The reason
+argued with	←, ↑, ↓, →	 ↑. The reason
+argued with	←, ↑, →, ↓	 ↑. The reason
+argued with	←, ↓, ↑, →	 ↓. The reason
+argued with	←, ↓, →, ↑	 ↓. The reason
+argued with	←, →, ↑, ↓	 ↑. The reason
+argued with	←, →, ↓, ↑	 ↓. The reason
+argued with	→, ↑, ↓, ←	 ↑. The reason
+argued with	→, ↑, ←, ↓	 ↓. The reason
+argued with	→, ↓, ↑, ←	 ↓. The reason
+argued with	→, ↓, ←, ↑	 ↓. The reason
+argued with	→, ←, ↑, ↓	 ↓. The reason
+argued with	→, ←, ↓, ↑	 ↓. The reason
+gave to	↑, ↓, ←, →	 ↓. The arrow
+gave to	↑, ↓, →, ←	 ↓. The arrow
+gave to	↑, ←, ↓, →	 ↓. The arrow
+gave to	↑, ←, →, ↓	 ↓. The arrow
+gave to	↑, →, ↓, ←	 ↓. The arrow
+gave to	↑, →, ←, ↓	 ↓. The arrow
+gave to	↓, ↑, ←, →	 ↓. The arrow
+gave to	↓, ↑, →, ←	 ↓. The arrow
+gave to	↓, ←, ↑, →	 ↓. The arrow
+gave to	↓, ←, →, ↑	 ↓. The arrow
+gave to	↓, →, ↑, ←	 ↓. The arrow
+gave to	↓, →, ←, ↑	 ↓. The arrow
+gave to	←, ↑, ↓, →	 ↓. The arrow
+gave to	←, ↑, →, ↓	 ↓. The arrow
+gave to	←, ↓, ↑, →	 ↓. The arrow
+gave to	←, ↓, →, ↑	 ↓. The arrow
+gave to	←, →, ↑, ↓	 ←. The arrow
+gave to	←, →, ↓, ↑	 ←. The arrow
+gave to	→, ↑, ↓, ←	 ↓. The arrow
+gave to	→, ↑, ←, ↓	 ↓. The arrow
+gave to	→, ↓, ↑, ←	
+Select the arrow that
+gave to	→, ↓, ←, ↑	 ↓. The arrow
+gave to	→, ←, ↑, ↓	 ↓. The arrow
+gave to	→, ←, ↓, ↑	
+Select the arrow that
+offended	↑, ↓, ←, →	 ↓. This is
+offended	↑, ↓, →, ←	 ↓. This is
+offended	↑, ←, ↓, →	 ↓. This is
+offended	↑, ←, →, ↓	 ↓. The reason
+offended	↑, →, ↓, ←	 ↓. This is
+offended	↑, →, ←, ↓	 ↓. This is
+offended	↓, ↑, ←, →	 ↓. This is
+offended	↓, ↑, →, ←	 ↓. This is
+offended	↓, ←, ↑, →	 ↓. This is
+offended	↓, ←, →, ↑	 ↓. This is
+offended	↓, →, ↑, ←	 ↓. This is
+offended	↓, →, ←, ↑	 ↓. This is
+offended	←, ↑, ↓, →	 ↓. The reason
+offended	←, ↑, →, ↓	 ↓. The reason
+offended	←, ↓, ↑, →	 ↓. This is
+offended	←, ↓, →, ↑	 ↓. This is
+offended	←, →, ↑, ↓	 ↓. This is
+offended	←, →, ↓, ↑	 ↓. This is
+offended	→, ↑, ↓, ←	 ↓. This is
+offended	→, ↑, ←, ↓	 ↓. This is
+offended	→, ↓, ↑, ←	 ↓. This is
+offended	→, ↓, ←, ↑	 ↓. This is
+offended	→, ←, ↑, ↓	 ↓. This is
+offended	→, ←, ↓, ↑	 ↓. This is
+rushed	↑, ↓, ←, →	 ↑. The reason
+rushed	↑, ↓, →, ←	 ↓. The reason
+rushed	↑, ←, ↓, →	 ↓. The reason
+rushed	↑, ←, →, ↓	 ↓. The reason
+rushed	↑, →, ↓, ←	 ↓. The reason
+rushed	↑, →, ←, ↓	 ↓. The reason
+rushed	↓, ↑, ←, →	 ↓. This is
+rushed	↓, ↑, →, ←	 ↓. The reason
+rushed	↓, ←, ↑, →	 ↑. The reason
+rushed	↓, ←, →, ↑	 ↑.
+Select
+rushed	↓, →, ↑, ←	 ↓. The reason
+rushed	↓, →, ←, ↑	 ↑. The reason
+rushed	←, ↑, ↓, →	 ↓. The reason
+rushed	←, ↑, →, ↓	 ↓. The reason
+rushed	←, ↓, ↑, →	 ↑. The reason
+rushed	←, ↓, →, ↑	 ↑. The reason
+rushed	←, →, ↑, ↓	 ↓. The reason
+rushed	←, →, ↓, ↑	 ↓. The reason
+rushed	→, ↑, ↓, ←	 ↑. The reason
+rushed	→, ↑, ←, ↓	 ↓. The reason
+rushed	→, ↓, ↑, ←	 ↓. The reason
+rushed	→, ↓, ←, ↑	 ↑. The reason
+rushed	→, ←, ↑, ↓	 ↓. The reason
+rushed	→, ←, ↓, ↑	 ↓. This is
+warned	↑, ↓, ←, →	 ↓. The reason
+warned	↑, ↓, →, ←	 ↓. The reason
+warned	↑, ←, ↓, →	 ↓. The arrow
+warned	↑, ←, →, ↓	 ↓.
+Select
+warned	↑, →, ↓, ←	 ↓. The reason
+warned	↑, →, ←, ↓	 ↓. The arrow
+warned	↓, ↑, ←, →	 ↓. The arrow
+warned	↓, ↑, →, ←	 ↓. The arrow
+warned	↓, ←, ↑, →	 ↓. The reason
+warned	↓, ←, →, ↑	 ↓. The arrow
+warned	↓, →, ↑, ←	 ↓. The arrow
+warned	↓, →, ←, ↑	 ↓. The arrow
+warned	←, ↑, ↓, →	 ↓. The arrow
+warned	←, ↑, →, ↓	 ↓. The arrow
+warned	←, ↓, ↑, →	 ↓. The reason
+warned	←, ↓, →, ↑	 ↓. The reason
+warned	←, →, ↑, ↓	 ↓. The arrow
+warned	←, →, ↓, ↑	 ↓. The reason
+warned	→, ↑, ↓, ←	 ↓. The reason
+warned	→, ↑, ←, ↓	 ↓. The reason
+warned	→, ↓, ↑, ←	 ↓. The arrow
+warned	→, ↓, ←, ↑	 ↓. The arrow
+warned	→, ←, ↑, ↓	 ↓. The reason
+warned	→, ←, ↓, ↑	 ↓. The reason
+owned	↑, ↓, ←, →	 ↑. The arrow
+owned	↑, ↓, →, ←	 ↓. The reason
+owned	↑, ←, ↓, →	 ↓. The reason
+owned	↑, ←, →, ↓	 ↓. The reason
+owned	↑, →, ↓, ←	 ↓. The reason
+owned	↑, →, ←, ↓	 ↓. The reason
+owned	↓, ↑, ←, →	 ↓. The reason
+owned	↓, ↑, →, ←	 ↓. The reason
+owned	↓, ←, ↑, →	 ↓. The reason
+owned	↓, ←, →, ↑	 ↓. The reason
+owned	↓, →, ↑, ←	 ↓. The reason
+owned	↓, →, ←, ↑	 ↓. The reason
+owned	←, ↑, ↓, →	 ↓. The reason
+owned	←, ↑, →, ↓	 ↓. The reason
+owned	←, ↓, ↑, →	 ↓. The reason
+owned	←, ↓, →, ↑	 ↓. The reason
+owned	←, →, ↑, ↓	 ↓. The reason
+owned	←, →, ↓, ↑	 ↓. The reason
+owned	→, ↑, ↓, ←	 ↓. The reason
+owned	→, ↑, ←, ↓	 ↓. The reason
+owned	→, ↓, ↑, ←	 ↓. The reason
+owned	→, ↓, ←, ↑	 ↓. The reason
+owned	→, ←, ↑, ↓	 ↓. The reason
+owned	→, ←, ↓, ↑	 ↓. The reason
+regretted	↑, ↓, ←, →	 ↓. Regrett
+regretted	↑, ↓, →, ←	 ↓. Regrett
+regretted	↑, ←, ↓, →	 ↓. Regrett
+regretted	↑, ←, →, ↓	 ↓. Regrett
+regretted	↑, →, ↓, ←	 ↓. Regrett
+regretted	↑, →, ←, ↓	 ↓. Regrett
+regretted	↓, ↑, ←, →	 ↓. Regrett
+regretted	↓, ↑, →, ←	 ↓. Regrett
+regretted	↓, ←, ↑, →	 ↓. Regrett
+regretted	↓, ←, →, ↑	 ↓. Regrett
+regretted	↓, →, ↑, ←	 ↓. Regrett
+regretted	↓, →, ←, ↑	 ↓. Regrett
+regretted	←, ↑, ↓, →	 ↓. Regrett
+regretted	←, ↑, →, ↓	 ↓. Regrett
+regretted	←, ↓, ↑, →	 ↓. Regrett
+regretted	←, ↓, →, ↑	 ↓. Regrett
+regretted	←, →, ↑, ↓	 ↓. Regrett
+regretted	←, →, ↓, ↑	 ↓. This is
+regretted	→, ↑, ↓, ←	 ↓. Regrett
+regretted	→, ↑, ←, ↓	 ↓. Regrett
+regretted	→, ↓, ↑, ←	 ↓. Regrett
+regretted	→, ↓, ←, ↑	 ↓. Regrett
+regretted	→, ←, ↑, ↓	 ↓. Regrett
+regretted	→, ←, ↓, ↑	 ↓. This is
+rested	↑, ↓, ←, →	 ↑. This is
+rested	↑, ↓, →, ←	 ↑. This is
+rested	↑, ←, ↓, →	 ↑. This is
+rested	↑, ←, →, ↓	 ↑.
+Select
+rested	↑, →, ↓, ←	 ↑. This is
+rested	↑, →, ←, ↓	 ↑. This is
+rested	↓, ↑, ←, →	 ↑. This is
+rested	↓, ↑, →, ←	 ↑. This is
+rested	↓, ←, ↑, →	 ↑.
+Select
+rested	↓, ←, →, ↑	 ↑.
+Select
+rested	↓, →, ↑, ←	 ↑.
+Select
+rested	↓, →, ←, ↑	 ↑.
+Select
+rested	←, ↑, ↓, →	 ↑. This is
+rested	←, ↑, →, ↓	 ↑.
+Select
+rested	←, ↓, ↑, →	 ↑. This is
+rested	←, ↓, →, ↑	 ↑.
+Select
+rested	←, →, ↑, ↓	 ↑. This is
+rested	←, →, ↓, ↑	 ↑.
+Select
+rested	→, ↑, ↓, ←	 ↑.
+Select
+rested	→, ↑, ←, ↓	 ↑. This is
+rested	→, ↓, ↑, ←	 ↑.
+Select
+rested	→, ↓, ←, ↑	 ↑.
+Select
+rested	→, ←, ↑, ↓	 ↑. This is
+rested	→, ←, ↓, ↑	 ↑.
+Select
+tempted	↑, ↓, ←, →	 ↓. This is
+tempted	↑, ↓, →, ←	 ↓. This is
+tempted	↑, ←, ↓, →	 ↓. The reason
+tempted	↑, ←, →, ↓	 ↓. The reason
+tempted	↑, →, ↓, ←	 ↓. This is
+tempted	↑, →, ←, ↓	 ↓. This is
+tempted	↓, ↑, ←, →	 ↓. This is
+tempted	↓, ↑, →, ←	 ↓. This is
+tempted	↓, ←, ↑, →	 ↓. This is
+tempted	↓, ←, →, ↑	 ↑. The reason
+tempted	↓, →, ↑, ←	 ↓. This is
+tempted	↓, →, ←, ↑	 ↓. This is
+tempted	←, ↑, ↓, →	 ↓. The reason
+tempted	←, ↑, →, ↓	 ↓. The reason
+tempted	←, ↓, ↑, →	 ↓. This is
+tempted	←, ↓, →, ↑	 ↓. This is
+tempted	←, →, ↑, ↓	 ↓. The reason
+tempted	←, →, ↓, ↑	 ↓. This is
+tempted	→, ↑, ↓, ←	 ↑. The reason
+tempted	→, ↑, ←, ↓	 ↓. This is
+tempted	→, ↓, ↑, ←	 ↓. This is
+tempted	→, ↓, ←, ↑	 ↓. This is
+tempted	→, ←, ↑, ↓	 ↓. This is
+tempted	→, ←, ↓, ↑	 ↓. This is
+wanted	↑, ↓, ←, →	 ↓. The reason
+wanted	↑, ↓, →, ←	 ↓. The reason
+wanted	↑, ←, ↓, →	 ↓. The reason
+wanted	↑, ←, →, ↓	 ↓. The reason
+wanted	↑, →, ↓, ←	 ↓. The reason
+wanted	↑, →, ←, ↓	 ↓. The reason
+wanted	↓, ↑, ←, →	 ↓. The reason
+wanted	↓, ↑, →, ←	 ↓. The reason
+wanted	↓, ←, ↑, →	 ↓. The reason
+wanted	↓, ←, →, ↑	 ↓. The arrow
+wanted	↓, →, ↑, ←	 ↓. The reason
+wanted	↓, →, ←, ↑	 ↓. The arrow
+wanted	←, ↑, ↓, →	 ↓. The reason
+wanted	←, ↑, →, ↓	 ↓. The reason
+wanted	←, ↓, ↑, →	 ↓. The reason
+wanted	←, ↓, →, ↑	 ↑. The arrow
+wanted	←, →, ↑, ↓	 ↓. The reason
+wanted	←, →, ↓, ↑	 ↑. The arrow
+wanted	→, ↑, ↓, ←	 ↓. The reason
+wanted	→, ↑, ←, ↓	 ↓. The reason
+wanted	→, ↓, ↑, ←	 ↓. The reason
+wanted	→, ↓, ←, ↑	 ↓. The reason
+wanted	→, ←, ↑, ↓	 ↓. The reason
+wanted	→, ←, ↓, ↑	 ↓. The reason
+hoped	↑, ↓, ←, →	 ↑. The arrow
+hoped	↑, ↓, →, ←	 ↑. The arrow
+hoped	↑, ←, ↓, →	 ↑. The arrow
+hoped	↑, ←, →, ↓	 ↑. The arrow
+hoped	↑, →, ↓, ←	 ↑.
+Select
+hoped	↑, →, ←, ↓	 ↑. The arrow
+hoped	↓, ↑, ←, →	 ↑. The arrow
+hoped	↓, ↑, →, ←	 ↓. The arrow
+hoped	↓, ←, ↑, →	 ↑. The arrow
+hoped	↓, ←, →, ↑	 ↑. The arrow
+hoped	↓, →, ↑, ←	 ↑. The arrow
+hoped	↓, →, ←, ↑	 ↑. The arrow
+hoped	←, ↑, ↓, →	 ↑. The arrow
+hoped	←, ↑, →, ↓	 ↑. The arrow
+hoped	←, ↓, ↑, →	 ↑. The arrow
+hoped	←, ↓, →, ↑	 ↑. The arrow
+hoped	←, →, ↑, ↓	 ↑. The arrow
+hoped	←, →, ↓, ↑	 ↑. The arrow
+hoped	→, ↑, ↓, ←	 ↑. The arrow
+hoped	→, ↑, ←, ↓	 ↑. The arrow
+hoped	→, ↓, ↑, ←	 ↑. The arrow
+hoped	→, ↓, ←, ↑	 ↑. The arrow
+hoped	→, ←, ↑, ↓	 ↑. The arrow
+hoped	→, ←, ↓, ↑	 ↑. The arrow
+increased	↑, ↓, ←, →	 ↑.
+Select
+increased	↑, ↓, →, ←	 ↑.
+Select
+increased	↑, ←, ↓, →	 ↑.
+Select
+increased	↑, ←, →, ↓	 ↑.
+Select
+increased	↑, →, ↓, ←	 ↑.
+Select
+increased	↑, →, ←, ↓	 ↑.
+Select
+increased	↓, ↑, ←, →	 ↑.
+Select
+increased	↓, ↑, →, ←	 ↑.
+Select
+increased	↓, ←, ↑, →	 ↑.
+Select
+increased	↓, ←, →, ↑	 ↑.
+Select
+increased	↓, →, ↑, ←	 ↑.
+Select
+increased	↓, →, ←, ↑	 ↑.
+Select
+increased	←, ↑, ↓, →	 ↑.
+Select
+increased	←, ↑, →, ↓	 ↑.
+Select
+increased	←, ↓, ↑, →	 ↑.
+Select
+increased	←, ↓, →, ↑	 ↑.
+Select
+increased	←, →, ↑, ↓	 ↑.
+Select
+increased	←, →, ↓, ↑	
+Select the arrow that
+increased	→, ↑, ↓, ←	 ↑.
+Select
+increased	→, ↑, ←, ↓	
+Select the arrow that
+increased	→, ↓, ↑, ←	 ↑.
+Select
+increased	→, ↓, ←, ↑	
+Select the arrow that
+increased	→, ←, ↑, ↓	
+Select the arrow that
+increased	→, ←, ↓, ↑	
+Select the arrow that
+obeyed	↑, ↓, ←, →	 ↓. The reason
+obeyed	↑, ↓, →, ←	 ↓. The best
+obeyed	↑, ←, ↓, →	 ↓. The reason
+obeyed	↑, ←, →, ↓	 ↓. The reason
+obeyed	↑, →, ↓, ←	 ↓. The best
+obeyed	↑, →, ←, ↓	 ↓. The best
+obeyed	↓, ↑, ←, →	 ↓. The best
+obeyed	↓, ↑, →, ←	 ↓. The best
+obeyed	↓, ←, ↑, →	 ↓. The best
+obeyed	↓, ←, →, ↑	 ↓. The reason
+obeyed	↓, →, ↑, ←	 ↓. The best
+obeyed	↓, →, ←, ↑	 ↓. The best
+obeyed	←, ↑, ↓, →	 ↓. The reason
+obeyed	←, ↑, →, ↓	 ↓. The reason
+obeyed	←, ↓, ↑, →	 ↓. This is
+obeyed	←, ↓, →, ↑	 ↓. The reason
+obeyed	←, →, ↑, ↓	 ↓. The reason
+obeyed	←, →, ↓, ↑	 ↓. The reason
+obeyed	→, ↑, ↓, ←	 ↓. The reason
+obeyed	→, ↑, ←, ↓	 ↓. The reason
+obeyed	→, ↓, ↑, ←	 ↓. The reason
+obeyed	→, ↓, ←, ↑	 ↓. The reason
+obeyed	→, ←, ↑, ↓	 ↓. This is
+obeyed	→, ←, ↓, ↑	 ↓. This is
+respected	↑, ↓, ←, →	 ↑. This is
+respected	↑, ↓, →, ←	 ↑. This is
+respected	↑, ←, ↓, →	 ↑. This is
+respected	↑, ←, →, ↓	 ↑. This is
+respected	↑, →, ↓, ←	 ↑. This is
+respected	↑, →, ←, ↓	 ↑. This is
+respected	↓, ↑, ←, →	 ↑. This is
+respected	↓, ↑, →, ←	 ↑. This is
+respected	↓, ←, ↑, →	 ↑. This is
+respected	↓, ←, →, ↑	 ↑. This is
+respected	↓, →, ↑, ←	 ↑. This is
+respected	↓, →, ←, ↑	 ↑. This is
+respected	←, ↑, ↓, →	 ↑. This is
+respected	←, ↑, →, ↓	 ↑. This is
+respected	←, ↓, ↑, →	 ↑. This is
+respected	←, ↓, →, ↑	 ↑. This is
+respected	←, →, ↑, ↓	 ↑. This is
+respected	←, →, ↓, ↑	 ↑. This is
+respected	→, ↑, ↓, ←	 ↑. This is
+respected	→, ↑, ←, ↓	 ↑. This is
+respected	→, ↓, ↑, ←	 ↑. This is
+respected	→, ↓, ←, ↑	 ↑. This is
+respected	→, ←, ↑, ↓	 ↑. This is
+respected	→, ←, ↓, ↑	 ↑. This is
+succeeded	↑, ↓, ←, →	 ↑.
+Select
+succeeded	↑, ↓, →, ←	 ↑.
+Select
+succeeded	↑, ←, ↓, →	 ↑.
+Select
+succeeded	↑, ←, →, ↓	 ↑.
+Select
+succeeded	↑, →, ↓, ←	 ↑.
+Select
+succeeded	↑, →, ←, ↓	 ↑.
+Select
+succeeded	↓, ↑, ←, →	 ↑.
+Select
+succeeded	↓, ↑, →, ←	 ↑.
+Select
+succeeded	↓, ←, ↑, →	 ↑.
+Select
+succeeded	↓, ←, →, ↑	 ↑.
+Select
+succeeded	↓, →, ↑, ←	 ↑.
+Select
+succeeded	↓, →, ←, ↑	 ↑.
+Select
+succeeded	←, ↑, ↓, →	 ↑.
+Select
+succeeded	←, ↑, →, ↓	 ↑.
+Select
+succeeded	←, ↓, ↑, →	 ↑.
+Select
+succeeded	←, ↓, →, ↑	 ↑.
+Select
+succeeded	←, →, ↑, ↓	 ↑.
+Select
+succeeded	←, →, ↓, ↑	 ↑.
+Select
+succeeded	→, ↑, ↓, ←	 ↑.
+Select
+succeeded	→, ↑, ←, ↓	 ↑.
+Select
+succeeded	→, ↓, ↑, ←	 ↑.
+Select
+succeeded	→, ↓, ←, ↑	 ↑.
+Select
+succeeded	→, ←, ↑, ↓	 ↑.
+Select
+succeeded	→, ←, ↓, ↑	 ↑.
+Select

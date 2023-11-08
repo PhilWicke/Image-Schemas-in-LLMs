@@ -1,0 +1,1425 @@
+fled	Up, Down, Left, Right	 Right
+Which of
+fled	Up, Down, Right, Left	 Right
+Which of
+fled	Up, Left, Down, Right	 Right
+Which of
+fled	Up, Left, Right, Down	 Right
+Which of
+fled	Up, Right, Down, Left	 Right
+Which of
+fled	Up, Right, Left, Down	 Right
+Which of
+fled	Down, Up, Left, Right	 Up
+A: Up
+fled	Down, Up, Right, Left	 Right
+Which of
+fled	Down, Left, Up, Right	 Up
+A: Up
+fled	Down, Left, Right, Up	 Right
+Which of
+fled	Down, Right, Up, Left	 Left
+A: Left
+fled	Down, Right, Left, Up	 Left
+A: Left
+fled	Left, Up, Down, Right	 Right
+Which of
+fled	Left, Up, Right, Down	 Right
+Which of
+fled	Left, Down, Up, Right	 Left
+A: Left
+fled	Left, Down, Right, Up	 Left
+A: Left
+fled	Left, Right, Up, Down	 Right
+A: Right
+fled	Left, Right, Down, Up	 Left
+A: Left
+fled	Right, Up, Down, Left	 Right
+A: Right
+fled	Right, Up, Left, Down	 Right
+A: Right
+fled	Right, Down, Up, Left	 Right
+A: Right
+fled	Right, Down, Left, Up	 Right
+A: Right
+fled	Right, Left, Up, Down	 Right
+A: Right
+fled	Right, Left, Down, Up	 Right
+A: Right
+pointed at	Up, Down, Left, Right	 Right
+A: Right
+pointed at	Up, Down, Right, Left	 Right
+Which of
+pointed at	Up, Left, Down, Right	 Right
+A: Right
+pointed at	Up, Left, Right, Down	 Right
+A: Right
+pointed at	Up, Right, Down, Left	 Right
+Which of
+pointed at	Up, Right, Left, Down	 Right
+Which of
+pointed at	Down, Up, Left, Right	 Right
+A: Right
+pointed at	Down, Up, Right, Left	 Right
+A: Right
+pointed at	Down, Left, Up, Right	 Right
+Which of
+pointed at	Down, Left, Right, Up	 Right
+Which of
+pointed at	Down, Right, Up, Left	 Right
+Which of
+pointed at	Down, Right, Left, Up	 Right
+Which of
+pointed at	Left, Up, Down, Right	 Right
+Which of
+pointed at	Left, Up, Right, Down	 Left
+A: Left
+pointed at	Left, Down, Up, Right	 Left
+A: Left
+pointed at	Left, Down, Right, Up	 Left
+A: Left
+pointed at	Left, Right, Up, Down	 Right
+A: Right
+pointed at	Left, Right, Down, Up	 Left
+A: Left
+pointed at	Right, Up, Down, Left	 Right
+A: Right
+pointed at	Right, Up, Left, Down	 Right
+A: Right
+pointed at	Right, Down, Up, Left	 Right
+A: Right
+pointed at	Right, Down, Left, Up	 Right
+A: Right
+pointed at	Right, Left, Up, Down	 Right
+A: Right
+pointed at	Right, Left, Down, Up	 Right
+A: Right
+pulled	Up, Down, Left, Right	 Left
+A: Left
+pulled	Up, Down, Right, Left	 Right
+Which of
+pulled	Up, Left, Down, Right	 Left
+A: Left
+pulled	Up, Left, Right, Down	 Right
+A: Right
+pulled	Up, Right, Down, Left	 Right
+Which of
+pulled	Up, Right, Left, Down	 Right
+Which of
+pulled	Down, Up, Left, Right	 Left
+A: Left
+pulled	Down, Up, Right, Left	 Right
+A: Right
+pulled	Down, Left, Up, Right	 Left
+A: Left
+pulled	Down, Left, Right, Up	 Right
+Which of
+pulled	Down, Right, Up, Left	 Right
+Which of
+pulled	Down, Right, Left, Up	 Left
+A: Left
+pulled	Left, Up, Down, Right	 Left
+A: Left
+pulled	Left, Up, Right, Down	 Left
+A: Left
+pulled	Left, Down, Up, Right	 Left
+A: Left
+pulled	Left, Down, Right, Up	 Left
+A: Left
+pulled	Left, Right, Up, Down	 Left
+A: Left
+pulled	Left, Right, Down, Up	 Left
+A: Left
+pulled	Right, Up, Down, Left	 Right
+A: Right
+pulled	Right, Up, Left, Down	 Right
+A: Right
+pulled	Right, Down, Up, Left	 Right
+A: Right
+pulled	Right, Down, Left, Up	 Right
+A: Right
+pulled	Right, Left, Up, Down	 Right
+A: Right
+pulled	Right, Left, Down, Up	 Right
+A: Right
+pushed	Up, Down, Left, Right	 Left
+Q: Which
+pushed	Up, Down, Right, Left	 Right
+Which of
+pushed	Up, Left, Down, Right	 Left
+Q: Which
+pushed	Up, Left, Right, Down	 Right
+Which of
+pushed	Up, Right, Down, Left	 Right
+Which of
+pushed	Up, Right, Left, Down	 Right
+Which of
+pushed	Down, Up, Left, Right	 Left
+Q: Which
+pushed	Down, Up, Right, Left	 Right
+Q: Which
+pushed	Down, Left, Up, Right	 Left
+Q: Which
+pushed	Down, Left, Right, Up	 Right
+Which of
+pushed	Down, Right, Up, Left	 Left
+Q: Which
+pushed	Down, Right, Left, Up	 Left
+Q: Which
+pushed	Left, Up, Down, Right	 Right
+Q: Which
+pushed	Left, Up, Right, Down	 Left
+Q: Which
+pushed	Left, Down, Up, Right	 Left
+Q: Which
+pushed	Left, Down, Right, Up	 Left
+Q: Which
+pushed	Left, Right, Up, Down	 Left
+A: Left
+pushed	Left, Right, Down, Up	 Left
+Q: Which
+pushed	Right, Up, Down, Left	 Right
+Q: Which
+pushed	Right, Up, Left, Down	 Right
+Q: Which
+pushed	Right, Down, Up, Left	 Right
+Q: Which
+pushed	Right, Down, Left, Up	 Right
+Q: Which
+pushed	Right, Left, Up, Down	 Right
+A: Right
+pushed	Right, Left, Down, Up	 Right
+A: Right
+walked	Up, Down, Left, Right	 Right
+Which of
+walked	Up, Down, Right, Left	 Right
+Which of
+walked	Up, Left, Down, Right	 Right
+Which of
+walked	Up, Left, Right, Down	 Right
+Which of
+walked	Up, Right, Down, Left	 Right
+Which of
+walked	Up, Right, Left, Down	 Right
+Which of
+walked	Down, Up, Left, Right	 Right
+Which of
+walked	Down, Up, Right, Left	 Right
+Which of
+walked	Down, Left, Up, Right	 Right
+Which of
+walked	Down, Left, Right, Up	 Right
+Which of
+walked	Down, Right, Up, Left	 Right
+Which of
+walked	Down, Right, Left, Up	 Left
+Which of
+walked	Left, Up, Down, Right	 Right
+Which of
+walked	Left, Up, Right, Down	 Left
+Which of
+walked	Left, Down, Up, Right	 Left
+Which of
+walked	Left, Down, Right, Up	 Left
+Which of
+walked	Left, Right, Up, Down	 Left
+Which of
+walked	Left, Right, Down, Up	 Left
+Which of
+walked	Right, Up, Down, Left	 Right
+Which of
+walked	Right, Up, Left, Down	 Right
+Which of
+walked	Right, Down, Up, Left	 Right
+Which of
+walked	Right, Down, Left, Up	 Right
+Which of
+walked	Right, Left, Up, Down	 Right
+Which of
+walked	Right, Left, Down, Up	 Right
+Which of
+hunted	Up, Down, Left, Right	 Left
+A: Left
+hunted	Up, Down, Right, Left	 Right
+A: Right
+hunted	Up, Left, Down, Right	 Right
+A: Right
+hunted	Up, Left, Right, Down	 Right
+A: Right
+hunted	Up, Right, Down, Left	 Right
+A: Right
+hunted	Up, Right, Left, Down	 Right
+A: Right
+hunted	Down, Up, Left, Right	 Left
+A: Left
+hunted	Down, Up, Right, Left	 Right
+A: Right
+hunted	Down, Left, Up, Right	 Right
+A: Right
+hunted	Down, Left, Right, Up	 Right
+A: Right
+hunted	Down, Right, Up, Left	 Right
+Q: Which
+hunted	Down, Right, Left, Up	 Left
+A: Left
+hunted	Left, Up, Down, Right	 Right
+A: Right
+hunted	Left, Up, Right, Down	 Left
+A: Left
+hunted	Left, Down, Up, Right	 Left
+A: Left
+hunted	Left, Down, Right, Up	 Left
+A: Left
+hunted	Left, Right, Up, Down	 Left
+A: Left
+hunted	Left, Right, Down, Up	 Left
+A: Left
+hunted	Right, Up, Down, Left	 Right
+A: Right
+hunted	Right, Up, Left, Down	 Right
+A: Right
+hunted	Right, Down, Up, Left	 Right
+A: Right
+hunted	Right, Down, Left, Up	 Right
+A: Right
+hunted	Right, Left, Up, Down	 Right
+A: Right
+hunted	Right, Left, Down, Up	 Right
+A: Right
+impacted	Up, Down, Left, Right	 Left
+A: Left
+impacted	Up, Down, Right, Left	 Right
+Which of
+impacted	Up, Left, Down, Right	 Right
+Which of
+impacted	Up, Left, Right, Down	 Right
+Which of
+impacted	Up, Right, Down, Left	 Right
+Which of
+impacted	Up, Right, Left, Down	 Right
+Which of
+impacted	Down, Up, Left, Right	 Left
+Q: Which
+impacted	Down, Up, Right, Left	 Right
+Which of
+impacted	Down, Left, Up, Right	 Right
+Which of
+impacted	Down, Left, Right, Up	 Right
+Which of
+impacted	Down, Right, Up, Left	 Right
+Which of
+impacted	Down, Right, Left, Up	 Left
+A: Left
+impacted	Left, Up, Down, Right	 Right
+Which of
+impacted	Left, Up, Right, Down	 Left
+A: Left
+impacted	Left, Down, Up, Right	 Left
+Which of
+impacted	Left, Down, Right, Up	 Left
+Which of
+impacted	Left, Right, Up, Down	 Left
+A: Left
+impacted	Left, Right, Down, Up	 Left
+A: Left
+impacted	Right, Up, Down, Left	 Right
+Which of
+impacted	Right, Up, Left, Down	 Right
+Which of
+impacted	Right, Down, Up, Left	 Right
+Which of
+impacted	Right, Down, Left, Up	 Right
+Which of
+impacted	Right, Left, Up, Down	 Right
+Which of
+impacted	Right, Left, Down, Up	 Right
+Which of
+perched	Up, Down, Left, Right	 Up
+Q: Which
+perched	Up, Down, Right, Left	 Right
+Which of
+perched	Up, Left, Down, Right	 Up
+Q: Which
+perched	Up, Left, Right, Down	 Right
+Which of
+perched	Up, Right, Down, Left	 Right
+Which of
+perched	Up, Right, Left, Down	 Right
+Which of
+perched	Down, Up, Left, Right	 Up
+Q: Which
+perched	Down, Up, Right, Left	 Right
+Which of
+perched	Down, Left, Up, Right	 Up
+Q: Which
+perched	Down, Left, Right, Up	 Right
+Which of
+perched	Down, Right, Up, Left	 Right
+Which of
+perched	Down, Right, Left, Up	 Left
+A: Left
+perched	Left, Up, Down, Right	 Left
+A: Left
+perched	Left, Up, Right, Down	 Left
+A: Left
+perched	Left, Down, Up, Right	 Left
+Which of
+perched	Left, Down, Right, Up	 Left
+Which of
+perched	Left, Right, Up, Down	 Left
+A: Left
+perched	Left, Right, Down, Up	 Left
+Which of
+perched	Right, Up, Down, Left	 Right
+Which of
+perched	Right, Up, Left, Down	 Right
+A: Right
+perched	Right, Down, Up, Left	 Right
+Q: Which
+perched	Right, Down, Left, Up	 Right
+Which of
+perched	Right, Left, Up, Down	 Right
+Which of
+perched	Right, Left, Down, Up	 Right
+Which of
+showed	Up, Down, Left, Right	 Up
+Which of
+showed	Up, Down, Right, Left	 Right
+Which of
+showed	Up, Left, Down, Right	 Up
+Which of
+showed	Up, Left, Right, Down	 Right
+Which of
+showed	Up, Right, Down, Left	 Right
+Which of
+showed	Up, Right, Left, Down	 Right
+Which of
+showed	Down, Up, Left, Right	 Up
+Which of
+showed	Down, Up, Right, Left	 Up
+Which of
+showed	Down, Left, Up, Right	 Up
+Which of
+showed	Down, Left, Right, Up	 Right
+Which of
+showed	Down, Right, Up, Left	 Down
+A: Down
+showed	Down, Right, Left, Up	 Left
+Which of
+showed	Left, Up, Down, Right	 Left
+Which of
+showed	Left, Up, Right, Down	 Left
+A: Left
+showed	Left, Down, Up, Right	 Left
+Which of
+showed	Left, Down, Right, Up	 Left
+Which of
+showed	Left, Right, Up, Down	 Left
+A: Left
+showed	Left, Right, Down, Up	 Left
+A: Left
+showed	Right, Up, Down, Left	 Right
+Which of
+showed	Right, Up, Left, Down	 Right
+A: Right
+showed	Right, Down, Up, Left	 Right
+A: Right
+showed	Right, Down, Left, Up	 Right
+A: Right
+showed	Right, Left, Up, Down	 Right
+Which of
+showed	Right, Left, Down, Up	 Right
+A: Right
+smashed	Up, Down, Left, Right	 Up
+A: Up
+smashed	Up, Down, Right, Left	 Right
+A: Right
+smashed	Up, Left, Down, Right	 Right
+A: Right
+smashed	Up, Left, Right, Down	 Right
+A: Right
+smashed	Up, Right, Down, Left	 Right
+A: Right
+smashed	Up, Right, Left, Down	 Right
+A: Right
+smashed	Down, Up, Left, Right	 Up
+A: Up
+smashed	Down, Up, Right, Left	 Right
+A: Right
+smashed	Down, Left, Up, Right	 Right
+A: Right
+smashed	Down, Left, Right, Up	 Right
+A: Right
+smashed	Down, Right, Up, Left	 Right
+A: Right
+smashed	Down, Right, Left, Up	 Left
+A: Left
+smashed	Left, Up, Down, Right	 Right
+A: Right
+smashed	Left, Up, Right, Down	 Left
+A: Left
+smashed	Left, Down, Up, Right	 Left
+A: Left
+smashed	Left, Down, Right, Up	 Left
+A: Left
+smashed	Left, Right, Up, Down	 Left
+A: Left
+smashed	Left, Right, Down, Up	 Left
+A: Left
+smashed	Right, Up, Down, Left	 Right
+A: Right
+smashed	Right, Up, Left, Down	 Right
+A: Right
+smashed	Right, Down, Up, Left	 Right
+A: Right
+smashed	Right, Down, Left, Up	 Right
+A: Right
+smashed	Right, Left, Up, Down	 Right
+A: Right
+smashed	Right, Left, Down, Up	 Right
+A: Right
+bombed	Up, Down, Left, Right	 Left
+A: Left
+bombed	Up, Down, Right, Left	 Right
+A: Right
+bombed	Up, Left, Down, Right	 Left
+A: Left
+bombed	Up, Left, Right, Down	 Right
+A: Right
+bombed	Up, Right, Down, Left	 Right
+A: Right
+bombed	Up, Right, Left, Down	 Right
+A: Right
+bombed	Down, Up, Left, Right	 Up
+A: Up
+bombed	Down, Up, Right, Left	 Right
+A: Right
+bombed	Down, Left, Up, Right	 Left
+A: Left
+bombed	Down, Left, Right, Up	 Right
+A: Right
+bombed	Down, Right, Up, Left	 Left
+Q: Which
+bombed	Down, Right, Left, Up	 Left
+A: Left
+bombed	Left, Up, Down, Right	 Left
+A: Left
+bombed	Left, Up, Right, Down	 Left
+A: Left
+bombed	Left, Down, Up, Right	 Left
+A: Left
+bombed	Left, Down, Right, Up	 Left
+A: Left
+bombed	Left, Right, Up, Down	 Left
+A: Left
+bombed	Left, Right, Down, Up	 Left
+A: Left
+bombed	Right, Up, Down, Left	 Right
+A: Right
+bombed	Right, Up, Left, Down	 Right
+A: Right
+bombed	Right, Down, Up, Left	 Right
+A: Right
+bombed	Right, Down, Left, Up	 Right
+A: Right
+bombed	Right, Left, Up, Down	 Right
+A: Right
+bombed	Right, Left, Down, Up	 Right
+A: Right
+flew	Up, Down, Left, Right	 Up
+A: Up
+flew	Up, Down, Right, Left	 Up
+A: Up
+flew	Up, Left, Down, Right	 Up
+A: Up
+flew	Up, Left, Right, Down	 Right
+A: Right
+flew	Up, Right, Down, Left	 Up
+A: Up
+flew	Up, Right, Left, Down	 Up
+A: Up
+flew	Down, Up, Left, Right	 Up
+A: Up
+flew	Down, Up, Right, Left	 Up
+A: Up
+flew	Down, Left, Up, Right	 Up
+A: Up
+flew	Down, Left, Right, Up	 Right
+A: Right
+flew	Down, Right, Up, Left	 Up
+A: Up
+flew	Down, Right, Left, Up	 Left
+A: Left
+flew	Left, Up, Down, Right	 Left
+A: Left
+flew	Left, Up, Right, Down	 Left
+A: Left
+flew	Left, Down, Up, Right	 Left
+A: Left
+flew	Left, Down, Right, Up	 Left
+A: Left
+flew	Left, Right, Up, Down	 Left
+A: Left
+flew	Left, Right, Down, Up	 Left
+A: Left
+flew	Right, Up, Down, Left	 Right
+A: Right
+flew	Right, Up, Left, Down	 Right
+A: Right
+flew	Right, Down, Up, Left	 Right
+A: Right
+flew	Right, Down, Left, Up	 Right
+A: Right
+flew	Right, Left, Up, Down	 Right
+A: Right
+flew	Right, Left, Down, Up	 Right
+A: Right
+floated	Up, Down, Left, Right	 Left
+A: Left
+floated	Up, Down, Right, Left	 Right
+Which of
+floated	Up, Left, Down, Right	 Left
+A: Left
+floated	Up, Left, Right, Down	 Right
+Which of
+floated	Up, Right, Down, Left	 Right
+Which of
+floated	Up, Right, Left, Down	 Right
+Which of
+floated	Down, Up, Left, Right	 Left
+A: Left
+floated	Down, Up, Right, Left	 Right
+Which of
+floated	Down, Left, Up, Right	 Left
+A: Left
+floated	Down, Left, Right, Up	 Right
+Which of
+floated	Down, Right, Up, Left	 Right
+Which of
+floated	Down, Right, Left, Up	 Left
+A: Left
+floated	Left, Up, Down, Right	 Left
+Which of
+floated	Left, Up, Right, Down	 Left
+Which of
+floated	Left, Down, Up, Right	 Left
+Which of
+floated	Left, Down, Right, Up	 Left
+Which of
+floated	Left, Right, Up, Down	 Left
+Which of
+floated	Left, Right, Down, Up	 Left
+Which of
+floated	Right, Up, Down, Left	 Right
+A: Right
+floated	Right, Up, Left, Down	 Right
+A: Right
+floated	Right, Down, Up, Left	 Right
+A: Right
+floated	Right, Down, Left, Up	 Right
+A: Right
+floated	Right, Left, Up, Down	 Right
+Which of
+floated	Right, Left, Down, Up	 Right
+Which of
+lifted	Up, Down, Left, Right	 Up
+Which of
+lifted	Up, Down, Right, Left	 Right
+Which of
+lifted	Up, Left, Down, Right	 Up
+Which of
+lifted	Up, Left, Right, Down	 Right
+Which of
+lifted	Up, Right, Down, Left	 Right
+Which of
+lifted	Up, Right, Left, Down	 Right
+Which of
+lifted	Down, Up, Left, Right	 Up
+Which of
+lifted	Down, Up, Right, Left	 Up
+Which of
+lifted	Down, Left, Up, Right	 Up
+Which of
+lifted	Down, Left, Right, Up	 Right
+Which of
+lifted	Down, Right, Up, Left	 Up
+Which of
+lifted	Down, Right, Left, Up	 Left
+Which of
+lifted	Left, Up, Down, Right	 Right
+Which of
+lifted	Left, Up, Right, Down	 Left
+Which of
+lifted	Left, Down, Up, Right	 Left
+Which of
+lifted	Left, Down, Right, Up	 Left
+Which of
+lifted	Left, Right, Up, Down	 Left
+Which of
+lifted	Left, Right, Down, Up	 Left
+Which of
+lifted	Right, Up, Down, Left	 Right
+Which of
+lifted	Right, Up, Left, Down	 Right
+Which of
+lifted	Right, Down, Up, Left	 Right
+Which of
+lifted	Right, Down, Left, Up	 Right
+Which of
+lifted	Right, Left, Up, Down	 Right
+Which of
+lifted	Right, Left, Down, Up	 Right
+Which of
+sank	Up, Down, Left, Right	 Up
+A: Up
+sank	Up, Down, Right, Left	 Right
+A: Right
+sank	Up, Left, Down, Right	 Left
+A: Left
+sank	Up, Left, Right, Down	 Right
+A: Right
+sank	Up, Right, Down, Left	 Right
+A: Right
+sank	Up, Right, Left, Down	 Right
+Which of
+sank	Down, Up, Left, Right	 Down B: Up C
+sank	Down, Up, Right, Left	 Down B: Up C
+sank	Down, Left, Up, Right	 The concept of "Down
+sank	Down, Left, Right, Up	 Right
+A: Right
+sank	Down, Right, Up, Left	 Down B: Right C
+sank	Down, Right, Left, Up	 Down
+A: Down
+sank	Left, Up, Down, Right	 Left
+A: Left
+sank	Left, Up, Right, Down	 Left
+A: Left
+sank	Left, Down, Up, Right	 Left
+A: Left
+sank	Left, Down, Right, Up	 Left
+A: Left
+sank	Left, Right, Up, Down	 Left
+A: Left
+sank	Left, Right, Down, Up	 Left
+A: Left
+sank	Right, Up, Down, Left	 Right
+A: Right
+sank	Right, Up, Left, Down	 Right
+A: Right
+sank	Right, Down, Up, Left	 Right
+A: Right
+sank	Right, Down, Left, Up	 Right
+A: Right
+sank	Right, Left, Up, Down	 Right
+A: Right
+sank	Right, Left, Down, Up	 Right
+A: Right
+argued with	Up, Down, Left, Right	 Left
+A: Left
+argued with	Up, Down, Right, Left	 Right
+Which of
+argued with	Up, Left, Down, Right	 Left
+A: Left
+argued with	Up, Left, Right, Down	 Right
+Which of
+argued with	Up, Right, Down, Left	 Right
+Which of
+argued with	Up, Right, Left, Down	 Right
+Which of
+argued with	Down, Up, Left, Right	 Left
+A: Left
+argued with	Down, Up, Right, Left	 Left
+A: Left
+argued with	Down, Left, Up, Right	 Left
+A: Left
+argued with	Down, Left, Right, Up	 Right
+Which of
+argued with	Down, Right, Up, Left	 Left
+A: Left
+argued with	Down, Right, Left, Up	 Left
+A: Left
+argued with	Left, Up, Down, Right	 Left
+A: Left
+argued with	Left, Up, Right, Down	 Left
+A: Left
+argued with	Left, Down, Up, Right	 Left
+Which of
+argued with	Left, Down, Right, Up	 Left
+A: Left
+argued with	Left, Right, Up, Down	 Left
+A: Left
+argued with	Left, Right, Down, Up	 Left
+A: Left
+argued with	Right, Up, Down, Left	 Right
+A: Right
+argued with	Right, Up, Left, Down	 Right
+A: Right
+argued with	Right, Down, Up, Left	 Right
+A: Right
+argued with	Right, Down, Left, Up	 Right
+A: Right
+argued with	Right, Left, Up, Down	 Right
+A: Right
+argued with	Right, Left, Down, Up	 Right
+A: Right
+gave to	Up, Down, Left, Right	 Up
+Which of
+gave to	Up, Down, Right, Left	 Right
+Which of
+gave to	Up, Left, Down, Right	 Right
+Which of
+gave to	Up, Left, Right, Down	 Right
+Which of
+gave to	Up, Right, Down, Left	 Right
+Which of
+gave to	Up, Right, Left, Down	 Right
+Which of
+gave to	Down, Up, Left, Right	 Up
+Which of
+gave to	Down, Up, Right, Left	 Up
+Which of
+gave to	Down, Left, Up, Right	 Up
+Which of
+gave to	Down, Left, Right, Up	 Right
+Which of
+gave to	Down, Right, Up, Left	 Right
+Which of
+gave to	Down, Right, Left, Up	 Left
+A: Left
+gave to	Left, Up, Down, Right	 Right
+Which of
+gave to	Left, Up, Right, Down	 Left
+A: Left
+gave to	Left, Down, Up, Right	 Left
+A: Left
+gave to	Left, Down, Right, Up	 Left
+A: Left
+gave to	Left, Right, Up, Down	 Left
+A: Left
+gave to	Left, Right, Down, Up	 Left
+A: Left
+gave to	Right, Up, Down, Left	 Right
+A: Right
+gave to	Right, Up, Left, Down	 Right
+A: Right
+gave to	Right, Down, Up, Left	 Right
+A: Right
+gave to	Right, Down, Left, Up	 Right
+A: Right
+gave to	Right, Left, Up, Down	 Right
+A: Right
+gave to	Right, Left, Down, Up	 Right
+A: Right
+offended	Up, Down, Left, Right	 Left
+A: Left
+offended	Up, Down, Right, Left	 Right
+A: Right
+offended	Up, Left, Down, Right	 Right
+A: Right
+offended	Up, Left, Right, Down	 Right
+A: Right
+offended	Up, Right, Down, Left	 Right
+A: Right
+offended	Up, Right, Left, Down	 Right
+A: Right
+offended	Down, Up, Left, Right	 Left
+A: Left
+offended	Down, Up, Right, Left	 Right
+A: Right
+offended	Down, Left, Up, Right	 Right
+A: Right
+offended	Down, Left, Right, Up	 Right
+A: Right
+offended	Down, Right, Up, Left	 Left
+Q: Which
+offended	Down, Right, Left, Up	 Left
+A: Left
+offended	Left, Up, Down, Right	 Right
+A: Right
+offended	Left, Up, Right, Down	 Left
+A: Left
+offended	Left, Down, Up, Right	 Left
+A: Left
+offended	Left, Down, Right, Up	 Left
+A: Left
+offended	Left, Right, Up, Down	 Left
+A: Left
+offended	Left, Right, Down, Up	 Left
+A: Left
+offended	Right, Up, Down, Left	 Right
+A: Right
+offended	Right, Up, Left, Down	 Right
+A: Right
+offended	Right, Down, Up, Left	 Right
+A: Right
+offended	Right, Down, Left, Up	 Right
+A: Right
+offended	Right, Left, Up, Down	 Right
+A: Right
+offended	Right, Left, Down, Up	 Right
+A: Right
+rushed	Up, Down, Left, Right	 Up
+Which of
+rushed	Up, Down, Right, Left	 Right
+Which of
+rushed	Up, Left, Down, Right	 Right
+Which of
+rushed	Up, Left, Right, Down	 Right
+Which of
+rushed	Up, Right, Down, Left	 Right
+Which of
+rushed	Up, Right, Left, Down	 Right
+Which of
+rushed	Down, Up, Left, Right	 Up
+Which of
+rushed	Down, Up, Right, Left	 Right
+Which of
+rushed	Down, Left, Up, Right	 Right
+Which of
+rushed	Down, Left, Right, Up	 Right
+Which of
+rushed	Down, Right, Up, Left	 Right
+Which of
+rushed	Down, Right, Left, Up	 Left
+Which of
+rushed	Left, Up, Down, Right	 Right
+Which of
+rushed	Left, Up, Right, Down	 Left
+Which of
+rushed	Left, Down, Up, Right	 Left
+Which of
+rushed	Left, Down, Right, Up	 Left
+Which of
+rushed	Left, Right, Up, Down	 Left
+A: Left
+rushed	Left, Right, Down, Up	 Left
+Which of
+rushed	Right, Up, Down, Left	 Right
+Which of
+rushed	Right, Up, Left, Down	 Right
+Which of
+rushed	Right, Down, Up, Left	 Right
+A: Right
+rushed	Right, Down, Left, Up	 Right
+Which of
+rushed	Right, Left, Up, Down	 Right
+Which of
+rushed	Right, Left, Down, Up	 Right
+Which of
+warned	Up, Down, Left, Right	 Left
+A: Left
+warned	Up, Down, Right, Left	 Right
+A: Right
+warned	Up, Left, Down, Right	 Left
+A: Left
+warned	Up, Left, Right, Down	 Right
+A: Right
+warned	Up, Right, Down, Left	 Right
+A: Right
+warned	Up, Right, Left, Down	 Right
+Which of
+warned	Down, Up, Left, Right	 Left
+A: Left
+warned	Down, Up, Right, Left	 Right
+A: Right
+warned	Down, Left, Up, Right	 Left
+A: Left
+warned	Down, Left, Right, Up	 Right
+Which of
+warned	Down, Right, Up, Left	 Left
+A: Left
+warned	Down, Right, Left, Up	 Left
+A: Left
+warned	Left, Up, Down, Right	 Right
+Which of
+warned	Left, Up, Right, Down	 Left
+A: Left
+warned	Left, Down, Up, Right	 Left
+A: Left
+warned	Left, Down, Right, Up	 Left
+A: Left
+warned	Left, Right, Up, Down	 Left
+A: Left
+warned	Left, Right, Down, Up	 Left
+A: Left
+warned	Right, Up, Down, Left	 Right
+A: Right
+warned	Right, Up, Left, Down	 Right
+A: Right
+warned	Right, Down, Up, Left	 Right
+A: Right
+warned	Right, Down, Left, Up	 Right
+A: Right
+warned	Right, Left, Up, Down	 Right
+A: Right
+warned	Right, Left, Down, Up	 Right
+A: Right
+owned	Up, Down, Left, Right	 Up
+Which of
+owned	Up, Down, Right, Left	 Right
+Which of
+owned	Up, Left, Down, Right	 Up
+Which of
+owned	Up, Left, Right, Down	 Right
+Which of
+owned	Up, Right, Down, Left	 Right
+Which of
+owned	Up, Right, Left, Down	 Right
+Which of
+owned	Down, Up, Left, Right	 Up
+Q: Which
+owned	Down, Up, Right, Left	 Right
+Which of
+owned	Down, Left, Up, Right	 Up
+Q: Which
+owned	Down, Left, Right, Up	 Right
+Which of
+owned	Down, Right, Up, Left	 Left
+Q: Which
+owned	Down, Right, Left, Up	 Left
+Q: Which
+owned	Left, Up, Down, Right	 Left
+Which of
+owned	Left, Up, Right, Down	 Left
+Which of
+owned	Left, Down, Up, Right	 Left
+Which of
+owned	Left, Down, Right, Up	 Left
+Which of
+owned	Left, Right, Up, Down	 Left
+A: Left
+owned	Left, Right, Down, Up	 Left
+Which of
+owned	Right, Up, Down, Left	 Right
+Which of
+owned	Right, Up, Left, Down	 Right
+Which of
+owned	Right, Down, Up, Left	 Right
+Which of
+owned	Right, Down, Left, Up	 Right
+Which of
+owned	Right, Left, Up, Down	 Right
+Which of
+owned	Right, Left, Down, Up	 Right
+Which of
+regretted	Up, Down, Left, Right	 Up
+A: Up
+regretted	Up, Down, Right, Left	 Right
+A: Right
+regretted	Up, Left, Down, Right	 Up
+A: Down
+regretted	Up, Left, Right, Down	 Right
+A: Right
+regretted	Up, Right, Down, Left	 Right
+A: Right
+regretted	Up, Right, Left, Down	 Right
+A: Right
+regretted	Down, Up, Left, Right	 Up
+A: Up
+regretted	Down, Up, Right, Left	 Right
+A: Right
+regretted	Down, Left, Up, Right	 Up
+A: Up
+regretted	Down, Left, Right, Up	 Right
+A: Right
+regretted	Down, Right, Up, Left	 Right
+A: Right
+regretted	Down, Right, Left, Up	 Left
+A: Left
+regretted	Left, Up, Down, Right	 Right
+A: Right
+regretted	Left, Up, Right, Down	 Left
+A: Left
+regretted	Left, Down, Up, Right	 Left
+A: Left
+regretted	Left, Down, Right, Up	 Left
+A: Left
+regretted	Left, Right, Up, Down	 Left
+A: Left
+regretted	Left, Right, Down, Up	 Left
+A: Left
+regretted	Right, Up, Down, Left	 Right
+A: Right
+regretted	Right, Up, Left, Down	 Right
+A: Right
+regretted	Right, Down, Up, Left	 Right
+A: Right
+regretted	Right, Down, Left, Up	 Right
+A: Right
+regretted	Right, Left, Up, Down	 Right
+A: Right
+regretted	Right, Left, Down, Up	 Right
+A: Right
+rested	Up, Down, Left, Right	 Up
+Which of
+rested	Up, Down, Right, Left	 Right
+Which of
+rested	Up, Left, Down, Right	 Up
+A: Up
+rested	Up, Left, Right, Down	 Right
+Which of
+rested	Up, Right, Down, Left	 Right
+Which of
+rested	Up, Right, Left, Down	 Right
+Which of
+rested	Down, Up, Left, Right	 Up
+Which of
+rested	Down, Up, Right, Left	 Right
+Which of
+rested	Down, Left, Up, Right	 Up
+Q: Which
+rested	Down, Left, Right, Up	 Right
+Which of
+rested	Down, Right, Up, Left	 Right
+Which of
+rested	Down, Right, Left, Up	 Left
+A: Left
+rested	Left, Up, Down, Right	 Right
+Which of
+rested	Left, Up, Right, Down	 Left
+A: Left
+rested	Left, Down, Up, Right	 Left
+Which of
+rested	Left, Down, Right, Up	 Left
+Which of
+rested	Left, Right, Up, Down	 Left
+A: Left
+rested	Left, Right, Down, Up	 Left
+Which of
+rested	Right, Up, Down, Left	 Right
+Which of
+rested	Right, Up, Left, Down	 Right
+A: Right
+rested	Right, Down, Up, Left	 Right
+A: Right
+rested	Right, Down, Left, Up	 Right
+A: Right
+rested	Right, Left, Up, Down	 Right
+Which of
+rested	Right, Left, Down, Up	 Right
+Which of
+tempted	Up, Down, Left, Right	 Right
+A: Right
+tempted	Up, Down, Right, Left	 Right
+A: Right
+tempted	Up, Left, Down, Right	 Right
+A: Right
+tempted	Up, Left, Right, Down	 Right
+A: Right
+tempted	Up, Right, Down, Left	 Right
+A: Right
+tempted	Up, Right, Left, Down	 Right
+A: Right
+tempted	Down, Up, Left, Right	 Right
+A: Right
+tempted	Down, Up, Right, Left	 Right
+A: Right
+tempted	Down, Left, Up, Right	 Right
+A: Right
+tempted	Down, Left, Right, Up	 Right
+A: Right
+tempted	Down, Right, Up, Left	 Right
+A: Right
+tempted	Down, Right, Left, Up	 Left
+A: Left
+tempted	Left, Up, Down, Right	 Right
+A: Right
+tempted	Left, Up, Right, Down	 Left
+A: Left
+tempted	Left, Down, Up, Right	 Left
+A: Left
+tempted	Left, Down, Right, Up	 Left
+A: Left
+tempted	Left, Right, Up, Down	 Left
+A: Left
+tempted	Left, Right, Down, Up	 Left
+A: Left
+tempted	Right, Up, Down, Left	 Right
+A: Right
+tempted	Right, Up, Left, Down	 Right
+A: Right
+tempted	Right, Down, Up, Left	 Right
+A: Right
+tempted	Right, Down, Left, Up	 Right
+A: Right
+tempted	Right, Left, Up, Down	 Right
+A: Right
+tempted	Right, Left, Down, Up	 Right
+A: Right
+wanted	Up, Down, Left, Right	 Up
+A: Up
+wanted	Up, Down, Right, Left	 Right
+A: Right
+wanted	Up, Left, Down, Right	 Left
+A: Left
+wanted	Up, Left, Right, Down	 Right
+A: Right
+wanted	Up, Right, Down, Left	 Right
+A: Right
+wanted	Up, Right, Left, Down	 Right
+A: Right
+wanted	Down, Up, Left, Right	 The event is a down
+wanted	Down, Up, Right, Left	 Right
+A: Right
+wanted	Down, Left, Up, Right	 The concept of "Down
+wanted	Down, Left, Right, Up	 Right
+A: Right
+wanted	Down, Right, Up, Left	 Right
+A: Right
+wanted	Down, Right, Left, Up	 Left
+A: Left
+wanted	Left, Up, Down, Right	 Left
+A: Left
+wanted	Left, Up, Right, Down	 Left
+A: Left
+wanted	Left, Down, Up, Right	 Left B: Down C
+wanted	Left, Down, Right, Up	 Left B: Down C
+wanted	Left, Right, Up, Down	 Left
+A: Left
+wanted	Left, Right, Down, Up	 Left
+A: Left
+wanted	Right, Up, Down, Left	 Right
+A: Right
+wanted	Right, Up, Left, Down	 Right
+A: Right
+wanted	Right, Down, Up, Left	 Right
+A: Right
+wanted	Right, Down, Left, Up	 Right
+A: Right
+wanted	Right, Left, Up, Down	 Right
+A: Right
+wanted	Right, Left, Down, Up	 Right
+A: Right
+hoped	Up, Down, Left, Right	 Up
+Which of
+hoped	Up, Down, Right, Left	 Right
+Which of
+hoped	Up, Left, Down, Right	 Up
+Which of
+hoped	Up, Left, Right, Down	 Right
+Which of
+hoped	Up, Right, Down, Left	 Right
+Which of
+hoped	Up, Right, Left, Down	 Right
+Which of
+hoped	Down, Up, Left, Right	 Up
+Which of
+hoped	Down, Up, Right, Left	 Right
+Which of
+hoped	Down, Left, Up, Right	 Up
+A: Up
+hoped	Down, Left, Right, Up	 Right
+Which of
+hoped	Down, Right, Up, Left	 Right
+Which of
+hoped	Down, Right, Left, Up	 Left
+A: Left
+hoped	Left, Up, Down, Right	 Right
+Which of
+hoped	Left, Up, Right, Down	 Left
+A: Left
+hoped	Left, Down, Up, Right	 Left
+A: Left
+hoped	Left, Down, Right, Up	 Left
+A: Left
+hoped	Left, Right, Up, Down	 Left
+A: Left
+hoped	Left, Right, Down, Up	 Left
+A: Left
+hoped	Right, Up, Down, Left	 Right
+Which of
+hoped	Right, Up, Left, Down	 Right
+A: Right
+hoped	Right, Down, Up, Left	 Right
+A: Right
+hoped	Right, Down, Left, Up	 Right
+A: Right
+hoped	Right, Left, Up, Down	 Right
+Which of
+hoped	Right, Left, Down, Up	 Right
+Which of
+increased	Up, Down, Left, Right	 Up
+Which of
+increased	Up, Down, Right, Left	 Right
+Which of
+increased	Up, Left, Down, Right	 Up
+Which of
+increased	Up, Left, Right, Down	 Right
+Which of
+increased	Up, Right, Down, Left	 Right
+Which of
+increased	Up, Right, Left, Down	 Right
+Which of
+increased	Down, Up, Left, Right	 Up
+Which of
+increased	Down, Up, Right, Left	 Right
+Which of
+increased	Down, Left, Up, Right	 Up
+Which of
+increased	Down, Left, Right, Up	 Right
+Which of
+increased	Down, Right, Up, Left	 Right
+Which of
+increased	Down, Right, Left, Up	 Left
+Which of
+increased	Left, Up, Down, Right	 Left
+Which of
+increased	Left, Up, Right, Down	 Left
+Which of
+increased	Left, Down, Up, Right	 Left
+Which of
+increased	Left, Down, Right, Up	 Left
+Which of
+increased	Left, Right, Up, Down	 Left
+Which of
+increased	Left, Right, Down, Up	 Left
+Which of
+increased	Right, Up, Down, Left	 Right
+Which of
+increased	Right, Up, Left, Down	 Right
+Which of
+increased	Right, Down, Up, Left	 Right
+Which of
+increased	Right, Down, Left, Up	 Right
+Which of
+increased	Right, Left, Up, Down	 Right
+Which of
+increased	Right, Left, Down, Up	 Right
+Which of
+obeyed	Up, Down, Left, Right	 Up
+A: Up
+obeyed	Up, Down, Right, Left	 Right
+A: Right
+obeyed	Up, Left, Down, Right	 Right
+A: Right
+obeyed	Up, Left, Right, Down	 Right
+A: Right
+obeyed	Up, Right, Down, Left	 Right
+A: Right
+obeyed	Up, Right, Left, Down	 Right
+A: Right
+obeyed	Down, Up, Left, Right	 The concept of "ob
+obeyed	Down, Up, Right, Left	 Right
+A: Right
+obeyed	Down, Left, Up, Right	 The concept of "ob
+obeyed	Down, Left, Right, Up	 Right
+A: Right
+obeyed	Down, Right, Up, Left	 Right
+A: Right
+obeyed	Down, Right, Left, Up	 Left
+A: Left
+obeyed	Left, Up, Down, Right	 Right
+A: Right
+obeyed	Left, Up, Right, Down	 Left
+A: Left
+obeyed	Left, Down, Up, Right	 Left
+A: Left
+obeyed	Left, Down, Right, Up	 Left
+A: Left
+obeyed	Left, Right, Up, Down	 Left
+A: Left
+obeyed	Left, Right, Down, Up	 Left
+A: Left
+obeyed	Right, Up, Down, Left	 Right
+A: Right
+obeyed	Right, Up, Left, Down	 Right
+A: Right
+obeyed	Right, Down, Up, Left	 Right
+A: Right
+obeyed	Right, Down, Left, Up	 Right
+A: Right
+obeyed	Right, Left, Up, Down	 Right
+A: Right
+obeyed	Right, Left, Down, Up	 Right
+A: Right
+respected	Up, Down, Left, Right	 Up
+A: Up
+respected	Up, Down, Right, Left	 Right
+A: Right
+respected	Up, Left, Down, Right	 Right
+A: Right
+respected	Up, Left, Right, Down	 Right
+A: Right
+respected	Up, Right, Down, Left	 Right
+Which of
+respected	Up, Right, Left, Down	 Right
+Which of
+respected	Down, Up, Left, Right	 Up
+A: Up
+respected	Down, Up, Right, Left	 Right
+A: Right
+respected	Down, Left, Up, Right	 Right
+Which of
+respected	Down, Left, Right, Up	 Right
+Which of
+respected	Down, Right, Up, Left	 Right
+Which of
+respected	Down, Right, Left, Up	 Left
+A: Left
+respected	Left, Up, Down, Right	 Right
+Which of
+respected	Left, Up, Right, Down	 Left
+A: Left
+respected	Left, Down, Up, Right	 Left
+A: Left
+respected	Left, Down, Right, Up	 Left
+A: Left
+respected	Left, Right, Up, Down	 Left
+A: Left
+respected	Left, Right, Down, Up	 Left
+A: Left
+respected	Right, Up, Down, Left	 Right
+A: Right
+respected	Right, Up, Left, Down	 Right
+A: Right
+respected	Right, Down, Up, Left	 Right
+A: Right
+respected	Right, Down, Left, Up	 Right
+A: Right
+respected	Right, Left, Up, Down	 Right
+A: Right
+respected	Right, Left, Down, Up	 Right
+A: Right
+succeeded	Up, Down, Left, Right	 Up
+Which of
+succeeded	Up, Down, Right, Left	 Right
+Which of
+succeeded	Up, Left, Down, Right	 Up
+Which of
+succeeded	Up, Left, Right, Down	 Right
+Which of
+succeeded	Up, Right, Down, Left	 Right
+Which of
+succeeded	Up, Right, Left, Down	 Right
+Which of
+succeeded	Down, Up, Left, Right	 B: C: D
+succeeded	Down, Up, Right, Left	 Right
+Which of
+succeeded	Down, Left, Up, Right	 The event is a success
+succeeded	Down, Left, Right, Up	 Right
+Which of
+succeeded	Down, Right, Up, Left	 Right
+Which of
+succeeded	Down, Right, Left, Up	 Left
+A: Left
+succeeded	Left, Up, Down, Right	 Left
+Which of
+succeeded	Left, Up, Right, Down	 Left B: Right C
+succeeded	Left, Down, Up, Right	 Left B: Down C
+succeeded	Left, Down, Right, Up	 Left B: Down C
+succeeded	Left, Right, Up, Down	 Left
+A: Left
+succeeded	Left, Right, Down, Up	 Left
+A: Left
+succeeded	Right, Up, Down, Left	 Right
+A: Right
+succeeded	Right, Up, Left, Down	 Right
+A: Right
+succeeded	Right, Down, Up, Left	 Right
+A: Right
+succeeded	Right, Down, Left, Up	 Right
+A: Right
+succeeded	Right, Left, Up, Down	 Right
+A: Right
+succeeded	Right, Left, Down, Up	 Right
+A: Right

@@ -1,0 +1,720 @@
+fled	Up, Down, Left, Right	 Up. The concept of
+fled	Up, Down, Right, Left	 Down. The concept of
+fled	Up, Left, Down, Right	 Down. The concept of
+fled	Up, Left, Right, Down	 Down. The concept of
+fled	Up, Right, Down, Left	 Down. The concept of
+fled	Up, Right, Left, Down	 Down. The concept of
+fled	Down, Up, Left, Right	 Up. The concept of
+fled	Down, Up, Right, Left	 Up. The concept of
+fled	Down, Left, Up, Right	 Up. The concept of
+fled	Down, Left, Right, Up	 Up. The concept of
+fled	Down, Right, Up, Left	 Up. The concept of
+fled	Down, Right, Left, Up	 Up. The concept of
+fled	Left, Up, Down, Right	 Left. The event of
+fled	Left, Up, Right, Down	 Down. The concept of
+fled	Left, Down, Up, Right	 Up. The concept of
+fled	Left, Down, Right, Up	 Up. The concept of
+fled	Left, Right, Up, Down	 Left. The event of
+fled	Left, Right, Down, Up	 Down. The concept of
+fled	Right, Up, Down, Left	 Left. The concept of
+fled	Right, Up, Left, Down	 Down. The concept of
+fled	Right, Down, Up, Left	 Up. The concept of
+fled	Right, Down, Left, Up	 Up. The concept of
+fled	Right, Left, Up, Down	 Down. The concept of
+fled	Right, Left, Down, Up	 Up. The concept of
+pointed at	Up, Down, Left, Right	 Down. The reason for
+pointed at	Up, Down, Right, Left	 Down. The reason for
+pointed at	Up, Left, Down, Right	 Down. The reason for
+pointed at	Up, Left, Right, Down	 Down. The reason for
+pointed at	Up, Right, Down, Left	 Down. The reason for
+pointed at	Up, Right, Left, Down	 Down. The reason for
+pointed at	Down, Up, Left, Right	 Up. The reason for
+pointed at	Down, Up, Right, Left	 Up. The reason for
+pointed at	Down, Left, Up, Right	 Up. The reason for
+pointed at	Down, Left, Right, Up	 Up. The reason for
+pointed at	Down, Right, Up, Left	 Up. The reason for
+pointed at	Down, Right, Left, Up	 Up. The reason for
+pointed at	Left, Up, Down, Right	 Down. The reason for
+pointed at	Left, Up, Right, Down	 Down. The reason for
+pointed at	Left, Down, Up, Right	 Down. The reason for
+pointed at	Left, Down, Right, Up	 Down. The reason for
+pointed at	Left, Right, Up, Down	 Down. The reason for
+pointed at	Left, Right, Down, Up	 Down. The reason for
+pointed at	Right, Up, Down, Left	 Down. The reason for
+pointed at	Right, Up, Left, Down	 Down. The reason for
+pointed at	Right, Down, Up, Left	 Down. The reason for
+pointed at	Right, Down, Left, Up	 Down. The reason for
+pointed at	Right, Left, Up, Down	 Down. The reason for
+pointed at	Right, Left, Down, Up	 Down. The reason for
+pulled	Up, Down, Left, Right	 Down. When something is
+pulled	Up, Down, Right, Left	 Down. This is because
+pulled	Up, Left, Down, Right	 Down. This is because
+pulled	Up, Left, Right, Down	 Down. This is because
+pulled	Up, Right, Down, Left	 Down. This is because
+pulled	Up, Right, Left, Down	 Down. This is because
+pulled	Down, Up, Left, Right	 Down. The event of
+pulled	Down, Up, Right, Left	 Down. The event of
+pulled	Down, Left, Up, Right	 Down. The event of
+pulled	Down, Left, Right, Up	 Up. This is because
+pulled	Down, Right, Up, Left	 Down. The event of
+pulled	Down, Right, Left, Up	 Down. The event of
+pulled	Left, Up, Down, Right	 Down. This is because
+pulled	Left, Up, Right, Down	 Down. This is because
+pulled	Left, Down, Up, Right	 Down. When something is
+pulled	Left, Down, Right, Up	 Down. When something is
+pulled	Left, Right, Up, Down	 Down. When something is
+pulled	Left, Right, Down, Up	 Down. When something is
+pulled	Right, Up, Down, Left	 Down. This is because
+pulled	Right, Up, Left, Down	 Down. This is because
+pulled	Right, Down, Up, Left	 Down. This is because
+pulled	Right, Down, Left, Up	 Down. When something is
+pulled	Right, Left, Up, Down	 Down. This is because
+pulled	Right, Left, Down, Up	 Down. When something is
+pushed	Up, Down, Left, Right	 Down. The event of
+pushed	Up, Down, Right, Left	 Down. The event of
+pushed	Up, Left, Down, Right	 Down. The event of
+pushed	Up, Left, Right, Down	 Down. The event of
+pushed	Up, Right, Down, Left	 Down. The event of
+pushed	Up, Right, Left, Down	 Down. The event of
+pushed	Down, Up, Left, Right	 Down. The event of
+pushed	Down, Up, Right, Left	 Down. The event of
+pushed	Down, Left, Up, Right	 Up. The event of
+pushed	Down, Left, Right, Up	 Up. The event of
+pushed	Down, Right, Up, Left	 Down. The event of
+pushed	Down, Right, Left, Up	 Down. The event of
+pushed	Left, Up, Down, Right	 Down. The event of
+pushed	Left, Up, Right, Down	 Down. The event of
+pushed	Left, Down, Up, Right	 Down. The event of
+pushed	Left, Down, Right, Up	 Down. The event of
+pushed	Left, Right, Up, Down	 Down. The event of
+pushed	Left, Right, Down, Up	 Down. The event of
+pushed	Right, Up, Down, Left	 Down. The event of
+pushed	Right, Up, Left, Down	 Down. The event of
+pushed	Right, Down, Up, Left	 Down. The event of
+pushed	Right, Down, Left, Up	 Down. The event of
+pushed	Right, Left, Up, Down	 Down. The event of
+pushed	Right, Left, Down, Up	 Down. The event of
+walked	Up, Down, Left, Right	 Down. Walking involves
+walked	Up, Down, Right, Left	 Down. Walking involves
+walked	Up, Left, Down, Right	 Down. Walking involves
+walked	Up, Left, Right, Down	 Down. Walking involves
+walked	Up, Right, Down, Left	 Down. Walking is
+walked	Up, Right, Left, Down	 Down. This is because
+walked	Down, Up, Left, Right	 Down. Walking involves
+walked	Down, Up, Right, Left	 Down. Walking involves
+walked	Down, Left, Up, Right	 Down. Walking involves
+walked	Down, Left, Right, Up	 Down. Walking involves
+walked	Down, Right, Up, Left	 Down. Walking involves
+walked	Down, Right, Left, Up	 Down. Walking involves
+walked	Left, Up, Down, Right	 Down. Walking involves
+walked	Left, Up, Right, Down	 Down. Walking involves
+walked	Left, Down, Up, Right	 Down. Walking involves
+walked	Left, Down, Right, Up	 Down. Walking involves
+walked	Left, Right, Up, Down	 Down. Walking involves
+walked	Left, Right, Down, Up	 Down. Walked is
+walked	Right, Up, Down, Left	 Down. Walking involves
+walked	Right, Up, Left, Down	 Down. Walking involves
+walked	Right, Down, Up, Left	 Down. Walking involves
+walked	Right, Down, Left, Up	 Down. Walking involves
+walked	Right, Left, Up, Down	 Down. Walking involves
+walked	Right, Left, Down, Up	 Down. Walking involves
+hunted	Up, Down, Left, Right	 Down. When an animal
+hunted	Up, Down, Right, Left	 Down. When an animal
+hunted	Up, Left, Down, Right	 Down. When an animal
+hunted	Up, Left, Right, Down	 Down. When an animal
+hunted	Up, Right, Down, Left	 Down. The concept of
+hunted	Up, Right, Left, Down	 Down. This is because
+hunted	Down, Up, Left, Right	 Down. The concept of
+hunted	Down, Up, Right, Left	 Down. The concept of
+hunted	Down, Left, Up, Right	 Up. The concept of
+hunted	Down, Left, Right, Up	 Up. The concept of
+hunted	Down, Right, Up, Left	 Down. The concept of
+hunted	Down, Right, Left, Up	 Down. The concept of
+hunted	Left, Up, Down, Right	 Down. When an animal
+hunted	Left, Up, Right, Down	 Down. When an animal
+hunted	Left, Down, Up, Right	 Down. When an animal
+hunted	Left, Down, Right, Up	 Down. When an animal
+hunted	Left, Right, Up, Down	 Down. This is because
+hunted	Left, Right, Down, Up	 Down. When an animal
+hunted	Right, Up, Down, Left	 Left. This is because
+hunted	Right, Up, Left, Down	 Down. This is because
+hunted	Right, Down, Up, Left	 Left. This is because
+hunted	Right, Down, Left, Up	 Down. This is because
+hunted	Right, Left, Up, Down	 Down. This is because
+hunted	Right, Left, Down, Up	 Down. When an animal
+impacted	Up, Down, Left, Right	 Down. The event of
+impacted	Up, Down, Right, Left	 Down. The event of
+impacted	Up, Left, Down, Right	 Down. The event of
+impacted	Up, Left, Right, Down	 Down. The event of
+impacted	Up, Right, Down, Left	 Down. The event of
+impacted	Up, Right, Left, Down	 Down. The event of
+impacted	Down, Up, Left, Right	 Down. The event of
+impacted	Down, Up, Right, Left	 Down. The event of
+impacted	Down, Left, Up, Right	 Down. The event of
+impacted	Down, Left, Right, Up	 Down. The event of
+impacted	Down, Right, Up, Left	 Down. The event of
+impacted	Down, Right, Left, Up	 Down. The event of
+impacted	Left, Up, Down, Right	 Down. The event of
+impacted	Left, Up, Right, Down	 Down. The event of
+impacted	Left, Down, Up, Right	 Down. The event of
+impacted	Left, Down, Right, Up	 Down. The event of
+impacted	Left, Right, Up, Down	 Down. The event of
+impacted	Left, Right, Down, Up	 Down. The event of
+impacted	Right, Up, Down, Left	 Down. The event of
+impacted	Right, Up, Left, Down	 Down. The event of
+impacted	Right, Down, Up, Left	 Down. The event of
+impacted	Right, Down, Left, Up	 Down. The event of
+impacted	Right, Left, Up, Down	 Down. The event of
+impacted	Right, Left, Down, Up	 Down. The event of
+perched	Up, Down, Left, Right	 Down. Perched means
+perched	Up, Down, Right, Left	 Down. Perched means
+perched	Up, Left, Down, Right	 Down. Perched means
+perched	Up, Left, Right, Down	 Down. Perched means
+perched	Up, Right, Down, Left	 Down. Perched means
+perched	Up, Right, Left, Down	 Down. Perched means
+perched	Down, Up, Left, Right	 Up. Perched means
+perched	Down, Up, Right, Left	 Up. Perched means
+perched	Down, Left, Up, Right	 Up. Perched means
+perched	Down, Left, Right, Up	 Up. Perched means
+perched	Down, Right, Up, Left	 Up. Perched means
+perched	Down, Right, Left, Up	 Up. Perched means
+perched	Left, Up, Down, Right	 Down. Perched means
+perched	Left, Up, Right, Down	 Down. Perched means
+perched	Left, Down, Up, Right	 Up. Perched means
+perched	Left, Down, Right, Up	 Up. Perched means
+perched	Left, Right, Up, Down	 Up. Perched means
+perched	Left, Right, Down, Up	 Up. Perched means
+perched	Right, Up, Down, Left	 Up. Perched means
+perched	Right, Up, Left, Down	 Up. Perched means
+perched	Right, Down, Up, Left	 Up. Perched means
+perched	Right, Down, Left, Up	 Up. Perched means
+perched	Right, Left, Up, Down	 Up. Perched means
+perched	Right, Left, Down, Up	 Up. Perched means
+showed	Up, Down, Left, Right	 Up. The event of
+showed	Up, Down, Right, Left	 Up. The event of
+showed	Up, Left, Down, Right	 Down. The event of
+showed	Up, Left, Right, Down	 Down. The event of
+showed	Up, Right, Down, Left	 Up. The event of
+showed	Up, Right, Left, Down	 Down. The event of
+showed	Down, Up, Left, Right	 Up. The event of
+showed	Down, Up, Right, Left	 Up. The event of
+showed	Down, Left, Up, Right	 Up. The event of
+showed	Down, Left, Right, Up	 Up. The event of
+showed	Down, Right, Up, Left	 Up. The event of
+showed	Down, Right, Left, Up	 Up. The event of
+showed	Left, Up, Down, Right	 Right. This is because
+showed	Left, Up, Right, Down	 Down. The event of
+showed	Left, Down, Up, Right	 Down. The event of
+showed	Left, Down, Right, Up	 Down. The event of
+showed	Left, Right, Up, Down	 Down. The event of
+showed	Left, Right, Down, Up	 Down. The event of
+showed	Right, Up, Down, Left	 Left. The reason for
+showed	Right, Up, Left, Down	 Down. The event of
+showed	Right, Down, Up, Left	 Up. The event of
+showed	Right, Down, Left, Up	 Up. The event of
+showed	Right, Left, Up, Down	 Down. The event of
+showed	Right, Left, Down, Up	 Down. The event of
+smashed	Up, Down, Left, Right	 Down. When something is
+smashed	Up, Down, Right, Left	 Down. When something is
+smashed	Up, Left, Down, Right	 Down. When something is
+smashed	Up, Left, Right, Down	 Down. When something is
+smashed	Up, Right, Down, Left	 Down. The concept of
+smashed	Up, Right, Left, Down	 Down. This is because
+smashed	Down, Up, Left, Right	 Down. The concept of
+smashed	Down, Up, Right, Left	 Down. The concept of
+smashed	Down, Left, Up, Right	 Down. The concept of
+smashed	Down, Left, Right, Up	 Down. The concept of
+smashed	Down, Right, Up, Left	 Down. The concept of
+smashed	Down, Right, Left, Up	 Down. The concept of
+smashed	Left, Up, Down, Right	 Down. When something is
+smashed	Left, Up, Right, Down	 Down. The concept of
+smashed	Left, Down, Up, Right	 Down. When something is
+smashed	Left, Down, Right, Up	 Down. When something is
+smashed	Left, Right, Up, Down	 Down. The concept of
+smashed	Left, Right, Down, Up	 Down. When something is
+smashed	Right, Up, Down, Left	 Down. The concept of
+smashed	Right, Up, Left, Down	 Down. This is because
+smashed	Right, Down, Up, Left	 Down. The concept of
+smashed	Right, Down, Left, Up	 Down. The concept of
+smashed	Right, Left, Up, Down	 Down. The concept of
+smashed	Right, Left, Down, Up	 Down. The concept of
+bombed	Up, Down, Left, Right	 Down. This is because
+bombed	Up, Down, Right, Left	 Down. This is because
+bombed	Up, Left, Down, Right	 Down. This is because
+bombed	Up, Left, Right, Down	 Down. This is because
+bombed	Up, Right, Down, Left	 Down. This is because
+bombed	Up, Right, Left, Down	 Down. This is because
+bombed	Down, Up, Left, Right	 Down. This is because
+bombed	Down, Up, Right, Left	 Down. This is because
+bombed	Down, Left, Up, Right	 Down. The event of
+bombed	Down, Left, Right, Up	 Down. This is because
+bombed	Down, Right, Up, Left	 Down. This is because
+bombed	Down, Right, Left, Up	 Down. This is because
+bombed	Left, Up, Down, Right	 Down. This is because
+bombed	Left, Up, Right, Down	 Down. This is because
+bombed	Left, Down, Up, Right	 Down. This is because
+bombed	Left, Down, Right, Up	 Down. When a building
+bombed	Left, Right, Up, Down	 Down. This is because
+bombed	Left, Right, Down, Up	 Down. This is because
+bombed	Right, Up, Down, Left	 Down. This is because
+bombed	Right, Up, Left, Down	 Down. This is because
+bombed	Right, Down, Up, Left	 Down. This is because
+bombed	Right, Down, Left, Up	 Down. This is because
+bombed	Right, Left, Up, Down	 Down. This is because
+bombed	Right, Left, Down, Up	 Down. This is because
+flew	Up, Down, Left, Right	 Up. The reason for
+flew	Up, Down, Right, Left	 Up. The reason for
+flew	Up, Left, Down, Right	 Up. The reason for
+flew	Up, Left, Right, Down	 Up. The concept of
+flew	Up, Right, Down, Left	 Up. The concept of
+flew	Up, Right, Left, Down	 Up. The concept of
+flew	Down, Up, Left, Right	 Up. The concept of
+flew	Down, Up, Right, Left	 Up. The concept of
+flew	Down, Left, Up, Right	 Up. The concept of
+flew	Down, Left, Right, Up	 Up. The concept of
+flew	Down, Right, Up, Left	 Up. The concept of
+flew	Down, Right, Left, Up	 Up. The concept of
+flew	Left, Up, Down, Right	 Up. The reason for
+flew	Left, Up, Right, Down	 Up. The concept of
+flew	Left, Down, Up, Right	 Up. The reason for
+flew	Left, Down, Right, Up	 Up. The concept of
+flew	Left, Right, Up, Down	 Up. The concept of
+flew	Left, Right, Down, Up	 Up. The concept of
+flew	Right, Up, Down, Left	 Up. The reason for
+flew	Right, Up, Left, Down	 Up. The concept of
+flew	Right, Down, Up, Left	 Up. The reason for
+flew	Right, Down, Left, Up	 Up. The concept of
+flew	Right, Left, Up, Down	 Up. The concept of
+flew	Right, Left, Down, Up	 Up. The concept of
+floated	Up, Down, Left, Right	 Down. The reason for
+floated	Up, Down, Right, Left	 Down. The reason for
+floated	Up, Left, Down, Right	 Down. The reason for
+floated	Up, Left, Right, Down	 Down. The reason for
+floated	Up, Right, Down, Left	 Down. The reason for
+floated	Up, Right, Left, Down	 Down. The reason for
+floated	Down, Up, Left, Right	 Down. The reason for
+floated	Down, Up, Right, Left	 Down. The reason for
+floated	Down, Left, Up, Right	 Up. The reason for
+floated	Down, Left, Right, Up	 Up. The reason for
+floated	Down, Right, Up, Left	 Up. The reason for
+floated	Down, Right, Left, Up	 Up. The reason for
+floated	Left, Up, Down, Right	 Down. The reason for
+floated	Left, Up, Right, Down	 Down. The reason for
+floated	Left, Down, Up, Right	 Down. The reason for
+floated	Left, Down, Right, Up	 Down. The reason for
+floated	Left, Right, Up, Down	 Down. The reason for
+floated	Left, Right, Down, Up	 Down. The reason for
+floated	Right, Up, Down, Left	 Down. The reason for
+floated	Right, Up, Left, Down	 Down. The reason for
+floated	Right, Down, Up, Left	 Down. The reason for
+floated	Right, Down, Left, Up	 Down. The reason for
+floated	Right, Left, Up, Down	 Down. The reason for
+floated	Right, Left, Down, Up	 Down. The reason for
+lifted	Up, Down, Left, Right	 Up. Lifting something
+lifted	Up, Down, Right, Left	 Up. Lifting something
+lifted	Up, Left, Down, Right	 Up. Lifting something
+lifted	Up, Left, Right, Down	 Up. Lifting something
+lifted	Up, Right, Down, Left	 Up. The event of
+lifted	Up, Right, Left, Down	 Up. The event of
+lifted	Down, Up, Left, Right	 Up. Lifting something
+lifted	Down, Up, Right, Left	 Up. The event of
+lifted	Down, Left, Up, Right	 Up. The event of
+lifted	Down, Left, Right, Up	 Up. The event of
+lifted	Down, Right, Up, Left	 Up. The event of
+lifted	Down, Right, Left, Up	 Up. The event of
+lifted	Left, Up, Down, Right	 Up. The event of
+lifted	Left, Up, Right, Down	 Up. The event of
+lifted	Left, Down, Up, Right	 Up. The event of
+lifted	Left, Down, Right, Up	 Up. The event of
+lifted	Left, Right, Up, Down	 Up. The event of
+lifted	Left, Right, Down, Up	 Up. The event of
+lifted	Right, Up, Down, Left	 Up. Lifting something
+lifted	Right, Up, Left, Down	 Up. Lifting something
+lifted	Right, Down, Up, Left	 Up. The event of
+lifted	Right, Down, Left, Up	 Up. The event of
+lifted	Right, Left, Up, Down	 Up. Lifting something
+lifted	Right, Left, Down, Up	 Up. The event of
+sank	Up, Down, Left, Right	 Down. The event of
+sank	Up, Down, Right, Left	 Down. The event of
+sank	Up, Left, Down, Right	 Down. The event of
+sank	Up, Left, Right, Down	 Down. The event of
+sank	Up, Right, Down, Left	 Down. The event of
+sank	Up, Right, Left, Down	 Down. The event of
+sank	Down, Up, Left, Right	 Down. The event of
+sank	Down, Up, Right, Left	 Down. The event of
+sank	Down, Left, Up, Right	 Down. The event of
+sank	Down, Left, Right, Up	 Down. The event of
+sank	Down, Right, Up, Left	 Down. The event of
+sank	Down, Right, Left, Up	 Down. The event of
+sank	Left, Up, Down, Right	 Down. The event of
+sank	Left, Up, Right, Down	 Down. The word "
+sank	Left, Down, Up, Right	 Down. The event of
+sank	Left, Down, Right, Up	 Down. The event of
+sank	Left, Right, Up, Down	 Down. The event of
+sank	Left, Right, Down, Up	 Down. The event of
+sank	Right, Up, Down, Left	 Down. The event of
+sank	Right, Up, Left, Down	 Down. The word "
+sank	Right, Down, Up, Left	 Down. The event of
+sank	Right, Down, Left, Up	 Down. The event of
+sank	Right, Left, Up, Down	 Down. The word "
+sank	Right, Left, Down, Up	 Down. The event of
+argued with	Up, Down, Left, Right	 Down. When we argue
+argued with	Up, Down, Right, Left	 Down. This is because
+argued with	Up, Left, Down, Right	 Right. This is because
+argued with	Up, Left, Right, Down	 Down. This is because
+argued with	Up, Right, Down, Left	 Down. This is because
+argued with	Up, Right, Left, Down	 Down. This is because
+argued with	Down, Up, Left, Right	 Down. This is because
+argued with	Down, Up, Right, Left	 Down. This is because
+argued with	Down, Left, Up, Right	 Up. This is because
+argued with	Down, Left, Right, Up	 Down. The event of
+argued with	Down, Right, Up, Left	 Down. The event of
+argued with	Down, Right, Left, Up	 Down. This is because
+argued with	Left, Up, Down, Right	 Right. This is because
+argued with	Left, Up, Right, Down	 Down. This is because
+argued with	Left, Down, Up, Right	 Right. This is because
+argued with	Left, Down, Right, Up	 Down. When we argue
+argued with	Left, Right, Up, Down	 Left. This is because
+argued with	Left, Right, Down, Up	 Down. When we argue
+argued with	Right, Up, Down, Left	 Left. This is because
+argued with	Right, Up, Left, Down	 Down. This is because
+argued with	Right, Down, Up, Left	 Left. This is because
+argued with	Right, Down, Left, Up	 Down. This is because
+argued with	Right, Left, Up, Down	 Down. This is because
+argued with	Right, Left, Down, Up	 Down. When we argue
+gave to	Up, Down, Left, Right	 Up. This is because
+gave to	Up, Down, Right, Left	 Up. This is because
+gave to	Up, Left, Down, Right	 Down. This is because
+gave to	Up, Left, Right, Down	 Down. This is because
+gave to	Up, Right, Down, Left	 Up. This is because
+gave to	Up, Right, Left, Down	 Down. This is because
+gave to	Down, Up, Left, Right	 Up. This is because
+gave to	Down, Up, Right, Left	 Up. This is because
+gave to	Down, Left, Up, Right	 Up. This is because
+gave to	Down, Left, Right, Up	 Up. This is because
+gave to	Down, Right, Up, Left	 Up. This is because
+gave to	Down, Right, Left, Up	 Up. This is because
+gave to	Left, Up, Down, Right	 Right. This is because
+gave to	Left, Up, Right, Down	 Down. This is because
+gave to	Left, Down, Up, Right	 Up. This is because
+gave to	Left, Down, Right, Up	 Up. This is because
+gave to	Left, Right, Up, Down	 Left. The event of
+gave to	Left, Right, Down, Up	 Down. This is because
+gave to	Right, Up, Down, Left	 Left. This is because
+gave to	Right, Up, Left, Down	 Down. This is because
+gave to	Right, Down, Up, Left	 Up. This is because
+gave to	Right, Down, Left, Up	 Up. This is because
+gave to	Right, Left, Up, Down	 Right. The reason for
+gave to	Right, Left, Down, Up	 Down. This is because
+offended	Up, Down, Left, Right	 Down. When someone is
+offended	Up, Down, Right, Left	 Down. When someone is
+offended	Up, Left, Down, Right	 Right. This is because
+offended	Up, Left, Right, Down	 Down. This is because
+offended	Up, Right, Down, Left	 Down. The concept of
+offended	Up, Right, Left, Down	 Down. This is because
+offended	Down, Up, Left, Right	 Down. The concept of
+offended	Down, Up, Right, Left	 Down. The concept of
+offended	Down, Left, Up, Right	 Right. The concept of
+offended	Down, Left, Right, Up	 Down. The concept of
+offended	Down, Right, Up, Left	 Down. The concept of
+offended	Down, Right, Left, Up	 Down. The concept of
+offended	Left, Up, Down, Right	 Right. The concept of
+offended	Left, Up, Right, Down	 Down. The concept of
+offended	Left, Down, Up, Right	 Right. The concept of
+offended	Left, Down, Right, Up	 Right. The concept of
+offended	Left, Right, Up, Down	 Down. The concept of
+offended	Left, Right, Down, Up	 Down. The concept of
+offended	Right, Up, Down, Left	 Left. This is because
+offended	Right, Up, Left, Down	 Down. This is because
+offended	Right, Down, Up, Left	 Left. This is because
+offended	Right, Down, Left, Up	 Down. The concept of
+offended	Right, Left, Up, Down	 Down. The concept of
+offended	Right, Left, Down, Up	 Down. The concept of
+rushed	Up, Down, Left, Right	 Down. Rushing means
+rushed	Up, Down, Right, Left	 Down. When someone is
+rushed	Up, Left, Down, Right	 Down. When someone is
+rushed	Up, Left, Right, Down	 Down. Rushing means
+rushed	Up, Right, Down, Left	 Down. Rushing means
+rushed	Up, Right, Left, Down	 Down. Rushing means
+rushed	Down, Up, Left, Right	 Down. The concept of
+rushed	Down, Up, Right, Left	 Down. The concept of
+rushed	Down, Left, Up, Right	 Up. The concept of
+rushed	Down, Left, Right, Up	 Up. The concept of
+rushed	Down, Right, Up, Left	 Down. The concept of
+rushed	Down, Right, Left, Up	 Down. The concept of
+rushed	Left, Up, Down, Right	 Down. The reason for
+rushed	Left, Up, Right, Down	 Down. The concept of
+rushed	Left, Down, Up, Right	 Down. The event of
+rushed	Left, Down, Right, Up	 Down. The event of
+rushed	Left, Right, Up, Down	 Down. The concept of
+rushed	Left, Right, Down, Up	 Down. The event of
+rushed	Right, Up, Down, Left	 Left. The reason for
+rushed	Right, Up, Left, Down	 Down. The concept of
+rushed	Right, Down, Up, Left	 Down. The concept of
+rushed	Right, Down, Left, Up	 Down. The concept of
+rushed	Right, Left, Up, Down	 Down. Rushed means
+rushed	Right, Left, Down, Up	 Down. Rushing means
+warned	Up, Down, Left, Right	 Down. When someone is
+warned	Up, Down, Right, Left	 Down. When someone is
+warned	Up, Left, Down, Right	 Down. When someone is
+warned	Up, Left, Right, Down	 Down. When someone is
+warned	Up, Right, Down, Left	 Down. When someone is
+warned	Up, Right, Left, Down	 Down. This is because
+warned	Down, Up, Left, Right	 Down. The concept of
+warned	Down, Up, Right, Left	 Down. This is because
+warned	Down, Left, Up, Right	 Up. This is because
+warned	Down, Left, Right, Up	 Up. This is because
+warned	Down, Right, Up, Left	 Down. The concept of
+warned	Down, Right, Left, Up	 Down. This is because
+warned	Left, Up, Down, Right	 Down. When someone is
+warned	Left, Up, Right, Down	 Down. When someone is
+warned	Left, Down, Up, Right	 Right. This is because
+warned	Left, Down, Right, Up	 Down. When someone is
+warned	Left, Right, Up, Down	 Down. When someone is
+warned	Left, Right, Down, Up	 Down. When someone is
+warned	Right, Up, Down, Left	 Left. This is because
+warned	Right, Up, Left, Down	 Down. This is because
+warned	Right, Down, Up, Left	 Left. This is because
+warned	Right, Down, Left, Up	 Up. This is because
+warned	Right, Left, Up, Down	 Down. When someone is
+warned	Right, Left, Down, Up	 Down. When someone is
+owned	Up, Down, Left, Right	 Right. The event of
+owned	Up, Down, Right, Left	 Down. Owned
+owned	Up, Left, Down, Right	 Right. The event of
+owned	Up, Left, Right, Down	 Down. The concept of
+owned	Up, Right, Down, Left	 Down. The concept of
+owned	Up, Right, Left, Down	 Down. The concept of
+owned	Down, Up, Left, Right	 Up. Owning
+owned	Down, Up, Right, Left	 Up. Owning
+owned	Down, Left, Up, Right	 Up. The event of
+owned	Down, Left, Right, Up	 Up. The concept of
+owned	Down, Right, Up, Left	 Up. The event of
+owned	Down, Right, Left, Up	 Up. The event of
+owned	Left, Up, Down, Right	 Right. The event of
+owned	Left, Up, Right, Down	 Down. The concept of
+owned	Left, Down, Up, Right	 Right. The event of
+owned	Left, Down, Right, Up	 Up. The concept of
+owned	Left, Right, Up, Down	 Down. The concept of
+owned	Left, Right, Down, Up	 Down. The concept of
+owned	Right, Up, Down, Left	 Left. The concept of
+owned	Right, Up, Left, Down	 Down. The concept of
+owned	Right, Down, Up, Left	 Left. The event of
+owned	Right, Down, Left, Up	 Up. The concept of
+owned	Right, Left, Up, Down	 Right. The event of
+owned	Right, Left, Down, Up	 Down. The concept of
+regretted	Up, Down, Left, Right	 Down. The concept of
+regretted	Up, Down, Right, Left	 Down. The concept of
+regretted	Up, Left, Down, Right	 Down. The concept of
+regretted	Up, Left, Right, Down	 Down. The concept of
+regretted	Up, Right, Down, Left	 Down. The concept of
+regretted	Up, Right, Left, Down	 Down. The concept of
+regretted	Down, Up, Left, Right	 Down. The concept of
+regretted	Down, Up, Right, Left	 Down. The concept of
+regretted	Down, Left, Up, Right	 Down. The concept of
+regretted	Down, Left, Right, Up	 Down. The concept of
+regretted	Down, Right, Up, Left	 Down. The concept of
+regretted	Down, Right, Left, Up	 Down. The concept of
+regretted	Left, Up, Down, Right	 Down. The concept of
+regretted	Left, Up, Right, Down	 Down. The concept of
+regretted	Left, Down, Up, Right	 Down. The concept of
+regretted	Left, Down, Right, Up	 Down. The concept of
+regretted	Left, Right, Up, Down	 Down. The concept of
+regretted	Left, Right, Down, Up	 Down. The concept of
+regretted	Right, Up, Down, Left	 Left. The concept of
+regretted	Right, Up, Left, Down	 Down. The concept of
+regretted	Right, Down, Up, Left	 Left. The reason for
+regretted	Right, Down, Left, Up	 Down. The concept of
+regretted	Right, Left, Up, Down	 Down. The concept of
+regretted	Right, Left, Down, Up	 Down. The concept of
+rested	Up, Down, Left, Right	 Down. The concept of
+rested	Up, Down, Right, Left	 Down. This is because
+rested	Up, Left, Down, Right	 Down. This is because
+rested	Up, Left, Right, Down	 Down. This is because
+rested	Up, Right, Down, Left	 Down. This is because
+rested	Up, Right, Left, Down	 Down. This is because
+rested	Down, Up, Left, Right	 Down. The concept of
+rested	Down, Up, Right, Left	 Down. The concept of
+rested	Down, Left, Up, Right	 Down. The concept of
+rested	Down, Left, Right, Up	 Up. The concept of
+rested	Down, Right, Up, Left	 Down. The concept of
+rested	Down, Right, Left, Up	 Down. This is because
+rested	Left, Up, Down, Right	 Right. This is because
+rested	Left, Up, Right, Down	 Down. This is because
+rested	Left, Down, Up, Right	 Down. The reason for
+rested	Left, Down, Right, Up	 Up. This is because
+rested	Left, Right, Up, Down	 Down. This is because
+rested	Left, Right, Down, Up	 Down. The concept of
+rested	Right, Up, Down, Left	 Left. This is because
+rested	Right, Up, Left, Down	 Down. This is because
+rested	Right, Down, Up, Left	 Left. This is because
+rested	Right, Down, Left, Up	 Up. This is because
+rested	Right, Left, Up, Down	 Down. This is because
+rested	Right, Left, Down, Up	 Down. The concept of
+tempted	Up, Down, Left, Right	 Down. Tempted
+tempted	Up, Down, Right, Left	 Down. Tempted
+tempted	Up, Left, Down, Right	 Right. Tempted
+tempted	Up, Left, Right, Down	 Down. Tempted
+tempted	Up, Right, Down, Left	 Down. Tempted
+tempted	Up, Right, Left, Down	 Down. Tempted
+tempted	Down, Up, Left, Right	 Down. Tempted
+tempted	Down, Up, Right, Left	 Down. Tempted
+tempted	Down, Left, Up, Right	 Up. Tempted
+tempted	Down, Left, Right, Up	 Up. Tempted
+tempted	Down, Right, Up, Left	 Up. Tempted
+tempted	Down, Right, Left, Up	 Up. Tempted
+tempted	Left, Up, Down, Right	 Right. Tempted
+tempted	Left, Up, Right, Down	 Down. Tempted
+tempted	Left, Down, Up, Right	 Right. Tempted
+tempted	Left, Down, Right, Up	 Down. Tempted
+tempted	Left, Right, Up, Down	 Down. Tempted
+tempted	Left, Right, Down, Up	 Down. Tempted
+tempted	Right, Up, Down, Left	 Left. Tempted
+tempted	Right, Up, Left, Down	 Down. Tempted
+tempted	Right, Down, Up, Left	 Down. Tempted
+tempted	Right, Down, Left, Up	 Up. Tempted
+tempted	Right, Left, Up, Down	 Down. Tempted
+tempted	Right, Left, Down, Up	 Down. Tempted
+wanted	Up, Down, Left, Right	 Up. The concept of
+wanted	Up, Down, Right, Left	 Up. The concept of
+wanted	Up, Left, Down, Right	 Right. This is because
+wanted	Up, Left, Right, Down	 Down. This is because
+wanted	Up, Right, Down, Left	 Up. The concept of
+wanted	Up, Right, Left, Down	 Up. The concept of
+wanted	Down, Up, Left, Right	 Up. The concept of
+wanted	Down, Up, Right, Left	 Up. This is because
+wanted	Down, Left, Up, Right	 Up. The concept of
+wanted	Down, Left, Right, Up	 Up. The concept of
+wanted	Down, Right, Up, Left	 Up. This is because
+wanted	Down, Right, Left, Up	 Up. This is because
+wanted	Left, Up, Down, Right	 Right. This is because
+wanted	Left, Up, Right, Down	 Down. This is because
+wanted	Left, Down, Up, Right	 Right. This is because
+wanted	Left, Down, Right, Up	 Up. When we want
+wanted	Left, Right, Up, Down	 Right. The reason for
+wanted	Left, Right, Down, Up	 Down. When we want
+wanted	Right, Up, Down, Left	 Left. This is because
+wanted	Right, Up, Left, Down	 Down. This is because
+wanted	Right, Down, Up, Left	 Left. This is because
+wanted	Right, Down, Left, Up	 Up. This is because
+wanted	Right, Left, Up, Down	 Right. The reason for
+wanted	Right, Left, Down, Up	 Down. When we want
+hoped	Up, Down, Left, Right	 Up. The concept of
+hoped	Up, Down, Right, Left	 Up. The concept of
+hoped	Up, Left, Down, Right	 Right. The concept of
+hoped	Up, Left, Right, Down	 Down. The concept of
+hoped	Up, Right, Down, Left	 Up. The concept of
+hoped	Up, Right, Left, Down	 Up. The concept of
+hoped	Down, Up, Left, Right	 Up. The concept of
+hoped	Down, Up, Right, Left	 Up. The concept of
+hoped	Down, Left, Up, Right	 Up. The concept of
+hoped	Down, Left, Right, Up	 Up. The concept of
+hoped	Down, Right, Up, Left	 Up. The concept of
+hoped	Down, Right, Left, Up	 Up. The concept of
+hoped	Left, Up, Down, Right	 Right. The concept of
+hoped	Left, Up, Right, Down	 Down. The concept of
+hoped	Left, Down, Up, Right	 Up. The concept of
+hoped	Left, Down, Right, Up	 Up. The concept of
+hoped	Left, Right, Up, Down	 Up. The concept of
+hoped	Left, Right, Down, Up	 Up. The concept of
+hoped	Right, Up, Down, Left	 Left. The concept of
+hoped	Right, Up, Left, Down	 Down. The concept of
+hoped	Right, Down, Up, Left	 Up. The concept of
+hoped	Right, Down, Left, Up	 Up. The concept of
+hoped	Right, Left, Up, Down	 Right. The concept of
+hoped	Right, Left, Down, Up	 Up. The concept of
+increased	Up, Down, Left, Right	 Up. The event that
+increased	Up, Down, Right, Left	 Up. The event that
+increased	Up, Left, Down, Right	 Up. The event that
+increased	Up, Left, Right, Down	 Up. The event that
+increased	Up, Right, Down, Left	 Up. The event that
+increased	Up, Right, Left, Down	 Up. The event that
+increased	Down, Up, Left, Right	 Up. The event that
+increased	Down, Up, Right, Left	 Up. The event that
+increased	Down, Left, Up, Right	 Up. The event that
+increased	Down, Left, Right, Up	 Up. The event that
+increased	Down, Right, Up, Left	 Up. The event that
+increased	Down, Right, Left, Up	 Up. The event that
+increased	Left, Up, Down, Right	 Up. The event that
+increased	Left, Up, Right, Down	 Up. The event that
+increased	Left, Down, Up, Right	 Up. The event that
+increased	Left, Down, Right, Up	 Up. The event that
+increased	Left, Right, Up, Down	 Up. The event that
+increased	Left, Right, Down, Up	 Up. The event that
+increased	Right, Up, Down, Left	 Up. The event that
+increased	Right, Up, Left, Down	 Up. The event of
+increased	Right, Down, Up, Left	 Up. The event that
+increased	Right, Down, Left, Up	 Up. The event that
+increased	Right, Left, Up, Down	 Up. The event that
+increased	Right, Left, Down, Up	 Up. The event that
+obeyed	Up, Down, Left, Right	 Down. Obeying
+obeyed	Up, Down, Right, Left	 Down. Obeying
+obeyed	Up, Left, Down, Right	 Down. This is because
+obeyed	Up, Left, Right, Down	 Down. This is because
+obeyed	Up, Right, Down, Left	 Down. Obeying
+obeyed	Up, Right, Left, Down	 Down. This is because
+obeyed	Down, Up, Left, Right	 Down. Obeying
+obeyed	Down, Up, Right, Left	 Down. The concept of
+obeyed	Down, Left, Up, Right	 Up. The concept of
+obeyed	Down, Left, Right, Up	 Up. This is because
+obeyed	Down, Right, Up, Left	 Down. The concept of
+obeyed	Down, Right, Left, Up	 Down. The concept of
+obeyed	Left, Up, Down, Right	 Right. This is because
+obeyed	Left, Up, Right, Down	 Down. This is because
+obeyed	Left, Down, Up, Right	 Down. Obeying
+obeyed	Left, Down, Right, Up	 Down. Obeying
+obeyed	Left, Right, Up, Down	 Down. This is because
+obeyed	Left, Right, Down, Up	 Down. Obeying
+obeyed	Right, Up, Down, Left	 Left. This is because
+obeyed	Right, Up, Left, Down	 Down. This is because
+obeyed	Right, Down, Up, Left	 Left. This is because
+obeyed	Right, Down, Left, Up	 Up. This is because
+obeyed	Right, Left, Up, Down	 Down. This is because
+obeyed	Right, Left, Down, Up	 Down. Obeying
+respected	Up, Down, Left, Right	 Up. Respected is
+respected	Up, Down, Right, Left	 Up. Respected is
+respected	Up, Left, Down, Right	 Right. The event that
+respected	Up, Left, Right, Down	 Up. Respected is
+respected	Up, Right, Down, Left	 Up. Respected is
+respected	Up, Right, Left, Down	 Up. Respected is
+respected	Down, Up, Left, Right	 Up. The event that
+respected	Down, Up, Right, Left	 Up. The event that
+respected	Down, Left, Up, Right	 Up. The event that
+respected	Down, Left, Right, Up	 Up. The event that
+respected	Down, Right, Up, Left	 Up. The event that
+respected	Down, Right, Left, Up	 Up. The event that
+respected	Left, Up, Down, Right	 Right. The event that
+respected	Left, Up, Right, Down	 Down. The event of
+respected	Left, Down, Up, Right	 Up. The event that
+respected	Left, Down, Right, Up	 Up. The event that
+respected	Left, Right, Up, Down	 Up. The event that
+respected	Left, Right, Down, Up	 Up. The event that
+respected	Right, Up, Down, Left	 Left. The event that
+respected	Right, Up, Left, Down	 Down. The event of
+respected	Right, Down, Up, Left	 Up. The event of
+respected	Right, Down, Left, Up	 Up. The event that
+respected	Right, Left, Up, Down	 Up. Respected is
+respected	Right, Left, Down, Up	 Up. The event that
+succeeded	Up, Down, Left, Right	 Up. The event of
+succeeded	Up, Down, Right, Left	 Up. This is because
+succeeded	Up, Left, Down, Right	 Up. The event of
+succeeded	Up, Left, Right, Down	 Up. The reason for
+succeeded	Up, Right, Down, Left	 Up. The reason for
+succeeded	Up, Right, Left, Down	 Up. This is because
+succeeded	Down, Up, Left, Right	 Up. The event of
+succeeded	Down, Up, Right, Left	 Up. The event of
+succeeded	Down, Left, Up, Right	 Up. The event of
+succeeded	Down, Left, Right, Up	 Up. The reason for
+succeeded	Down, Right, Up, Left	 Up. The reason for
+succeeded	Down, Right, Left, Up	 Up. This is because
+succeeded	Left, Up, Down, Right	 Right. This is because
+succeeded	Left, Up, Right, Down	 Up. The reason for
+succeeded	Left, Down, Up, Right	 Up. The event of
+succeeded	Left, Down, Right, Up	 Up. The event of
+succeeded	Left, Right, Up, Down	 Up. The reason for
+succeeded	Left, Right, Down, Up	 Up. The event of
+succeeded	Right, Up, Down, Left	 Up. The reason for
+succeeded	Right, Up, Left, Down	 Up. The reason for
+succeeded	Right, Down, Up, Left	 Up. The reason for
+succeeded	Right, Down, Left, Up	 Up. The concept of
+succeeded	Right, Left, Up, Down	 Up. This is because
+succeeded	Right, Left, Down, Up	 Up. This is because

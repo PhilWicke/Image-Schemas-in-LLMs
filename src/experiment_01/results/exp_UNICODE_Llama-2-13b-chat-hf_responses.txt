@@ -1,0 +1,1698 @@
+fled	↑, ↓, ←, →	 ↑. The word
+fled	↑, ↓, →, ←	 ↑. The word
+fled	↑, ←, ↓, →	 ↑.
+
+
+fled	↑, ←, →, ↓	 ↑.
+
+
+fled	↑, →, ↓, ←	 ↑.
+
+
+fled	↑, →, ←, ↓	 ↑.
+
+
+fled	↓, ↑, ←, →	 ↓.
+
+
+fled	↓, ↑, →, ←	 →.
+
+The
+fled	↓, ←, ↑, →	 ↓.
+
+
+fled	↓, ←, →, ↑	 ↓.
+
+
+fled	↓, →, ↑, ←	 →.
+
+The
+fled	↓, →, ←, ↑	 ↓.
+
+
+fled	←, ↑, ↓, →	 →.
+
+The
+fled	←, ↑, →, ↓	 ←
+
+The
+fled	←, ↓, ↑, →	 ←.
+
+
+fled	←, ↓, →, ↑	 ↓.
+
+
+fled	←, →, ↑, ↓	 ←.
+
+
+fled	←, →, ↓, ↑	 ←.
+
+
+fled	→, ↑, ↓, ←	 →.
+
+The
+fled	→, ↑, ←, ↓	 →.
+
+The
+fled	→, ↓, ↑, ←	 →.
+
+The
+fled	→, ↓, ←, ↑	 →.
+
+The
+fled	→, ←, ↑, ↓	 →.
+
+The
+fled	→, ←, ↓, ↑	 →.
+
+The
+pointed at	↑, ↓, ←, →	 ←.
+
+
+pointed at	↑, ↓, →, ←	 →.
+
+The
+pointed at	↑, ←, ↓, →	 ↓.
+
+
+pointed at	↑, ←, →, ↓	 ↓.
+
+
+pointed at	↑, →, ↓, ←	 →.
+
+The
+pointed at	↑, →, ←, ↓	 ↓.
+
+
+pointed at	↓, ↑, ←, →	 →.
+
+The
+pointed at	↓, ↑, →, ←	 →.
+
+The
+pointed at	↓, ←, ↑, →	 ↓.
+
+
+pointed at	↓, ←, →, ↑	 ↓.
+
+
+pointed at	↓, →, ↑, ←	 →.
+
+The
+pointed at	↓, →, ←, ↑	 →.
+
+The
+pointed at	←, ↑, ↓, →	 →.
+
+The
+pointed at	←, ↑, →, ↓	 ←.
+
+
+pointed at	←, ↓, ↑, →	 →.
+
+The
+pointed at	←, ↓, →, ↑	 →.
+
+The
+pointed at	←, →, ↑, ↓	 →.
+
+The
+pointed at	←, →, ↓, ↑	 ←.
+
+
+pointed at	→, ↑, ↓, ←	 →.
+
+The
+pointed at	→, ↑, ←, ↓	 →.
+
+The
+pointed at	→, ↓, ↑, ←	 →.
+
+The
+pointed at	→, ↓, ←, ↑	 →.
+
+The
+pointed at	→, ←, ↑, ↓	 →.
+
+The
+pointed at	→, ←, ↓, ↑	 →.
+
+The
+pulled	↑, ↓, ←, →	 ↑.
+
+
+pulled	↑, ↓, →, ←	 ↑.
+
+
+pulled	↑, ←, ↓, →	 ↑.
+
+
+pulled	↑, ←, →, ↓	 ↑.
+
+
+pulled	↑, →, ↓, ←	 ↑.
+
+
+pulled	↑, →, ←, ↓	 ↑.
+
+
+pulled	↓, ↑, ←, →	 ↓.
+
+
+pulled	↓, ↑, →, ←	 ↓.
+
+
+pulled	↓, ←, ↑, →	 ↓.
+
+
+pulled	↓, ←, →, ↑	 ↓.
+
+
+pulled	↓, →, ↑, ←	 ↓.
+
+
+pulled	↓, →, ←, ↑	 ↓.
+
+
+pulled	←, ↑, ↓, →	 ←
+
+The
+pulled	←, ↑, →, ↓	 ←
+
+The
+pulled	←, ↓, ↑, →	 ←
+
+The
+pulled	←, ↓, →, ↑	 ←
+
+The
+pulled	←, →, ↑, ↓	 ←
+
+The
+pulled	←, →, ↓, ↑	 ←
+
+The
+pulled	→, ↑, ↓, ←	 →.
+
+The
+pulled	→, ↑, ←, ↓	 →.
+
+The
+pulled	→, ↓, ↑, ←	 →.
+
+The
+pulled	→, ↓, ←, ↑	 →.
+
+The
+pulled	→, ←, ↑, ↓	 →.
+
+The
+pulled	→, ←, ↓, ↑	 →.
+
+The
+pushed	↑, ↓, ←, →	 ←
+
+The
+pushed	↑, ↓, →, ←	 ←.
+
+
+pushed	↑, ←, ↓, →	 ←
+
+The
+pushed	↑, ←, →, ↓	 ←
+
+The
+pushed	↑, →, ↓, ←	 ←.
+
+
+pushed	↑, →, ←, ↓	 ←.
+
+
+pushed	↓, ↑, ←, →	 ←.
+
+
+pushed	↓, ↑, →, ←	 ↓.
+
+
+pushed	↓, ←, ↑, →	 ←
+
+The
+pushed	↓, ←, →, ↑	 ←
+
+The
+pushed	↓, →, ↑, ←	 ↓.
+
+
+pushed	↓, →, ←, ↑	 ↓.
+
+
+pushed	←, ↑, ↓, →	 ←.
+
+
+pushed	←, ↑, →, ↓	 ←.
+
+
+pushed	←, ↓, ↑, →	 ←.
+
+
+pushed	←, ↓, →, ↑	 ←.
+
+
+pushed	←, →, ↑, ↓	 ←.
+
+
+pushed	←, →, ↓, ↑	 ←.
+
+
+pushed	→, ↑, ↓, ←	 →.
+
+The
+pushed	→, ↑, ←, ↓	 →.
+
+The
+pushed	→, ↓, ↑, ←	 →.
+
+The
+pushed	→, ↓, ←, ↑	 →.
+
+The
+pushed	→, ←, ↑, ↓	 →.
+
+The
+pushed	→, ←, ↓, ↑	 →.
+
+The
+walked	↑, ↓, ←, →	 ↑.
+
+
+walked	↑, ↓, →, ←	 ↑.
+
+
+walked	↑, ←, ↓, →	 ↑.
+
+
+walked	↑, ←, →, ↓	 ↑
+
+The
+walked	↑, →, ↓, ←	 ↑
+
+The
+walked	↑, →, ←, ↓	 ↑
+
+The
+walked	↓, ↑, ←, →	 ←.
+
+
+walked	↓, ↑, →, ←	 ↓. Walking
+walked	↓, ←, ↑, →	 ←
+
+The
+walked	↓, ←, →, ↑	 ←
+
+The
+walked	↓, →, ↑, ←	 ↓
+
+The
+walked	↓, →, ←, ↑	 ↓
+
+The
+walked	←, ↑, ↓, →	 ←
+
+The
+walked	←, ↑, →, ↓	 ←
+
+The
+walked	←, ↓, ↑, →	 ←
+
+The
+walked	←, ↓, →, ↑	 ←
+
+The
+walked	←, →, ↑, ↓	 ←
+
+The
+walked	←, →, ↓, ↑	 ←.
+
+
+walked	→, ↑, ↓, ←	 →.
+
+The
+walked	→, ↑, ←, ↓	 →. Walking is
+walked	→, ↓, ↑, ←	 →. Walking is
+walked	→, ↓, ←, ↑	 →. Walking is
+walked	→, ←, ↑, ↓	 →. Walking is
+walked	→, ←, ↓, ↑	 →. Walking is
+hunted	↑, ↓, ←, →	 ↓. The arrow
+hunted	↑, ↓, →, ←	 ↓. The arrow
+hunted	↑, ←, ↓, →	 ↓.
+
+
+hunted	↑, ←, →, ↓	 ↓.
+
+
+hunted	↑, →, ↓, ←	 ↓.
+
+
+hunted	↑, →, ←, ↓	 ↓.
+
+
+hunted	↓, ↑, ←, →	 ↓. This arrow
+hunted	↓, ↑, →, ←	 ↓. This arrow
+hunted	↓, ←, ↑, →	 ↓.
+
+
+hunted	↓, ←, →, ↑	 ↓.
+
+
+hunted	↓, →, ↑, ←	 ↓. This arrow
+hunted	↓, →, ←, ↑	 ↓. This arrow
+hunted	←, ↑, ↓, →	 ↓.
+
+
+hunted	←, ↑, →, ↓	 ↓.
+
+
+hunted	←, ↓, ↑, →	 ↓. The arrow
+hunted	←, ↓, →, ↑	 ↓. The arrow
+hunted	←, →, ↑, ↓	 ↓.
+
+
+hunted	←, →, ↓, ↑	 ↓.
+
+
+hunted	→, ↑, ↓, ←	 →. This is because
+hunted	→, ↑, ←, ↓	 →. This is because
+hunted	→, ↓, ↑, ←	 →. This is because
+hunted	→, ↓, ←, ↑	 →. This is because
+hunted	→, ←, ↑, ↓	 →. This is because
+hunted	→, ←, ↓, ↑	 →. This is because
+impacted	↑, ↓, ←, →	 ↓.
+
+
+impacted	↑, ↓, →, ←	 ↓.
+
+
+impacted	↑, ←, ↓, →	 ↓.
+
+
+impacted	↑, ←, →, ↓	 ↓.
+
+
+impacted	↑, →, ↓, ←	 ↓.
+
+
+impacted	↑, →, ←, ↓	 ↓.
+
+
+impacted	↓, ↑, ←, →	 ↓.
+
+
+impacted	↓, ↑, →, ←	 ↓.
+
+
+impacted	↓, ←, ↑, →	 ↓.
+
+
+impacted	↓, ←, →, ↑	 ↓.
+
+
+impacted	↓, →, ↑, ←	 ↓.
+
+
+impacted	↓, →, ←, ↑	 ↓.
+
+
+impacted	←, ↑, ↓, →	 ↓.
+
+
+impacted	←, ↑, →, ↓	 ↓.
+
+
+impacted	←, ↓, ↑, →	 ↓.
+
+
+impacted	←, ↓, →, ↑	 ↓.
+
+
+impacted	←, →, ↑, ↓	 ←.
+
+
+impacted	←, →, ↓, ↑	 ↓.
+
+
+impacted	→, ↑, ↓, ←	 →.
+
+The
+impacted	→, ↑, ←, ↓	 →.
+
+The
+impacted	→, ↓, ↑, ←	 →.
+
+The
+impacted	→, ↓, ←, ↑	 →.
+
+The
+impacted	→, ←, ↑, ↓	 →.
+
+The
+impacted	→, ←, ↓, ↑	 →.
+
+The
+perched	↑, ↓, ←, →	 ↓.
+
+
+perched	↑, ↓, →, ←	 ↓.
+
+
+perched	↑, ←, ↓, →	 ↓.
+
+
+perched	↑, ←, →, ↓	 ↓.
+
+
+perched	↑, →, ↓, ←	 ↓.
+
+
+perched	↑, →, ←, ↓	 ↓.
+
+
+perched	↓, ↑, ←, →	 ↓.
+
+
+perched	↓, ↑, →, ←	 ↓.
+
+
+perched	↓, ←, ↑, →	 ↓.
+
+
+perched	↓, ←, →, ↑	 ↓.
+
+
+perched	↓, →, ↑, ←	 ↓.
+
+
+perched	↓, →, ←, ↑	 ↓.
+
+
+perched	←, ↑, ↓, →	 ←.
+
+
+perched	←, ↑, →, ↓	 ↓.
+
+
+perched	←, ↓, ↑, →	 ↓.
+
+
+perched	←, ↓, →, ↑	 ↓.
+
+
+perched	←, →, ↑, ↓	 ↓.
+
+
+perched	←, →, ↓, ↑	 ↓.
+
+
+perched	→, ↑, ↓, ←	 →.
+
+The
+perched	→, ↑, ←, ↓	 →.
+
+The
+perched	→, ↓, ↑, ←	 →.
+
+The
+perched	→, ↓, ←, ↑	 →.
+
+The
+perched	→, ←, ↑, ↓	 ↓.
+
+
+perched	→, ←, ↓, ↑	 →.
+
+The
+showed	↑, ↓, ←, →	 ↓.
+
+
+showed	↑, ↓, →, ←	 →.
+
+The
+showed	↑, ←, ↓, →	 ↓.
+
+
+showed	↑, ←, →, ↓	 ↓.
+
+
+showed	↑, →, ↓, ←	 →. The arrow →
+showed	↑, →, ←, ↓	 →. The arrow →
+showed	↓, ↑, ←, →	 →.
+
+The
+showed	↓, ↑, →, ←	 →.
+
+The
+showed	↓, ←, ↑, →	 ↓.
+
+
+showed	↓, ←, →, ↑	 ↓.
+
+
+showed	↓, →, ↑, ←	 →. The arrow →
+showed	↓, →, ←, ↑	 →. The arrow →
+showed	←, ↑, ↓, →	 →.
+
+The
+showed	←, ↑, →, ↓	 ←.
+
+
+showed	←, ↓, ↑, →	 ←.
+
+
+showed	←, ↓, →, ↑	 ←.
+
+
+showed	←, →, ↑, ↓	 →. The arrow →
+showed	←, →, ↓, ↑	 ←.
+
+
+showed	→, ↑, ↓, ←	 →. This arrow represents
+showed	→, ↑, ←, ↓	 →. The arrow →
+showed	→, ↓, ↑, ←	 →. This arrow represents
+showed	→, ↓, ←, ↑	 →. The arrow →
+showed	→, ←, ↑, ↓	 →. The arrow →
+showed	→, ←, ↓, ↑	 →. This arrow represents
+smashed	↑, ↓, ←, →	 ↓. The arrow
+smashed	↑, ↓, →, ←	 ↓. The arrow
+smashed	↑, ←, ↓, →	 ↓.
+
+
+smashed	↑, ←, →, ↓	 ↓.
+
+
+smashed	↑, →, ↓, ←	 ↓.
+
+
+smashed	↑, →, ←, ↓	 ↓.
+
+
+smashed	↓, ↑, ←, →	 ↓. This arrow
+smashed	↓, ↑, →, ←	 ↓. This arrow
+smashed	↓, ←, ↑, →	 ↓.
+
+
+smashed	↓, ←, →, ↑	 ↓. The arrow
+smashed	↓, →, ↑, ←	 ↓. This arrow
+smashed	↓, →, ←, ↑	 ↓. This arrow
+smashed	←, ↑, ↓, →	 ↓. The arrow
+smashed	←, ↑, →, ↓	 ↓.
+
+
+smashed	←, ↓, ↑, →	 ↓. The arrow
+smashed	←, ↓, →, ↑	 ↓. The arrow
+smashed	←, →, ↑, ↓	 ↓.
+
+
+smashed	←, →, ↓, ↑	 ↓. The arrow
+smashed	→, ↑, ↓, ←	 →. The arrow →
+smashed	→, ↑, ←, ↓	 →. The arrow →
+smashed	→, ↓, ↑, ←	 →. The arrow →
+smashed	→, ↓, ←, ↑	 →. The arrow →
+smashed	→, ←, ↑, ↓	 →. The arrow →
+smashed	→, ←, ↓, ↑	 →. The arrow →
+bombed	↑, ↓, ←, →	 ↓. This is
+bombed	↑, ↓, →, ←	 ↓. This is
+bombed	↑, ←, ↓, →	 ↓.
+
+
+bombed	↑, ←, →, ↓	 ↓.
+
+
+bombed	↑, →, ↓, ←	 ↓.
+
+
+bombed	↑, →, ←, ↓	 ↓.
+
+
+bombed	↓, ↑, ←, →	 ↓. This is
+bombed	↓, ↑, →, ←	 ↓. This is
+bombed	↓, ←, ↑, →	 ↓. This is
+bombed	↓, ←, →, ↑	 ↓. This arrow
+bombed	↓, →, ↑, ←	 ↓. This is
+bombed	↓, →, ←, ↑	 ↓. This is
+bombed	←, ↑, ↓, →	 ↓.
+
+
+bombed	←, ↑, →, ↓	 ↓.
+
+
+bombed	←, ↓, ↑, →	 ↓. The arrow
+bombed	←, ↓, →, ↑	 ↓. The arrow
+bombed	←, →, ↑, ↓	 ↓.
+
+
+bombed	←, →, ↓, ↑	 ↓. The arrow
+bombed	→, ↑, ↓, ←	 →. The arrow →
+bombed	→, ↑, ←, ↓	 →. The arrow →
+bombed	→, ↓, ↑, ←	 →. This is because
+bombed	→, ↓, ←, ↑	 →. The arrow →
+bombed	→, ←, ↑, ↓	 →. The arrow →
+bombed	→, ←, ↓, ↑	 →. This is because
+flew	↑, ↓, ←, →	 ↑. This is
+flew	↑, ↓, →, ←	 ↑. This is
+flew	↑, ←, ↓, →	 ↑. This is
+flew	↑, ←, →, ↓	 ↑. This is
+flew	↑, →, ↓, ←	 ↑. This is
+flew	↑, →, ←, ↓	 ↑. This is
+flew	↓, ↑, ←, →	 ↓. This is
+flew	↓, ↑, →, ←	 ↓. This is
+flew	↓, ←, ↑, →	 ↓. This is
+flew	↓, ←, →, ↑	 ↓. The word
+flew	↓, →, ↑, ←	 ↓. This is
+flew	↓, →, ←, ↑	 ↓. This is
+flew	←, ↑, ↓, →	 ↑. The word
+flew	←, ↑, →, ↓	 ↑. The word
+flew	←, ↓, ↑, →	 ↑. The word
+flew	←, ↓, →, ↑	 ←. The word
+flew	←, →, ↑, ↓	 ←. The word
+flew	←, →, ↓, ↑	 ←. The word
+flew	→, ↑, ↓, ←	 →. This arrow represents
+flew	→, ↑, ←, ↓	 →. This arrow represents
+flew	→, ↓, ↑, ←	 →. This is because
+flew	→, ↓, ←, ↑	 →. This is because
+flew	→, ←, ↑, ↓	 →. This arrow represents
+flew	→, ←, ↓, ↑	 →. This arrow represents
+floated	↑, ↓, ←, →	 ↓.
+
+
+floated	↑, ↓, →, ←	 ↓.
+
+
+floated	↑, ←, ↓, →	 ↓.
+
+
+floated	↑, ←, →, ↓	 ↓.
+
+
+floated	↑, →, ↓, ←	 ↓.
+
+
+floated	↑, →, ←, ↓	 ↓.
+
+
+floated	↓, ↑, ←, →	 ↓.
+
+
+floated	↓, ↑, →, ←	 ↓.
+
+
+floated	↓, ←, ↑, →	 ↓.
+
+
+floated	↓, ←, →, ↑	 ↓.
+
+
+floated	↓, →, ↑, ←	 ↓.
+
+
+floated	↓, →, ←, ↑	 ↓.
+
+
+floated	←, ↑, ↓, →	 ↓.
+
+
+floated	←, ↑, →, ↓	 ↓.
+
+
+floated	←, ↓, ↑, →	 ↓.
+
+
+floated	←, ↓, →, ↑	 ↓.
+
+
+floated	←, →, ↑, ↓	 ↓.
+
+
+floated	←, →, ↓, ↑	 ↓.
+
+
+floated	→, ↑, ↓, ←	 →.
+
+The
+floated	→, ↑, ←, ↓	 →.
+
+The
+floated	→, ↓, ↑, ←	 →.
+
+The
+floated	→, ↓, ←, ↑	 →.
+
+The
+floated	→, ←, ↑, ↓	 →.
+
+The
+floated	→, ←, ↓, ↑	 →.
+
+The
+lifted	↑, ↓, ←, →	 ↑.
+
+
+lifted	↑, ↓, →, ←	 ↑.
+
+
+lifted	↑, ←, ↓, →	 ↑.
+
+
+lifted	↑, ←, →, ↓	 ↑.
+
+
+lifted	↑, →, ↓, ←	 ↑.
+
+
+lifted	↑, →, ←, ↓	 ↑.
+
+
+lifted	↓, ↑, ←, →	 ↑.
+
+
+lifted	↓, ↑, →, ←	 ↑.
+
+
+lifted	↓, ←, ↑, →	 ↑.
+
+
+lifted	↓, ←, →, ↑	 ↑.
+
+
+lifted	↓, →, ↑, ←	 ↑.
+
+
+lifted	↓, →, ←, ↑	 ↑.
+
+
+lifted	←, ↑, ↓, →	 ↑.
+
+
+lifted	←, ↑, →, ↓	 ↑.
+
+
+lifted	←, ↓, ↑, →	 ↑.
+
+
+lifted	←, ↓, →, ↑	 ↑.
+
+
+lifted	←, →, ↑, ↓	 ↑.
+
+
+lifted	←, →, ↓, ↑	 ↑.
+
+
+lifted	→, ↑, ↓, ←	 →.
+
+The
+lifted	→, ↑, ←, ↓	 →.
+
+The
+lifted	→, ↓, ↑, ←	 →.
+
+The
+lifted	→, ↓, ←, ↑	 →.
+
+The
+lifted	→, ←, ↑, ↓	 →.
+
+The
+lifted	→, ←, ↓, ↑	 →.
+
+The
+sank	↑, ↓, ←, →	 ↓.
+
+
+sank	↑, ↓, →, ←	 ↓.
+
+
+sank	↑, ←, ↓, →	 ↓.
+
+
+sank	↑, ←, →, ↓	 ↓.
+
+
+sank	↑, →, ↓, ←	 ↓.
+
+
+sank	↑, →, ←, ↓	 ↓.
+
+
+sank	↓, ↑, ←, →	 ↓.
+
+
+sank	↓, ↑, →, ←	 ↓.
+
+
+sank	↓, ←, ↑, →	 ↓.
+
+
+sank	↓, ←, →, ↑	 ↓.
+
+
+sank	↓, →, ↑, ←	 ↓.
+
+
+sank	↓, →, ←, ↑	 ↓.
+
+
+sank	←, ↑, ↓, →	 ↓.
+
+
+sank	←, ↑, →, ↓	 ↓.
+
+
+sank	←, ↓, ↑, →	 ↓.
+
+
+sank	←, ↓, →, ↑	 ↓. The word
+sank	←, →, ↑, ↓	 ↓.
+
+
+sank	←, →, ↓, ↑	 ↓.
+
+
+sank	→, ↑, ↓, ←	 ↓.
+
+
+sank	→, ↑, ←, ↓	 ↓.
+
+
+sank	→, ↓, ↑, ←	 →.
+
+The
+sank	→, ↓, ←, ↑	 ↓.
+
+
+sank	→, ←, ↑, ↓	 ↓.
+
+
+sank	→, ←, ↓, ↑	 ↓.
+
+
+argued with	↑, ↓, ←, →	 ↓. This is
+argued with	↑, ↓, →, ←	 ↓. This is
+argued with	↑, ←, ↓, →	 ↓.
+
+
+argued with	↑, ←, →, ↓	 ↓.
+
+
+argued with	↑, →, ↓, ←	 ↓. This is
+argued with	↑, →, ←, ↓	 ↓. This is
+argued with	↓, ↑, ←, →	 ↓. This is
+argued with	↓, ↑, →, ←	 ↓. This is
+argued with	↓, ←, ↑, →	 ↓. This is
+argued with	↓, ←, →, ↑	 ↓. This is
+argued with	↓, →, ↑, ←	 ↓. This is
+argued with	↓, →, ←, ↑	 ↓. This is
+argued with	←, ↑, ↓, →	 ←. This is
+argued with	←, ↑, →, ↓	 ←. This is
+argued with	←, ↓, ↑, →	 ↓. The arrow
+argued with	←, ↓, →, ↑	 ↓. The arrow
+argued with	←, →, ↑, ↓	 ←. This is
+argued with	←, →, ↓, ↑	 ←. This is
+argued with	→, ↑, ↓, ←	 →. This is because
+argued with	→, ↑, ←, ↓	 →. This is because
+argued with	→, ↓, ↑, ←	 →. This is because
+argued with	→, ↓, ←, ↑	 →. This is because
+argued with	→, ←, ↑, ↓	 →. This is because
+argued with	→, ←, ↓, ↑	 →. This is because
+gave to	↑, ↓, ←, →	 ↓. The arrow
+gave to	↑, ↓, →, ←	 ↓. The arrow
+gave to	↑, ←, ↓, →	 ↓.
+
+
+gave to	↑, ←, →, ↓	 ↓.
+
+
+gave to	↑, →, ↓, ←	 ↓.
+
+
+gave to	↑, →, ←, ↓	 ↓.
+
+
+gave to	↓, ↑, ←, →	 ↓. This arrow
+gave to	↓, ↑, →, ←	 →. The arrow →
+gave to	↓, ←, ↑, →	 ↓. This arrow
+gave to	↓, ←, →, ↑	 ↓. This arrow
+gave to	↓, →, ↑, ←	 ↓. This arrow
+gave to	↓, →, ←, ↑	 ↓. This arrow
+gave to	←, ↑, ↓, →	 ←.
+
+
+gave to	←, ↑, →, ↓	 ←. The arrow
+gave to	←, ↓, ↑, →	 ←. The arrow
+gave to	←, ↓, →, ↑	 ←. The arrow
+gave to	←, →, ↑, ↓	 ←. The arrow
+gave to	←, →, ↓, ↑	 ←. This arrow
+gave to	→, ↑, ↓, ←	 →. This arrow represents
+gave to	→, ↑, ←, ↓	 →. This arrow represents
+gave to	→, ↓, ↑, ←	 →. This arrow represents
+gave to	→, ↓, ←, ↑	 →. This arrow represents
+gave to	→, ←, ↑, ↓	 →. This arrow represents
+gave to	→, ←, ↓, ↑	 →. This arrow represents
+offended	↑, ↓, ←, →	 ↓
+
+The
+offended	↑, ↓, →, ←	 ↓
+
+The
+offended	↑, ←, ↓, →	 ↓.
+
+
+offended	↑, ←, →, ↓	 ↓.
+
+
+offended	↑, →, ↓, ←	 ↓.
+
+
+offended	↑, →, ←, ↓	 ↓.
+
+
+offended	↓, ↑, ←, →	 ↓. The arrow
+offended	↓, ↑, →, ←	 ↓. The arrow
+offended	↓, ←, ↑, →	 ↓.
+
+
+offended	↓, ←, →, ↑	 ↓.
+
+
+offended	↓, →, ↑, ←	 ↓.
+
+
+offended	↓, →, ←, ↑	 ↓.
+
+
+offended	←, ↑, ↓, →	 ↓.
+
+
+offended	←, ↑, →, ↓	 ↓.
+
+
+offended	←, ↓, ↑, →	 ↓. The arrow
+offended	←, ↓, →, ↑	 ↓. The arrow
+offended	←, →, ↑, ↓	 ↓.
+
+
+offended	←, →, ↓, ↑	 ↓. The arrow
+offended	→, ↑, ↓, ←	 →. The arrow →
+offended	→, ↑, ←, ↓	 →. The arrow →
+offended	→, ↓, ↑, ←	 →. The arrow →
+offended	→, ↓, ←, ↑	 →. The arrow →
+offended	→, ←, ↑, ↓	 →. The arrow →
+offended	→, ←, ↓, ↑	 →. The arrow →
+rushed	↑, ↓, ←, →	 ↓.
+
+
+rushed	↑, ↓, →, ←	 ↓.
+
+
+rushed	↑, ←, ↓, →	 ↓.
+
+
+rushed	↑, ←, →, ↓	 ↓.
+
+
+rushed	↑, →, ↓, ←	 ↓.
+
+
+rushed	↑, →, ←, ↓	 ↓.
+
+
+rushed	↓, ↑, ←, →	 ↓. This arrow
+rushed	↓, ↑, →, ←	 ↓. This arrow
+rushed	↓, ←, ↑, →	 ↓.
+
+
+rushed	↓, ←, →, ↑	 ↓. This arrow
+rushed	↓, →, ↑, ←	 →. The arrow →
+rushed	↓, →, ←, ↑	 →. The arrow →
+rushed	←, ↑, ↓, →	 ↓.
+
+
+rushed	←, ↑, →, ↓	 ↓.
+
+
+rushed	←, ↓, ↑, →	 ↓.
+
+
+rushed	←, ↓, →, ↑	 ↓.
+
+
+rushed	←, →, ↑, ↓	 ←.
+
+
+rushed	←, →, ↓, ↑	 ←. This arrow
+rushed	→, ↑, ↓, ←	 →. This arrow represents
+rushed	→, ↑, ←, ↓	 →. This arrow represents
+rushed	→, ↓, ↑, ←	 →. This arrow represents
+rushed	→, ↓, ←, ↑	 →. This arrow represents
+rushed	→, ←, ↑, ↓	 →. This arrow represents
+rushed	→, ←, ↓, ↑	 →. This arrow represents
+warned	↑, ↓, ←, →	 ↓.
+
+
+warned	↑, ↓, →, ←	 ↓.
+
+
+warned	↑, ←, ↓, →	 ↑. This is
+warned	↑, ←, →, ↓	 ↑. This is
+warned	↑, →, ↓, ←	 ↓.
+
+
+warned	↑, →, ←, ↓	 ↑. The arrow
+warned	↓, ↑, ←, →	 ↓. This is
+warned	↓, ↑, →, ←	 ↓.
+
+
+warned	↓, ←, ↑, →	 ↓.
+
+
+warned	↓, ←, →, ↑	 ↓.
+
+
+warned	↓, →, ↑, ←	 ↓.
+
+
+warned	↓, →, ←, ↑	 ↓.
+
+
+warned	←, ↑, ↓, →	 ←.
+
+
+warned	←, ↑, →, ↓	 ←.
+
+
+warned	←, ↓, ↑, →	 ←.
+
+
+warned	←, ↓, →, ↑	 ←.
+
+
+warned	←, →, ↑, ↓	 ←.
+
+
+warned	←, →, ↓, ↑	 ←.
+
+
+warned	→, ↑, ↓, ←	 →. This is because
+warned	→, ↑, ←, ↓	 →. This is because
+warned	→, ↓, ↑, ←	 →. This is because
+warned	→, ↓, ←, ↑	 →. This is because
+warned	→, ←, ↑, ↓	 →. This is because
+warned	→, ←, ↓, ↑	 →. This is because
+owned	↑, ↓, ←, →	 ↓.
+
+
+owned	↑, ↓, →, ←	 ↓.
+
+
+owned	↑, ←, ↓, →	 ↓.
+
+
+owned	↑, ←, →, ↓	 ↓.
+
+
+owned	↑, →, ↓, ←	 ↓.
+
+
+owned	↑, →, ←, ↓	 ↓.
+
+
+owned	↓, ↑, ←, →	 ↓.
+
+
+owned	↓, ↑, →, ←	 ↓.
+
+
+owned	↓, ←, ↑, →	 ↓.
+
+
+owned	↓, ←, →, ↑	 ↓.
+
+
+owned	↓, →, ↑, ←	 ↓.
+
+
+owned	↓, →, ←, ↑	 ↓.
+
+
+owned	←, ↑, ↓, →	 ←
+
+The
+owned	←, ↑, →, ↓	 ←
+
+The
+owned	←, ↓, ↑, →	 ←
+
+The
+owned	←, ↓, →, ↑	 ←
+
+The
+owned	←, →, ↑, ↓	 ←
+
+The
+owned	←, →, ↓, ↑	 ←
+
+The
+owned	→, ↑, ↓, ←	 →.
+
+The
+owned	→, ↑, ←, ↓	 →.
+
+The
+owned	→, ↓, ↑, ←	 →.
+
+The
+owned	→, ↓, ←, ↑	 →.
+
+The
+owned	→, ←, ↑, ↓	 →.
+
+The
+owned	→, ←, ↓, ↑	 →. The arrow →
+regretted	↑, ↓, ←, →	 ↓.
+
+
+regretted	↑, ↓, →, ←	 ↓.
+
+
+regretted	↑, ←, ↓, →	 ↓.
+
+
+regretted	↑, ←, →, ↓	 ↓.
+
+
+regretted	↑, →, ↓, ←	 ↓.
+
+
+regretted	↑, →, ←, ↓	 ↓.
+
+
+regretted	↓, ↑, ←, →	 ↓.
+
+
+regretted	↓, ↑, →, ←	 ↓.
+
+
+regretted	↓, ←, ↑, →	 ↓.
+
+
+regretted	↓, ←, →, ↑	 ↓.
+
+
+regretted	↓, →, ↑, ←	 ↓.
+
+
+regretted	↓, →, ←, ↑	 ↓.
+
+
+regretted	←, ↑, ↓, →	 ←.
+
+
+regretted	←, ↑, →, ↓	 ←.
+
+
+regretted	←, ↓, ↑, →	 ↓.
+
+
+regretted	←, ↓, →, ↑	 ←.
+
+
+regretted	←, →, ↑, ↓	 ←.
+
+
+regretted	←, →, ↓, ↑	 ←.
+
+
+regretted	→, ↑, ↓, ←	 →.
+
+The
+regretted	→, ↑, ←, ↓	 →.
+
+The
+regretted	→, ↓, ↑, ←	 →.
+
+The
+regretted	→, ↓, ←, ↑	 →. The arrow →
+regretted	→, ←, ↑, ↓	 →.
+
+The
+regretted	→, ←, ↓, ↑	 →. This is because
+rested	↑, ↓, ←, →	 ↓.
+
+
+rested	↑, ↓, →, ←	 ↓.
+
+
+rested	↑, ←, ↓, →	 ↓.
+
+
+rested	↑, ←, →, ↓	 ↓.
+
+
+rested	↑, →, ↓, ←	 ↓.
+
+
+rested	↑, →, ←, ↓	 ↓.
+
+
+rested	↓, ↑, ←, →	 ↓. This is
+rested	↓, ↑, →, ←	 ↓.
+
+
+rested	↓, ←, ↑, →	 ↓.
+
+
+rested	↓, ←, →, ↑	 ↓.
+
+
+rested	↓, →, ↑, ←	 ↓.
+
+
+rested	↓, →, ←, ↑	 ↓.
+
+
+rested	←, ↑, ↓, →	 ←.
+
+
+rested	←, ↑, →, ↓	 ←
+
+The
+rested	←, ↓, ↑, →	 ←.
+
+
+rested	←, ↓, →, ↑	 ←
+
+The
+rested	←, →, ↑, ↓	 ←.
+
+
+rested	←, →, ↓, ↑	 ←.
+
+
+rested	→, ↑, ↓, ←	 →. This is because
+rested	→, ↑, ←, ↓	 →. This is because
+rested	→, ↓, ↑, ←	 →. This is because
+rested	→, ↓, ←, ↑	 ↓.
+
+
+rested	→, ←, ↑, ↓	 →. This is because
+rested	→, ←, ↓, ↑	 →. This is because
+tempted	↑, ↓, ←, →	 ↓.
+
+
+tempted	↑, ↓, →, ←	 ↓.
+
+
+tempted	↑, ←, ↓, →	 ←.
+
+
+tempted	↑, ←, →, ↓	 ←.
+
+
+tempted	↑, →, ↓, ←	 ↓.
+
+
+tempted	↑, →, ←, ↓	 ↑. The arrow
+tempted	↓, ↑, ←, →	 ↓.
+
+
+tempted	↓, ↑, →, ←	 ↓.
+
+
+tempted	↓, ←, ↑, →	 ↓.
+
+
+tempted	↓, ←, →, ↑	 ←.
+
+
+tempted	↓, →, ↑, ←	 ↓.
+
+
+tempted	↓, →, ←, ↑	 ↓.
+
+
+tempted	←, ↑, ↓, →	 ←.
+
+
+tempted	←, ↑, →, ↓	 ←.
+
+
+tempted	←, ↓, ↑, →	 ←.
+
+
+tempted	←, ↓, →, ↑	 ←.
+
+
+tempted	←, →, ↑, ↓	 ←.
+
+
+tempted	←, →, ↓, ↑	 ←.
+
+
+tempted	→, ↑, ↓, ←	 →.
+
+The
+tempted	→, ↑, ←, ↓	 →.
+
+The
+tempted	→, ↓, ↑, ←	 →.
+
+The
+tempted	→, ↓, ←, ↑	 →.
+
+The
+tempted	→, ←, ↑, ↓	 →.
+
+The
+tempted	→, ←, ↓, ↑	 →. The arrow →
+wanted	↑, ↓, ←, →	 ↓.
+
+
+wanted	↑, ↓, →, ←	 ↓.
+
+
+wanted	↑, ←, ↓, →	 ↓.
+
+
+wanted	↑, ←, →, ↓	 ↓.
+
+
+wanted	↑, →, ↓, ←	 ↓.
+
+
+wanted	↑, →, ←, ↓	 ↓.
+
+
+wanted	↓, ↑, ←, →	 ↓.
+
+
+wanted	↓, ↑, →, ←	 ↓.
+
+
+wanted	↓, ←, ↑, →	 ↓.
+
+
+wanted	↓, ←, →, ↑	 ↓.
+
+
+wanted	↓, →, ↑, ←	 ↓.
+
+
+wanted	↓, →, ←, ↑	 ↓.
+
+
+wanted	←, ↑, ↓, →	 ↓.
+
+
+wanted	←, ↑, →, ↓	 ↓.
+
+
+wanted	←, ↓, ↑, →	 ↓.
+
+
+wanted	←, ↓, →, ↑	 ↓.
+
+
+wanted	←, →, ↑, ↓	 ↓.
+
+
+wanted	←, →, ↓, ↑	 ↓.
+
+
+wanted	→, ↑, ↓, ←	 →. The arrow →
+wanted	→, ↑, ←, ↓	 →. The arrow →
+wanted	→, ↓, ↑, ←	 →. The arrow →
+wanted	→, ↓, ←, ↑	 →. The arrow →
+wanted	→, ←, ↑, ↓	 →. The arrow →
+wanted	→, ←, ↓, ↑	 →. This arrow represents
+hoped	↑, ↓, ←, →	 ↑. The word
+hoped	↑, ↓, →, ←	 ↑. The word
+hoped	↑, ←, ↓, →	 ↑. The word
+hoped	↑, ←, →, ↓	 ↑. The word
+hoped	↑, →, ↓, ←	 ↑. The word
+hoped	↑, →, ←, ↓	 ↑. The word
+hoped	↓, ↑, ←, →	 ↓.
+
+
+hoped	↓, ↑, →, ←	 ↓.
+
+
+hoped	↓, ←, ↑, →	 ↓.
+
+
+hoped	↓, ←, →, ↑	 ↓.
+
+
+hoped	↓, →, ↑, ←	 →.
+
+The
+hoped	↓, →, ←, ↑	 ↓.
+
+
+hoped	←, ↑, ↓, →	 ↑. The word
+hoped	←, ↑, →, ↓	 ↑. The word
+hoped	←, ↓, ↑, →	 ↓.
+
+
+hoped	←, ↓, →, ↑	 ↓.
+
+
+hoped	←, →, ↑, ↓	 ←.
+
+
+hoped	←, →, ↓, ↑	 ↓.
+
+
+hoped	→, ↑, ↓, ←	 →.
+
+The
+hoped	→, ↑, ←, ↓	 →. The word hoped
+hoped	→, ↓, ↑, ←	 →.
+
+The
+hoped	→, ↓, ←, ↑	 →. The arrow →
+hoped	→, ←, ↑, ↓	 →.
+
+The
+hoped	→, ←, ↓, ↑	 →. The arrow →
+increased	↑, ↓, ←, →	 ↑.
+
+
+increased	↑, ↓, →, ←	 ↑.
+
+
+increased	↑, ←, ↓, →	 ↑.
+
+
+increased	↑, ←, →, ↓	 ↑.
+
+
+increased	↑, →, ↓, ←	 ↑.
+
+
+increased	↑, →, ←, ↓	 ↑.
+
+
+increased	↓, ↑, ←, →	 ↑. The arrow
+increased	↓, ↑, →, ←	 ↑. The arrow
+increased	↓, ←, ↑, →	 ↑.
+
+
+increased	↓, ←, →, ↑	 →.
+
+The
+increased	↓, →, ↑, ←	 →.
+
+The
+increased	↓, →, ←, ↑	 ↑.
+
+
+increased	←, ↑, ↓, →	 ↑.
+
+
+increased	←, ↑, →, ↓	 ↑.
+
+
+increased	←, ↓, ↑, →	 ↑.
+
+
+increased	←, ↓, →, ↑	 ↑.
+
+
+increased	←, →, ↑, ↓	 ↑.
+
+
+increased	←, →, ↓, ↑	 ↑.
+
+
+increased	→, ↑, ↓, ←	 →.
+
+The
+increased	→, ↑, ←, ↓	 →.
+
+The
+increased	→, ↓, ↑, ←	 →.
+
+The
+increased	→, ↓, ←, ↑	 →.
+
+The
+increased	→, ←, ↑, ↓	 →.
+
+The
+increased	→, ←, ↓, ↑	 →.
+
+The
+obeyed	↑, ↓, ←, →	 ↓.
+
+
+obeyed	↑, ↓, →, ←	 ↓.
+
+
+obeyed	↑, ←, ↓, →	 ↓.
+
+
+obeyed	↑, ←, →, ↓	 ↓.
+
+
+obeyed	↑, →, ↓, ←	 →.
+
+The
+obeyed	↑, →, ←, ↓	 →.
+
+The
+obeyed	↓, ↑, ←, →	 ↓. This is
+obeyed	↓, ↑, →, ←	 ↓. This is
+obeyed	↓, ←, ↑, →	 ↓.
+
+
+obeyed	↓, ←, →, ↑	 ↓.
+
+
+obeyed	↓, →, ↑, ←	 →. The arrow →
+obeyed	↓, →, ←, ↑	 ↓. This is
+obeyed	←, ↑, ↓, →	 →.
+
+The
+obeyed	←, ↑, →, ↓	 ←.
+
+
+obeyed	←, ↓, ↑, →	 ←.
+
+
+obeyed	←, ↓, →, ↑	 ←.
+
+
+obeyed	←, →, ↑, ↓	 →. The arrow →
+obeyed	←, →, ↓, ↑	 ←. This is
+obeyed	→, ↑, ↓, ←	 →. This is because
+obeyed	→, ↑, ←, ↓	 →. This is because
+obeyed	→, ↓, ↑, ←	 →. This is because
+obeyed	→, ↓, ←, ↑	 →. This is because
+obeyed	→, ←, ↑, ↓	 →. This is because
+obeyed	→, ←, ↓, ↑	 →. This is because
+respected	↑, ↓, ←, →	 ↓
+
+I
+respected	↑, ↓, →, ←	 ↓
+
+I
+respected	↑, ←, ↓, →	 ↓.
+
+
+respected	↑, ←, →, ↓	 ↓.
+
+
+respected	↑, →, ↓, ←	 ↓.
+
+
+respected	↑, →, ←, ↓	 ↓.
+
+
+respected	↓, ↑, ←, →	 ↓.
+
+
+respected	↓, ↑, →, ←	 ↓.
+
+
+respected	↓, ←, ↑, →	 ↓.
+
+
+respected	↓, ←, →, ↑	 ↓
+
+I
+respected	↓, →, ↑, ←	 ↓.
+
+
+respected	↓, →, ←, ↑	 ↓
+
+I
+respected	←, ↑, ↓, →	 ←.
+
+
+respected	←, ↑, →, ↓	 ←
+
+The
+respected	←, ↓, ↑, →	 ↓.
+
+
+respected	←, ↓, →, ↑	 ↓.
+
+
+respected	←, →, ↑, ↓	 ←.
+
+
+respected	←, →, ↓, ↑	 ↓.
+
+
+respected	→, ↑, ↓, ←	 →.
+
+The
+respected	→, ↑, ←, ↓	 →. The arrow →
+respected	→, ↓, ↑, ←	 →.
+
+The
+respected	→, ↓, ←, ↑	 →. The arrow →
+respected	→, ←, ↑, ↓	 →.
+
+The
+respected	→, ←, ↓, ↑	 →. The arrow →
+succeeded	↑, ↓, ←, →	 ↑. The arrow
+succeeded	↑, ↓, →, ←	 ↑. The arrow
+succeeded	↑, ←, ↓, →	 ↑. The arrow
+succeeded	↑, ←, →, ↓	 ↑. The arrow
+succeeded	↑, →, ↓, ←	 ↑. The arrow
+succeeded	↑, →, ←, ↓	 ↑. The arrow
+succeeded	↓, ↑, ←, →	 ↓. The arrow
+succeeded	↓, ↑, →, ←	 →. The arrow →
+succeeded	↓, ←, ↑, →	 ↓.
+
+
+succeeded	↓, ←, →, ↑	 ↓. The arrow
+succeeded	↓, →, ↑, ←	 →. The arrow →
+succeeded	↓, →, ←, ↑	 →. The arrow →
+succeeded	←, ↑, ↓, →	 →.
+
+The
+succeeded	←, ↑, →, ↓	 ←.
+
+
+succeeded	←, ↓, ↑, →	 →.
+
+The
+succeeded	←, ↓, →, ↑	 →. The arrow →
+succeeded	←, →, ↑, ↓	 →. The arrow →
+succeeded	←, →, ↓, ↑	 ←. The arrow
+succeeded	→, ↑, ↓, ←	 →. The arrow →
+succeeded	→, ↑, ←, ↓	 →. The arrow →
+succeeded	→, ↓, ↑, ←	 →. The arrow →
+succeeded	→, ↓, ←, ↑	 →. The arrow →
+succeeded	→, ←, ↑, ↓	 →. The arrow →
+succeeded	→, ←, ↓, ↑	 →. The arrow →

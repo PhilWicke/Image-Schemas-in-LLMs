@@ -1,0 +1,1862 @@
+fled	Up, Down, Left, Right	 Right.
+
+Q
+fled	Up, Down, Right, Left	 Right.
+
+Q
+fled	Up, Left, Down, Right	 Right.
+
+Q
+fled	Up, Left, Right, Down	 Down.
+
+Q
+fled	Up, Right, Down, Left	 Down.
+
+Q
+fled	Up, Right, Left, Down	 Left.
+
+Q
+fled	Down, Up, Left, Right	 Left.
+
+Q
+fled	Down, Up, Right, Left	 Right.
+
+Q
+fled	Down, Left, Up, Right	 Right.
+
+Q
+fled	Down, Left, Right, Up	 Up.
+
+Q
+fled	Down, Right, Up, Left	 Right.
+
+Q
+fled	Down, Right, Left, Up	 Left.
+
+Q
+fled	Left, Up, Down, Right	 Right.
+
+Q
+fled	Left, Up, Right, Down	 Right.
+
+Q
+fled	Left, Down, Up, Right	 Right.
+
+Q
+fled	Left, Down, Right, Up	 Right.
+
+Q
+fled	Left, Right, Up, Down	 Down.
+
+Q
+fled	Left, Right, Down, Up	 Up.
+
+Q
+fled	Right, Up, Down, Left	 Down.
+
+Q
+fled	Right, Up, Left, Down	 Left.
+
+Q
+fled	Right, Down, Up, Left	 Left.
+
+Q
+fled	Right, Down, Left, Up	 Left.
+
+Q
+fled	Right, Left, Up, Down	 Down.
+
+Q
+fled	Right, Left, Down, Up	 Down.
+
+Q
+pointed at	Up, Down, Left, Right	 Right.
+
+Q
+pointed at	Up, Down, Right, Left	 Right.
+
+Q
+pointed at	Up, Left, Down, Right	 Right.
+
+Q
+pointed at	Up, Left, Right, Down	 Right.
+
+Q
+pointed at	Up, Right, Down, Left	 Right.
+
+Q
+pointed at	Up, Right, Left, Down	 Right.
+
+Q
+pointed at	Down, Up, Left, Right	 Right.
+
+Q
+pointed at	Down, Up, Right, Left	 Right.
+
+Q
+pointed at	Down, Left, Up, Right	 Right.
+
+Q
+pointed at	Down, Left, Right, Up	 Right.
+
+Q
+pointed at	Down, Right, Up, Left	 Right.
+
+Q
+pointed at	Down, Right, Left, Up	 Right.
+
+Q
+pointed at	Left, Up, Down, Right	 Right.
+
+Q
+pointed at	Left, Up, Right, Down	 Right.
+
+Q
+pointed at	Left, Down, Up, Right	 Right.
+
+Q
+pointed at	Left, Down, Right, Up	 Right.
+
+Q
+pointed at	Left, Right, Up, Down	 Down.
+
+Q
+pointed at	Left, Right, Down, Up	 Down.
+
+Q
+pointed at	Right, Up, Down, Left	 Down.
+
+Q
+pointed at	Right, Up, Left, Down	 Right.
+
+Q
+pointed at	Right, Down, Up, Left	 Right.
+
+Q
+pointed at	Right, Down, Left, Up	 Right.
+
+Q
+pointed at	Right, Left, Up, Down	 Right.
+
+Q
+pointed at	Right, Left, Down, Up	 Down.
+
+Q
+pulled	Up, Down, Left, Right	 Down.
+
+Q
+pulled	Up, Down, Right, Left	 Down.
+
+Q
+pulled	Up, Left, Down, Right	 Down.
+
+Q
+pulled	Up, Left, Right, Down	 Down.
+
+Q
+pulled	Up, Right, Down, Left	 Down.
+
+Q
+pulled	Up, Right, Left, Down	 Down.
+
+Q
+pulled	Down, Up, Left, Right	 Down.
+
+Q
+pulled	Down, Up, Right, Left	 Down.
+
+Q
+pulled	Down, Left, Up, Right	 Down.
+
+Q
+pulled	Down, Left, Right, Up	 Down.
+
+Q
+pulled	Down, Right, Up, Left	 Down.
+
+Q
+pulled	Down, Right, Left, Up	 Down.
+
+Q
+pulled	Left, Up, Down, Right	 Down.
+
+Q
+pulled	Left, Up, Right, Down	 Down.
+
+Q
+pulled	Left, Down, Up, Right	 Down.
+
+Q
+pulled	Left, Down, Right, Up	 Down.
+
+Q
+pulled	Left, Right, Up, Down	 Down.
+
+Q
+pulled	Left, Right, Down, Up	 Down.
+
+Q
+pulled	Right, Up, Down, Left	 Down.
+
+Q
+pulled	Right, Up, Left, Down	 Down.
+
+Q
+pulled	Right, Down, Up, Left	 Down.
+
+Q
+pulled	Right, Down, Left, Up	 Down.
+
+Q
+pulled	Right, Left, Up, Down	 Down.
+
+Q
+pulled	Right, Left, Down, Up	 Down.
+
+Q
+pushed	Up, Down, Left, Right	 Down.
+
+Q
+pushed	Up, Down, Right, Left	 Down.
+
+Q
+pushed	Up, Left, Down, Right	 Down.
+
+Q
+pushed	Up, Left, Right, Down	 Down.
+
+Q
+pushed	Up, Right, Down, Left	 Down.
+
+Q
+pushed	Up, Right, Left, Down	 Down.
+pushed	Down, Up, Left, Right	 Down.
+
+Q
+pushed	Down, Up, Right, Left	 Down.
+
+Q
+pushed	Down, Left, Up, Right	 Down.
+pushed	Down, Left, Right, Up	 Down.
+pushed	Down, Right, Up, Left	 Down.
+pushed	Down, Right, Left, Up	 Down.
+pushed	Left, Up, Down, Right	 Down.
+
+Q
+pushed	Left, Up, Right, Down	 Down.
+
+Q
+pushed	Left, Down, Up, Right	 Down.
+
+Q
+pushed	Left, Down, Right, Up	 Down.
+
+Q
+pushed	Left, Right, Up, Down	 Down.
+
+Q
+pushed	Left, Right, Down, Up	 Down.
+pushed	Right, Up, Down, Left	 Down.
+
+Q
+pushed	Right, Up, Left, Down	 Down.
+
+Q
+pushed	Right, Down, Up, Left	 Down.
+
+Q
+pushed	Right, Down, Left, Up	 Down.
+
+Q
+pushed	Right, Left, Up, Down	 Down.
+
+Q
+pushed	Right, Left, Down, Up	 Down.
+walked	Up, Down, Left, Right	 Left.
+
+Q
+walked	Up, Down, Right, Left	 Right.
+
+Q
+walked	Up, Left, Down, Right	 Down.
+
+Q
+walked	Up, Left, Right, Down	 Down.
+
+Q
+walked	Up, Right, Down, Left	 Down.
+
+Q
+walked	Up, Right, Left, Down	 Left.
+
+Q
+walked	Down, Up, Left, Right	 Left.
+
+Q
+walked	Down, Up, Right, Left	 Right.
+
+Q
+walked	Down, Left, Up, Right	 Right.
+
+Q
+walked	Down, Left, Right, Up	 Down.
+walked	Down, Right, Up, Left	 Left.
+
+Q
+walked	Down, Right, Left, Up	 Left.
+
+Q
+walked	Left, Up, Down, Right	 Right.
+
+Q
+walked	Left, Up, Right, Down	 Down.
+
+Q
+walked	Left, Down, Up, Right	 Right.
+
+Q
+walked	Left, Down, Right, Up	 Right.
+
+Q
+walked	Left, Right, Up, Down	 Down.
+
+Q
+walked	Left, Right, Down, Up	 Down.
+
+Q
+walked	Right, Up, Down, Left	 Down.
+
+Q
+walked	Right, Up, Left, Down	 Left.
+
+Q
+walked	Right, Down, Up, Left	 Left.
+
+Q
+walked	Right, Down, Left, Up	 Left.
+
+Q
+walked	Right, Left, Up, Down	 Down.
+
+Q
+walked	Right, Left, Down, Up	 Down.
+
+Q
+hunted	Up, Down, Left, Right	 Down.
+
+Q
+hunted	Up, Down, Right, Left	 Down.
+
+Q
+hunted	Up, Left, Down, Right	 Down.
+
+Q
+hunted	Up, Left, Right, Down	 Down.
+
+Q
+hunted	Up, Right, Down, Left	 Down.
+
+Q
+hunted	Up, Right, Left, Down	 Down.
+
+Q
+hunted	Down, Up, Left, Right	 Down.
+
+Q
+hunted	Down, Up, Right, Left	 Down.
+
+Q
+hunted	Down, Left, Up, Right	 Down.
+
+Q
+hunted	Down, Left, Right, Up	 Down.
+
+Q
+hunted	Down, Right, Up, Left	 Down.
+
+Q
+hunted	Down, Right, Left, Up	 Down.
+
+Q
+hunted	Left, Up, Down, Right	 Right.
+
+Q
+hunted	Left, Up, Right, Down	 Down.
+
+Q
+hunted	Left, Down, Up, Right	 Right.
+
+Q
+hunted	Left, Down, Right, Up	 Right.
+
+Q
+hunted	Left, Right, Up, Down	 Down.
+
+Q
+hunted	Left, Right, Down, Up	 Down.
+
+Q
+hunted	Right, Up, Down, Left	 Down.
+
+Q
+hunted	Right, Up, Left, Down	 Down.
+
+Q
+hunted	Right, Down, Up, Left	 Down.
+
+Q
+hunted	Right, Down, Left, Up	 Down.
+
+Q
+hunted	Right, Left, Up, Down	 Down.
+
+Q
+hunted	Right, Left, Down, Up	 Down.
+
+Q
+impacted	Up, Down, Left, Right	 Down.
+
+Q
+impacted	Up, Down, Right, Left	 Down.
+
+Q
+impacted	Up, Left, Down, Right	 Down.
+
+Q
+impacted	Up, Left, Right, Down	 Down.
+
+Q
+impacted	Up, Right, Down, Left	 Down.
+
+Q
+impacted	Up, Right, Left, Down	 Down.
+
+Q
+impacted	Down, Up, Left, Right	 Down.
+
+Q
+impacted	Down, Up, Right, Left	 Down.
+
+Q
+impacted	Down, Left, Up, Right	 Down.
+
+Q
+impacted	Down, Left, Right, Up	 Down.
+
+Q
+impacted	Down, Right, Up, Left	 Down.
+
+Q
+impacted	Down, Right, Left, Up	 Down.
+
+Q
+impacted	Left, Up, Down, Right	 Down.
+
+Q
+impacted	Left, Up, Right, Down	 Down.
+
+Q
+impacted	Left, Down, Up, Right	 Down.
+
+Q
+impacted	Left, Down, Right, Up	 Down.
+
+Q
+impacted	Left, Right, Up, Down	 Down.
+
+Q
+impacted	Left, Right, Down, Up	 Down.
+
+Q
+impacted	Right, Up, Down, Left	 Down.
+
+Q
+impacted	Right, Up, Left, Down	 Down.
+
+Q
+impacted	Right, Down, Up, Left	 Down.
+
+Q
+impacted	Right, Down, Left, Up	 Down.
+
+Q
+impacted	Right, Left, Up, Down	 Down.
+
+Q
+impacted	Right, Left, Down, Up	 Down.
+
+Q
+perched	Up, Down, Left, Right	 Down.
+
+Q
+perched	Up, Down, Right, Left	 Down.
+
+Q
+perched	Up, Left, Down, Right	 Down.
+
+Q
+perched	Up, Left, Right, Down	 Down.
+
+Q
+perched	Up, Right, Down, Left	 Down.
+
+Q
+perched	Up, Right, Left, Down	 Up.
+perched	Down, Up, Left, Right	 Down.
+
+Q
+perched	Down, Up, Right, Left	 Down.
+
+Q
+perched	Down, Left, Up, Right	 Down.
+
+Q
+perched	Down, Left, Right, Up	 Up.
+
+Q
+perched	Down, Right, Up, Left	 Up.
+
+Q
+perched	Down, Right, Left, Up	 Up.
+
+Q
+perched	Left, Up, Down, Right	 Down.
+
+Q
+perched	Left, Up, Right, Down	 Down.
+
+Q
+perched	Left, Down, Up, Right	 Down.
+
+Q
+perched	Left, Down, Right, Up	 Down.
+
+Q
+perched	Left, Right, Up, Down	 Down.
+
+Q
+perched	Left, Right, Down, Up	 Down.
+
+Q
+perched	Right, Up, Down, Left	 Down.
+
+Q
+perched	Right, Up, Left, Down	 Down.
+
+Q
+perched	Right, Down, Up, Left	 Up.
+
+Q
+perched	Right, Down, Left, Up	 Down.
+
+Q
+perched	Right, Left, Up, Down	 Up.
+
+Q
+perched	Right, Left, Down, Up	 Down.
+
+Q
+showed	Up, Down, Left, Right	 Down.
+
+Q
+showed	Up, Down, Right, Left	 Right.
+
+Q
+showed	Up, Left, Down, Right	 Down.
+
+Q
+showed	Up, Left, Right, Down	 Down.
+
+Q
+showed	Up, Right, Down, Left	 Down.
+
+Q
+showed	Up, Right, Left, Down	 Up. B: Right
+showed	Down, Up, Left, Right	 Up.
+
+Q
+showed	Down, Up, Right, Left	 Right. B: Up
+showed	Down, Left, Up, Right	 Right.
+
+Q
+showed	Down, Left, Right, Up	 Up.
+
+Q
+showed	Down, Right, Up, Left	 Up. B: Right
+showed	Down, Right, Left, Up	 Up.
+
+Q
+showed	Left, Up, Down, Right	 Right.
+
+Q
+showed	Left, Up, Right, Down	 Down.
+
+Q
+showed	Left, Down, Up, Right	 Right.
+
+Q
+showed	Left, Down, Right, Up	 Up.
+
+Q
+showed	Left, Right, Up, Down	 Down.
+
+Q
+showed	Left, Right, Down, Up	 Up.
+
+Q
+showed	Right, Up, Down, Left	 Down.
+
+Q
+showed	Right, Up, Left, Down	 Down.
+
+Q
+showed	Right, Down, Up, Left	 Up. B: Right
+showed	Right, Down, Left, Up	 Up.
+
+Q
+showed	Right, Left, Up, Down	 Down.
+
+Q
+showed	Right, Left, Down, Up	 Up.
+
+Q
+smashed	Up, Down, Left, Right	 Down.
+
+Q
+smashed	Up, Down, Right, Left	 Down.
+
+Q
+smashed	Up, Left, Down, Right	 Down.
+
+Q
+smashed	Up, Left, Right, Down	 Down.
+
+Q
+smashed	Up, Right, Down, Left	 Down.
+
+Q
+smashed	Up, Right, Left, Down	 Down.
+
+Q
+smashed	Down, Up, Left, Right	 Down.
+
+Q
+smashed	Down, Up, Right, Left	 Down.
+
+Q
+smashed	Down, Left, Up, Right	 Down.
+
+Q
+smashed	Down, Left, Right, Up	 Down.
+
+Q
+smashed	Down, Right, Up, Left	 Down.
+smashed	Down, Right, Left, Up	 Down.
+smashed	Left, Up, Down, Right	 Down.
+
+Q
+smashed	Left, Up, Right, Down	 Down.
+
+Q
+smashed	Left, Down, Up, Right	 Down.
+
+Q
+smashed	Left, Down, Right, Up	 Down.
+
+Q
+smashed	Left, Right, Up, Down	 Down.
+
+Q
+smashed	Left, Right, Down, Up	 Down.
+
+Q
+smashed	Right, Up, Down, Left	 Down.
+
+Q
+smashed	Right, Up, Left, Down	 Down.
+
+Q
+smashed	Right, Down, Up, Left	 Down.
+
+Q
+smashed	Right, Down, Left, Up	 Down.
+
+Q
+smashed	Right, Left, Up, Down	 Down.
+
+Q
+smashed	Right, Left, Down, Up	 Down.
+
+Q
+bombed	Up, Down, Left, Right	 Down.
+
+Q
+bombed	Up, Down, Right, Left	 Down.
+
+Q
+bombed	Up, Left, Down, Right	 Down.
+
+Q
+bombed	Up, Left, Right, Down	 Down.
+
+Q
+bombed	Up, Right, Down, Left	 Down.
+
+Q
+bombed	Up, Right, Left, Down	 Down.
+
+Q
+bombed	Down, Up, Left, Right	 Down.
+
+Q
+bombed	Down, Up, Right, Left	 Down.
+
+Q
+bombed	Down, Left, Up, Right	 Down.
+
+Q
+bombed	Down, Left, Right, Up	 Down.
+
+Q
+bombed	Down, Right, Up, Left	 Down.
+
+Q
+bombed	Down, Right, Left, Up	 Down.
+
+Q
+bombed	Left, Up, Down, Right	 Down.
+
+Q
+bombed	Left, Up, Right, Down	 Down.
+
+Q
+bombed	Left, Down, Up, Right	 Down.
+
+Q
+bombed	Left, Down, Right, Up	 Down.
+
+Q
+bombed	Left, Right, Up, Down	 Down.
+
+Q
+bombed	Left, Right, Down, Up	 Down.
+
+Q
+bombed	Right, Up, Down, Left	 Down.
+
+Q
+bombed	Right, Up, Left, Down	 Down.
+
+Q
+bombed	Right, Down, Up, Left	 Down.
+
+Q
+bombed	Right, Down, Left, Up	 Down.
+
+Q
+bombed	Right, Left, Up, Down	 Down.
+
+Q
+bombed	Right, Left, Down, Up	 Down.
+
+Q
+flew	Up, Down, Left, Right	 Up.
+flew	Up, Down, Right, Left	 Up.
+flew	Up, Left, Down, Right	 Up.
+flew	Up, Left, Right, Down	 Up.
+flew	Up, Right, Down, Left	 Up.
+flew	Up, Right, Left, Down	 Up.
+flew	Down, Up, Left, Right	 Up.
+flew	Down, Up, Right, Left	 Up.
+flew	Down, Left, Up, Right	 Up.
+flew	Down, Left, Right, Up	 Up.
+flew	Down, Right, Up, Left	 Up.
+flew	Down, Right, Left, Up	 Up.
+flew	Left, Up, Down, Right	 Right.
+
+Q
+flew	Left, Up, Right, Down	 Up.
+flew	Left, Down, Up, Right	 Up.
+flew	Left, Down, Right, Up	 Up.
+flew	Left, Right, Up, Down	 Up.
+flew	Left, Right, Down, Up	 Up.
+flew	Right, Up, Down, Left	 Up.
+flew	Right, Up, Left, Down	 Up.
+flew	Right, Down, Up, Left	 Up.
+flew	Right, Down, Left, Up	 Up.
+flew	Right, Left, Up, Down	 Up.
+flew	Right, Left, Down, Up	 Up.
+floated	Up, Down, Left, Right	 Up.
+floated	Up, Down, Right, Left	 Down.
+
+Q
+floated	Up, Left, Down, Right	 Down.
+
+Q
+floated	Up, Left, Right, Down	 Down.
+
+Q
+floated	Up, Right, Down, Left	 Up.
+floated	Up, Right, Left, Down	 Up.
+floated	Down, Up, Left, Right	 Up.
+
+Q
+floated	Down, Up, Right, Left	 Up.
+floated	Down, Left, Up, Right	 Up.
+
+Q
+floated	Down, Left, Right, Up	 Up.
+
+Q
+floated	Down, Right, Up, Left	 Up.
+floated	Down, Right, Left, Up	 Up.
+floated	Left, Up, Down, Right	 Down.
+
+Q
+floated	Left, Up, Right, Down	 Down.
+
+Q
+floated	Left, Down, Up, Right	 Up.
+
+Q
+floated	Left, Down, Right, Up	 Up.
+
+Q
+floated	Left, Right, Up, Down	 Up.
+
+Q
+floated	Left, Right, Down, Up	 Up.
+
+Q
+floated	Right, Up, Down, Left	 Down.
+
+Q
+floated	Right, Up, Left, Down	 Down.
+
+Q
+floated	Right, Down, Up, Left	 Up.
+
+Q
+floated	Right, Down, Left, Up	 Up.
+
+Q
+floated	Right, Left, Up, Down	 Up.
+
+Q
+floated	Right, Left, Down, Up	 Up.
+
+Q
+lifted	Up, Down, Left, Right	 Up.
+lifted	Up, Down, Right, Left	 Up.
+lifted	Up, Left, Down, Right	 Up.
+lifted	Up, Left, Right, Down	 Up.
+lifted	Up, Right, Down, Left	 Up.
+lifted	Up, Right, Left, Down	 Up.
+lifted	Down, Up, Left, Right	 Up.
+
+Q
+lifted	Down, Up, Right, Left	 Up.
+lifted	Down, Left, Up, Right	 Up.
+
+Q
+lifted	Down, Left, Right, Up	 Up.
+
+Q
+lifted	Down, Right, Up, Left	 Up.
+lifted	Down, Right, Left, Up	 Up.
+lifted	Left, Up, Down, Right	 Up.
+
+Q
+lifted	Left, Up, Right, Down	 Up.
+
+Q
+lifted	Left, Down, Up, Right	 Up
+lifted	Left, Down, Right, Up	 Up.
+
+Q
+lifted	Left, Right, Up, Down	 Up.
+
+Q
+lifted	Left, Right, Down, Up	 Up.
+lifted	Right, Up, Down, Left	 Up.
+
+Q
+lifted	Right, Up, Left, Down	 Up.
+
+Q
+lifted	Right, Down, Up, Left	 Up.
+
+Q
+lifted	Right, Down, Left, Up	 Up.
+
+Q
+lifted	Right, Left, Up, Down	 Up.
+
+Q
+lifted	Right, Left, Down, Up	 Up.
+
+Q
+sank	Up, Down, Left, Right	 Down. The word "
+sank	Up, Down, Right, Left	 Down.
+
+Q
+sank	Up, Left, Down, Right	 Down.
+
+Q
+sank	Up, Left, Right, Down	 Down.
+sank	Up, Right, Down, Left	 Down.
+sank	Up, Right, Left, Down	 Down.
+sank	Down, Up, Left, Right	 Down. The word "
+sank	Down, Up, Right, Left	 Down. The word "
+sank	Down, Left, Up, Right	 Down. The word "
+sank	Down, Left, Right, Up	 Down. The word "
+sank	Down, Right, Up, Left	 Down.
+sank	Down, Right, Left, Up	 Down.
+sank	Left, Up, Down, Right	 Down.
+
+Q
+sank	Left, Up, Right, Down	 Down.
+
+Q
+sank	Left, Down, Up, Right	 Down. The word "
+sank	Left, Down, Right, Up	 Down. The word "
+sank	Left, Right, Up, Down	 Down.
+
+Q
+sank	Left, Right, Down, Up	 Down.
+sank	Right, Up, Down, Left	 Down.
+
+Q
+sank	Right, Up, Left, Down	 Down.
+sank	Right, Down, Up, Left	 Down.
+sank	Right, Down, Left, Up	 Down.
+sank	Right, Left, Up, Down	 Down.
+
+Q
+sank	Right, Left, Down, Up	 Down. The word "
+argued with	Up, Down, Left, Right	 Down.
+argued with	Up, Down, Right, Left	 Down.
+argued with	Up, Left, Down, Right	 Down.
+
+Q
+argued with	Up, Left, Right, Down	 Down.
+argued with	Up, Right, Down, Left	 Down.
+argued with	Up, Right, Left, Down	 Left.
+argued with	Down, Up, Left, Right	 Down.
+argued with	Down, Up, Right, Left	 Left.
+argued with	Down, Left, Up, Right	 Down.
+
+Q
+argued with	Down, Left, Right, Up	 Down.
+argued with	Down, Right, Up, Left	 Down.
+argued with	Down, Right, Left, Up	 Left.
+argued with	Left, Up, Down, Right	 Down.
+
+Q
+argued with	Left, Up, Right, Down	 Down.
+
+Q
+argued with	Left, Down, Up, Right	 Down.
+
+Q
+argued with	Left, Down, Right, Up	 Down.
+
+Q
+argued with	Left, Right, Up, Down	 Down.
+argued with	Left, Right, Down, Up	 Down.
+argued with	Right, Up, Down, Left	 Down.
+argued with	Right, Up, Left, Down	 Down.
+
+Q
+argued with	Right, Down, Up, Left	 Down.
+
+Q
+argued with	Right, Down, Left, Up	 Left.
+
+Q
+argued with	Right, Left, Up, Down	 Down.
+argued with	Right, Left, Down, Up	 Down.
+gave to	Up, Down, Left, Right	 Right.
+
+Q
+gave to	Up, Down, Right, Left	 Right.
+gave to	Up, Left, Down, Right	 Right.
+
+Q
+gave to	Up, Left, Right, Down	 Down.
+
+Q
+gave to	Up, Right, Down, Left	 Down.
+gave to	Up, Right, Left, Down	 Right.
+gave to	Down, Up, Left, Right	 Right.
+
+Q
+gave to	Down, Up, Right, Left	 Right.
+gave to	Down, Left, Up, Right	 Right.
+gave to	Down, Left, Right, Up	 Right.
+
+Q
+gave to	Down, Right, Up, Left	 Right.
+gave to	Down, Right, Left, Up	 Left.
+gave to	Left, Up, Down, Right	 Right. The concept "
+gave to	Left, Up, Right, Down	 Right. The concept "
+gave to	Left, Down, Up, Right	 Right.
+
+Q
+gave to	Left, Down, Right, Up	 Right. The concept "
+gave to	Left, Right, Up, Down	 Down. The concept "
+gave to	Left, Right, Down, Up	 Down. The concept "
+gave to	Right, Up, Down, Left	 Down.
+
+Q
+gave to	Right, Up, Left, Down	 Left.
+
+Q
+gave to	Right, Down, Up, Left	 Right.
+gave to	Right, Down, Left, Up	 Left.
+
+Q
+gave to	Right, Left, Up, Down	 Right. The concept "
+gave to	Right, Left, Down, Up	 Down.
+offended	Up, Down, Left, Right	 Down.
+
+Q
+offended	Up, Down, Right, Left	 Down.
+
+Q
+offended	Up, Left, Down, Right	 Down.
+
+Q
+offended	Up, Left, Right, Down	 Down.
+
+Q
+offended	Up, Right, Down, Left	 Down.
+offended	Up, Right, Left, Down	 Left.
+
+Q
+offended	Down, Up, Left, Right	 Down.
+offended	Down, Up, Right, Left	 Down.
+offended	Down, Left, Up, Right	 Down.
+offended	Down, Left, Right, Up	 Down.
+offended	Down, Right, Up, Left	 Down.
+offended	Down, Right, Left, Up	 Left.
+
+Q
+offended	Left, Up, Down, Right	 Down.
+
+Q
+offended	Left, Up, Right, Down	 Down.
+
+Q
+offended	Left, Down, Up, Right	 Down.
+
+Q
+offended	Left, Down, Right, Up	 Down.
+
+Q
+offended	Left, Right, Up, Down	 Down.
+
+Q
+offended	Left, Right, Down, Up	 Down.
+
+Q
+offended	Right, Up, Down, Left	 Down.
+
+Q
+offended	Right, Up, Left, Down	 Left.
+
+Q
+offended	Right, Down, Up, Left	 Down.
+
+Q
+offended	Right, Down, Left, Up	 Left.
+
+Q
+offended	Right, Left, Up, Down	 Left.
+
+Q
+offended	Right, Left, Down, Up	 Down.
+
+Q
+rushed	Up, Down, Left, Right	 Down.
+
+Q
+rushed	Up, Down, Right, Left	 Right.
+
+Q
+rushed	Up, Left, Down, Right	 Down.
+
+Q
+rushed	Up, Left, Right, Down	 Down.
+
+Q
+rushed	Up, Right, Down, Left	 Down.
+
+Q
+rushed	Up, Right, Left, Down	 Down.
+
+Q
+rushed	Down, Up, Left, Right	 Down.
+
+Q
+rushed	Down, Up, Right, Left	 Right.
+
+Q
+rushed	Down, Left, Up, Right	 Right.
+
+Q
+rushed	Down, Left, Right, Up	 Down.
+
+Q
+rushed	Down, Right, Up, Left	 Down.
+
+Q
+rushed	Down, Right, Left, Up	 Down.
+
+Q
+rushed	Left, Up, Down, Right	 Right.
+
+Q
+rushed	Left, Up, Right, Down	 Down.
+
+Q
+rushed	Left, Down, Up, Right	 Right.
+
+Q
+rushed	Left, Down, Right, Up	 Right.
+
+Q
+rushed	Left, Right, Up, Down	 Down.
+
+Q
+rushed	Left, Right, Down, Up	 Down.
+
+Q
+rushed	Right, Up, Down, Left	 Down.
+
+Q
+rushed	Right, Up, Left, Down	 Down.
+
+Q
+rushed	Right, Down, Up, Left	 Up.
+
+Q
+rushed	Right, Down, Left, Up	 Down.
+
+Q
+rushed	Right, Left, Up, Down	 Down.
+
+Q
+rushed	Right, Left, Down, Up	 Down.
+
+Q
+warned	Up, Down, Left, Right	 Down.
+warned	Up, Down, Right, Left	 Down.
+warned	Up, Left, Down, Right	 Down.
+
+Q
+warned	Up, Left, Right, Down	 Down.
+
+Q
+warned	Up, Right, Down, Left	 Down.
+warned	Up, Right, Left, Down	 Left.
+warned	Down, Up, Left, Right	 Down.
+warned	Down, Up, Right, Left	 Right.
+
+Q
+warned	Down, Left, Up, Right	 Down.
+
+Q
+warned	Down, Left, Right, Up	 Down.
+warned	Down, Right, Up, Left	 Down.
+warned	Down, Right, Left, Up	 Left. B: Up
+warned	Left, Up, Down, Right	 Down.
+
+Q
+warned	Left, Up, Right, Down	 Down.
+
+Q
+warned	Left, Down, Up, Right	 Down.
+
+Q
+warned	Left, Down, Right, Up	 Down. The concept "
+warned	Left, Right, Up, Down	 Down.
+
+Q
+warned	Left, Right, Down, Up	 Down.
+warned	Right, Up, Down, Left	 Down.
+
+Q
+warned	Right, Up, Left, Down	 Down.
+
+Q
+warned	Right, Down, Up, Left	 Down.
+
+Q
+warned	Right, Down, Left, Up	 Left.
+
+Q
+warned	Right, Left, Up, Down	 Down.
+
+Q
+warned	Right, Left, Down, Up	 Down.
+owned	Up, Down, Left, Right	 Up.
+
+Q
+owned	Up, Down, Right, Left	 Right.
+
+Q
+owned	Up, Left, Down, Right	 Down.
+
+Q
+owned	Up, Left, Right, Down	 Down.
+
+Q
+owned	Up, Right, Down, Left	 Up.
+
+Q
+owned	Up, Right, Left, Down	 Up.
+
+Q
+owned	Down, Up, Left, Right	 Up.
+
+Q
+owned	Down, Up, Right, Left	 Up.
+
+Q
+owned	Down, Left, Up, Right	 Up.
+
+Q
+owned	Down, Left, Right, Up	 Up.
+
+Q
+owned	Down, Right, Up, Left	 Up.
+
+Q
+owned	Down, Right, Left, Up	 Up.
+
+Q
+owned	Left, Up, Down, Right	 Right.
+
+Q
+owned	Left, Up, Right, Down	 Right.
+
+Q
+owned	Left, Down, Up, Right	 Right.
+
+Q
+owned	Left, Down, Right, Up	 Right.
+
+Q
+owned	Left, Right, Up, Down	 Down.
+
+Q
+owned	Left, Right, Down, Up	 Down.
+
+Q
+owned	Right, Up, Down, Left	 Down.
+
+Q
+owned	Right, Up, Left, Down	 Down.
+
+Q
+owned	Right, Down, Up, Left	 Up.
+
+Q
+owned	Right, Down, Left, Up	 Right.
+
+Q
+owned	Right, Left, Up, Down	 Right.
+
+Q
+owned	Right, Left, Down, Up	 Down.
+
+Q
+regretted	Up, Down, Left, Right	 Down.
+
+Q
+regretted	Up, Down, Right, Left	 Down.
+
+Q
+regretted	Up, Left, Down, Right	 Down.
+
+Q
+regretted	Up, Left, Right, Down	 Down.
+
+Q
+regretted	Up, Right, Down, Left	 Down.
+
+Q
+regretted	Up, Right, Left, Down	 Down.
+
+Q
+regretted	Down, Up, Left, Right	 Down.
+
+Q
+regretted	Down, Up, Right, Left	 Down.
+
+Q
+regretted	Down, Left, Up, Right	 Down.
+
+Q
+regretted	Down, Left, Right, Up	 Down.
+regretted	Down, Right, Up, Left	 Down.
+regretted	Down, Right, Left, Up	 Down.
+regretted	Left, Up, Down, Right	 Down.
+
+Q
+regretted	Left, Up, Right, Down	 Down.
+
+Q
+regretted	Left, Down, Up, Right	 Down.
+
+Q
+regretted	Left, Down, Right, Up	 Down.
+
+Q
+regretted	Left, Right, Up, Down	 Down.
+
+Q
+regretted	Left, Right, Down, Up	 Down.
+
+Q
+regretted	Right, Up, Down, Left	 Down.
+
+Q
+regretted	Right, Up, Left, Down	 Down.
+
+Q
+regretted	Right, Down, Up, Left	 Down.
+
+Q
+regretted	Right, Down, Left, Up	 Down.
+
+Q
+regretted	Right, Left, Up, Down	 Down.
+
+Q
+regretted	Right, Left, Down, Up	 Down.
+
+Q
+rested	Up, Down, Left, Right	 Down.
+
+Q
+rested	Up, Down, Right, Left	 Down.
+
+Q
+rested	Up, Left, Down, Right	 Down.
+
+Q
+rested	Up, Left, Right, Down	 Down.
+
+Q
+rested	Up, Right, Down, Left	 Down.
+
+Q
+rested	Up, Right, Left, Down	 Down.
+
+Q
+rested	Down, Up, Left, Right	 Down.
+
+Q
+rested	Down, Up, Right, Left	 Down.
+
+Q
+rested	Down, Left, Up, Right	 Down.
+
+Q
+rested	Down, Left, Right, Up	 Down.
+
+Q
+rested	Down, Right, Up, Left	 Down.
+
+Q
+rested	Down, Right, Left, Up	 Down.
+
+Q
+rested	Left, Up, Down, Right	 Down.
+
+Q
+rested	Left, Up, Right, Down	 Down.
+
+Q
+rested	Left, Down, Up, Right	 Down.
+
+Q
+rested	Left, Down, Right, Up	 Down.
+
+Q
+rested	Left, Right, Up, Down	 Down.
+
+Q
+rested	Left, Right, Down, Up	 Down.
+rested	Right, Up, Down, Left	 Down.
+
+Q
+rested	Right, Up, Left, Down	 Down.
+
+Q
+rested	Right, Down, Up, Left	 Down.
+
+Q
+rested	Right, Down, Left, Up	 Down.
+
+Q
+rested	Right, Left, Up, Down	 Down.
+
+Q
+rested	Right, Left, Down, Up	 Down.
+
+Q
+tempted	Up, Down, Left, Right	 Left.
+
+Q
+tempted	Up, Down, Right, Left	 Right.
+
+Q
+tempted	Up, Left, Down, Right	 Down.
+
+Q
+tempted	Up, Left, Right, Down	 Down.
+
+Q
+tempted	Up, Right, Down, Left	 Down.
+
+Q
+tempted	Up, Right, Left, Down	 Left.
+
+Q
+tempted	Down, Up, Left, Right	 Left.
+
+Q
+tempted	Down, Up, Right, Left	 Right.
+
+Q
+tempted	Down, Left, Up, Right	 Left.
+
+Q
+tempted	Down, Left, Right, Up	 Down.
+
+Q
+tempted	Down, Right, Up, Left	 Left.
+
+Q
+tempted	Down, Right, Left, Up	 Left.
+
+Q
+tempted	Left, Up, Down, Right	 Right.
+
+Q
+tempted	Left, Up, Right, Down	 Right.
+
+Q
+tempted	Left, Down, Up, Right	 Right.
+
+Q
+tempted	Left, Down, Right, Up	 Right.
+
+Q
+tempted	Left, Right, Up, Down	 Down.
+
+Q
+tempted	Left, Right, Down, Up	 Down.
+
+Q
+tempted	Right, Up, Down, Left	 Down.
+
+Q
+tempted	Right, Up, Left, Down	 Left.
+
+Q
+tempted	Right, Down, Up, Left	 Left.
+
+Q
+tempted	Right, Down, Left, Up	 Left.
+
+Q
+tempted	Right, Left, Up, Down	 Left.
+
+Q
+tempted	Right, Left, Down, Up	 Down.
+
+Q
+wanted	Up, Down, Left, Right	 Down.
+
+Q
+wanted	Up, Down, Right, Left	 Right.
+
+Q
+wanted	Up, Left, Down, Right	 Down.
+
+Q
+wanted	Up, Left, Right, Down	 Down.
+
+Q
+wanted	Up, Right, Down, Left	 Down.
+
+Q
+wanted	Up, Right, Left, Down	 Up.
+
+Q
+wanted	Down, Up, Left, Right	 Up.
+
+Q
+wanted	Down, Up, Right, Left	 Up.
+
+Q
+wanted	Down, Left, Up, Right	 Up.
+
+Q
+wanted	Down, Left, Right, Up	 Up.
+
+Q
+wanted	Down, Right, Up, Left	 Up.
+
+Q
+wanted	Down, Right, Left, Up	 Up.
+
+Q
+wanted	Left, Up, Down, Right	 Right.
+
+Q
+wanted	Left, Up, Right, Down	 Down.
+
+Q
+wanted	Left, Down, Up, Right	 Right.
+
+Q
+wanted	Left, Down, Right, Up	 Up.
+
+Q
+wanted	Left, Right, Up, Down	 Up.
+
+Q
+wanted	Left, Right, Down, Up	 Up.
+
+Q
+wanted	Right, Up, Down, Left	 Down.
+
+Q
+wanted	Right, Up, Left, Down	 Down.
+
+Q
+wanted	Right, Down, Up, Left	 Up.
+
+Q
+wanted	Right, Down, Left, Up	 Up.
+
+Q
+wanted	Right, Left, Up, Down	 Up.
+
+Q
+wanted	Right, Left, Down, Up	 Up.
+
+Q
+hoped	Up, Down, Left, Right	 Up.
+
+Q
+hoped	Up, Down, Right, Left	 Up.
+
+Q
+hoped	Up, Left, Down, Right	 Up.
+
+Q
+hoped	Up, Left, Right, Down	 Up.
+
+Q
+hoped	Up, Right, Down, Left	 Up.
+
+Q
+hoped	Up, Right, Left, Down	 Up.
+
+Q
+hoped	Down, Up, Left, Right	 Up.
+
+Q
+hoped	Down, Up, Right, Left	 Up.
+
+Q
+hoped	Down, Left, Up, Right	 Up.
+
+Q
+hoped	Down, Left, Right, Up	 Up.
+
+Q
+hoped	Down, Right, Up, Left	 Up.
+
+Q
+hoped	Down, Right, Left, Up	 Up.
+
+Q
+hoped	Left, Up, Down, Right	 Right.
+
+Q
+hoped	Left, Up, Right, Down	 Up.
+
+Q
+hoped	Left, Down, Up, Right	 Up.
+
+Q
+hoped	Left, Down, Right, Up	 Up.
+
+Q
+hoped	Left, Right, Up, Down	 Up.
+
+Q
+hoped	Left, Right, Down, Up	 Up.
+
+Q
+hoped	Right, Up, Down, Left	 Up.
+
+Q
+hoped	Right, Up, Left, Down	 Up.
+
+Q
+hoped	Right, Down, Up, Left	 Up.
+
+Q
+hoped	Right, Down, Left, Up	 Up.
+
+Q
+hoped	Right, Left, Up, Down	 Up.
+
+Q
+hoped	Right, Left, Down, Up	 Up.
+
+Q
+increased	Up, Down, Left, Right	 Up.
+
+Q
+increased	Up, Down, Right, Left	 Up.
+
+Q
+increased	Up, Left, Down, Right	 Up.
+
+Q
+increased	Up, Left, Right, Down	 Up.
+
+Q
+increased	Up, Right, Down, Left	 Up.
+
+Q
+increased	Up, Right, Left, Down	 Up.
+
+Q
+increased	Down, Up, Left, Right	 Up.
+
+Q
+increased	Down, Up, Right, Left	 Up.
+
+Q
+increased	Down, Left, Up, Right	 Up.
+
+Q
+increased	Down, Left, Right, Up	 Up.
+
+Q
+increased	Down, Right, Up, Left	 Up.
+
+Q
+increased	Down, Right, Left, Up	 Up.
+
+Q
+increased	Left, Up, Down, Right	 Right.
+
+Q
+increased	Left, Up, Right, Down	 Right.
+
+Q
+increased	Left, Down, Up, Right	 Right.
+
+Q
+increased	Left, Down, Right, Up	 Up.
+
+Q
+increased	Left, Right, Up, Down	 Up.
+
+Q
+increased	Left, Right, Down, Up	 Up.
+
+Q
+increased	Right, Up, Down, Left	 Up.
+
+Q
+increased	Right, Up, Left, Down	 Right.
+
+Q
+increased	Right, Down, Up, Left	 Up.
+
+Q
+increased	Right, Down, Left, Up	 Up.
+
+Q
+increased	Right, Left, Up, Down	 Right.
+
+Q
+increased	Right, Left, Down, Up	 Up.
+
+Q
+obeyed	Up, Down, Left, Right	 Down.
+
+Q
+obeyed	Up, Down, Right, Left	 Down.
+
+Q
+obeyed	Up, Left, Down, Right	 Down.
+
+Q
+obeyed	Up, Left, Right, Down	 Down.
+
+Q
+obeyed	Up, Right, Down, Left	 Down.
+obeyed	Up, Right, Left, Down	 Down.
+obeyed	Down, Up, Left, Right	 Up.
+
+Q
+obeyed	Down, Up, Right, Left	 Up.
+
+Q
+obeyed	Down, Left, Up, Right	 Right
+obeyed	Down, Left, Right, Up	 Up
+obeyed	Down, Right, Up, Left	 Up
+obeyed	Down, Right, Left, Up	 Up
+obeyed	Left, Up, Down, Right	 Right.
+
+Q
+obeyed	Left, Up, Right, Down	 Down.
+
+Q
+obeyed	Left, Down, Up, Right	 Right.
+
+Q
+obeyed	Left, Down, Right, Up	 Up
+obeyed	Left, Right, Up, Down	 Down.
+
+Q
+obeyed	Left, Right, Down, Up	 Up
+obeyed	Right, Up, Down, Left	 Down.
+
+Q
+obeyed	Right, Up, Left, Down	 Down.
+
+Q
+obeyed	Right, Down, Up, Left	 Up
+obeyed	Right, Down, Left, Up	 Up
+obeyed	Right, Left, Up, Down	 Down.
+
+Q
+obeyed	Right, Left, Down, Up	 Up
+respected	Up, Down, Left, Right	 Up.
+
+Q
+respected	Up, Down, Right, Left	 Up.
+
+Q
+respected	Up, Left, Down, Right	 Up.
+respected	Up, Left, Right, Down	 Up.
+respected	Up, Right, Down, Left	 Up.
+respected	Up, Right, Left, Down	 Up.
+respected	Down, Up, Left, Right	 Up.
+
+Q
+respected	Down, Up, Right, Left	 Up.
+
+Q
+respected	Down, Left, Up, Right	 Up.
+
+Q
+respected	Down, Left, Right, Up	 Up.
+
+Q
+respected	Down, Right, Up, Left	 Up.
+
+Q
+respected	Down, Right, Left, Up	 Up.
+
+Q
+respected	Left, Up, Down, Right	 Right.
+
+Q
+respected	Left, Up, Right, Down	 Up.
+
+Q
+respected	Left, Down, Up, Right	 Up.
+
+Q
+respected	Left, Down, Right, Up	 Up.
+
+Q
+respected	Left, Right, Up, Down	 Up.
+
+Q
+respected	Left, Right, Down, Up	 Up.
+
+Q
+respected	Right, Up, Down, Left	 Up.
+
+Q
+respected	Right, Up, Left, Down	 Up.
+
+Q
+respected	Right, Down, Up, Left	 Up.
+
+Q
+respected	Right, Down, Left, Up	 Up.
+
+Q
+respected	Right, Left, Up, Down	 Up.
+
+Q
+respected	Right, Left, Down, Up	 Up.
+
+Q
+succeeded	Up, Down, Left, Right	 Up.
+
+Q
+succeeded	Up, Down, Right, Left	 Up.
+
+Q
+succeeded	Up, Left, Down, Right	 Up.
+
+Q
+succeeded	Up, Left, Right, Down	 Up.
+
+Q
+succeeded	Up, Right, Down, Left	 Up.
+
+Q
+succeeded	Up, Right, Left, Down	 Up.
+
+Q
+succeeded	Down, Up, Left, Right	 Up.
+
+Q
+succeeded	Down, Up, Right, Left	 Up
+succeeded	Down, Left, Up, Right	 Up
+succeeded	Down, Left, Right, Up	 Up
+succeeded	Down, Right, Up, Left	 Up
+succeeded	Down, Right, Left, Up	 Up
+succeeded	Left, Up, Down, Right	 Right.
+
+Q
+succeeded	Left, Up, Right, Down	 Right.
+
+Q
+succeeded	Left, Down, Up, Right	 Right.
+
+Q
+succeeded	Left, Down, Right, Up	 Up
+succeeded	Left, Right, Up, Down	 Up.
+
+Q
+succeeded	Left, Right, Down, Up	 Up
+succeeded	Right, Up, Down, Left	 Up.
+
+Q
+succeeded	Right, Up, Left, Down	 Right.
+
+Q
+succeeded	Right, Down, Up, Left	 Up
+succeeded	Right, Down, Left, Up	 Up
+succeeded	Right, Left, Up, Down	 Up
+succeeded	Right, Left, Down, Up	 Up

@@ -1,0 +1,4 @@
+Llama-2-7b-hf	0.4876500000000001
+Llama-2-7b-chat-hf	0.5064
+Llama-2-13b-hf	0.49818333333333337
+Llama-2-13b-chat-hf	0.5175

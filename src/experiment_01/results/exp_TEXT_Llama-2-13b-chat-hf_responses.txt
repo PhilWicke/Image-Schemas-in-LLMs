@@ -1,0 +1,1844 @@
+fled	Up, Down, Left, Right	 Up.
+
+The
+fled	Up, Down, Right, Left	 Up.
+
+The
+fled	Up, Left, Down, Right	
+
+Up
+
+
+fled	Up, Left, Right, Down	 Up.
+
+The
+fled	Up, Right, Down, Left	 Up.
+
+The
+fled	Up, Right, Left, Down	 Up.
+
+The
+fled	Down, Up, Left, Right	
+
+Down
+
+
+fled	Down, Up, Right, Left	
+
+Down
+
+
+fled	Down, Left, Up, Right	
+
+Down
+
+
+fled	Down, Left, Right, Up	
+
+Up
+
+
+fled	Down, Right, Up, Left	
+
+Up
+
+
+fled	Down, Right, Left, Up	
+
+Up
+
+
+fled	Left, Up, Down, Right	
+
+Left
+
+
+fled	Left, Up, Right, Down	
+
+Left
+
+
+fled	Left, Down, Up, Right	
+
+Left
+
+
+fled	Left, Down, Right, Up	
+
+Left
+
+
+fled	Left, Right, Up, Down	
+
+Left
+
+
+fled	Left, Right, Down, Up	
+
+Left
+
+
+fled	Right, Up, Down, Left	
+
+Up
+
+
+fled	Right, Up, Left, Down	
+
+Up
+
+
+fled	Right, Down, Up, Left	
+
+b) Down
+fled	Right, Down, Left, Up	
+
+Up
+
+
+fled	Right, Left, Up, Down	
+
+Right
+
+
+fled	Right, Left, Down, Up	
+
+Right
+
+
+pointed at	Up, Down, Left, Right	
+
+Up
+
+
+pointed at	Up, Down, Right, Left	
+
+Up
+
+
+pointed at	Up, Left, Down, Right	
+
+Up
+
+
+pointed at	Up, Left, Right, Down	
+
+Up
+
+
+pointed at	Up, Right, Down, Left	
+
+Up
+
+
+pointed at	Up, Right, Left, Down	
+
+Up
+
+
+pointed at	Down, Up, Left, Right	
+
+Up
+
+
+pointed at	Down, Up, Right, Left	
+
+Right
+
+
+pointed at	Down, Left, Up, Right	
+
+Up
+
+
+pointed at	Down, Left, Right, Up	
+
+Up
+
+
+pointed at	Down, Right, Up, Left	
+
+Up
+
+
+pointed at	Down, Right, Left, Up	
+
+Up
+
+
+pointed at	Left, Up, Down, Right	
+
+Left
+
+
+pointed at	Left, Up, Right, Down	
+
+Left
+
+
+pointed at	Left, Down, Up, Right	
+
+Left
+
+
+pointed at	Left, Down, Right, Up	
+
+Left
+
+
+pointed at	Left, Right, Up, Down	
+
+Left
+
+
+pointed at	Left, Right, Down, Up	
+
+Left
+
+
+pointed at	Right, Up, Down, Left	
+
+Right
+
+
+pointed at	Right, Up, Left, Down	
+
+Right
+
+
+pointed at	Right, Down, Up, Left	
+
+Right
+
+
+pointed at	Right, Down, Left, Up	
+
+Right
+
+
+pointed at	Right, Left, Up, Down	 Right.
+
+The
+pointed at	Right, Left, Down, Up	
+
+Right
+
+
+pulled	Up, Down, Left, Right	
+
+Up
+
+
+pulled	Up, Down, Right, Left	
+
+Up
+
+
+pulled	Up, Left, Down, Right	
+
+Up
+
+
+pulled	Up, Left, Right, Down	
+
+Up
+
+
+pulled	Up, Right, Down, Left	
+
+Up
+
+
+pulled	Up, Right, Left, Down	
+
+Up
+
+
+pulled	Down, Up, Left, Right	 Down.
+
+When
+pulled	Down, Up, Right, Left	
+
+Down
+
+
+pulled	Down, Left, Up, Right	 Down.
+
+When
+pulled	Down, Left, Right, Up	
+
+Up
+
+
+pulled	Down, Right, Up, Left	
+
+Up
+
+
+pulled	Down, Right, Left, Up	
+
+Up
+
+
+pulled	Left, Up, Down, Right	
+
+Left
+
+
+pulled	Left, Up, Right, Down	
+
+Left
+
+
+pulled	Left, Down, Up, Right	
+
+Left
+
+
+pulled	Left, Down, Right, Up	
+
+Up
+
+
+pulled	Left, Right, Up, Down	
+
+Left
+
+
+pulled	Left, Right, Down, Up	
+
+Up
+
+
+pulled	Right, Up, Down, Left	
+
+Up
+
+
+pulled	Right, Up, Left, Down	
+
+Up
+
+
+pulled	Right, Down, Up, Left	
+
+Up
+
+
+pulled	Right, Down, Left, Up	
+
+Up
+
+
+pulled	Right, Left, Up, Down	
+
+Right
+
+
+pulled	Right, Left, Down, Up	
+
+Up
+
+
+pushed	Up, Down, Left, Right	
+
+Up
+
+
+pushed	Up, Down, Right, Left	
+
+Up
+
+
+pushed	Up, Left, Down, Right	 Down. Pushing something
+pushed	Up, Left, Right, Down	 Down. Pushing something
+pushed	Up, Right, Down, Left	 Down. Pushing something
+pushed	Up, Right, Left, Down	
+
+Up
+
+
+pushed	Down, Up, Left, Right	
+
+Down
+
+
+pushed	Down, Up, Right, Left	
+
+Down
+
+
+pushed	Down, Left, Up, Right	 Down. Pushed is
+pushed	Down, Left, Right, Up	
+
+Up
+
+
+pushed	Down, Right, Up, Left	
+
+Up
+
+
+pushed	Down, Right, Left, Up	
+
+Up
+
+
+pushed	Left, Up, Down, Right	
+
+Left
+
+
+pushed	Left, Up, Right, Down	
+
+Left
+
+
+pushed	Left, Down, Up, Right	
+
+Left
+
+
+pushed	Left, Down, Right, Up	
+
+Left
+
+
+pushed	Left, Right, Up, Down	
+
+Left
+
+
+pushed	Left, Right, Down, Up	
+
+Up
+
+
+pushed	Right, Up, Down, Left	
+
+Up
+
+
+pushed	Right, Up, Left, Down	
+
+Up
+
+
+pushed	Right, Down, Up, Left	
+
+Up
+
+
+pushed	Right, Down, Left, Up	
+
+Up
+
+
+pushed	Right, Left, Up, Down	
+
+Up
+
+
+pushed	Right, Left, Down, Up	
+
+Up
+
+
+walked	Up, Down, Left, Right	
+
+Up
+
+
+walked	Up, Down, Right, Left	
+
+Up
+
+
+walked	Up, Left, Down, Right	
+
+Up
+
+
+walked	Up, Left, Right, Down	
+
+Up
+
+
+walked	Up, Right, Down, Left	
+
+Up
+
+
+walked	Up, Right, Left, Down	
+
+Up
+
+
+walked	Down, Up, Left, Right	 Down. Walking is
+walked	Down, Up, Right, Left	
+
+Down
+
+
+walked	Down, Left, Up, Right	 Down. Walking is
+walked	Down, Left, Right, Up	 Down. Walking is
+walked	Down, Right, Up, Left	
+
+Down
+
+
+walked	Down, Right, Left, Up	
+
+Down
+
+
+walked	Left, Up, Down, Right	
+
+Left
+
+
+walked	Left, Up, Right, Down	
+
+Left
+
+
+walked	Left, Down, Up, Right	
+
+Left
+
+
+walked	Left, Down, Right, Up	
+
+Left
+
+
+walked	Left, Right, Up, Down	
+
+Left
+
+
+walked	Left, Right, Down, Up	
+
+Left
+
+
+walked	Right, Up, Down, Left	
+
+Up
+
+
+walked	Right, Up, Left, Down	
+
+Up
+
+
+walked	Right, Down, Up, Left	
+
+Right
+
+
+walked	Right, Down, Left, Up	
+
+Left
+
+
+walked	Right, Left, Up, Down	
+
+Right
+
+
+walked	Right, Left, Down, Up	
+
+Right
+
+
+hunted	Up, Down, Left, Right	 Down. The reason for
+hunted	Up, Down, Right, Left	 Down. The reason for
+hunted	Up, Left, Down, Right	 Down. The reason for
+hunted	Up, Left, Right, Down	 Down. The reason for
+hunted	Up, Right, Down, Left	 Down. The reason for
+hunted	Up, Right, Left, Down	 Down. The reason for
+hunted	Down, Up, Left, Right	 Down. The reason for
+hunted	Down, Up, Right, Left	 Down. The reason for
+hunted	Down, Left, Up, Right	 Down. The reason for
+hunted	Down, Left, Right, Up	 Down. The reason for
+hunted	Down, Right, Up, Left	 Down. The reason for
+hunted	Down, Right, Left, Up	 Down. The reason for
+hunted	Left, Up, Down, Right	
+
+Down
+
+
+hunted	Left, Up, Right, Down	 Down. The reason for
+hunted	Left, Down, Up, Right	
+
+Down
+
+
+hunted	Left, Down, Right, Up	
+
+Down
+
+
+hunted	Left, Right, Up, Down	
+
+Left
+
+
+hunted	Left, Right, Down, Up	
+
+Down
+
+
+hunted	Right, Up, Down, Left	
+
+Down
+
+
+hunted	Right, Up, Left, Down	 Down. The reason for
+hunted	Right, Down, Up, Left	
+
+Down
+
+
+hunted	Right, Down, Left, Up	 Down. The reason for
+hunted	Right, Left, Up, Down	
+
+Down
+
+
+hunted	Right, Left, Down, Up	
+
+Down
+
+
+impacted	Up, Down, Left, Right	 Down. The word impact
+impacted	Up, Down, Right, Left	 Down. The word impact
+impacted	Up, Left, Down, Right	 Down. The word impact
+impacted	Up, Left, Right, Down	 Down.
+
+The
+impacted	Up, Right, Down, Left	 Down.
+
+The
+impacted	Up, Right, Left, Down	 Down.
+
+The
+impacted	Down, Up, Left, Right	 Down. The word impact
+impacted	Down, Up, Right, Left	 Down. The word impact
+impacted	Down, Left, Up, Right	 Down. The word impact
+impacted	Down, Left, Right, Up	 Down. The word impact
+impacted	Down, Right, Up, Left	 Down. The word impact
+impacted	Down, Right, Left, Up	 Down. The reason for
+impacted	Left, Up, Down, Right	 Down. The reason for
+impacted	Left, Up, Right, Down	 Down.
+
+The
+impacted	Left, Down, Up, Right	
+
+Left
+
+
+impacted	Left, Down, Right, Up	 Down. The reason for
+impacted	Left, Right, Up, Down	 Down.
+
+The
+impacted	Left, Right, Down, Up	 Down. The reason for
+impacted	Right, Up, Down, Left	 Down. The word impact
+impacted	Right, Up, Left, Down	 Down.
+
+The
+impacted	Right, Down, Up, Left	 Down. The reason for
+impacted	Right, Down, Left, Up	 Down. The reason for
+impacted	Right, Left, Up, Down	
+
+Right
+
+
+impacted	Right, Left, Down, Up	 Down. The reason for
+perched	Up, Down, Left, Right	 Up. The word per
+perched	Up, Down, Right, Left	 Up. The word per
+perched	Up, Left, Down, Right	 Up. The word per
+perched	Up, Left, Right, Down	 Up. The word per
+perched	Up, Right, Down, Left	 Up. The word per
+perched	Up, Right, Left, Down	 Up. The word per
+perched	Down, Up, Left, Right	
+
+Up
+
+
+perched	Down, Up, Right, Left	
+
+Up
+
+
+perched	Down, Left, Up, Right	
+
+Up
+
+
+perched	Down, Left, Right, Up	 Up. The word per
+perched	Down, Right, Up, Left	
+
+Up
+
+
+perched	Down, Right, Left, Up	
+
+Up
+
+
+perched	Left, Up, Down, Right	
+
+Up
+
+
+perched	Left, Up, Right, Down	
+
+Up
+
+
+perched	Left, Down, Up, Right	
+
+Up
+
+
+perched	Left, Down, Right, Up	
+
+Up
+
+
+perched	Left, Right, Up, Down	
+
+Up
+
+
+perched	Left, Right, Down, Up	
+
+Up
+
+
+perched	Right, Up, Down, Left	 Up. The word per
+perched	Right, Up, Left, Down	 Up. The word per
+perched	Right, Down, Up, Left	
+
+Up
+
+
+perched	Right, Down, Left, Up	
+
+Up
+
+
+perched	Right, Left, Up, Down	
+
+Up
+
+
+perched	Right, Left, Down, Up	
+
+Up
+
+
+showed	Up, Down, Left, Right	 Up. The concept of
+showed	Up, Down, Right, Left	 Up. The word showed
+showed	Up, Left, Down, Right	 Up. The concept "
+showed	Up, Left, Right, Down	 Up. The concept of
+showed	Up, Right, Down, Left	 Up. The word showed
+showed	Up, Right, Left, Down	 Up. The word showed
+showed	Down, Up, Left, Right	 Down. The word showed
+showed	Down, Up, Right, Left	 Down. The word showed
+showed	Down, Left, Up, Right	 Down. The word showed
+showed	Down, Left, Right, Up	 Up. The word showed
+showed	Down, Right, Up, Left	 Up. The word showed
+showed	Down, Right, Left, Up	 Up. The word showed
+showed	Left, Up, Down, Right	 Right. The word showed
+showed	Left, Up, Right, Down	 Down. The word showed
+showed	Left, Down, Up, Right	 Up. The word showed
+showed	Left, Down, Right, Up	 Up. The word showed
+showed	Left, Right, Up, Down	 Up. The word showed
+showed	Left, Right, Down, Up	 Up. The word showed
+showed	Right, Up, Down, Left	 Up. The word showed
+showed	Right, Up, Left, Down	 Up. The word showed
+showed	Right, Down, Up, Left	 Up. The word showed
+showed	Right, Down, Left, Up	 Up. The word showed
+showed	Right, Left, Up, Down	 Right. The word showed
+showed	Right, Left, Down, Up	 Right. The word showed
+smashed	Up, Down, Left, Right	 Down. Smashed implies
+smashed	Up, Down, Right, Left	 Down. Smashed implies
+smashed	Up, Left, Down, Right	 Down. Smashed implies
+smashed	Up, Left, Right, Down	 Down. Smashed implies
+smashed	Up, Right, Down, Left	 Down. Smashed implies
+smashed	Up, Right, Left, Down	 Down. Smashed implies
+smashed	Down, Up, Left, Right	 Down. Smashed implies
+smashed	Down, Up, Right, Left	 Down. Smashed implies
+smashed	Down, Left, Up, Right	 Down. Smashed implies
+smashed	Down, Left, Right, Up	 Down. Smashed implies
+smashed	Down, Right, Up, Left	 Down. Smashed implies
+smashed	Down, Right, Left, Up	 Down. Smashed implies
+smashed	Left, Up, Down, Right	
+
+Left
+
+
+smashed	Left, Up, Right, Down	
+
+Left
+
+
+smashed	Left, Down, Up, Right	
+
+Left
+
+
+smashed	Left, Down, Right, Up	
+
+Left
+
+
+smashed	Left, Right, Up, Down	
+
+Left
+
+
+smashed	Left, Right, Down, Up	
+
+Left
+
+
+smashed	Right, Up, Down, Left	
+
+Down
+
+
+smashed	Right, Up, Left, Down	
+
+Down
+
+
+smashed	Right, Down, Up, Left	
+
+Down
+
+
+smashed	Right, Down, Left, Up	
+
+Down
+
+
+smashed	Right, Left, Up, Down	
+
+Down
+
+
+smashed	Right, Left, Down, Up	
+
+Down
+
+
+bombed	Up, Down, Left, Right	 Down. The word bom
+bombed	Up, Down, Right, Left	 Down. The word bom
+bombed	Up, Left, Down, Right	 Down. The word bom
+bombed	Up, Left, Right, Down	 Down. The word bom
+bombed	Up, Right, Down, Left	 Down. The word bom
+bombed	Up, Right, Left, Down	 Down. The word bom
+bombed	Down, Up, Left, Right	 Down. The word bom
+bombed	Down, Up, Right, Left	 Down. The word bom
+bombed	Down, Left, Up, Right	 Down. The word bom
+bombed	Down, Left, Right, Up	 Down. The word bom
+bombed	Down, Right, Up, Left	 Down. The word bom
+bombed	Down, Right, Left, Up	 Down. The word bom
+bombed	Left, Up, Down, Right	 Down. The word bom
+bombed	Left, Up, Right, Down	 Down. The word bom
+bombed	Left, Down, Up, Right	 Down. The word bom
+bombed	Left, Down, Right, Up	 Down. The word bom
+bombed	Left, Right, Up, Down	 Down. The word bom
+bombed	Left, Right, Down, Up	 Down. The word bom
+bombed	Right, Up, Down, Left	 Down. The word bom
+bombed	Right, Up, Left, Down	 Down. The word bom
+bombed	Right, Down, Up, Left	 Down. The word bom
+bombed	Right, Down, Left, Up	 Down. The word bom
+bombed	Right, Left, Up, Down	 Down. The word bom
+bombed	Right, Left, Down, Up	 Down. The word bom
+flew	Up, Down, Left, Right	 Up. The word fle
+flew	Up, Down, Right, Left	 Up. The word fle
+flew	Up, Left, Down, Right	 Up. The word fle
+flew	Up, Left, Right, Down	 Up. The word fle
+flew	Up, Right, Down, Left	 Up. The word fle
+flew	Up, Right, Left, Down	 Up. The word fle
+flew	Down, Up, Left, Right	 Up. The word fle
+flew	Down, Up, Right, Left	 Up. The word fle
+flew	Down, Left, Up, Right	 Up. The word fle
+flew	Down, Left, Right, Up	 Up. The word fle
+flew	Down, Right, Up, Left	 Up. The word fle
+flew	Down, Right, Left, Up	 Up. The word fle
+flew	Left, Up, Down, Right	 Up. The word fle
+flew	Left, Up, Right, Down	 Up. The word fle
+flew	Left, Down, Up, Right	 Up. The word fle
+flew	Left, Down, Right, Up	 Up. The word fle
+flew	Left, Right, Up, Down	 Up. The word fle
+flew	Left, Right, Down, Up	 Up. The word fle
+flew	Right, Up, Down, Left	 Up. The word fle
+flew	Right, Up, Left, Down	 Up. The word fle
+flew	Right, Down, Up, Left	 Up. The word fle
+flew	Right, Down, Left, Up	 Up. The word fle
+flew	Right, Left, Up, Down	 Up. The word fle
+flew	Right, Left, Down, Up	 Up. The word fle
+floated	Up, Down, Left, Right	 Up. Floating is
+floated	Up, Down, Right, Left	 Up. Floating is
+floated	Up, Left, Down, Right	 Up. Floating is
+floated	Up, Left, Right, Down	 Up. Floating is
+floated	Up, Right, Down, Left	 Up. Floating is
+floated	Up, Right, Left, Down	 Up. Floating is
+floated	Down, Up, Left, Right	 Down. Floating is
+floated	Down, Up, Right, Left	 Up. Floating is
+floated	Down, Left, Up, Right	 Up. Floating is
+floated	Down, Left, Right, Up	 Up. Floating is
+floated	Down, Right, Up, Left	 Up. Floating is
+floated	Down, Right, Left, Up	 Up. Floating is
+floated	Left, Up, Down, Right	 Down. The word flo
+floated	Left, Up, Right, Down	 Down. Floating is
+floated	Left, Down, Up, Right	 Up. Floating is
+floated	Left, Down, Right, Up	 Up. Floating is
+floated	Left, Right, Up, Down	 Up. Floating is
+floated	Left, Right, Down, Up	 Up. Floating is
+floated	Right, Up, Down, Left	 Up. Floating is
+floated	Right, Up, Left, Down	 Up. Floating is
+floated	Right, Down, Up, Left	 Up. Floating is
+floated	Right, Down, Left, Up	 Up. Floating is
+floated	Right, Left, Up, Down	 Up. Floating is
+floated	Right, Left, Down, Up	 Up. Floating is
+lifted	Up, Down, Left, Right	 Up. The word lifted
+lifted	Up, Down, Right, Left	
+
+Up
+
+
+lifted	Up, Left, Down, Right	 Up. The word lifted
+lifted	Up, Left, Right, Down	 Up. The word lifted
+lifted	Up, Right, Down, Left	 Up. The word lifted
+lifted	Up, Right, Left, Down	
+
+Up
+
+
+lifted	Down, Up, Left, Right	
+
+Up
+
+
+lifted	Down, Up, Right, Left	
+
+Up
+
+
+lifted	Down, Left, Up, Right	
+
+Up
+
+
+lifted	Down, Left, Right, Up	
+
+Up
+
+
+lifted	Down, Right, Up, Left	
+
+Up
+
+
+lifted	Down, Right, Left, Up	
+
+Up
+
+
+lifted	Left, Up, Down, Right	
+
+Up
+
+
+lifted	Left, Up, Right, Down	
+
+Up
+
+
+lifted	Left, Down, Up, Right	
+
+Up
+
+
+lifted	Left, Down, Right, Up	
+
+Up
+
+
+lifted	Left, Right, Up, Down	
+
+Up
+
+
+lifted	Left, Right, Down, Up	
+
+Up
+
+
+lifted	Right, Up, Down, Left	
+
+Up
+
+
+lifted	Right, Up, Left, Down	 Up. The word lifted
+lifted	Right, Down, Up, Left	
+
+Up
+
+
+lifted	Right, Down, Left, Up	 Up.
+
+The
+lifted	Right, Left, Up, Down	 Up.
+
+The
+lifted	Right, Left, Down, Up	 Up.
+
+The
+sank	Up, Down, Left, Right	 Down. The word "
+sank	Up, Down, Right, Left	 Down. The word "
+sank	Up, Left, Down, Right	 Down. The word "
+sank	Up, Left, Right, Down	 Down. The word "
+sank	Up, Right, Down, Left	 Down. The word "
+sank	Up, Right, Left, Down	 Down. The word "
+sank	Down, Up, Left, Right	 Down. The word "
+sank	Down, Up, Right, Left	 Down. The word "
+sank	Down, Left, Up, Right	 Down. The word "
+sank	Down, Left, Right, Up	 Down. The word "
+sank	Down, Right, Up, Left	 Down. The word "
+sank	Down, Right, Left, Up	 Down. The word "
+sank	Left, Up, Down, Right	 Down. The word "
+sank	Left, Up, Right, Down	 Down. The word "
+sank	Left, Down, Up, Right	 Down. The word "
+sank	Left, Down, Right, Up	 Down. The word "
+sank	Left, Right, Up, Down	 Down. The word "
+sank	Left, Right, Down, Up	 Down. The word "
+sank	Right, Up, Down, Left	 Down. The word "
+sank	Right, Up, Left, Down	 Down. The word "
+sank	Right, Down, Up, Left	 Down. The word "
+sank	Right, Down, Left, Up	 Down. The word "
+sank	Right, Left, Up, Down	 Down. The word "
+sank	Right, Left, Down, Up	 Down. The word "
+argued with	Up, Down, Left, Right	 Down. The concept of
+argued with	Up, Down, Right, Left	 Down. The concept of
+argued with	Up, Left, Down, Right	 Down. The concept of
+argued with	Up, Left, Right, Down	 Down. The concept of
+argued with	Up, Right, Down, Left	 Down. The concept of
+argued with	Up, Right, Left, Down	 Up.
+
+The
+argued with	Down, Up, Left, Right	 Down. The concept of
+argued with	Down, Up, Right, Left	 Down. The concept of
+argued with	Down, Left, Up, Right	 Down. The concept of
+argued with	Down, Left, Right, Up	 Down. The concept of
+argued with	Down, Right, Up, Left	 Down. The concept of
+argued with	Down, Right, Left, Up	 Down. The concept of
+argued with	Left, Up, Down, Right	 Down. The concept of
+argued with	Left, Up, Right, Down	 Down. The concept of
+argued with	Left, Down, Up, Right	 Down. The concept of
+argued with	Left, Down, Right, Up	 Down. The concept of
+argued with	Left, Right, Up, Down	 Down. The concept of
+argued with	Left, Right, Down, Up	 Down. The concept of
+argued with	Right, Up, Down, Left	 Down. The concept of
+argued with	Right, Up, Left, Down	 Down. The concept of
+argued with	Right, Down, Up, Left	 Down. The concept of
+argued with	Right, Down, Left, Up	 Down. The concept of
+argued with	Right, Left, Up, Down	 Down. The concept of
+argued with	Right, Left, Down, Up	 Down. The concept of
+gave to	Up, Down, Left, Right	 Up. The concept of
+gave to	Up, Down, Right, Left	 Up. The concept of
+gave to	Up, Left, Down, Right	 Down. The concept of
+gave to	Up, Left, Right, Down	 Down. The concept of
+gave to	Up, Right, Down, Left	 Up. The concept of
+gave to	Up, Right, Left, Down	 Up. The concept of
+gave to	Down, Up, Left, Right	 Down. The concept of
+gave to	Down, Up, Right, Left	 Down. The concept of
+gave to	Down, Left, Up, Right	 Down. The reason for
+gave to	Down, Left, Right, Up	 Down. The concept of
+gave to	Down, Right, Up, Left	 Down. The reason for
+gave to	Down, Right, Left, Up	 Down. The reason for
+gave to	Left, Up, Down, Right	
+
+Left
+
+
+gave to	Left, Up, Right, Down	 Down. The concept of
+gave to	Left, Down, Up, Right	 Down. The reason for
+gave to	Left, Down, Right, Up	 Down. The reason for
+gave to	Left, Right, Up, Down	
+
+Left
+
+
+gave to	Left, Right, Down, Up	 Down. The concept of
+gave to	Right, Up, Down, Left	 Up. The concept of
+gave to	Right, Up, Left, Down	 Right. The word gave
+gave to	Right, Down, Up, Left	 Down. The word gave
+gave to	Right, Down, Left, Up	 Down. The word gave
+gave to	Right, Left, Up, Down	 Right. The word gave
+gave to	Right, Left, Down, Up	 Right. The word gave
+offended	Up, Down, Left, Right	 Down. The word off
+offended	Up, Down, Right, Left	 Down. The word off
+offended	Up, Left, Down, Right	 Down. The word off
+offended	Up, Left, Right, Down	 Down. The word off
+offended	Up, Right, Down, Left	 Down. The word off
+offended	Up, Right, Left, Down	 Down.
+
+The
+offended	Down, Up, Left, Right	 Down. The reason for
+offended	Down, Up, Right, Left	 Down. The word off
+offended	Down, Left, Up, Right	 Down. The word off
+offended	Down, Left, Right, Up	 Down. The word off
+offended	Down, Right, Up, Left	 Down. The word off
+offended	Down, Right, Left, Up	 Down. The word off
+offended	Left, Up, Down, Right	
+
+Left
+
+
+offended	Left, Up, Right, Down	
+
+Left
+
+
+offended	Left, Down, Up, Right	
+
+Left
+
+
+offended	Left, Down, Right, Up	
+
+Left
+
+
+offended	Left, Right, Up, Down	
+
+Left
+
+
+offended	Left, Right, Down, Up	
+
+Left
+
+
+offended	Right, Up, Down, Left	
+
+Down
+
+
+offended	Right, Up, Left, Down	
+
+Down
+
+
+offended	Right, Down, Up, Left	
+
+Down
+
+
+offended	Right, Down, Left, Up	 Down. The word off
+offended	Right, Left, Up, Down	
+
+Left
+
+
+offended	Right, Left, Down, Up	
+
+Down
+
+
+rushed	Up, Down, Left, Right	
+
+Up
+
+
+rushed	Up, Down, Right, Left	
+
+Up
+
+
+rushed	Up, Left, Down, Right	
+
+Up
+
+
+rushed	Up, Left, Right, Down	
+
+Up
+
+
+rushed	Up, Right, Down, Left	
+
+Up
+
+
+rushed	Up, Right, Left, Down	
+
+Up
+
+
+rushed	Down, Up, Left, Right	
+
+Down
+
+
+rushed	Down, Up, Right, Left	
+
+Down
+
+
+rushed	Down, Left, Up, Right	
+
+Down
+
+
+rushed	Down, Left, Right, Up	
+
+Down
+
+
+rushed	Down, Right, Up, Left	
+
+Down
+
+
+rushed	Down, Right, Left, Up	
+
+Down
+
+
+rushed	Left, Up, Down, Right	
+
+Left
+
+
+rushed	Left, Up, Right, Down	
+
+Left
+
+
+rushed	Left, Down, Up, Right	
+
+Left
+
+
+rushed	Left, Down, Right, Up	
+
+Left
+
+
+rushed	Left, Right, Up, Down	
+
+Left
+
+
+rushed	Left, Right, Down, Up	
+
+Left
+
+
+rushed	Right, Up, Down, Left	
+
+Up
+
+
+rushed	Right, Up, Left, Down	
+
+Up
+
+
+rushed	Right, Down, Up, Left	
+
+Left
+
+
+rushed	Right, Down, Left, Up	
+
+Down
+
+
+rushed	Right, Left, Up, Down	
+
+Right
+
+
+rushed	Right, Left, Down, Up	
+
+Down
+
+
+warned	Up, Down, Left, Right	 Up. Warned
+warned	Up, Down, Right, Left	 Up.
+
+The
+warned	Up, Left, Down, Right	 Up.
+
+The
+warned	Up, Left, Right, Down	 Up.
+
+The
+warned	Up, Right, Down, Left	 Up.
+
+The
+warned	Up, Right, Left, Down	 Up.
+
+The
+warned	Down, Up, Left, Right	 Down. The word war
+warned	Down, Up, Right, Left	 Down. The word war
+warned	Down, Left, Up, Right	 Down. The word war
+warned	Down, Left, Right, Up	 Down. The word war
+warned	Down, Right, Up, Left	 Down. The word war
+warned	Down, Right, Left, Up	 Down. The reason for
+warned	Left, Up, Down, Right	
+
+Left
+
+
+warned	Left, Up, Right, Down	
+
+Left
+
+
+warned	Left, Down, Up, Right	
+
+Left
+
+
+warned	Left, Down, Right, Up	
+
+Left
+
+
+warned	Left, Right, Up, Down	
+
+Left
+
+
+warned	Left, Right, Down, Up	
+
+Left
+
+
+warned	Right, Up, Down, Left	 Up.
+
+The
+warned	Right, Up, Left, Down	 Up.
+
+The
+warned	Right, Down, Up, Left	
+
+Down
+
+
+warned	Right, Down, Left, Up	 Down. The reason for
+warned	Right, Left, Up, Down	
+
+Right
+
+
+warned	Right, Left, Down, Up	
+
+Right
+
+
+owned	Up, Down, Left, Right	 Up. The concept of
+owned	Up, Down, Right, Left	 Up. The concept of
+owned	Up, Left, Down, Right	 Up. The concept of
+owned	Up, Left, Right, Down	 Up. The concept of
+owned	Up, Right, Down, Left	 Up. The concept of
+owned	Up, Right, Left, Down	 Up. The concept of
+owned	Down, Up, Left, Right	 Down. The reason for
+owned	Down, Up, Right, Left	 Down. The reason for
+owned	Down, Left, Up, Right	 Down. The reason for
+owned	Down, Left, Right, Up	 Down. The reason for
+owned	Down, Right, Up, Left	 Down. The reason for
+owned	Down, Right, Left, Up	 Down. The reason for
+owned	Left, Up, Down, Right	
+
+Up
+
+
+owned	Left, Up, Right, Down	
+
+Up
+
+
+owned	Left, Down, Up, Right	
+
+Up
+
+
+owned	Left, Down, Right, Up	
+
+Up
+
+
+owned	Left, Right, Up, Down	
+
+Left
+
+
+owned	Left, Right, Down, Up	
+
+Left
+
+
+owned	Right, Up, Down, Left	
+
+Up
+
+
+owned	Right, Up, Left, Down	 Right. The concept of
+owned	Right, Down, Up, Left	
+
+Up
+
+
+owned	Right, Down, Left, Up	
+
+Up
+
+
+owned	Right, Left, Up, Down	 Right.
+
+The
+owned	Right, Left, Down, Up	 Right. The concept of
+regretted	Up, Down, Left, Right	 Down. Regret is
+regretted	Up, Down, Right, Left	 Down. Regret is
+regretted	Up, Left, Down, Right	 Down. Regret is
+regretted	Up, Left, Right, Down	 Down. Regret is
+regretted	Up, Right, Down, Left	 Down. Regret is
+regretted	Up, Right, Left, Down	 Down. Regret is
+regretted	Down, Up, Left, Right	 Down. Regret is
+regretted	Down, Up, Right, Left	 Down. Regret is
+regretted	Down, Left, Up, Right	 Down. Regret is
+regretted	Down, Left, Right, Up	 Down. Regret is
+regretted	Down, Right, Up, Left	 Down. Regret is
+regretted	Down, Right, Left, Up	 Down. Regret is
+regretted	Left, Up, Down, Right	 Down. Regret is
+regretted	Left, Up, Right, Down	 Down. Regret is
+regretted	Left, Down, Up, Right	 Down. Regret is
+regretted	Left, Down, Right, Up	 Down. Regret is
+regretted	Left, Right, Up, Down	 Down. Regret is
+regretted	Left, Right, Down, Up	 Down. Regret is
+regretted	Right, Up, Down, Left	 Down. Regret is
+regretted	Right, Up, Left, Down	 Down. Regret is
+regretted	Right, Down, Up, Left	 Down. Regret is
+regretted	Right, Down, Left, Up	 Down. Regret is
+regretted	Right, Left, Up, Down	
+
+Down
+
+
+regretted	Right, Left, Down, Up	 Down. Regret is
+rested	Up, Down, Left, Right	
+
+Up
+
+
+rested	Up, Down, Right, Left	
+
+Up
+
+
+rested	Up, Left, Down, Right	
+
+Up.
+
+rested	Up, Left, Right, Down	
+
+Up.
+
+rested	Up, Right, Down, Left	
+
+Up.
+
+rested	Up, Right, Left, Down	
+
+Up.
+
+rested	Down, Up, Left, Right	
+
+Down
+
+
+rested	Down, Up, Right, Left	
+
+Down
+
+
+rested	Down, Left, Up, Right	
+
+Down
+
+
+rested	Down, Left, Right, Up	
+
+Down
+
+
+rested	Down, Right, Up, Left	
+
+Down
+
+
+rested	Down, Right, Left, Up	
+
+Down
+
+
+rested	Left, Up, Down, Right	
+
+Left
+
+
+rested	Left, Up, Right, Down	
+
+Left
+
+
+rested	Left, Down, Up, Right	
+
+Left
+
+
+rested	Left, Down, Right, Up	
+
+Left
+
+
+rested	Left, Right, Up, Down	
+
+Left
+
+
+rested	Left, Right, Down, Up	
+
+Left
+
+
+rested	Right, Up, Down, Left	
+
+Up
+
+
+rested	Right, Up, Left, Down	
+
+Up
+
+
+rested	Right, Down, Up, Left	
+
+Down
+
+
+rested	Right, Down, Left, Up	
+
+Down
+
+
+rested	Right, Left, Up, Down	
+
+Right
+
+
+rested	Right, Left, Down, Up	
+
+Down
+
+
+tempted	Up, Down, Left, Right	 Up. Temptation
+tempted	Up, Down, Right, Left	
+
+Up
+
+
+tempted	Up, Left, Down, Right	 Up. Temptation
+tempted	Up, Left, Right, Down	
+
+Up
+
+
+tempted	Up, Right, Down, Left	 Up. Temptation
+tempted	Up, Right, Left, Down	 Up. Temptation
+tempted	Down, Up, Left, Right	 Down. Temptation
+tempted	Down, Up, Right, Left	 Down. Temptation
+tempted	Down, Left, Up, Right	 Down. Temptation
+tempted	Down, Left, Right, Up	 Down. Temptation
+tempted	Down, Right, Up, Left	 Down. Temptation
+tempted	Down, Right, Left, Up	 Down. Temptation
+tempted	Left, Up, Down, Right	
+
+Left
+
+
+tempted	Left, Up, Right, Down	
+
+Left
+
+
+tempted	Left, Down, Up, Right	
+
+Left
+
+
+tempted	Left, Down, Right, Up	
+
+Left
+
+
+tempted	Left, Right, Up, Down	
+
+Left
+
+
+tempted	Left, Right, Down, Up	
+
+Left
+
+
+tempted	Right, Up, Down, Left	
+
+Up
+
+
+tempted	Right, Up, Left, Down	
+
+Up
+
+
+tempted	Right, Down, Up, Left	
+
+Up
+
+
+tempted	Right, Down, Left, Up	
+
+Up
+
+
+tempted	Right, Left, Up, Down	
+
+Right
+
+
+tempted	Right, Left, Down, Up	
+
+Right
+
+
+wanted	Up, Down, Left, Right	 Up. The concept of
+wanted	Up, Down, Right, Left	 Up. The concept of
+wanted	Up, Left, Down, Right	 Up. The concept of
+wanted	Up, Left, Right, Down	 Up. The concept of
+wanted	Up, Right, Down, Left	 Up. The concept of
+wanted	Up, Right, Left, Down	 Up. The concept of
+wanted	Down, Up, Left, Right	
+
+Down
+
+
+wanted	Down, Up, Right, Left	 Up. The concept of
+wanted	Down, Left, Up, Right	 Up. The concept of
+wanted	Down, Left, Right, Up	 Up. The concept of
+wanted	Down, Right, Up, Left	 Up. The concept of
+wanted	Down, Right, Left, Up	 Up. The concept of
+wanted	Left, Up, Down, Right	
+
+Left
+
+
+wanted	Left, Up, Right, Down	
+
+Up
+
+
+wanted	Left, Down, Up, Right	 Up. The concept of
+wanted	Left, Down, Right, Up	 Up. The concept of
+wanted	Left, Right, Up, Down	 Up. The concept of
+wanted	Left, Right, Down, Up	
+
+Up
+
+
+wanted	Right, Up, Down, Left	 Up. The concept of
+wanted	Right, Up, Left, Down	 Up. The concept of
+wanted	Right, Down, Up, Left	 Up. The concept of
+wanted	Right, Down, Left, Up	 Up. The concept of
+wanted	Right, Left, Up, Down	
+
+Up
+
+
+wanted	Right, Left, Down, Up	
+
+Up
+
+
+hoped	Up, Down, Left, Right	 Up. The concept of
+hoped	Up, Down, Right, Left	 Up. The concept of
+hoped	Up, Left, Down, Right	 Up. The concept of
+hoped	Up, Left, Right, Down	 Up. The concept of
+hoped	Up, Right, Down, Left	 Up. The concept of
+hoped	Up, Right, Left, Down	 Up. The concept of
+hoped	Down, Up, Left, Right	 Up. The word hoped
+hoped	Down, Up, Right, Left	 Up. The word hoped
+hoped	Down, Left, Up, Right	 Up. The word hoped
+hoped	Down, Left, Right, Up	 Up. The word hoped
+hoped	Down, Right, Up, Left	 Up.
+
+H
+hoped	Down, Right, Left, Up	 Up.
+
+H
+hoped	Left, Up, Down, Right	 Up. The concept of
+hoped	Left, Up, Right, Down	 Up. The concept of
+hoped	Left, Down, Up, Right	 Up. The word hoped
+hoped	Left, Down, Right, Up	 Up. The word hoped
+hoped	Left, Right, Up, Down	 Up. The concept of
+hoped	Left, Right, Down, Up	 Up. The concept of
+hoped	Right, Up, Down, Left	 Up. The concept of
+hoped	Right, Up, Left, Down	 Up. The word hoped
+hoped	Right, Down, Up, Left	 Up. The word hoped
+hoped	Right, Down, Left, Up	 Up. The word hoped
+hoped	Right, Left, Up, Down	 Up.
+
+H
+hoped	Right, Left, Down, Up	 Up.
+
+H
+increased	Up, Down, Left, Right	 Up. The concept of
+increased	Up, Down, Right, Left	 Up. The word "
+increased	Up, Left, Down, Right	 Up. The concept of
+increased	Up, Left, Right, Down	 Up. The concept of
+increased	Up, Right, Down, Left	 Up. The word "
+increased	Up, Right, Left, Down	 Up. The word "
+increased	Down, Up, Left, Right	 Up. The word "
+increased	Down, Up, Right, Left	 Up. The word "
+increased	Down, Left, Up, Right	 Up. The word "
+increased	Down, Left, Right, Up	 Up. The word "
+increased	Down, Right, Up, Left	 Up. The word "
+increased	Down, Right, Left, Up	 Up. The word "
+increased	Left, Up, Down, Right	
+
+Up
+
+
+increased	Left, Up, Right, Down	 Up. The concept of
+increased	Left, Down, Up, Right	 Up. The concept of
+increased	Left, Down, Right, Up	 Up. The concept of
+increased	Left, Right, Up, Down	 Up. The concept of
+increased	Left, Right, Down, Up	 Up. The concept of
+increased	Right, Up, Down, Left	 Up. The concept of
+increased	Right, Up, Left, Down	 Up. The concept of
+increased	Right, Down, Up, Left	 Up. The word "
+increased	Right, Down, Left, Up	 Up. The word "
+increased	Right, Left, Up, Down	 Up. The concept of
+increased	Right, Left, Down, Up	 Up. The word "
+obeyed	Up, Down, Left, Right	 Up. The concept of
+obeyed	Up, Down, Right, Left	 Up. The concept of
+obeyed	Up, Left, Down, Right	 Up. The word obey
+obeyed	Up, Left, Right, Down	 Up. The word obey
+obeyed	Up, Right, Down, Left	 Up. The concept of
+obeyed	Up, Right, Left, Down	 Up. The word obey
+obeyed	Down, Up, Left, Right	 Down. The word obey
+obeyed	Down, Up, Right, Left	 Down. The word obey
+obeyed	Down, Left, Up, Right	 Down. The word obey
+obeyed	Down, Left, Right, Up	 Down. The word obey
+obeyed	Down, Right, Up, Left	 Down. The word obey
+obeyed	Down, Right, Left, Up	 Down. The word obey
+obeyed	Left, Up, Down, Right	 Right.
+
+I
+obeyed	Left, Up, Right, Down	 Down. The word obey
+obeyed	Left, Down, Up, Right	 Right.
+
+The
+obeyed	Left, Down, Right, Up	 Down. The word obey
+obeyed	Left, Right, Up, Down	 Left. The word obey
+obeyed	Left, Right, Down, Up	 Left. The word obey
+obeyed	Right, Up, Down, Left	 Right. The word "
+obeyed	Right, Up, Left, Down	 Right. The word "
+obeyed	Right, Down, Up, Left	 Down. The word obey
+obeyed	Right, Down, Left, Up	 Down. The word obey
+obeyed	Right, Left, Up, Down	 Right. The word "
+obeyed	Right, Left, Down, Up	 Right. The word obey
+respected	Up, Down, Left, Right	 Up. Respect is
+respected	Up, Down, Right, Left	 Up. Respect is
+respected	Up, Left, Down, Right	 Up. Respect is
+respected	Up, Left, Right, Down	 Up. Respect is
+respected	Up, Right, Down, Left	 Up. Respect is
+respected	Up, Right, Left, Down	 Up. Respect is
+respected	Down, Up, Left, Right	 Up. Respect is
+respected	Down, Up, Right, Left	 Up. Respect is
+respected	Down, Left, Up, Right	 Up. Respect is
+respected	Down, Left, Right, Up	 Up. Respect is
+respected	Down, Right, Up, Left	 Up. Respect is
+respected	Down, Right, Left, Up	 Up. Respect is
+respected	Left, Up, Down, Right	 Up. Respect is
+respected	Left, Up, Right, Down	 Up. Respect is
+respected	Left, Down, Up, Right	 Up. Respect is
+respected	Left, Down, Right, Up	 Up. Respect is
+respected	Left, Right, Up, Down	 Up. Respect is
+respected	Left, Right, Down, Up	 Up. Respect is
+respected	Right, Up, Down, Left	 Up. Respect is
+respected	Right, Up, Left, Down	 Up. Respect is
+respected	Right, Down, Up, Left	 Up. Respect is
+respected	Right, Down, Left, Up	 Up. Respect is
+respected	Right, Left, Up, Down	 Right. The word respect
+respected	Right, Left, Down, Up	 Up. Respect is
+succeeded	Up, Down, Left, Right	 Up. The concept of
+succeeded	Up, Down, Right, Left	 Up. The concept of
+succeeded	Up, Left, Down, Right	 Up. The concept of
+succeeded	Up, Left, Right, Down	 Up. The concept of
+succeeded	Up, Right, Down, Left	 Up. The concept of
+succeeded	Up, Right, Left, Down	 Up. The concept of
+succeeded	Down, Up, Left, Right	 Up. The concept of
+succeeded	Down, Up, Right, Left	 Up. The concept of
+succeeded	Down, Left, Up, Right	 Up. The concept of
+succeeded	Down, Left, Right, Up	 Up. The concept of
+succeeded	Down, Right, Up, Left	 Up. The concept of
+succeeded	Down, Right, Left, Up	 Up. The concept of
+succeeded	Left, Up, Down, Right	
+
+Up
+
+
+succeeded	Left, Up, Right, Down	 Up. The concept of
+succeeded	Left, Down, Up, Right	 Up. The concept of
+succeeded	Left, Down, Right, Up	 Up. The concept of
+succeeded	Left, Right, Up, Down	 Up. The concept of
+succeeded	Left, Right, Down, Up	 Up. The concept of
+succeeded	Right, Up, Down, Left	
+
+Up
+
+
+succeeded	Right, Up, Left, Down	
+
+Up
+
+
+succeeded	Right, Down, Up, Left	
+
+Up
+
+
+succeeded	Right, Down, Left, Up	
+
+Up
+
+
+succeeded	Right, Left, Up, Down	 Right. The concept of
+succeeded	Right, Left, Down, Up	
+
+Up
+
+

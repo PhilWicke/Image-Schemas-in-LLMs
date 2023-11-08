@@ -1,0 +1,1449 @@
+fled	Up, Down, Left, Right	 Up.
+Select the
+fled	Up, Down, Right, Left	 Up.
+Select the
+fled	Up, Left, Down, Right	 Up.
+Select the
+fled	Up, Left, Right, Down	 Up.
+Select the
+fled	Up, Right, Down, Left	 Up.
+Select the
+fled	Up, Right, Left, Down	 Up.
+Select the
+fled	Down, Up, Left, Right	 Up.
+Select the
+fled	Down, Up, Right, Left	 Up.
+Select the
+fled	Down, Left, Up, Right	 Up.
+Select the
+fled	Down, Left, Right, Up	 Up.
+Select the
+fled	Down, Right, Up, Left	 Up.
+Select the
+fled	Down, Right, Left, Up	 Up.
+Select the
+fled	Left, Up, Down, Right	 Left.
+Select the
+fled	Left, Up, Right, Down	 Left.
+Select the
+fled	Left, Down, Up, Right	 Left.
+Select the
+fled	Left, Down, Right, Up	 Left.
+Select the
+fled	Left, Right, Up, Down	 Left.
+Select the
+fled	Left, Right, Down, Up	 Left.
+Select the
+fled	Right, Up, Down, Left	 Right.
+Select the
+fled	Right, Up, Left, Down	 Right.
+Select the
+fled	Right, Down, Up, Left	 Right.
+Select the
+fled	Right, Down, Left, Up	 Right.
+Select the
+fled	Right, Left, Up, Down	 Left.
+Select the
+fled	Right, Left, Down, Up	 Left.
+Select the
+pointed at	Up, Down, Left, Right	 Up.
+Select the
+pointed at	Up, Down, Right, Left	 Up.
+Select the
+pointed at	Up, Left, Down, Right	 Up.
+Select the
+pointed at	Up, Left, Right, Down	 Up.
+Select the
+pointed at	Up, Right, Down, Left	 Up.
+Select the
+pointed at	Up, Right, Left, Down	 Up.
+Select the
+pointed at	Down, Up, Left, Right	
+Down. The arrow
+pointed at	Down, Up, Right, Left	
+Down. The arrow
+pointed at	Down, Left, Up, Right	
+The best representation for
+pointed at	Down, Left, Right, Up	
+The best representation for
+pointed at	Down, Right, Up, Left	
+The best representation for
+pointed at	Down, Right, Left, Up	
+Down, because the
+pointed at	Left, Up, Down, Right	
+The best representation for
+pointed at	Left, Up, Right, Down	
+The best representation for
+pointed at	Left, Down, Up, Right	
+Left, because the
+pointed at	Left, Down, Right, Up	
+The best representation for
+pointed at	Left, Right, Up, Down	
+The best representation for
+pointed at	Left, Right, Down, Up	 Left.
+Select the
+pointed at	Right, Up, Down, Left	 Right.
+Select the
+pointed at	Right, Up, Left, Down	 Right.
+Select the
+pointed at	Right, Down, Up, Left	
+Right. The arrow
+pointed at	Right, Down, Left, Up	
+Right, because the
+pointed at	Right, Left, Up, Down	 Right.
+Select the
+pointed at	Right, Left, Down, Up	 Right.
+Select the
+pulled	Up, Down, Left, Right	
+Up. The event
+pulled	Up, Down, Right, Left	
+Up. The event
+pulled	Up, Left, Down, Right	
+Up. The event
+pulled	Up, Left, Right, Down	 Down.
+Select the
+pulled	Up, Right, Down, Left	
+Up. The event
+pulled	Up, Right, Left, Down	
+Up. The event
+pulled	Down, Up, Left, Right	
+Down. The event
+pulled	Down, Up, Right, Left	
+Down. The event
+pulled	Down, Left, Up, Right	
+A. Down
+
+pulled	Down, Left, Right, Up	
+A. Down
+
+pulled	Down, Right, Up, Left	
+A. Down
+
+pulled	Down, Right, Left, Up	
+A. Down
+
+pulled	Left, Up, Down, Right	
+Left. The event
+pulled	Left, Up, Right, Down	
+Left. The event
+pulled	Left, Down, Up, Right	
+Left. The event
+pulled	Left, Down, Right, Up	
+Left. The event
+pulled	Left, Right, Up, Down	
+Left. The event
+pulled	Left, Right, Down, Up	 Left.
+Select the
+pulled	Right, Up, Down, Left	 Right.
+Select the
+pulled	Right, Up, Left, Down	
+Right. The event
+pulled	Right, Down, Up, Left	
+Right. The event
+pulled	Right, Down, Left, Up	
+Right. The event
+pulled	Right, Left, Up, Down	
+Right. The event
+pulled	Right, Left, Down, Up	
+Right. The event
+pushed	Up, Down, Left, Right	
+Up. The event
+pushed	Up, Down, Right, Left	
+Up. The event
+pushed	Up, Left, Down, Right	
+Up. The event
+pushed	Up, Left, Right, Down	 Up.
+Select the
+pushed	Up, Right, Down, Left	
+Up, because the
+pushed	Up, Right, Left, Down	
+Up. The event
+pushed	Down, Up, Left, Right	
+Down. The event
+pushed	Down, Up, Right, Left	
+Down. The event
+pushed	Down, Left, Up, Right	
+A. Down
+
+pushed	Down, Left, Right, Up	
+A. Down
+
+pushed	Down, Right, Up, Left	
+A. Down
+
+pushed	Down, Right, Left, Up	
+Down. The event
+pushed	Left, Up, Down, Right	 Left.
+Select the
+pushed	Left, Up, Right, Down	 Left.
+Select the
+pushed	Left, Down, Up, Right	 Left.
+Select the
+pushed	Left, Down, Right, Up	 Left.
+Select the
+pushed	Left, Right, Up, Down	 Left.
+Select the
+pushed	Left, Right, Down, Up	 Left.
+Select the
+pushed	Right, Up, Down, Left	 Right.
+Select the
+pushed	Right, Up, Left, Down	 Right.
+Select the
+pushed	Right, Down, Up, Left	 Right.
+Select the
+pushed	Right, Down, Left, Up	 Right.
+Select the
+pushed	Right, Left, Up, Down	
+Right. The event
+pushed	Right, Left, Down, Up	 Right.
+Select the
+walked	Up, Down, Left, Right	
+Up, because you
+walked	Up, Down, Right, Left	
+Up, because you
+walked	Up, Left, Down, Right	
+Up, Left,
+walked	Up, Left, Right, Down	 Down.
+Select the
+walked	Up, Right, Down, Left	
+Up, because it
+walked	Up, Right, Left, Down	
+Up, because it
+walked	Down, Up, Left, Right	
+Down. Walking
+walked	Down, Up, Right, Left	
+Down, because the
+walked	Down, Left, Up, Right	
+Down, Left,
+walked	Down, Left, Right, Up	
+Down, because the
+walked	Down, Right, Up, Left	
+Down, because the
+walked	Down, Right, Left, Up	
+Down, because the
+walked	Left, Up, Down, Right	
+Left, because the
+walked	Left, Up, Right, Down	
+Left, because the
+walked	Left, Down, Up, Right	
+Left, because the
+walked	Left, Down, Right, Up	
+Left, because the
+walked	Left, Right, Up, Down	
+Left, because the
+walked	Left, Right, Down, Up	 Left.
+Select the
+walked	Right, Up, Down, Left	
+Right, because the
+walked	Right, Up, Left, Down	
+Right, because the
+walked	Right, Down, Up, Left	
+Right, because the
+walked	Right, Down, Left, Up	
+Right, because the
+walked	Right, Left, Up, Down	
+Right, because the
+walked	Right, Left, Down, Up	
+Right, because the
+hunted	Up, Down, Left, Right	 Up.
+Select the
+hunted	Up, Down, Right, Left	 Up.
+Select the
+hunted	Up, Left, Down, Right	
+Up, because the
+hunted	Up, Left, Right, Down	 Down.
+Select the
+hunted	Up, Right, Down, Left	
+Up, because the
+hunted	Up, Right, Left, Down	 Up.
+Select the
+hunted	Down, Up, Left, Right	 Down.
+Select the
+hunted	Down, Up, Right, Left	 Down.
+Select the
+hunted	Down, Left, Up, Right	
+Down. The h
+hunted	Down, Left, Right, Up	 Up.
+Select the
+hunted	Down, Right, Up, Left	
+Down. The h
+hunted	Down, Right, Left, Up	 Down.
+Select the
+hunted	Left, Up, Down, Right	 Left.
+Select the
+hunted	Left, Up, Right, Down	 Left.
+Select the
+hunted	Left, Down, Up, Right	 Left.
+Select the
+hunted	Left, Down, Right, Up	 Left.
+Select the
+hunted	Left, Right, Up, Down	 Left.
+Select the
+hunted	Left, Right, Down, Up	 Left.
+Select the
+hunted	Right, Up, Down, Left	 Right.
+Select the
+hunted	Right, Up, Left, Down	 Right.
+Select the
+hunted	Right, Down, Up, Left	 Right.
+Select the
+hunted	Right, Down, Left, Up	 Right.
+Select the
+hunted	Right, Left, Up, Down	 Right.
+Select the
+hunted	Right, Left, Down, Up	 Right.
+Select the
+impacted	Up, Down, Left, Right	
+Up. The event
+impacted	Up, Down, Right, Left	
+Up. The event
+impacted	Up, Left, Down, Right	
+Up. The event
+impacted	Up, Left, Right, Down	 Down.
+Select the
+impacted	Up, Right, Down, Left	
+Up. The event
+impacted	Up, Right, Left, Down	 Down. The reason for
+impacted	Down, Up, Left, Right	 Down.
+Select the
+impacted	Down, Up, Right, Left	 Down.
+Select the
+impacted	Down, Left, Up, Right	
+Down. The event
+impacted	Down, Left, Right, Up	 Down.
+Select the
+impacted	Down, Right, Up, Left	 Down.
+Select the
+impacted	Down, Right, Left, Up	 Down.
+Select the
+impacted	Left, Up, Down, Right	 Left.
+Select the
+impacted	Left, Up, Right, Down	 Left.
+Select the
+impacted	Left, Down, Up, Right	 Left.
+Select the
+impacted	Left, Down, Right, Up	 Left.
+Select the
+impacted	Left, Right, Up, Down	 Left.
+Select the
+impacted	Left, Right, Down, Up	 Left.
+Select the
+impacted	Right, Up, Down, Left	 Right.
+Select the
+impacted	Right, Up, Left, Down	 Right.
+Select the
+impacted	Right, Down, Up, Left	 Right.
+Select the
+impacted	Right, Down, Left, Up	 Right.
+Select the
+impacted	Right, Left, Up, Down	
+Right. The event
+impacted	Right, Left, Down, Up	 Right.
+Select the
+perched	Up, Down, Left, Right	
+Up. Perched
+perched	Up, Down, Right, Left	 Up.
+Select the
+perched	Up, Left, Down, Right	
+Up. Perched
+perched	Up, Left, Right, Down	
+Up. Perched
+perched	Up, Right, Down, Left	
+Up. Perched
+perched	Up, Right, Left, Down	
+Up. Perched
+perched	Down, Up, Left, Right	
+Up. Perched
+perched	Down, Up, Right, Left	
+Down. Perched
+perched	Down, Left, Up, Right	
+A. Down
+
+perched	Down, Left, Right, Up	
+Up. Perched
+perched	Down, Right, Up, Left	
+A. Down
+
+perched	Down, Right, Left, Up	
+Down. Perched
+perched	Left, Up, Down, Right	
+Left. The event
+perched	Left, Up, Right, Down	
+Left. Perched
+perched	Left, Down, Up, Right	
+Left. The event
+perched	Left, Down, Right, Up	
+Left. The event
+perched	Left, Right, Up, Down	
+Left. The event
+perched	Left, Right, Down, Up	 Left.
+Select the
+perched	Right, Up, Down, Left	 Right.
+Select the
+perched	Right, Up, Left, Down	 Right.
+Select the
+perched	Right, Down, Up, Left	
+Right. Perched
+perched	Right, Down, Left, Up	
+Right. Perched
+perched	Right, Left, Up, Down	
+Right. Perched
+perched	Right, Left, Down, Up	 Right.
+Select the
+showed	Up, Down, Left, Right	
+Up. The event
+showed	Up, Down, Right, Left	
+Up. The event
+showed	Up, Left, Down, Right	
+Up. The event
+showed	Up, Left, Right, Down	
+Up. The event
+showed	Up, Right, Down, Left	
+Up, because it
+showed	Up, Right, Left, Down	
+Up. The event
+showed	Down, Up, Left, Right	
+Down. The event
+showed	Down, Up, Right, Left	
+Down. The event
+showed	Down, Left, Up, Right	
+The best representation for
+showed	Down, Left, Right, Up	
+The best representation for
+showed	Down, Right, Up, Left	
+The best representation for
+showed	Down, Right, Left, Up	
+The best representation for
+showed	Left, Up, Down, Right	
+Left. The event
+showed	Left, Up, Right, Down	
+Left. The event
+showed	Left, Down, Up, Right	
+Left. The event
+showed	Left, Down, Right, Up	
+Left. The event
+showed	Left, Right, Up, Down	
+Left. The event
+showed	Left, Right, Down, Up	
+Left. The event
+showed	Right, Up, Down, Left	 Right.
+Select the
+showed	Right, Up, Left, Down	 Right.
+Select the
+showed	Right, Down, Up, Left	
+Right. The event
+showed	Right, Down, Left, Up	
+Right. The event
+showed	Right, Left, Up, Down	
+Right. The word
+showed	Right, Left, Down, Up	
+Right. The event
+smashed	Up, Down, Left, Right	
+Up. The event
+smashed	Up, Down, Right, Left	
+Up. The event
+smashed	Up, Left, Down, Right	
+Up, because it
+smashed	Up, Left, Right, Down	
+Up, because it
+smashed	Up, Right, Down, Left	
+Up, because it
+smashed	Up, Right, Left, Down	
+Up, because it
+smashed	Down, Up, Left, Right	 Down.
+Select the
+smashed	Down, Up, Right, Left	 Down.
+Select the
+smashed	Down, Left, Up, Right	
+Down. The event
+smashed	Down, Left, Right, Up	
+Down. The event
+smashed	Down, Right, Up, Left	
+Down. The concept
+smashed	Down, Right, Left, Up	 Down.
+Select the
+smashed	Left, Up, Down, Right	
+Left. The event
+smashed	Left, Up, Right, Down	
+Left. The event
+smashed	Left, Down, Up, Right	
+Left. The event
+smashed	Left, Down, Right, Up	 Left.
+Select the
+smashed	Left, Right, Up, Down	
+Left. The event
+smashed	Left, Right, Down, Up	 Left.
+Select the
+smashed	Right, Up, Down, Left	 Right.
+Select the
+smashed	Right, Up, Left, Down	
+Right. The event
+smashed	Right, Down, Up, Left	
+Right. The concept
+smashed	Right, Down, Left, Up	
+Right. The event
+smashed	Right, Left, Up, Down	
+Right. The event
+smashed	Right, Left, Down, Up	
+Right. The event
+bombed	Up, Down, Left, Right	 Up.
+Select the
+bombed	Up, Down, Right, Left	 Up.
+Select the
+bombed	Up, Left, Down, Right	 Up.
+Select the
+bombed	Up, Left, Right, Down	 Down.
+Select the
+bombed	Up, Right, Down, Left	 Up.
+Select the
+bombed	Up, Right, Left, Down	 Up.
+Select the
+bombed	Down, Up, Left, Right	 Down.
+Select the
+bombed	Down, Up, Right, Left	 Down.
+Select the
+bombed	Down, Left, Up, Right	 Up.
+Select the
+bombed	Down, Left, Right, Up	 Up.
+Select the
+bombed	Down, Right, Up, Left	 Up.
+Select the
+bombed	Down, Right, Left, Up	 Up.
+Select the
+bombed	Left, Up, Down, Right	
+Left. The bomb
+bombed	Left, Up, Right, Down	 Left.
+Select the
+bombed	Left, Down, Up, Right	 Left.
+Select the
+bombed	Left, Down, Right, Up	 Left.
+Select the
+bombed	Left, Right, Up, Down	
+Left. The bomb
+bombed	Left, Right, Down, Up	 Left.
+Select the
+bombed	Right, Up, Down, Left	 Right.
+Select the
+bombed	Right, Up, Left, Down	
+Right. The bomb
+bombed	Right, Down, Up, Left	
+Right. The bomb
+bombed	Right, Down, Left, Up	
+Right. The bom
+bombed	Right, Left, Up, Down	
+Right. The bomb
+bombed	Right, Left, Down, Up	
+The best representation for
+flew	Up, Down, Left, Right	 Up.
+Select the
+flew	Up, Down, Right, Left	 Up.
+Select the
+flew	Up, Left, Down, Right	
+Up. The bird
+flew	Up, Left, Right, Down	 Up.
+Select the
+flew	Up, Right, Down, Left	 Up.
+Select the
+flew	Up, Right, Left, Down	 Up.
+Select the
+flew	Down, Up, Left, Right	
+Up. The bird
+flew	Down, Up, Right, Left	
+Up. The bird
+flew	Down, Left, Up, Right	
+The best representation for
+flew	Down, Left, Right, Up	
+The best representation for
+flew	Down, Right, Up, Left	
+The best representation for
+flew	Down, Right, Left, Up	
+Down. The concept
+flew	Left, Up, Down, Right	
+Left. The concept
+flew	Left, Up, Right, Down	
+Left. The concept
+flew	Left, Down, Up, Right	
+Left. The concept
+flew	Left, Down, Right, Up	
+Left. The concept
+flew	Left, Right, Up, Down	
+Left. The bird
+flew	Left, Right, Down, Up	 Left.
+Select the
+flew	Right, Up, Down, Left	
+Right. The concept
+flew	Right, Up, Left, Down	
+Right. The concept
+flew	Right, Down, Up, Left	
+Right. The concept
+flew	Right, Down, Left, Up	
+Right. The concept
+flew	Right, Left, Up, Down	
+Right. The concept
+flew	Right, Left, Down, Up	
+Right. The bird
+floated	Up, Down, Left, Right	 Up.
+Select the
+floated	Up, Down, Right, Left	 Up.
+Select the
+floated	Up, Left, Down, Right	 Up.
+Select the
+floated	Up, Left, Right, Down	 Up.
+Select the
+floated	Up, Right, Down, Left	 Up.
+Select the
+floated	Up, Right, Left, Down	 Up.
+Select the
+floated	Down, Up, Left, Right	 Down.
+Select the
+floated	Down, Up, Right, Left	 Down.
+Select the
+floated	Down, Left, Up, Right	
+The best representation for
+floated	Down, Left, Right, Up	 Down.
+Select the
+floated	Down, Right, Up, Left	 Down.
+Select the
+floated	Down, Right, Left, Up	 Down.
+Select the
+floated	Left, Up, Down, Right	 Left.
+Select the
+floated	Left, Up, Right, Down	 Left.
+Select the
+floated	Left, Down, Up, Right	 Left.
+Select the
+floated	Left, Down, Right, Up	 Left.
+Select the
+floated	Left, Right, Up, Down	 Left.
+Select the
+floated	Left, Right, Down, Up	 Left.
+Select the
+floated	Right, Up, Down, Left	 Right.
+Select the
+floated	Right, Up, Left, Down	 Right.
+Select the
+floated	Right, Down, Up, Left	 Right.
+Select the
+floated	Right, Down, Left, Up	 Right.
+Select the
+floated	Right, Left, Up, Down	 Right.
+Select the
+floated	Right, Left, Down, Up	 Right.
+Select the
+lifted	Up, Down, Left, Right	 Up.
+Select the
+lifted	Up, Down, Right, Left	 Up.
+Select the
+lifted	Up, Left, Down, Right	 Up.
+Select the
+lifted	Up, Left, Right, Down	 Up.
+Select the
+lifted	Up, Right, Down, Left	 Up.
+Select the
+lifted	Up, Right, Left, Down	 Up.
+Select the
+lifted	Down, Up, Left, Right	 Up.
+Select the
+lifted	Down, Up, Right, Left	 Up.
+Select the
+lifted	Down, Left, Up, Right	 Up.
+Select the
+lifted	Down, Left, Right, Up	 Up.
+Select the
+lifted	Down, Right, Up, Left	 Up.
+Select the
+lifted	Down, Right, Left, Up	 Up.
+Select the
+lifted	Left, Up, Down, Right	 Up.
+Select the
+lifted	Left, Up, Right, Down	 Up.
+Select the
+lifted	Left, Down, Up, Right	 Up.
+Select the
+lifted	Left, Down, Right, Up	 Up.
+Select the
+lifted	Left, Right, Up, Down	 Up.
+Select the
+lifted	Left, Right, Down, Up	 Left.
+Select the
+lifted	Right, Up, Down, Left	 Up.
+Select the
+lifted	Right, Up, Left, Down	 Up.
+Select the
+lifted	Right, Down, Up, Left	 Up.
+Select the
+lifted	Right, Down, Left, Up	
+Right, because the
+lifted	Right, Left, Up, Down	
+Right, because the
+lifted	Right, Left, Down, Up	
+Right. The event
+sank	Up, Down, Left, Right	
+Up. The event
+sank	Up, Down, Right, Left	
+Up. The event
+sank	Up, Left, Down, Right	
+Up, because it
+sank	Up, Left, Right, Down	
+Up, because it
+sank	Up, Right, Down, Left	
+Up, because it
+sank	Up, Right, Left, Down	
+Up, because it
+sank	Down, Up, Left, Right	
+Down. The word
+sank	Down, Up, Right, Left	
+Down. The word
+sank	Down, Left, Up, Right	
+Down. The word
+sank	Down, Left, Right, Up	
+Down. The word
+sank	Down, Right, Up, Left	
+Down. The word
+sank	Down, Right, Left, Up	
+Down. The word
+sank	Left, Up, Down, Right	
+Left. The word
+sank	Left, Up, Right, Down	
+Left. The word
+sank	Left, Down, Up, Right	
+Left. The word
+sank	Left, Down, Right, Up	
+Left. The word
+sank	Left, Right, Up, Down	
+Left. The word
+sank	Left, Right, Down, Up	
+Left. The word
+sank	Right, Up, Down, Left	
+Right. The word
+sank	Right, Up, Left, Down	
+Right, because the
+sank	Right, Down, Up, Left	
+Right. The word
+sank	Right, Down, Left, Up	
+Right, because the
+sank	Right, Left, Up, Down	
+Right. The word
+sank	Right, Left, Down, Up	
+Right. The word
+argued with	Up, Down, Left, Right	 Up.
+Select the
+argued with	Up, Down, Right, Left	 Up.
+Select the
+argued with	Up, Left, Down, Right	 Down.
+Select the
+argued with	Up, Left, Right, Down	 Down.
+Select the
+argued with	Up, Right, Down, Left	 Down.
+Select the
+argued with	Up, Right, Left, Down	 Down.
+Select the
+argued with	Down, Up, Left, Right	 Down.
+Select the
+argued with	Down, Up, Right, Left	 Down.
+Select the
+argued with	Down, Left, Up, Right	 Down.
+Select the
+argued with	Down, Left, Right, Up	 Up.
+Select the
+argued with	Down, Right, Up, Left	 Down.
+Select the
+argued with	Down, Right, Left, Up	 Down.
+Select the
+argued with	Left, Up, Down, Right	 Left.
+Select the
+argued with	Left, Up, Right, Down	 Left.
+Select the
+argued with	Left, Down, Up, Right	
+Left. The concept
+argued with	Left, Down, Right, Up	 Left.
+Select the
+argued with	Left, Right, Up, Down	 Left.
+Select the
+argued with	Left, Right, Down, Up	 Left.
+Select the
+argued with	Right, Up, Down, Left	
+The best representation for
+argued with	Right, Up, Left, Down	
+The best representation for
+argued with	Right, Down, Up, Left	
+The best representation for
+argued with	Right, Down, Left, Up	
+The best representation for
+argued with	Right, Left, Up, Down	
+The best representation for
+argued with	Right, Left, Down, Up	
+The best representation for
+gave to	Up, Down, Left, Right	
+Up. The concept
+gave to	Up, Down, Right, Left	
+The best representation for
+gave to	Up, Left, Down, Right	
+The best representation for
+gave to	Up, Left, Right, Down	 Up.
+Select the
+gave to	Up, Right, Down, Left	
+The best representation for
+gave to	Up, Right, Left, Down	 Up.
+Select the
+gave to	Down, Up, Left, Right	
+The best representation for
+gave to	Down, Up, Right, Left	
+The best representation for
+gave to	Down, Left, Up, Right	
+The best representation for
+gave to	Down, Left, Right, Up	
+The best representation for
+gave to	Down, Right, Up, Left	
+The best representation for
+gave to	Down, Right, Left, Up	
+The best representation for
+gave to	Left, Up, Down, Right	
+The best representation for
+gave to	Left, Up, Right, Down	
+The best representation for
+gave to	Left, Down, Up, Right	
+The best representation for
+gave to	Left, Down, Right, Up	
+The best representation for
+gave to	Left, Right, Up, Down	
+The best representation for
+gave to	Left, Right, Down, Up	 Left.
+Select the
+gave to	Right, Up, Down, Left	 Right.
+Select the
+gave to	Right, Up, Left, Down	 Right.
+Select the
+gave to	Right, Down, Up, Left	
+The best representation for
+gave to	Right, Down, Left, Up	
+The best representation for
+gave to	Right, Left, Up, Down	
+The best representation for
+gave to	Right, Left, Down, Up	
+The best representation for
+offended	Up, Down, Left, Right	
+Up. The concept
+offended	Up, Down, Right, Left	
+Up. The concept
+offended	Up, Left, Down, Right	
+Up. The concept
+offended	Up, Left, Right, Down	 Down.
+Select the
+offended	Up, Right, Down, Left	
+Up, because it
+offended	Up, Right, Left, Down	
+Up. The concept
+offended	Down, Up, Left, Right	 Down.
+Select the
+offended	Down, Up, Right, Left	
+Down. The concept
+offended	Down, Left, Up, Right	
+Down. The concept
+offended	Down, Left, Right, Up	
+Down. The concept
+offended	Down, Right, Up, Left	
+Down. The concept
+offended	Down, Right, Left, Up	 Down.
+Select the
+offended	Left, Up, Down, Right	
+Left. The concept
+offended	Left, Up, Right, Down	 Left.
+Select the
+offended	Left, Down, Up, Right	
+Left. The concept
+offended	Left, Down, Right, Up	 Left.
+Select the
+offended	Left, Right, Up, Down	
+Left. The left
+offended	Left, Right, Down, Up	 Left.
+Select the
+offended	Right, Up, Down, Left	
+The best representation for
+offended	Right, Up, Left, Down	
+The best representation for
+offended	Right, Down, Up, Left	
+The best representation for
+offended	Right, Down, Left, Up	
+The best representation for
+offended	Right, Left, Up, Down	
+The best representation for
+offended	Right, Left, Down, Up	
+The best representation for
+rushed	Up, Down, Left, Right	 Up.
+Select the
+rushed	Up, Down, Right, Left	 Up.
+Select the
+rushed	Up, Left, Down, Right	
+Up. The event
+rushed	Up, Left, Right, Down	 Down.
+Select the
+rushed	Up, Right, Down, Left	 Up.
+Select the
+rushed	Up, Right, Left, Down	 Down.
+Select the
+rushed	Down, Up, Left, Right	 Down.
+Select the
+rushed	Down, Up, Right, Left	 Down.
+Select the
+rushed	Down, Left, Up, Right	 Down.
+Select the
+rushed	Down, Left, Right, Up	 Down.
+Select the
+rushed	Down, Right, Up, Left	 Down.
+Select the
+rushed	Down, Right, Left, Up	 Down.
+Select the
+rushed	Left, Up, Down, Right	
+Left. The event
+rushed	Left, Up, Right, Down	 Left.
+Select the
+rushed	Left, Down, Up, Right	 Left.
+Select the
+rushed	Left, Down, Right, Up	 Left.
+Select the
+rushed	Left, Right, Up, Down	 Left.
+Select the
+rushed	Left, Right, Down, Up	 Left.
+Select the
+rushed	Right, Up, Down, Left	 Right.
+Select the
+rushed	Right, Up, Left, Down	 Right.
+Select the
+rushed	Right, Down, Up, Left	
+Right. The event
+rushed	Right, Down, Left, Up	
+Right. The event
+rushed	Right, Left, Up, Down	
+The best representation for
+rushed	Right, Left, Down, Up	 Right.
+Select the
+warned	Up, Down, Left, Right	
+Up. The concept
+warned	Up, Down, Right, Left	
+Up. The concept
+warned	Up, Left, Down, Right	
+Up. The concept
+warned	Up, Left, Right, Down	
+Up. The concept
+warned	Up, Right, Down, Left	
+Up, because it
+warned	Up, Right, Left, Down	 Up.
+Select the
+warned	Down, Up, Left, Right	
+Down. The concept
+warned	Down, Up, Right, Left	
+Down. The concept
+warned	Down, Left, Up, Right	
+Down. The concept
+warned	Down, Left, Right, Up	
+The best representation for
+warned	Down, Right, Up, Left	
+The best representation for
+warned	Down, Right, Left, Up	
+Down. The concept
+warned	Left, Up, Down, Right	
+Left. The concept
+warned	Left, Up, Right, Down	
+Left. The concept
+warned	Left, Down, Up, Right	
+Left. The concept
+warned	Left, Down, Right, Up	 Left.
+Select the
+warned	Left, Right, Up, Down	
+Left. The concept
+warned	Left, Right, Down, Up	 Left.
+Select the
+warned	Right, Up, Down, Left	 Right.
+Select the
+warned	Right, Up, Left, Down	
+The best representation for
+warned	Right, Down, Up, Left	
+The best representation for
+warned	Right, Down, Left, Up	
+The best representation for
+warned	Right, Left, Up, Down	
+The best representation for
+warned	Right, Left, Down, Up	
+The best representation for
+owned	Up, Down, Left, Right	 Up.
+Select the
+owned	Up, Down, Right, Left	 Up.
+Select the
+owned	Up, Left, Down, Right	
+Up, because it
+owned	Up, Left, Right, Down	 Up.
+Select the
+owned	Up, Right, Down, Left	
+Up, because it
+owned	Up, Right, Left, Down	 Up.
+Select the
+owned	Down, Up, Left, Right	
+Down. The concept
+owned	Down, Up, Right, Left	
+Down. The concept
+owned	Down, Left, Up, Right	
+Down. The concept
+owned	Down, Left, Right, Up	
+Down. The concept
+owned	Down, Right, Up, Left	
+Down. The concept
+owned	Down, Right, Left, Up	
+Down. The concept
+owned	Left, Up, Down, Right	
+Left. The concept
+owned	Left, Up, Right, Down	
+Left. The left
+owned	Left, Down, Up, Right	
+Left. The concept
+owned	Left, Down, Right, Up	
+Left. The event
+owned	Left, Right, Up, Down	
+Left. The left
+owned	Left, Right, Down, Up	 Left.
+Select the
+owned	Right, Up, Down, Left	 Right.
+Select the
+owned	Right, Up, Left, Down	 Right.
+Select the
+owned	Right, Down, Up, Left	 Right.
+Select the
+owned	Right, Down, Left, Up	
+Right. The concept
+owned	Right, Left, Up, Down	
+The best representation for
+owned	Right, Left, Down, Up	 Right.
+Select the
+regretted	Up, Down, Left, Right	
+Up. Regret
+regretted	Up, Down, Right, Left	
+Up. Regret
+regretted	Up, Left, Down, Right	
+Up. Regret
+regretted	Up, Left, Right, Down	
+Up. Regret
+regretted	Up, Right, Down, Left	
+Up. The concept
+regretted	Up, Right, Left, Down	
+Up. The concept
+regretted	Down, Up, Left, Right	
+Down. Regret
+regretted	Down, Up, Right, Left	
+Down. Regret
+regretted	Down, Left, Up, Right	
+Down. The concept
+regretted	Down, Left, Right, Up	
+Down. The concept
+regretted	Down, Right, Up, Left	
+Down. The concept
+regretted	Down, Right, Left, Up	
+Down. The concept
+regretted	Left, Up, Down, Right	
+Left. The concept
+regretted	Left, Up, Right, Down	
+Left. The concept
+regretted	Left, Down, Up, Right	
+Left. The concept
+regretted	Left, Down, Right, Up	
+Left. The concept
+regretted	Left, Right, Up, Down	
+Left. Regret
+regretted	Left, Right, Down, Up	 Left.
+Select the
+regretted	Right, Up, Down, Left	
+The best representation for
+regretted	Right, Up, Left, Down	
+The best representation for
+regretted	Right, Down, Up, Left	
+The best representation for
+regretted	Right, Down, Left, Up	
+The best representation for
+regretted	Right, Left, Up, Down	
+The best representation for
+regretted	Right, Left, Down, Up	
+The best representation for
+rested	Up, Down, Left, Right	 Up.
+Select the
+rested	Up, Down, Right, Left	
+Up. The concept
+rested	Up, Left, Down, Right	
+Up, because it
+rested	Up, Left, Right, Down	 Down.
+Select the
+rested	Up, Right, Down, Left	
+Up, because it
+rested	Up, Right, Left, Down	
+Up, because it
+rested	Down, Up, Left, Right	 Down.
+Select the
+rested	Down, Up, Right, Left	 Down.
+Select the
+rested	Down, Left, Up, Right	
+Down. The concept
+rested	Down, Left, Right, Up	 Down.
+Select the
+rested	Down, Right, Up, Left	
+Down. The concept
+rested	Down, Right, Left, Up	 Down.
+Select the
+rested	Left, Up, Down, Right	
+Left. The concept
+rested	Left, Up, Right, Down	
+Left. The concept
+rested	Left, Down, Up, Right	
+Left. The concept
+rested	Left, Down, Right, Up	
+Left. The concept
+rested	Left, Right, Up, Down	
+Left. The concept
+rested	Left, Right, Down, Up	
+Left. The concept
+rested	Right, Up, Down, Left	
+Right. The concept
+rested	Right, Up, Left, Down	
+Right. The concept
+rested	Right, Down, Up, Left	
+Right. The concept
+rested	Right, Down, Left, Up	
+Right. The concept
+rested	Right, Left, Up, Down	
+Right. The concept
+rested	Right, Left, Down, Up	
+Right. The event
+tempted	Up, Down, Left, Right	 Up.
+Select the
+tempted	Up, Down, Right, Left	 Up.
+Select the
+tempted	Up, Left, Down, Right	 Up.
+Select the
+tempted	Up, Left, Right, Down	 Up.
+Select the
+tempted	Up, Right, Down, Left	 Up.
+Select the
+tempted	Up, Right, Left, Down	 Up.
+Select the
+tempted	Down, Up, Left, Right	 Up.
+Select the
+tempted	Down, Up, Right, Left	
+Down. Tempt
+tempted	Down, Left, Up, Right	
+Down. The concept
+tempted	Down, Left, Right, Up	 Up.
+Select the
+tempted	Down, Right, Up, Left	
+Down. The concept
+tempted	Down, Right, Left, Up	
+Down. The concept
+tempted	Left, Up, Down, Right	 Left.
+Select the
+tempted	Left, Up, Right, Down	 Left.
+Select the
+tempted	Left, Down, Up, Right	 Left.
+Select the
+tempted	Left, Down, Right, Up	 Left.
+Select the
+tempted	Left, Right, Up, Down	 Left.
+Select the
+tempted	Left, Right, Down, Up	 Left.
+Select the
+tempted	Right, Up, Down, Left	 Right.
+Select the
+tempted	Right, Up, Left, Down	 Right.
+Select the
+tempted	Right, Down, Up, Left	 Right.
+Select the
+tempted	Right, Down, Left, Up	 Right.
+Select the
+tempted	Right, Left, Up, Down	 Right.
+Select the
+tempted	Right, Left, Down, Up	 Right.
+Select the
+wanted	Up, Down, Left, Right	 Up.
+Select the
+wanted	Up, Down, Right, Left	 Up.
+Select the
+wanted	Up, Left, Down, Right	 Up.
+Select the
+wanted	Up, Left, Right, Down	 Up.
+Select the
+wanted	Up, Right, Down, Left	 Up.
+Select the
+wanted	Up, Right, Left, Down	 Up.
+Select the
+wanted	Down, Up, Left, Right	
+Down. The concept
+wanted	Down, Up, Right, Left	
+Down. The concept
+wanted	Down, Left, Up, Right	
+A. Down
+
+wanted	Down, Left, Right, Up	 Up.
+Select the
+wanted	Down, Right, Up, Left	
+The best representation for
+wanted	Down, Right, Left, Up	
+The best representation for
+wanted	Left, Up, Down, Right	
+Left. The concept
+wanted	Left, Up, Right, Down	
+Left. The concept
+wanted	Left, Down, Up, Right	
+Left. The concept
+wanted	Left, Down, Right, Up	 Left.
+Select the
+wanted	Left, Right, Up, Down	 Left.
+Select the
+wanted	Left, Right, Down, Up	 Left.
+Select the
+wanted	Right, Up, Down, Left	 Right.
+Select the
+wanted	Right, Up, Left, Down	 Right.
+Select the
+wanted	Right, Down, Up, Left	 Right.
+Select the
+wanted	Right, Down, Left, Up	 Right.
+Select the
+wanted	Right, Left, Up, Down	 Right.
+Select the
+wanted	Right, Left, Down, Up	 Right.
+Select the
+hoped	Up, Down, Left, Right	 Up.
+Select the
+hoped	Up, Down, Right, Left	 Up.
+Select the
+hoped	Up, Left, Down, Right	 Up.
+Select the
+hoped	Up, Left, Right, Down	 Up.
+Select the
+hoped	Up, Right, Down, Left	 Up.
+Select the
+hoped	Up, Right, Left, Down	 Up.
+Select the
+hoped	Down, Up, Left, Right	 Up.
+Select the
+hoped	Down, Up, Right, Left	 Up.
+Select the
+hoped	Down, Left, Up, Right	
+The best representation for
+hoped	Down, Left, Right, Up	 Up.
+Select the
+hoped	Down, Right, Up, Left	
+The best representation for
+hoped	Down, Right, Left, Up	
+The best representation for
+hoped	Left, Up, Down, Right	
+Left. The concept
+hoped	Left, Up, Right, Down	
+Left. The concept
+hoped	Left, Down, Up, Right	
+Left. The concept
+hoped	Left, Down, Right, Up	
+Left. The concept
+hoped	Left, Right, Up, Down	
+Left. The word
+hoped	Left, Right, Down, Up	 Left.
+Select the
+hoped	Right, Up, Down, Left	 Right.
+Select the
+hoped	Right, Up, Left, Down	
+The best representation for
+hoped	Right, Down, Up, Left	
+The best representation for
+hoped	Right, Down, Left, Up	
+The best representation for
+hoped	Right, Left, Up, Down	
+The best representation for
+hoped	Right, Left, Down, Up	
+The best representation for
+increased	Up, Down, Left, Right	 Up.
+Select the
+increased	Up, Down, Right, Left	 Up.
+Select the
+increased	Up, Left, Down, Right	 Up.
+Select the
+increased	Up, Left, Right, Down	 Up.
+Select the
+increased	Up, Right, Down, Left	 Up.
+Select the
+increased	Up, Right, Left, Down	 Up.
+Select the
+increased	Down, Up, Left, Right	 Up.
+Select the
+increased	Down, Up, Right, Left	 Up.
+Select the
+increased	Down, Left, Up, Right	 Up.
+Select the
+increased	Down, Left, Right, Up	 Up.
+Select the
+increased	Down, Right, Up, Left	 Up.
+Select the
+increased	Down, Right, Left, Up	 Up.
+Select the
+increased	Left, Up, Down, Right	
+Left. The event
+increased	Left, Up, Right, Down	
+Left. The event
+increased	Left, Down, Up, Right	
+Left. The event
+increased	Left, Down, Right, Up	
+Left. The event
+increased	Left, Right, Up, Down	
+Left. The event
+increased	Left, Right, Down, Up	 Left.
+Select the
+increased	Right, Up, Down, Left	 Right.
+Select the
+increased	Right, Up, Left, Down	 Right.
+Select the
+increased	Right, Down, Up, Left	 Right.
+Select the
+increased	Right, Down, Left, Up	 Right.
+Select the
+increased	Right, Left, Up, Down	 Right.
+Select the
+increased	Right, Left, Down, Up	 Right.
+Select the
+obeyed	Up, Down, Left, Right	
+Up. Obe
+obeyed	Up, Down, Right, Left	
+Up. Obe
+obeyed	Up, Left, Down, Right	
+Up. The event
+obeyed	Up, Left, Right, Down	 Down.
+Select the
+obeyed	Up, Right, Down, Left	
+Up, because it
+obeyed	Up, Right, Left, Down	
+Up. The event
+obeyed	Down, Up, Left, Right	
+Down. Obe
+obeyed	Down, Up, Right, Left	
+Down. The word
+obeyed	Down, Left, Up, Right	
+Down. The word
+obeyed	Down, Left, Right, Up	
+Down. The word
+obeyed	Down, Right, Up, Left	
+Down. The word
+obeyed	Down, Right, Left, Up	
+Down. The word
+obeyed	Left, Up, Down, Right	
+Left. The word
+obeyed	Left, Up, Right, Down	
+Left. The word
+obeyed	Left, Down, Up, Right	
+Left. The word
+obeyed	Left, Down, Right, Up	
+Left. The word
+obeyed	Left, Right, Up, Down	
+Left. The word
+obeyed	Left, Right, Down, Up	
+Left. The word
+obeyed	Right, Up, Down, Left	 Right.
+Select the
+obeyed	Right, Up, Left, Down	 Right.
+Select the
+obeyed	Right, Down, Up, Left	
+Right. Obe
+obeyed	Right, Down, Left, Up	
+Right. Obe
+obeyed	Right, Left, Up, Down	
+The best representation for
+obeyed	Right, Left, Down, Up	
+The best representation for
+respected	Up, Down, Left, Right	 Up.
+Select the
+respected	Up, Down, Right, Left	 Up.
+Select the
+respected	Up, Left, Down, Right	 Up.
+Select the
+respected	Up, Left, Right, Down	 Up.
+Select the
+respected	Up, Right, Down, Left	 Up.
+Select the
+respected	Up, Right, Left, Down	 Up.
+Select the
+respected	Down, Up, Left, Right	 Up.
+Select the
+respected	Down, Up, Right, Left	 Up.
+Select the
+respected	Down, Left, Up, Right	
+Down. The concept
+respected	Down, Left, Right, Up	 Up.
+Select the
+respected	Down, Right, Up, Left	
+Down. The concept
+respected	Down, Right, Left, Up	
+Down. The concept
+respected	Left, Up, Down, Right	
+Left. The concept
+respected	Left, Up, Right, Down	
+Left. The concept
+respected	Left, Down, Up, Right	
+Left. The concept
+respected	Left, Down, Right, Up	
+Left. The concept
+respected	Left, Right, Up, Down	
+Left. The concept
+respected	Left, Right, Down, Up	
+Left. The concept
+respected	Right, Up, Down, Left	 Right.
+Select the
+respected	Right, Up, Left, Down	 Right.
+Select the
+respected	Right, Down, Up, Left	
+Right. Respect
+respected	Right, Down, Left, Up	
+Right. Respect
+respected	Right, Left, Up, Down	
+The best representation for
+respected	Right, Left, Down, Up	
+The best representation for
+succeeded	Up, Down, Left, Right	 Up.
+Select the
+succeeded	Up, Down, Right, Left	 Up.
+Select the
+succeeded	Up, Left, Down, Right	 Up.
+Select the
+succeeded	Up, Left, Right, Down	 Up.
+Select the
+succeeded	Up, Right, Down, Left	 Up.
+Select the
+succeeded	Up, Right, Left, Down	 Up.
+Select the
+succeeded	Down, Up, Left, Right	 Up.
+Select the
+succeeded	Down, Up, Right, Left	 Up.
+Select the
+succeeded	Down, Left, Up, Right	 Up.
+Select the
+succeeded	Down, Left, Right, Up	 Up.
+Select the
+succeeded	Down, Right, Up, Left	 Up.
+Select the
+succeeded	Down, Right, Left, Up	 Up.
+Select the
+succeeded	Left, Up, Down, Right	
+Left. The event
+succeeded	Left, Up, Right, Down	 Up.
+Select the
+succeeded	Left, Down, Up, Right	
+Left. The event
+succeeded	Left, Down, Right, Up	 Up.
+Select the
+succeeded	Left, Right, Up, Down	 Left.
+Select the
+succeeded	Left, Right, Down, Up	 Left.
+Select the
+succeeded	Right, Up, Down, Left	 Right.
+Select the
+succeeded	Right, Up, Left, Down	 Right.
+Select the
+succeeded	Right, Down, Up, Left	 Right.
+Select the
+succeeded	Right, Down, Left, Up	 Right.
+Select the
+succeeded	Right, Left, Up, Down	 Right.
+Select the
+succeeded	Right, Left, Down, Up	 Right.
+Select the

@@ -1,0 +1,1474 @@
+fled	↑, ↓, ←, →	 The arrow ↓ best
+fled	↑, ↓, →, ←	 The arrow ← best
+fled	↑, ←, ↓, →	 The arrow ← best
+fled	↑, ←, →, ↓	 The arrow ← best
+fled	↑, →, ↓, ←	 The arrow ↓ best
+fled	↑, →, ←, ↓	 The arrow ↓ best
+fled	↓, ↑, ←, →	 The arrow ↓ best
+fled	↓, ↑, →, ←	 The arrow ↓ best
+fled	↓, ←, ↑, →	 The arrow ↓ best
+fled	↓, ←, →, ↑	 The arrow ↓ best
+fled	↓, →, ↑, ←	 The arrow ↓ best
+fled	↓, →, ←, ↑	 The arrow ↓ best
+fled	←, ↑, ↓, →	 The arrow ← best
+fled	←, ↑, →, ↓	 The arrow ← best
+fled	←, ↓, ↑, →	 The arrow ← best
+fled	←, ↓, →, ↑	 The arrow ← best
+fled	←, →, ↑, ↓	 The arrow ← best
+fled	←, →, ↓, ↑	 The arrow ← best
+fled	→, ↑, ↓, ←	 The arrow ← best
+fled	→, ↑, ←, ↓	 The arrow ↓ best
+fled	→, ↓, ↑, ←	 The arrow → best represents
+fled	→, ↓, ←, ↑	 The arrow ↓ best
+fled	→, ←, ↑, ↓	 The arrow ↓ best
+fled	→, ←, ↓, ↑	 The arrow ↓ best
+pointed at	↑, ↓, ←, →	 ←
+
+The
+pointed at	↑, ↓, →, ←	 ←
+
+The
+pointed at	↑, ←, ↓, →	 ←
+
+The
+pointed at	↑, ←, →, ↓	 ←
+
+The
+pointed at	↑, →, ↓, ←	 ↑
+
+Ex
+pointed at	↑, →, ←, ↓	 ↓
+
+The
+pointed at	↓, ↑, ←, →	 ←
+
+The
+pointed at	↓, ↑, →, ←	 ↓
+
+The
+pointed at	↓, ←, ↑, →	 ↓
+
+The
+pointed at	↓, ←, →, ↑	 ↓
+
+The
+pointed at	↓, →, ↑, ←	 ↓
+
+The
+pointed at	↓, →, ←, ↑	 ↓
+
+The
+pointed at	←, ↑, ↓, →	 ←
+
+The
+pointed at	←, ↑, →, ↓	 ←
+
+The
+pointed at	←, ↓, ↑, →	 ←
+
+The
+pointed at	←, ↓, →, ↑	 ←
+
+The
+pointed at	←, →, ↑, ↓	 ←
+
+The
+pointed at	←, →, ↓, ↑	 ←
+
+A
+pointed at	→, ↑, ↓, ←	 The arrow → best represents
+pointed at	→, ↑, ←, ↓	 The arrow → best represents
+pointed at	→, ↓, ↑, ←	 The arrow → best represents
+pointed at	→, ↓, ←, ↑	 ↓
+
+The
+pointed at	→, ←, ↑, ↓	 ←
+
+The
+pointed at	→, ←, ↓, ↑	 ↓
+
+Ex
+pulled	↑, ↓, ←, →	 ↓
+
+Ex
+pulled	↑, ↓, →, ←	 ←
+
+The
+pulled	↑, ←, ↓, →	 ←
+
+The
+pulled	↑, ←, →, ↓	 ↓
+
+The
+pulled	↑, →, ↓, ←	 The arrow ↓ best
+pulled	↑, →, ←, ↓	 ↓
+
+The
+pulled	↓, ↑, ←, →	 ↓
+
+The
+pulled	↓, ↑, →, ←	 ↓
+
+The
+pulled	↓, ←, ↑, →	 ↓
+
+The
+pulled	↓, ←, →, ↑	 ↓
+
+The
+pulled	↓, →, ↑, ←	 ↓
+
+The
+pulled	↓, →, ←, ↑	 ↓
+
+A
+pulled	←, ↑, ↓, →	 ←
+
+A
+pulled	←, ↑, →, ↓	 The arrow ← best
+pulled	←, ↓, ↑, →	 ←
+
+A
+pulled	←, ↓, →, ↑	 ↓
+
+A
+pulled	←, →, ↑, ↓	 ←
+
+A
+pulled	←, →, ↓, ↑	 ↓
+
+A
+pulled	→, ↑, ↓, ←	 The arrow → best represents
+pulled	→, ↑, ←, ↓	 The arrow → best represents
+pulled	→, ↓, ↑, ←	 The arrow → best represents
+pulled	→, ↓, ←, ↑	 The arrow ↓ best
+pulled	→, ←, ↑, ↓	 ↓
+
+Ex
+pulled	→, ←, ↓, ↑	 ↓
+
+Ex
+pushed	↑, ↓, ←, →	 ↓
+
+Ex
+pushed	↑, ↓, →, ←	 The arrow ← best
+pushed	↑, ←, ↓, →	 ←
+
+Answer
+pushed	↑, ←, →, ↓	 The arrow ← best
+pushed	↑, →, ↓, ←	 The arrow ↓ best
+pushed	↑, →, ←, ↓	 ↓
+
+Ex
+pushed	↓, ↑, ←, →	 ↓
+
+Ex
+pushed	↓, ↑, →, ←	 ↓
+
+Ex
+pushed	↓, ←, ↑, →	 ↓
+
+Ex
+pushed	↓, ←, →, ↑	 ↓
+
+Ex
+pushed	↓, →, ↑, ←	 The arrow ↓ best
+pushed	↓, →, ←, ↑	 ↓
+
+Answer
+pushed	←, ↑, ↓, →	 The arrow ← best
+pushed	←, ↑, →, ↓	 The arrow ← best
+pushed	←, ↓, ↑, →	 ↓
+
+The
+pushed	←, ↓, →, ↑	 The arrow ← best
+pushed	←, →, ↑, ↓	 ↓
+
+The
+pushed	←, →, ↓, ↑	 ↓
+
+Ex
+pushed	→, ↑, ↓, ←	 The arrow ↓ best
+pushed	→, ↑, ←, ↓	 The arrow ↓ best
+pushed	→, ↓, ↑, ←	 The arrow ↓ best
+pushed	→, ↓, ←, ↑	 The arrow ↓ best
+pushed	→, ←, ↑, ↓	 ↓
+
+Ex
+pushed	→, ←, ↓, ↑	 ↓
+
+Ex
+walked	↑, ↓, ←, →	 ↓
+
+Ex
+walked	↑, ↓, →, ←	 The arrow ↓ best
+walked	↑, ←, ↓, →	 ↓
+
+Ex
+walked	↑, ←, →, ↓	 ↓
+
+Ex
+walked	↑, →, ↓, ←	 The arrow ↓ best
+walked	↑, →, ←, ↓	 ↓
+
+Ex
+walked	↓, ↑, ←, →	 ↓
+
+Ex
+walked	↓, ↑, →, ←	 ↓
+
+Ex
+walked	↓, ←, ↑, →	 ↓
+
+Ex
+walked	↓, ←, →, ↑	 ↓
+
+Ex
+walked	↓, →, ↑, ←	 The arrow ↓ best
+walked	↓, →, ←, ↑	 ↓
+
+Ex
+walked	←, ↑, ↓, →	 ←
+
+Ex
+walked	←, ↑, →, ↓	 The arrow ← best
+walked	←, ↓, ↑, →	 ←
+
+Ex
+walked	←, ↓, →, ↑	 The arrow ← best
+walked	←, →, ↑, ↓	 ←
+
+Ex
+walked	←, →, ↓, ↑	 ↓
+
+Ex
+walked	→, ↑, ↓, ←	 The arrow → best represents
+walked	→, ↑, ←, ↓	 The arrow → best represents
+walked	→, ↓, ↑, ←	 The arrow → best represents
+walked	→, ↓, ←, ↑	 The arrow → best represents
+walked	→, ←, ↑, ↓	 ↓
+
+Ex
+walked	→, ←, ↓, ↑	 ↓
+
+Ex
+hunted	↑, ↓, ←, →	 ↓
+
+Ex
+hunted	↑, ↓, →, ←	 The arrow ← best
+hunted	↑, ←, ↓, →	 ↓
+
+Ex
+hunted	↑, ←, →, ↓	 The arrow ← best
+hunted	↑, →, ↓, ←	 The arrow ↓ best
+hunted	↑, →, ←, ↓	 ↓
+
+Ex
+hunted	↓, ↑, ←, →	 ↓
+
+Ex
+hunted	↓, ↑, →, ←	 The arrow ↓ best
+hunted	↓, ←, ↑, →	 ↓
+
+The
+hunted	↓, ←, →, ↑	 ↓
+
+The
+hunted	↓, →, ↑, ←	 The arrow ↓ best
+hunted	↓, →, ←, ↑	 ↓
+
+A
+hunted	←, ↑, ↓, →	 The arrow ← best
+hunted	←, ↑, →, ↓	 The arrow ← best
+hunted	←, ↓, ↑, →	 ↓
+
+A
+hunted	←, ↓, →, ↑	 The arrow ← best
+hunted	←, →, ↑, ↓	 ↓
+
+The
+hunted	←, →, ↓, ↑	 ↓
+
+Ex
+hunted	→, ↑, ↓, ←	 The arrow ↓ best
+hunted	→, ↑, ←, ↓	 The arrow ↓ best
+hunted	→, ↓, ↑, ←	 The arrow ↓ best
+hunted	→, ↓, ←, ↑	 The arrow ↓ best
+hunted	→, ←, ↑, ↓	 ↓
+
+Ex
+hunted	→, ←, ↓, ↑	 ↓
+
+Ex
+impacted	↑, ↓, ←, →	 The arrow ↓ best
+impacted	↑, ↓, →, ←	 The arrow ↓ best
+impacted	↑, ←, ↓, →	 The arrow ↓ best
+impacted	↑, ←, →, ↓	 The arrow ↓ best
+impacted	↑, →, ↓, ←	 The arrow ↓ best
+impacted	↑, →, ←, ↓	 The arrow ↓ best
+impacted	↓, ↑, ←, →	 The arrow ↓ best
+impacted	↓, ↑, →, ←	 The arrow ↓ best
+impacted	↓, ←, ↑, →	 The arrow ↓ best
+impacted	↓, ←, →, ↑	 The arrow ↓ best
+impacted	↓, →, ↑, ←	 The arrow ↓ best
+impacted	↓, →, ←, ↑	 The arrow ↓ best
+impacted	←, ↑, ↓, →	 The arrow ↓ best
+impacted	←, ↑, →, ↓	 The arrow ↓ best
+impacted	←, ↓, ↑, →	 The arrow ↓ best
+impacted	←, ↓, →, ↑	 The arrow ↓ best
+impacted	←, →, ↑, ↓	 The arrow ↓ best
+impacted	←, →, ↓, ↑	 ↓
+
+The
+impacted	→, ↑, ↓, ←	 The arrow ↓ best
+impacted	→, ↑, ←, ↓	 The arrow ↓ best
+impacted	→, ↓, ↑, ←	 The arrow ↓ best
+impacted	→, ↓, ←, ↑	 The arrow ↓ best
+impacted	→, ←, ↑, ↓	 ↓
+
+The
+impacted	→, ←, ↓, ↑	 ↓
+
+The
+perched	↑, ↓, ←, →	 The arrow ← best
+perched	↑, ↓, →, ←	 The arrow ← best
+perched	↑, ←, ↓, →	 The arrow ← best
+perched	↑, ←, →, ↓	 The arrow ← best
+perched	↑, →, ↓, ←	 The arrow ↑ best
+perched	↑, →, ←, ↓	 The arrow ↑ best
+perched	↓, ↑, ←, →	 The arrow ← best
+perched	↓, ↑, →, ←	 The arrow ↓ best
+perched	↓, ←, ↑, →	 ↓
+
+The
+perched	↓, ←, →, ↑	 The arrow ↓ best
+perched	↓, →, ↑, ←	 The arrow ↓ best
+perched	↓, →, ←, ↑	 ↓
+
+The
+perched	←, ↑, ↓, →	 The arrow ← best
+perched	←, ↑, →, ↓	 The arrow ← best
+perched	←, ↓, ↑, →	 The arrow ← best
+perched	←, ↓, →, ↑	 The arrow ← best
+perched	←, →, ↑, ↓	 ↓
+
+The
+perched	←, →, ↓, ↑	 ↓
+
+Ex
+perched	→, ↑, ↓, ←	 The arrow ↑ best
+perched	→, ↑, ←, ↓	 The arrow ↑ best
+perched	→, ↓, ↑, ←	 The arrow ↑ best
+perched	→, ↓, ←, ↑	 The arrow ↓ best
+perched	→, ←, ↑, ↓	 The arrow ↑ best
+perched	→, ←, ↓, ↑	 ↓
+
+Ex
+showed	↑, ↓, ←, →	 ←
+
+Ex
+showed	↑, ↓, →, ←	 ←
+
+Ex
+showed	↑, ←, ↓, →	 ←
+
+Ex
+showed	↑, ←, →, ↓	 ↑
+
+Ex
+showed	↑, →, ↓, ←	 ↑
+
+Ex
+showed	↑, →, ←, ↓	 ↑
+
+Ex
+showed	↓, ↑, ←, →	 ↓
+
+Ex
+showed	↓, ↑, →, ←	 ↓
+
+Ex
+showed	↓, ←, ↑, →	 ↓
+
+Ex
+showed	↓, ←, →, ↑	 ↓
+
+Ex
+showed	↓, →, ↑, ←	 ↓
+
+Ex
+showed	↓, →, ←, ↑	 ↓
+
+Ex
+showed	←, ↑, ↓, →	 ←
+
+A
+showed	←, ↑, →, ↓	 ←
+
+A
+showed	←, ↓, ↑, →	 ←
+
+A
+showed	←, ↓, →, ↑	 ←
+
+A
+showed	←, →, ↑, ↓	 ←
+
+A
+showed	←, →, ↓, ↑	 ←
+
+A
+showed	→, ↑, ↓, ←	 ←
+
+Ex
+showed	→, ↑, ←, ↓	 ↑
+
+Ex
+showed	→, ↓, ↑, ←	 ←
+
+Ex
+showed	→, ↓, ←, ↑	 ←
+
+Ex
+showed	→, ←, ↑, ↓	 ↑
+
+Ex
+showed	→, ←, ↓, ↑	 ↓
+
+Ex
+smashed	↑, ↓, ←, →	 ↓
+
+Ex
+smashed	↑, ↓, →, ←	 The arrow ↓ best
+smashed	↑, ←, ↓, →	 ↓
+
+Ex
+smashed	↑, ←, →, ↓	 The arrow ↓ best
+smashed	↑, →, ↓, ←	 The arrow ↓ best
+smashed	↑, →, ←, ↓	 ↓
+
+Ex
+smashed	↓, ↑, ←, →	 ↓
+
+Ex
+smashed	↓, ↑, →, ←	 ↓
+
+The
+smashed	↓, ←, ↑, →	 ↓
+
+The
+smashed	↓, ←, →, ↑	 ↓
+
+The
+smashed	↓, →, ↑, ←	 The arrow ↓ best
+smashed	↓, →, ←, ↑	 ↓
+
+The
+smashed	←, ↑, ↓, →	 The arrow ↓ best
+smashed	←, ↑, →, ↓	 The arrow ↓ best
+smashed	←, ↓, ↑, →	 ↓
+
+The
+smashed	←, ↓, →, ↑	 The arrow ↓ best
+smashed	←, →, ↑, ↓	 ↓
+
+The
+smashed	←, →, ↓, ↑	 ↓
+
+Ex
+smashed	→, ↑, ↓, ←	 The arrow ↓ best
+smashed	→, ↑, ←, ↓	 The arrow ↓ best
+smashed	→, ↓, ↑, ←	 The arrow → best represents
+smashed	→, ↓, ←, ↑	 The arrow ↓ best
+smashed	→, ←, ↑, ↓	 ↓
+
+Ex
+smashed	→, ←, ↓, ↑	 ↓
+
+Ex
+bombed	↑, ↓, ←, →	 ↓
+
+Ex
+bombed	↑, ↓, →, ←	 The arrow ↓ best
+bombed	↑, ←, ↓, →	 ↓
+
+Ex
+bombed	↑, ←, →, ↓	 ↓
+
+Ex
+bombed	↑, →, ↓, ←	 The arrow ↓ best
+bombed	↑, →, ←, ↓	 ↓
+
+Ex
+bombed	↓, ↑, ←, →	 ↓
+
+Ex
+bombed	↓, ↑, →, ←	 ↓
+
+Ex
+bombed	↓, ←, ↑, →	 ↓
+
+Ex
+bombed	↓, ←, →, ↑	 ↓
+
+Ex
+bombed	↓, →, ↑, ←	 The arrow ↓ best
+bombed	↓, →, ←, ↑	 ↓
+
+Ex
+bombed	←, ↑, ↓, →	 The arrow ← best
+bombed	←, ↑, →, ↓	 The arrow ← best
+bombed	←, ↓, ↑, →	 ↓
+
+Ex
+bombed	←, ↓, →, ↑	 The arrow ← best
+bombed	←, →, ↑, ↓	 ↓
+
+Ex
+bombed	←, →, ↓, ↑	 ↓
+
+Ex
+bombed	→, ↑, ↓, ←	 The arrow → best represents
+bombed	→, ↑, ←, ↓	 The arrow → best represents
+bombed	→, ↓, ↑, ←	 The arrow → best represents
+bombed	→, ↓, ←, ↑	 The arrow ↓ best
+bombed	→, ←, ↑, ↓	 ↓
+
+Ex
+bombed	→, ←, ↓, ↑	 ↓
+
+Ex
+flew	↑, ↓, ←, →	 ↓
+
+Ex
+flew	↑, ↓, →, ←	 ↓
+
+Ex
+flew	↑, ←, ↓, →	 ↓
+
+Ex
+flew	↑, ←, →, ↓	 ↓
+
+Ex
+flew	↑, →, ↓, ←	 ↑
+
+Ex
+flew	↑, →, ←, ↓	 ↓
+
+Ex
+flew	↓, ↑, ←, →	 ↓
+
+Ex
+flew	↓, ↑, →, ←	 ↓
+
+Ex
+flew	↓, ←, ↑, →	 ↓
+
+Ex
+flew	↓, ←, →, ↑	 ↓
+
+Ex
+flew	↓, →, ↑, ←	 ↓
+
+Ex
+flew	↓, →, ←, ↑	 ↓
+
+Ex
+flew	←, ↑, ↓, →	 ↓
+
+Ex
+flew	←, ↑, →, ↓	 ↓
+
+Ex
+flew	←, ↓, ↑, →	 ↓
+
+Ex
+flew	←, ↓, →, ↑	 ↓
+
+Ex
+flew	←, →, ↑, ↓	 ↓
+
+Ex
+flew	←, →, ↓, ↑	 ↓
+
+Ex
+flew	→, ↑, ↓, ←	 The arrow → best represents
+flew	→, ↑, ←, ↓	 The arrow → best represents
+flew	→, ↓, ↑, ←	 The arrow → best represents
+flew	→, ↓, ←, ↑	 The arrow → best represents
+flew	→, ←, ↑, ↓	 ↑
+
+Ex
+flew	→, ←, ↓, ↑	 ↓
+
+Ex
+floated	↑, ↓, ←, →	 ↓
+
+Ex
+floated	↑, ↓, →, ←	 The arrow ↓ best
+floated	↑, ←, ↓, →	 The arrow ↓ best
+floated	↑, ←, →, ↓	 The arrow ← best
+floated	↑, →, ↓, ←	 The arrow ↓ best
+floated	↑, →, ←, ↓	 The arrow ↓ best
+floated	↓, ↑, ←, →	 ↓
+
+The
+floated	↓, ↑, →, ←	 The arrow ↓ best
+floated	↓, ←, ↑, →	 ↓
+
+The
+floated	↓, ←, →, ↑	 The arrow ↓ best
+floated	↓, →, ↑, ←	 The arrow ↓ best
+floated	↓, →, ←, ↑	 ↓
+
+The
+floated	←, ↑, ↓, →	 The arrow ↓ best
+floated	←, ↑, →, ↓	 The arrow ↓ best
+floated	←, ↓, ↑, →	 The arrow ↓ best
+floated	←, ↓, →, ↑	 The arrow ↓ best
+floated	←, →, ↑, ↓	 The arrow ← best
+floated	←, →, ↓, ↑	 ↓
+
+Ex
+floated	→, ↑, ↓, ←	 The arrow ↓ best
+floated	→, ↑, ←, ↓	 The arrow ↓ best
+floated	→, ↓, ↑, ←	 The arrow → best represents
+floated	→, ↓, ←, ↑	 The arrow ↓ best
+floated	→, ←, ↑, ↓	 ↓
+
+Ex
+floated	→, ←, ↓, ↑	 ↓
+
+Ex
+lifted	↑, ↓, ←, →	 ↑
+
+Ex
+lifted	↑, ↓, →, ←	 The arrow ↑ best
+lifted	↑, ←, ↓, →	 ↑
+
+Ex
+lifted	↑, ←, →, ↓	 The arrow ↑ best
+lifted	↑, →, ↓, ←	 The arrow ↑ best
+lifted	↑, →, ←, ↓	 ↑
+
+Ex
+lifted	↓, ↑, ←, →	 ↑
+
+The
+lifted	↓, ↑, →, ←	 The arrow ↑ best
+lifted	↓, ←, ↑, →	 ↑
+
+The
+lifted	↓, ←, →, ↑	 The arrow ↑ best
+lifted	↓, →, ↑, ←	 The arrow ↑ best
+lifted	↓, →, ←, ↑	 ↑
+
+The
+lifted	←, ↑, ↓, →	 The arrow ↑ best
+lifted	←, ↑, →, ↓	 The arrow ↑ best
+lifted	←, ↓, ↑, →	 The arrow ↑ best
+lifted	←, ↓, →, ↑	 The arrow ↑ best
+lifted	←, →, ↑, ↓	 ↑
+
+The
+lifted	←, →, ↓, ↑	 ↑
+
+The
+lifted	→, ↑, ↓, ←	 The arrow → best represents
+lifted	→, ↑, ←, ↓	 The arrow → best represents
+lifted	→, ↓, ↑, ←	 The arrow → best represents
+lifted	→, ↓, ←, ↑	 The arrow ↑ best
+lifted	→, ←, ↑, ↓	 ↑
+
+The
+lifted	→, ←, ↓, ↑	 ↑
+
+Ex
+sank	↑, ↓, ←, →	 ↓
+
+Ex
+sank	↑, ↓, →, ←	 The arrow ↓ best
+sank	↑, ←, ↓, →	 The arrow ↓ best
+sank	↑, ←, →, ↓	 The arrow ↓ best
+sank	↑, →, ↓, ←	 The arrow ↓ best
+sank	↑, →, ←, ↓	 The arrow ↓ best
+sank	↓, ↑, ←, →	 ↓
+
+Ex
+sank	↓, ↑, →, ←	 The arrow ↓ best
+sank	↓, ←, ↑, →	 ↓
+
+Ex
+sank	↓, ←, →, ↑	 The arrow ↓ best
+sank	↓, →, ↑, ←	 The arrow ↓ best
+sank	↓, →, ←, ↑	 The arrow ↓ best
+sank	←, ↑, ↓, →	 The arrow ↓ best
+sank	←, ↑, →, ↓	 The arrow ↓ best
+sank	←, ↓, ↑, →	 The arrow ← best
+sank	←, ↓, →, ↑	 The arrow ↓ best
+sank	←, →, ↑, ↓	 The arrow ← best
+sank	←, →, ↓, ↑	 The arrow ↓ best
+sank	→, ↑, ↓, ←	 The arrow ↓ best
+sank	→, ↑, ←, ↓	 The arrow ↓ best
+sank	→, ↓, ↑, ←	 The arrow ↓ best
+sank	→, ↓, ←, ↑	 The arrow ↓ best
+sank	→, ←, ↑, ↓	 The arrow ↓ best
+sank	→, ←, ↓, ↑	 The arrow ↓ best
+argued with	↑, ↓, ←, →	 ←
+
+Ex
+argued with	↑, ↓, →, ←	 ←
+
+
+
+argued with	↑, ←, ↓, →	 ←
+
+
+
+argued with	↑, ←, →, ↓	 ←
+
+
+
+argued with	↑, →, ↓, ←	 ←
+
+
+
+argued with	↑, →, ←, ↓	 ←
+
+
+
+argued with	↓, ↑, ←, →	 ↓
+
+Ex
+argued with	↓, ↑, →, ←	 ←
+
+Ex
+argued with	↓, ←, ↑, →	 ←
+
+
+
+argued with	↓, ←, →, ↑	 ↓
+
+Ex
+argued with	↓, →, ↑, ←	 ←
+
+Ex
+argued with	↓, →, ←, ↑	 ↓
+
+Ex
+argued with	←, ↑, ↓, →	 ←
+
+A
+argued with	←, ↑, →, ↓	 ←
+
+A
+argued with	←, ↓, ↑, →	 ←
+
+A
+argued with	←, ↓, →, ↑	 ←
+
+A
+argued with	←, →, ↑, ↓	 ←
+
+A
+argued with	←, →, ↓, ↑	 ←
+
+A
+argued with	→, ↑, ↓, ←	 ←
+
+Ex
+argued with	→, ↑, ←, ↓	 ←
+
+Ex
+argued with	→, ↓, ↑, ←	 ←
+
+Ex
+argued with	→, ↓, ←, ↑	 ←
+
+Ex
+argued with	→, ←, ↑, ↓	 ←
+
+Ex
+argued with	→, ←, ↓, ↑	 ↓
+
+Ex
+gave to	↑, ↓, ←, →	 ↑
+
+Ex
+gave to	↑, ↓, →, ←	 ←
+
+A
+gave to	↑, ←, ↓, →	 ←
+
+The
+gave to	↑, ←, →, ↓	 ↑
+
+The
+gave to	↑, →, ↓, ←	 ↑
+
+The
+gave to	↑, →, ←, ↓	 ↑
+
+The
+gave to	↓, ↑, ←, →	 ↓
+
+The
+gave to	↓, ↑, →, ←	 ←
+
+The
+gave to	↓, ←, ↑, →	 ↓
+
+The
+gave to	↓, ←, →, ↑	 ↓
+
+The
+gave to	↓, →, ↑, ←	 ←
+
+The
+gave to	↓, →, ←, ↑	 ↓
+
+A
+gave to	←, ↑, ↓, →	 ←
+
+A
+gave to	←, ↑, →, ↓	 ←
+
+A
+gave to	←, ↓, ↑, →	 ←
+
+A
+gave to	←, ↓, →, ↑	 ←
+
+A
+gave to	←, →, ↑, ↓	 ←
+
+A
+gave to	←, →, ↓, ↑	 ←
+
+A
+gave to	→, ↑, ↓, ←	 ←
+
+Ex
+gave to	→, ↑, ←, ↓	 ←
+
+Ex
+gave to	→, ↓, ↑, ←	 ←
+
+Ex
+gave to	→, ↓, ←, ↑	 ←
+
+Ex
+gave to	→, ←, ↑, ↓	 ←
+
+Ex
+gave to	→, ←, ↓, ↑	 ←
+
+Ex
+offended	↑, ↓, ←, →	 ↓
+
+Ex
+offended	↑, ↓, →, ←	 ←
+
+The
+offended	↑, ←, ↓, →	 ↓
+
+The
+offended	↑, ←, →, ↓	 ↓
+
+The
+offended	↑, →, ↓, ←	 ←
+
+The
+offended	↑, →, ←, ↓	 ↓
+
+The
+offended	↓, ↑, ←, →	 ↓
+
+The
+offended	↓, ↑, →, ←	 ↓
+
+The
+offended	↓, ←, ↑, →	 ↓
+
+The
+offended	↓, ←, →, ↑	 ↓
+
+The
+offended	↓, →, ↑, ←	 ↓
+
+The
+offended	↓, →, ←, ↑	 ↓
+
+The
+offended	←, ↑, ↓, →	 ↓
+
+The
+offended	←, ↑, →, ↓	 ↓
+
+The
+offended	←, ↓, ↑, →	 ↓
+
+The
+offended	←, ↓, →, ↑	 ↓
+
+The
+offended	←, →, ↑, ↓	 ↓
+
+The
+offended	←, →, ↓, ↑	 ↓
+
+The
+offended	→, ↑, ↓, ←	 ↓
+
+The
+offended	→, ↑, ←, ↓	 ↓
+
+The
+offended	→, ↓, ↑, ←	 ↓
+
+Ex
+offended	→, ↓, ←, ↑	 ↓
+
+Ex
+offended	→, ←, ↑, ↓	 ↓
+
+The
+offended	→, ←, ↓, ↑	 ↓
+
+Ex
+rushed	↑, ↓, ←, →	 ↓
+
+Ex
+rushed	↑, ↓, →, ←	 The arrow ↓ best
+rushed	↑, ←, ↓, →	 The arrow ↓ best
+rushed	↑, ←, →, ↓	 The arrow ↓ best
+rushed	↑, →, ↓, ←	 The arrow ↑ best
+rushed	↑, →, ←, ↓	 ↓
+
+The
+rushed	↓, ↑, ←, →	 ↓
+
+The
+rushed	↓, ↑, →, ←	 The arrow ↓ best
+rushed	↓, ←, ↑, →	 ↓
+
+The
+rushed	↓, ←, →, ↑	 The arrow ↓ best
+rushed	↓, →, ↑, ←	 The arrow ↓ best
+rushed	↓, →, ←, ↑	 The arrow ↓ best
+rushed	←, ↑, ↓, →	 The arrow ↓ best
+rushed	←, ↑, →, ↓	 The arrow ↓ best
+rushed	←, ↓, ↑, →	 The arrow ↓ best
+rushed	←, ↓, →, ↑	 The arrow ↓ best
+rushed	←, →, ↑, ↓	 ↓
+
+The
+rushed	←, →, ↓, ↑	 ↓
+
+The
+rushed	→, ↑, ↓, ←	 The arrow ↓ best
+rushed	→, ↑, ←, ↓	 The arrow ↓ best
+rushed	→, ↓, ↑, ←	 The arrow ↓ best
+rushed	→, ↓, ←, ↑	 The arrow ↓ best
+rushed	→, ←, ↑, ↓	 ↓
+
+The
+rushed	→, ←, ↓, ↑	 ↓
+
+Ex
+warned	↑, ↓, ←, →	 The arrow ← best
+warned	↑, ↓, →, ←	 The arrow ← best
+warned	↑, ←, ↓, →	 The arrow ← best
+warned	↑, ←, →, ↓	 The arrow ← best
+warned	↑, →, ↓, ←	 The arrow ← best
+warned	↑, →, ←, ↓	 The arrow ← best
+warned	↓, ↑, ←, →	 The arrow ← best
+warned	↓, ↑, →, ←	 The arrow ← best
+warned	↓, ←, ↑, →	 The arrow ← best
+warned	↓, ←, →, ↑	 The arrow ← best
+warned	↓, →, ↑, ←	 The arrow ← best
+warned	↓, →, ←, ↑	 The arrow ↓ best
+warned	←, ↑, ↓, →	 The arrow ← best
+warned	←, ↑, →, ↓	 The arrow ← best
+warned	←, ↓, ↑, →	 The arrow ← best
+warned	←, ↓, →, ↑	 The arrow ← best
+warned	←, →, ↑, ↓	 The arrow ← best
+warned	←, →, ↓, ↑	 The arrow ← best
+warned	→, ↑, ↓, ←	 The arrow → best represents
+warned	→, ↑, ←, ↓	 The arrow → best represents
+warned	→, ↓, ↑, ←	 The arrow → best represents
+warned	→, ↓, ←, ↑	 The arrow → best represents
+warned	→, ←, ↑, ↓	 The arrow ← best
+warned	→, ←, ↓, ↑	 The arrow ← best
+owned	↑, ↓, ←, →	 ←
+
+Ex
+owned	↑, ↓, →, ←	 ←
+
+A
+owned	↑, ←, ↓, →	 ←
+
+A
+owned	↑, ←, →, ↓	 ↓
+
+Ex
+owned	↑, →, ↓, ←	 ←
+
+A
+owned	↑, →, ←, ↓	 ↓
+
+A
+owned	↓, ↑, ←, →	 ←
+
+The
+owned	↓, ↑, →, ←	 ←
+
+A
+owned	↓, ←, ↑, →	 ↓
+
+The
+owned	↓, ←, →, ↑	 ↓
+
+A
+owned	↓, →, ↑, ←	 ↓
+
+A
+owned	↓, →, ←, ↑	 ↓
+
+A
+owned	←, ↑, ↓, →	 ←
+
+A
+owned	←, ↑, →, ↓	 ↓
+
+The
+owned	←, ↓, ↑, →	 ←
+
+A
+owned	←, ↓, →, ↑	 ↓
+
+A
+owned	←, →, ↑, ↓	 ←
+
+A
+owned	←, →, ↓, ↑	 ↓
+
+A
+owned	→, ↑, ↓, ←	 ←
+
+Ex
+owned	→, ↑, ←, ↓	 ↓
+
+Ex
+owned	→, ↓, ↑, ←	 ←
+
+Ex
+owned	→, ↓, ←, ↑	 ↓
+
+Ex
+owned	→, ←, ↑, ↓	 ↓
+
+Ex
+owned	→, ←, ↓, ↑	 ↓
+
+Ex
+regretted	↑, ↓, ←, →	 ↓
+
+Ex
+regretted	↑, ↓, →, ←	 ←
+
+Ex
+regretted	↑, ←, ↓, →	 ←
+
+A
+regretted	↑, ←, →, ↓	 ↓
+
+Ex
+regretted	↑, →, ↓, ←	 ↓
+
+Ex
+regretted	↑, →, ←, ↓	 ↓
+
+Ex
+regretted	↓, ↑, ←, →	 ↓
+
+Ex
+regretted	↓, ↑, →, ←	 ←
+
+The
+regretted	↓, ←, ↑, →	 ↓
+
+The
+regretted	↓, ←, →, ↑	 ↓
+
+A
+regretted	↓, →, ↑, ←	 ↓
+
+Ex
+regretted	↓, →, ←, ↑	 ↓
+
+A
+regretted	←, ↑, ↓, →	 The arrow ← best
+regretted	←, ↑, →, ↓	 The arrow ← best
+regretted	←, ↓, ↑, →	 ←
+
+A
+regretted	←, ↓, →, ↑	 The arrow ← best
+regretted	←, →, ↑, ↓	 ↓
+
+A
+regretted	←, →, ↓, ↑	 ↓
+
+A
+regretted	→, ↑, ↓, ←	 The arrow ← best
+regretted	→, ↑, ←, ↓	 The arrow ← best
+regretted	→, ↓, ↑, ←	 The arrow ← best
+regretted	→, ↓, ←, ↑	 The arrow ↓ best
+regretted	→, ←, ↑, ↓	 ←
+
+Ex
+regretted	→, ←, ↓, ↑	 ←
+
+A
+rested	↑, ↓, ←, →	 ↓
+
+Ex
+rested	↑, ↓, →, ←	 ↓
+
+Ex
+rested	↑, ←, ↓, →	 ↓
+
+The
+rested	↑, ←, →, ↓	 ↓
+
+The
+rested	↑, →, ↓, ←	 ↓
+
+Ex
+rested	↑, →, ←, ↓	 ↓
+
+The
+rested	↓, ↑, ←, →	 ↓
+
+The
+rested	↓, ↑, →, ←	 ↓
+
+The
+rested	↓, ←, ↑, →	 ↓
+
+The
+rested	↓, ←, →, ↑	 ↓
+
+The
+rested	↓, →, ↑, ←	 ↓
+
+The
+rested	↓, →, ←, ↑	 ↓
+
+The
+rested	←, ↑, ↓, →	 The arrow ← best
+rested	←, ↑, →, ↓	 The arrow ← best
+rested	←, ↓, ↑, →	 ↓
+
+The
+rested	←, ↓, →, ↑	 The arrow ← best
+rested	←, →, ↑, ↓	 ↓
+
+The
+rested	←, →, ↓, ↑	 ↓
+
+Ex
+rested	→, ↑, ↓, ←	 The arrow ↓ best
+rested	→, ↑, ←, ↓	 The arrow → best represents
+rested	→, ↓, ↑, ←	 The arrow → best represents
+rested	→, ↓, ←, ↑	 The arrow ↓ best
+rested	→, ←, ↑, ↓	 ↓
+
+Ex
+rested	→, ←, ↓, ↑	 ↓
+
+Ex
+tempted	↑, ↓, ←, →	 The arrow ↓ best
+tempted	↑, ↓, →, ←	 The arrow ← best
+tempted	↑, ←, ↓, →	 The arrow ← best
+tempted	↑, ←, →, ↓	 The arrow ← best
+tempted	↑, →, ↓, ←	 The arrow ↓ best
+tempted	↑, →, ←, ↓	 The arrow ↓ best
+tempted	↓, ↑, ←, →	 The arrow ← best
+tempted	↓, ↑, →, ←	 The arrow ↓ best
+tempted	↓, ←, ↑, →	 ↓
+
+The
+tempted	↓, ←, →, ↑	 The arrow ↓ best
+tempted	↓, →, ↑, ←	 The arrow ↓ best
+tempted	↓, →, ←, ↑	 ↓
+
+The
+tempted	←, ↑, ↓, →	 The arrow ← best
+tempted	←, ↑, →, ↓	 The arrow ← best
+tempted	←, ↓, ↑, →	 The arrow ← best
+tempted	←, ↓, →, ↑	 The arrow ← best
+tempted	←, →, ↑, ↓	 ↓
+
+The
+tempted	←, →, ↓, ↑	 ↓
+
+Ex
+tempted	→, ↑, ↓, ←	 The arrow ↓ best
+tempted	→, ↑, ←, ↓	 The arrow ↓ best
+tempted	→, ↓, ↑, ←	 The arrow ↓ best
+tempted	→, ↓, ←, ↑	 The arrow ↓ best
+tempted	→, ←, ↑, ↓	 ↓
+
+Ex
+tempted	→, ←, ↓, ↑	 ↓
+
+Ex
+wanted	↑, ↓, ←, →	 The arrow ← best
+wanted	↑, ↓, →, ←	 The arrow ← best
+wanted	↑, ←, ↓, →	 The arrow ← best
+wanted	↑, ←, →, ↓	 The arrow ← best
+wanted	↑, →, ↓, ←	 The arrow ← best
+wanted	↑, →, ←, ↓	 The arrow ← best
+wanted	↓, ↑, ←, →	 The arrow ← best
+wanted	↓, ↑, →, ←	 The arrow ← best
+wanted	↓, ←, ↑, →	 The arrow ← best
+wanted	↓, ←, →, ↑	 The arrow ← best
+wanted	↓, →, ↑, ←	 The arrow ← best
+wanted	↓, →, ←, ↑	 The arrow ↓ best
+wanted	←, ↑, ↓, →	 The arrow ← best
+wanted	←, ↑, →, ↓	 The arrow ← best
+wanted	←, ↓, ↑, →	 The arrow ← best
+wanted	←, ↓, →, ↑	 The arrow ← best
+wanted	←, →, ↑, ↓	 The arrow ← best
+wanted	←, →, ↓, ↑	 The arrow ← best
+wanted	→, ↑, ↓, ←	 The arrow → best represents
+wanted	→, ↑, ←, ↓	 The arrow → best represents
+wanted	→, ↓, ↑, ←	 The arrow → best represents
+wanted	→, ↓, ←, ↑	 The arrow → best represents
+wanted	→, ←, ↑, ↓	 The arrow ← best
+wanted	→, ←, ↓, ↑	 The arrow ↓ best
+hoped	↑, ↓, ←, →	 The arrow ↑ best
+hoped	↑, ↓, →, ←	 The arrow ↑ best
+hoped	↑, ←, ↓, →	 The arrow ← best
+hoped	↑, ←, →, ↓	 The arrow ← best
+hoped	↑, →, ↓, ←	 The arrow ↑ best
+hoped	↑, →, ←, ↓	 The arrow ↑ best
+hoped	↓, ↑, ←, →	 The arrow ← best
+hoped	↓, ↑, →, ←	 The arrow ↓ best
+hoped	↓, ←, ↑, →	 ↓
+
+Ex
+hoped	↓, ←, →, ↑	 The arrow ← best
+hoped	↓, →, ↑, ←	 The arrow ↓ best
+hoped	↓, →, ←, ↑	 The arrow ↓ best
+hoped	←, ↑, ↓, →	 The arrow ← best
+hoped	←, ↑, →, ↓	 The arrow ← best
+hoped	←, ↓, ↑, →	 The arrow ← best
+hoped	←, ↓, →, ↑	 The arrow ← best
+hoped	←, →, ↑, ↓	 The arrow ← best
+hoped	←, →, ↓, ↑	 The arrow ← best
+hoped	→, ↑, ↓, ←	 The arrow → best represents
+hoped	→, ↑, ←, ↓	 The arrow → best represents
+hoped	→, ↓, ↑, ←	 The arrow → best represents
+hoped	→, ↓, ←, ↑	 The arrow → best represents
+hoped	→, ←, ↑, ↓	 The arrow ← best
+hoped	→, ←, ↓, ↑	 ↑
+
+Ex
+increased	↑, ↓, ←, →	 ↑
+
+The
+increased	↑, ↓, →, ←	 ↑
+
+B
+increased	↑, ←, ↓, →	 ↑
+
+The
+increased	↑, ←, →, ↓	 ↑
+
+The
+increased	↑, →, ↓, ←	 ↑
+
+The
+increased	↑, →, ←, ↓	 ↑
+
+The
+increased	↓, ↑, ←, →	 ↑
+
+The
+increased	↓, ↑, →, ←	 ↑
+
+The
+increased	↓, ←, ↑, →	 ↑
+
+The
+increased	↓, ←, →, ↑	 ↑
+
+The
+increased	↓, →, ↑, ←	 ↑
+
+The
+increased	↓, →, ←, ↑	 ↑
+
+The
+increased	←, ↑, ↓, →	 ←
+
+A
+increased	←, ↑, →, ↓	 ↑
+
+The
+increased	←, ↓, ↑, →	 ↑
+
+The
+increased	←, ↓, →, ↑	 ↑
+
+The
+increased	←, →, ↑, ↓	 ↑
+
+The
+increased	←, →, ↓, ↑	 ↑
+
+The
+increased	→, ↑, ↓, ←	 ↑
+
+The
+increased	→, ↑, ←, ↓	 ↑
+
+The
+increased	→, ↓, ↑, ←	 ↑
+
+Ex
+increased	→, ↓, ←, ↑	 ↑
+
+The
+increased	→, ←, ↑, ↓	 ↑
+
+The
+increased	→, ←, ↓, ↑	 ↑
+
+The
+obeyed	↑, ↓, ←, →	 ↓
+
+Ex
+obeyed	↑, ↓, →, ←	 ↓
+
+O
+obeyed	↑, ←, ↓, →	 ←
+
+O
+obeyed	↑, ←, →, ↓	 ↓
+
+O
+obeyed	↑, →, ↓, ←	 ↓
+
+O
+obeyed	↑, →, ←, ↓	 ↓
+
+O
+obeyed	↓, ↑, ←, →	 ↓
+
+O
+obeyed	↓, ↑, →, ←	 ↓
+
+O
+obeyed	↓, ←, ↑, →	 ↓
+
+O
+obeyed	↓, ←, →, ↑	 ↓
+
+O
+obeyed	↓, →, ↑, ←	 ↓
+
+O
+obeyed	↓, →, ←, ↑	 ↓
+
+O
+obeyed	←, ↑, ↓, →	 ←
+
+O
+obeyed	←, ↑, →, ↓	 ←
+
+O
+obeyed	←, ↓, ↑, →	 ←
+
+O
+obeyed	←, ↓, →, ↑	 ↓
+
+O
+obeyed	←, →, ↑, ↓	 ←
+
+O
+obeyed	←, →, ↓, ↑	 ←
+
+A
+obeyed	→, ↑, ↓, ←	 The arrow → best represents
+obeyed	→, ↑, ←, ↓	 ↓
+
+Ex
+obeyed	→, ↓, ↑, ←	 The arrow → best represents
+obeyed	→, ↓, ←, ↑	 The arrow ↓ best
+obeyed	→, ←, ↑, ↓	 ←
+
+O
+obeyed	→, ←, ↓, ↑	 ↓
+
+Ex
+respected	↑, ↓, ←, →	 The arrow ↑ best
+respected	↑, ↓, →, ←	 The arrow ← best
+respected	↑, ←, ↓, →	 The arrow ← best
+respected	↑, ←, →, ↓	 The arrow ← best
+respected	↑, →, ↓, ←	 The arrow ↑ best
+respected	↑, →, ←, ↓	 The arrow ↑ best
+respected	↓, ↑, ←, →	 The arrow ← best
+respected	↓, ↑, →, ←	 The arrow ← best
+respected	↓, ←, ↑, →	 ↓
+
+Ex
+respected	↓, ←, →, ↑	 The arrow ← best
+respected	↓, →, ↑, ←	 The arrow ← best
+respected	↓, →, ←, ↑	 The arrow ↓ best
+respected	←, ↑, ↓, →	 The arrow ← best
+respected	←, ↑, →, ↓	 The arrow ← best
+respected	←, ↓, ↑, →	 The arrow ← best
+respected	←, ↓, →, ↑	 The arrow ← best
+respected	←, →, ↑, ↓	 The arrow ← best
+respected	←, →, ↓, ↑	 ↓
+
+Ex
+respected	→, ↑, ↓, ←	 The arrow ↑ best
+respected	→, ↑, ←, ↓	 The arrow ↑ best
+respected	→, ↓, ↑, ←	 The arrow ← best
+respected	→, ↓, ←, ↑	 The arrow ↓ best
+respected	→, ←, ↑, ↓	 The arrow ← best
+respected	→, ←, ↓, ↑	 The arrow ← best
+succeeded	↑, ↓, ←, →	 ↑
+
+Ex
+succeeded	↑, ↓, →, ←	 The arrow ↑ best
+succeeded	↑, ←, ↓, →	 The arrow ↑ best
+succeeded	↑, ←, →, ↓	 The arrow ↑ best
+succeeded	↑, →, ↓, ←	 The arrow ↑ best
+succeeded	↑, →, ←, ↓	 The arrow ↑ best
+succeeded	↓, ↑, ←, →	 ↑
+
+The
+succeeded	↓, ↑, →, ←	 The arrow ↓ best
+succeeded	↓, ←, ↑, →	 ↑
+
+The
+succeeded	↓, ←, →, ↑	 The arrow ↓ best
+succeeded	↓, →, ↑, ←	 The arrow ↓ best
+succeeded	↓, →, ←, ↑	 The arrow ↓ best
+succeeded	←, ↑, ↓, →	 The arrow ← best
+succeeded	←, ↑, →, ↓	 The arrow ← best
+succeeded	←, ↓, ↑, →	 The arrow ← best
+succeeded	←, ↓, →, ↑	 The arrow ← best
+succeeded	←, →, ↑, ↓	 The arrow ← best
+succeeded	←, →, ↓, ↑	 The arrow ← best
+succeeded	→, ↑, ↓, ←	 The arrow → best represents
+succeeded	→, ↑, ←, ↓	 The arrow → best represents
+succeeded	→, ↓, ↑, ←	 The arrow → best represents
+succeeded	→, ↓, ←, ↑	 The arrow ↑ best
+succeeded	→, ←, ↑, ↓	 The arrow ↑ best
+succeeded	→, ←, ↓, ↑	 The arrow ↑ best

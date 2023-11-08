@@ -1,0 +1,1386 @@
+fled	Up, Down, Left, Right	 Up.
+Select the
+fled	Up, Down, Right, Left	
+The best representation for
+fled	Up, Left, Down, Right	
+The best representation for
+fled	Up, Left, Right, Down	
+The best representation for
+fled	Up, Right, Down, Left	 Up. The bird is
+fled	Up, Right, Left, Down	
+The best representation for
+fled	Down, Up, Left, Right	
+The best representation for
+fled	Down, Up, Right, Left	
+The best representation for
+fled	Down, Left, Up, Right	
+The best representation for
+fled	Down, Left, Right, Up	
+The best representation for
+fled	Down, Right, Up, Left	
+The best representation for
+fled	Down, Right, Left, Up	
+The best representation for
+fled	Left, Up, Down, Right	
+The best representation for
+fled	Left, Up, Right, Down	
+The best representation for
+fled	Left, Down, Up, Right	
+The best representation for
+fled	Left, Down, Right, Up	
+The best representation for
+fled	Left, Right, Up, Down	
+The best representation for
+fled	Left, Right, Down, Up	
+The best representation for
+fled	Right, Up, Down, Left	
+The best representation for
+fled	Right, Up, Left, Down	
+The best representation for
+fled	Right, Down, Up, Left	
+The best representation for
+fled	Right, Down, Left, Up	
+The best representation for
+fled	Right, Left, Up, Down	
+The best representation for
+fled	Right, Left, Down, Up	
+The best representation for
+pointed at	Up, Down, Left, Right	
+The best representation for
+pointed at	Up, Down, Right, Left	
+The best representation for
+pointed at	Up, Left, Down, Right	
+The best representation for
+pointed at	Up, Left, Right, Down	
+The best representation for
+pointed at	Up, Right, Down, Left	
+The best representation for
+pointed at	Up, Right, Left, Down	
+The best representation for
+pointed at	Down, Up, Left, Right	
+The best representation for
+pointed at	Down, Up, Right, Left	
+The best representation for
+pointed at	Down, Left, Up, Right	
+The best representation for
+pointed at	Down, Left, Right, Up	
+The best representation for
+pointed at	Down, Right, Up, Left	
+The best representation for
+pointed at	Down, Right, Left, Up	
+The best representation for
+pointed at	Left, Up, Down, Right	
+The best representation for
+pointed at	Left, Up, Right, Down	
+The best representation for
+pointed at	Left, Down, Up, Right	
+The best representation for
+pointed at	Left, Down, Right, Up	
+The best representation for
+pointed at	Left, Right, Up, Down	
+The best representation for
+pointed at	Left, Right, Down, Up	
+The best representation for
+pointed at	Right, Up, Down, Left	
+The best representation for
+pointed at	Right, Up, Left, Down	
+The best representation for
+pointed at	Right, Down, Up, Left	
+The best representation for
+pointed at	Right, Down, Left, Up	
+The best representation for
+pointed at	Right, Left, Up, Down	
+The best representation for
+pointed at	Right, Left, Down, Up	
+The best representation for
+pulled	Up, Down, Left, Right	
+The best representation for
+pulled	Up, Down, Right, Left	
+The best representation for
+pulled	Up, Left, Down, Right	
+The best representation for
+pulled	Up, Left, Right, Down	
+The best representation for
+pulled	Up, Right, Down, Left	
+The best representation for
+pulled	Up, Right, Left, Down	
+The best representation for
+pulled	Down, Up, Left, Right	
+The best representation for
+pulled	Down, Up, Right, Left	
+The best representation for
+pulled	Down, Left, Up, Right	
+The best representation for
+pulled	Down, Left, Right, Up	
+The best representation for
+pulled	Down, Right, Up, Left	
+The best representation for
+pulled	Down, Right, Left, Up	
+The best representation for
+pulled	Left, Up, Down, Right	
+The best representation for
+pulled	Left, Up, Right, Down	
+The best representation for
+pulled	Left, Down, Up, Right	
+The best representation for
+pulled	Left, Down, Right, Up	
+The best representation for
+pulled	Left, Right, Up, Down	
+The best representation for
+pulled	Left, Right, Down, Up	
+The best representation for
+pulled	Right, Up, Down, Left	
+The best representation for
+pulled	Right, Up, Left, Down	
+The best representation for
+pulled	Right, Down, Up, Left	
+The best representation for
+pulled	Right, Down, Left, Up	
+The best representation for
+pulled	Right, Left, Up, Down	
+The best representation for
+pulled	Right, Left, Down, Up	
+The best representation for
+pushed	Up, Down, Left, Right	
+The best representation for
+pushed	Up, Down, Right, Left	
+The best representation for
+pushed	Up, Left, Down, Right	
+The best representation for
+pushed	Up, Left, Right, Down	
+The best representation for
+pushed	Up, Right, Down, Left	
+The best representation for
+pushed	Up, Right, Left, Down	
+The best representation for
+pushed	Down, Up, Left, Right	
+The best representation for
+pushed	Down, Up, Right, Left	
+The best representation for
+pushed	Down, Left, Up, Right	
+The best representation for
+pushed	Down, Left, Right, Up	
+The best representation for
+pushed	Down, Right, Up, Left	
+The best representation for
+pushed	Down, Right, Left, Up	
+The best representation for
+pushed	Left, Up, Down, Right	
+The best representation for
+pushed	Left, Up, Right, Down	
+The best representation for
+pushed	Left, Down, Up, Right	
+The best representation for
+pushed	Left, Down, Right, Up	
+The best representation for
+pushed	Left, Right, Up, Down	
+The best representation for
+pushed	Left, Right, Down, Up	
+The best representation for
+pushed	Right, Up, Down, Left	
+The best representation for
+pushed	Right, Up, Left, Down	
+The best representation for
+pushed	Right, Down, Up, Left	
+The best representation for
+pushed	Right, Down, Left, Up	
+The best representation for
+pushed	Right, Left, Up, Down	
+The best representation for
+pushed	Right, Left, Down, Up	
+The best representation for
+walked	Up, Down, Left, Right	
+The best representation for
+walked	Up, Down, Right, Left	
+The best representation for
+walked	Up, Left, Down, Right	
+The best representation for
+walked	Up, Left, Right, Down	
+The best representation for
+walked	Up, Right, Down, Left	
+The best representation for
+walked	Up, Right, Left, Down	
+The best representation for
+walked	Down, Up, Left, Right	
+The best representation for
+walked	Down, Up, Right, Left	
+The best representation for
+walked	Down, Left, Up, Right	
+The best representation for
+walked	Down, Left, Right, Up	
+The best representation for
+walked	Down, Right, Up, Left	
+The best representation for
+walked	Down, Right, Left, Up	
+The best representation for
+walked	Left, Up, Down, Right	
+The best representation for
+walked	Left, Up, Right, Down	
+The best representation for
+walked	Left, Down, Up, Right	
+The best representation for
+walked	Left, Down, Right, Up	
+The best representation for
+walked	Left, Right, Up, Down	
+The best representation for
+walked	Left, Right, Down, Up	
+The best representation for
+walked	Right, Up, Down, Left	
+The best representation for
+walked	Right, Up, Left, Down	
+The best representation for
+walked	Right, Down, Up, Left	
+The best representation for
+walked	Right, Down, Left, Up	
+The best representation for
+walked	Right, Left, Up, Down	
+The best representation for
+walked	Right, Left, Down, Up	
+The best representation for
+hunted	Up, Down, Left, Right	
+The best representation for
+hunted	Up, Down, Right, Left	
+The best representation for
+hunted	Up, Left, Down, Right	
+The best representation for
+hunted	Up, Left, Right, Down	
+The best representation for
+hunted	Up, Right, Down, Left	
+The best representation for
+hunted	Up, Right, Left, Down	
+The best representation for
+hunted	Down, Up, Left, Right	
+The best representation for
+hunted	Down, Up, Right, Left	
+The best representation for
+hunted	Down, Left, Up, Right	
+The best representation for
+hunted	Down, Left, Right, Up	
+The best representation for
+hunted	Down, Right, Up, Left	
+The best representation for
+hunted	Down, Right, Left, Up	
+The best representation for
+hunted	Left, Up, Down, Right	
+The best representation for
+hunted	Left, Up, Right, Down	
+The best representation for
+hunted	Left, Down, Up, Right	
+The best representation for
+hunted	Left, Down, Right, Up	
+The best representation for
+hunted	Left, Right, Up, Down	
+The best representation for
+hunted	Left, Right, Down, Up	
+The best representation for
+hunted	Right, Up, Down, Left	
+The best representation for
+hunted	Right, Up, Left, Down	
+The best representation for
+hunted	Right, Down, Up, Left	
+The best representation for
+hunted	Right, Down, Left, Up	
+The best representation for
+hunted	Right, Left, Up, Down	
+The best representation for
+hunted	Right, Left, Down, Up	
+The best representation for
+impacted	Up, Down, Left, Right	
+The best representation for
+impacted	Up, Down, Right, Left	
+The best representation for
+impacted	Up, Left, Down, Right	
+The best representation for
+impacted	Up, Left, Right, Down	
+The best representation for
+impacted	Up, Right, Down, Left	
+The best representation for
+impacted	Up, Right, Left, Down	
+The best representation for
+impacted	Down, Up, Left, Right	 Down. The reason for
+impacted	Down, Up, Right, Left	 Down. The reason for
+impacted	Down, Left, Up, Right	
+The best representation for
+impacted	Down, Left, Right, Up	
+The best representation for
+impacted	Down, Right, Up, Left	 Down. The reason for
+impacted	Down, Right, Left, Up	 Down. The reason for
+impacted	Left, Up, Down, Right	
+The best representation for
+impacted	Left, Up, Right, Down	
+The best representation for
+impacted	Left, Down, Up, Right	
+The best representation for
+impacted	Left, Down, Right, Up	
+The best representation for
+impacted	Left, Right, Up, Down	
+The best representation for
+impacted	Left, Right, Down, Up	
+The best representation for
+impacted	Right, Up, Down, Left	
+The best representation for
+impacted	Right, Up, Left, Down	
+The best representation for
+impacted	Right, Down, Up, Left	
+The best representation for
+impacted	Right, Down, Left, Up	
+The best representation for
+impacted	Right, Left, Up, Down	
+The best representation for
+impacted	Right, Left, Down, Up	
+The best representation for
+perched	Up, Down, Left, Right	
+The best representation for
+perched	Up, Down, Right, Left	
+The best representation for
+perched	Up, Left, Down, Right	
+The best representation for
+perched	Up, Left, Right, Down	
+The best representation for
+perched	Up, Right, Down, Left	
+The best representation for
+perched	Up, Right, Left, Down	
+The best representation for
+perched	Down, Up, Left, Right	
+The best representation for
+perched	Down, Up, Right, Left	
+The best representation for
+perched	Down, Left, Up, Right	
+The best representation for
+perched	Down, Left, Right, Up	
+The best representation for
+perched	Down, Right, Up, Left	
+The best representation for
+perched	Down, Right, Left, Up	
+The best representation for
+perched	Left, Up, Down, Right	
+The best representation for
+perched	Left, Up, Right, Down	
+The best representation for
+perched	Left, Down, Up, Right	
+The best representation for
+perched	Left, Down, Right, Up	
+The best representation for
+perched	Left, Right, Up, Down	
+The best representation for
+perched	Left, Right, Down, Up	
+The best representation for
+perched	Right, Up, Down, Left	
+The best representation for
+perched	Right, Up, Left, Down	
+The best representation for
+perched	Right, Down, Up, Left	
+The best representation for
+perched	Right, Down, Left, Up	
+The best representation for
+perched	Right, Left, Up, Down	
+The best representation for
+perched	Right, Left, Down, Up	
+The best representation for
+showed	Up, Down, Left, Right	
+The best representation for
+showed	Up, Down, Right, Left	
+The best representation for
+showed	Up, Left, Down, Right	
+The best representation for
+showed	Up, Left, Right, Down	
+The best representation for
+showed	Up, Right, Down, Left	
+The best representation for
+showed	Up, Right, Left, Down	
+The best representation for
+showed	Down, Up, Left, Right	
+The best representation for
+showed	Down, Up, Right, Left	
+The best representation for
+showed	Down, Left, Up, Right	
+The best representation for
+showed	Down, Left, Right, Up	
+The best representation for
+showed	Down, Right, Up, Left	
+The best representation for
+showed	Down, Right, Left, Up	
+The best representation for
+showed	Left, Up, Down, Right	
+The best representation for
+showed	Left, Up, Right, Down	
+The best representation for
+showed	Left, Down, Up, Right	
+The best representation for
+showed	Left, Down, Right, Up	
+The best representation for
+showed	Left, Right, Up, Down	
+The best representation for
+showed	Left, Right, Down, Up	
+The best representation for
+showed	Right, Up, Down, Left	
+The best representation for
+showed	Right, Up, Left, Down	
+The best representation for
+showed	Right, Down, Up, Left	
+The best representation for
+showed	Right, Down, Left, Up	
+The best representation for
+showed	Right, Left, Up, Down	
+The best representation for
+showed	Right, Left, Down, Up	
+The best representation for
+smashed	Up, Down, Left, Right	
+The best representation for
+smashed	Up, Down, Right, Left	
+The best representation for
+smashed	Up, Left, Down, Right	
+The best representation for
+smashed	Up, Left, Right, Down	
+The best representation for
+smashed	Up, Right, Down, Left	
+The best representation for
+smashed	Up, Right, Left, Down	
+The best representation for
+smashed	Down, Up, Left, Right	
+The best representation for
+smashed	Down, Up, Right, Left	
+The best representation for
+smashed	Down, Left, Up, Right	
+The best representation for
+smashed	Down, Left, Right, Up	
+The best representation for
+smashed	Down, Right, Up, Left	
+The best representation for
+smashed	Down, Right, Left, Up	
+The best representation for
+smashed	Left, Up, Down, Right	
+The best representation for
+smashed	Left, Up, Right, Down	
+The best representation for
+smashed	Left, Down, Up, Right	
+The best representation for
+smashed	Left, Down, Right, Up	
+The best representation for
+smashed	Left, Right, Up, Down	
+The best representation for
+smashed	Left, Right, Down, Up	
+The best representation for
+smashed	Right, Up, Down, Left	
+The best representation for
+smashed	Right, Up, Left, Down	
+The best representation for
+smashed	Right, Down, Up, Left	
+The best representation for
+smashed	Right, Down, Left, Up	
+The best representation for
+smashed	Right, Left, Up, Down	
+The best representation for
+smashed	Right, Left, Down, Up	
+The best representation for
+bombed	Up, Down, Left, Right	
+The best representation for
+bombed	Up, Down, Right, Left	
+The best representation for
+bombed	Up, Left, Down, Right	
+The best representation for
+bombed	Up, Left, Right, Down	
+The best representation for
+bombed	Up, Right, Down, Left	
+The best representation for
+bombed	Up, Right, Left, Down	
+The best representation for
+bombed	Down, Up, Left, Right	
+The best representation for
+bombed	Down, Up, Right, Left	
+The best representation for
+bombed	Down, Left, Up, Right	
+The best representation for
+bombed	Down, Left, Right, Up	
+The best representation for
+bombed	Down, Right, Up, Left	
+The best representation for
+bombed	Down, Right, Left, Up	
+The best representation for
+bombed	Left, Up, Down, Right	
+The best representation for
+bombed	Left, Up, Right, Down	
+The best representation for
+bombed	Left, Down, Up, Right	
+The best representation for
+bombed	Left, Down, Right, Up	
+The best representation for
+bombed	Left, Right, Up, Down	
+The best representation for
+bombed	Left, Right, Down, Up	
+The best representation for
+bombed	Right, Up, Down, Left	
+The best representation for
+bombed	Right, Up, Left, Down	
+The best representation for
+bombed	Right, Down, Up, Left	
+The best representation for
+bombed	Right, Down, Left, Up	
+The best representation for
+bombed	Right, Left, Up, Down	
+The best representation for
+bombed	Right, Left, Down, Up	
+The best representation for
+flew	Up, Down, Left, Right	 Up.
+Select the
+flew	Up, Down, Right, Left	 Up.
+Select the
+flew	Up, Left, Down, Right	 Up. The reason for
+flew	Up, Left, Right, Down	 Up. The reason for
+flew	Up, Right, Down, Left	 Up. The reason for
+flew	Up, Right, Left, Down	 Up. The reason for
+flew	Down, Up, Left, Right	
+The best representation for
+flew	Down, Up, Right, Left	
+The best representation for
+flew	Down, Left, Up, Right	
+The best representation for
+flew	Down, Left, Right, Up	
+The best representation for
+flew	Down, Right, Up, Left	
+The best representation for
+flew	Down, Right, Left, Up	
+The best representation for
+flew	Left, Up, Down, Right	
+The best representation for
+flew	Left, Up, Right, Down	
+The best representation for
+flew	Left, Down, Up, Right	
+The best representation for
+flew	Left, Down, Right, Up	
+The best representation for
+flew	Left, Right, Up, Down	
+The best representation for
+flew	Left, Right, Down, Up	
+The best representation for
+flew	Right, Up, Down, Left	
+The best representation for
+flew	Right, Up, Left, Down	
+The best representation for
+flew	Right, Down, Up, Left	
+The best representation for
+flew	Right, Down, Left, Up	
+The best representation for
+flew	Right, Left, Up, Down	
+The best representation for
+flew	Right, Left, Down, Up	
+The best representation for
+floated	Up, Down, Left, Right	
+The best representation for
+floated	Up, Down, Right, Left	
+The best representation for
+floated	Up, Left, Down, Right	
+The best representation for
+floated	Up, Left, Right, Down	
+The best representation for
+floated	Up, Right, Down, Left	
+The best representation for
+floated	Up, Right, Left, Down	
+The best representation for
+floated	Down, Up, Left, Right	
+The best representation for
+floated	Down, Up, Right, Left	
+The best representation for
+floated	Down, Left, Up, Right	
+The best representation for
+floated	Down, Left, Right, Up	
+The best representation for
+floated	Down, Right, Up, Left	
+The best representation for
+floated	Down, Right, Left, Up	
+The best representation for
+floated	Left, Up, Down, Right	
+The best representation for
+floated	Left, Up, Right, Down	
+The best representation for
+floated	Left, Down, Up, Right	
+The best representation for
+floated	Left, Down, Right, Up	
+The best representation for
+floated	Left, Right, Up, Down	
+The best representation for
+floated	Left, Right, Down, Up	
+The best representation for
+floated	Right, Up, Down, Left	
+The best representation for
+floated	Right, Up, Left, Down	
+The best representation for
+floated	Right, Down, Up, Left	
+The best representation for
+floated	Right, Down, Left, Up	
+The best representation for
+floated	Right, Left, Up, Down	
+The best representation for
+floated	Right, Left, Down, Up	
+The best representation for
+lifted	Up, Down, Left, Right	
+The best representation for
+lifted	Up, Down, Right, Left	
+The best representation for
+lifted	Up, Left, Down, Right	
+The best representation for
+lifted	Up, Left, Right, Down	
+The best representation for
+lifted	Up, Right, Down, Left	
+The best representation for
+lifted	Up, Right, Left, Down	
+The best representation for
+lifted	Down, Up, Left, Right	
+The best representation for
+lifted	Down, Up, Right, Left	
+The best representation for
+lifted	Down, Left, Up, Right	
+The best representation for
+lifted	Down, Left, Right, Up	
+The best representation for
+lifted	Down, Right, Up, Left	
+The best representation for
+lifted	Down, Right, Left, Up	
+The best representation for
+lifted	Left, Up, Down, Right	
+The best representation for
+lifted	Left, Up, Right, Down	
+The best representation for
+lifted	Left, Down, Up, Right	
+The best representation for
+lifted	Left, Down, Right, Up	
+The best representation for
+lifted	Left, Right, Up, Down	
+The best representation for
+lifted	Left, Right, Down, Up	
+The best representation for
+lifted	Right, Up, Down, Left	
+The best representation for
+lifted	Right, Up, Left, Down	
+The best representation for
+lifted	Right, Down, Up, Left	
+The best representation for
+lifted	Right, Down, Left, Up	
+The best representation for
+lifted	Right, Left, Up, Down	
+The best representation for
+lifted	Right, Left, Down, Up	
+The best representation for
+sank	Up, Down, Left, Right	
+The best representation for
+sank	Up, Down, Right, Left	
+The best representation for
+sank	Up, Left, Down, Right	
+The best representation for
+sank	Up, Left, Right, Down	
+The best representation for
+sank	Up, Right, Down, Left	
+The best representation for
+sank	Up, Right, Left, Down	
+The best representation for
+sank	Down, Up, Left, Right	
+The best representation for
+sank	Down, Up, Right, Left	
+The best representation for
+sank	Down, Left, Up, Right	
+The best representation for
+sank	Down, Left, Right, Up	
+The best representation for
+sank	Down, Right, Up, Left	
+The best representation for
+sank	Down, Right, Left, Up	
+The best representation for
+sank	Left, Up, Down, Right	
+The best representation for
+sank	Left, Up, Right, Down	
+The best representation for
+sank	Left, Down, Up, Right	
+The best representation for
+sank	Left, Down, Right, Up	
+The best representation for
+sank	Left, Right, Up, Down	
+The best representation for
+sank	Left, Right, Down, Up	
+The best representation for
+sank	Right, Up, Down, Left	
+The best representation for
+sank	Right, Up, Left, Down	
+The best representation for
+sank	Right, Down, Up, Left	
+The best representation for
+sank	Right, Down, Left, Up	
+The best representation for
+sank	Right, Left, Up, Down	
+The best representation for
+sank	Right, Left, Down, Up	
+The best representation for
+argued with	Up, Down, Left, Right	 Up. The concept of
+argued with	Up, Down, Right, Left	 Up. The concept of
+argued with	Up, Left, Down, Right	 Up. The concept of
+argued with	Up, Left, Right, Down	
+The best representation for
+argued with	Up, Right, Down, Left	 Up. The concept of
+argued with	Up, Right, Left, Down	 Up. The concept of
+argued with	Down, Up, Left, Right	 Down. The concept of
+argued with	Down, Up, Right, Left	 Down. The concept of
+argued with	Down, Left, Up, Right	 Down. The concept of
+argued with	Down, Left, Right, Up	 Down. The concept of
+argued with	Down, Right, Up, Left	 Down. The concept of
+argued with	Down, Right, Left, Up	 Down. The concept of
+argued with	Left, Up, Down, Right	
+The best representation for
+argued with	Left, Up, Right, Down	
+The best representation for
+argued with	Left, Down, Up, Right	
+The best representation for
+argued with	Left, Down, Right, Up	
+The best representation for
+argued with	Left, Right, Up, Down	
+The best representation for
+argued with	Left, Right, Down, Up	
+The best representation for
+argued with	Right, Up, Down, Left	
+The best representation for
+argued with	Right, Up, Left, Down	
+The best representation for
+argued with	Right, Down, Up, Left	
+The best representation for
+argued with	Right, Down, Left, Up	
+The best representation for
+argued with	Right, Left, Up, Down	
+The best representation for
+argued with	Right, Left, Down, Up	
+The best representation for
+gave to	Up, Down, Left, Right	 Up. The concept of
+gave to	Up, Down, Right, Left	
+The best representation for
+gave to	Up, Left, Down, Right	
+The best representation for
+gave to	Up, Left, Right, Down	
+The best representation for
+gave to	Up, Right, Down, Left	 Up. The concept of
+gave to	Up, Right, Left, Down	
+The best representation for
+gave to	Down, Up, Left, Right	
+The best representation for
+gave to	Down, Up, Right, Left	
+The best representation for
+gave to	Down, Left, Up, Right	
+The best representation for
+gave to	Down, Left, Right, Up	
+The best representation for
+gave to	Down, Right, Up, Left	
+The best representation for
+gave to	Down, Right, Left, Up	
+The best representation for
+gave to	Left, Up, Down, Right	
+The best representation for
+gave to	Left, Up, Right, Down	
+The best representation for
+gave to	Left, Down, Up, Right	
+The best representation for
+gave to	Left, Down, Right, Up	
+The best representation for
+gave to	Left, Right, Up, Down	
+The best representation for
+gave to	Left, Right, Down, Up	
+The best representation for
+gave to	Right, Up, Down, Left	
+The best representation for
+gave to	Right, Up, Left, Down	
+The best representation for
+gave to	Right, Down, Up, Left	
+The best representation for
+gave to	Right, Down, Left, Up	
+The best representation for
+gave to	Right, Left, Up, Down	
+The best representation for
+gave to	Right, Left, Down, Up	
+The best representation for
+offended	Up, Down, Left, Right	
+The best representation for
+offended	Up, Down, Right, Left	
+The best representation for
+offended	Up, Left, Down, Right	
+The best representation for
+offended	Up, Left, Right, Down	
+The best representation for
+offended	Up, Right, Down, Left	
+The best representation for
+offended	Up, Right, Left, Down	
+The best representation for
+offended	Down, Up, Left, Right	
+The best representation for
+offended	Down, Up, Right, Left	
+The best representation for
+offended	Down, Left, Up, Right	
+The best representation for
+offended	Down, Left, Right, Up	
+The best representation for
+offended	Down, Right, Up, Left	
+The best representation for
+offended	Down, Right, Left, Up	
+The best representation for
+offended	Left, Up, Down, Right	
+The best representation for
+offended	Left, Up, Right, Down	
+The best representation for
+offended	Left, Down, Up, Right	
+The best representation for
+offended	Left, Down, Right, Up	
+The best representation for
+offended	Left, Right, Up, Down	
+The best representation for
+offended	Left, Right, Down, Up	
+The best representation for
+offended	Right, Up, Down, Left	
+The best representation for
+offended	Right, Up, Left, Down	
+The best representation for
+offended	Right, Down, Up, Left	
+The best representation for
+offended	Right, Down, Left, Up	
+The best representation for
+offended	Right, Left, Up, Down	
+The best representation for
+offended	Right, Left, Down, Up	
+The best representation for
+rushed	Up, Down, Left, Right	
+The best representation for
+rushed	Up, Down, Right, Left	
+The best representation for
+rushed	Up, Left, Down, Right	
+The best representation for
+rushed	Up, Left, Right, Down	
+The best representation for
+rushed	Up, Right, Down, Left	
+The best representation for
+rushed	Up, Right, Left, Down	
+The best representation for
+rushed	Down, Up, Left, Right	
+The best representation for
+rushed	Down, Up, Right, Left	
+The best representation for
+rushed	Down, Left, Up, Right	
+The best representation for
+rushed	Down, Left, Right, Up	
+The best representation for
+rushed	Down, Right, Up, Left	
+The best representation for
+rushed	Down, Right, Left, Up	
+The best representation for
+rushed	Left, Up, Down, Right	
+The best representation for
+rushed	Left, Up, Right, Down	
+The best representation for
+rushed	Left, Down, Up, Right	
+The best representation for
+rushed	Left, Down, Right, Up	
+The best representation for
+rushed	Left, Right, Up, Down	
+The best representation for
+rushed	Left, Right, Down, Up	
+The best representation for
+rushed	Right, Up, Down, Left	
+The best representation for
+rushed	Right, Up, Left, Down	
+The best representation for
+rushed	Right, Down, Up, Left	
+The best representation for
+rushed	Right, Down, Left, Up	
+The best representation for
+rushed	Right, Left, Up, Down	
+The best representation for
+rushed	Right, Left, Down, Up	
+The best representation for
+warned	Up, Down, Left, Right	 Up. The concept of
+warned	Up, Down, Right, Left	 Up. The concept of
+warned	Up, Left, Down, Right	 Up. The concept of
+warned	Up, Left, Right, Down	
+The best representation for
+warned	Up, Right, Down, Left	 Up. The concept of
+warned	Up, Right, Left, Down	 Up. The concept of
+warned	Down, Up, Left, Right	 Down. The concept of
+warned	Down, Up, Right, Left	 Down. The concept of
+warned	Down, Left, Up, Right	 Down. The concept of
+warned	Down, Left, Right, Up	 Down. The concept of
+warned	Down, Right, Up, Left	 Down. The concept of
+warned	Down, Right, Left, Up	 Down. The concept of
+warned	Left, Up, Down, Right	
+The best representation for
+warned	Left, Up, Right, Down	
+The best representation for
+warned	Left, Down, Up, Right	
+The best representation for
+warned	Left, Down, Right, Up	
+The best representation for
+warned	Left, Right, Up, Down	
+The best representation for
+warned	Left, Right, Down, Up	
+The best representation for
+warned	Right, Up, Down, Left	
+The best representation for
+warned	Right, Up, Left, Down	
+The best representation for
+warned	Right, Down, Up, Left	
+The best representation for
+warned	Right, Down, Left, Up	
+The best representation for
+warned	Right, Left, Up, Down	
+The best representation for
+warned	Right, Left, Down, Up	
+The best representation for
+owned	Up, Down, Left, Right	
+The best representation for
+owned	Up, Down, Right, Left	
+The best representation for
+owned	Up, Left, Down, Right	
+The best representation for
+owned	Up, Left, Right, Down	
+The best representation for
+owned	Up, Right, Down, Left	
+The best representation for
+owned	Up, Right, Left, Down	
+The best representation for
+owned	Down, Up, Left, Right	
+The best representation for
+owned	Down, Up, Right, Left	
+The best representation for
+owned	Down, Left, Up, Right	
+The best representation for
+owned	Down, Left, Right, Up	
+The best representation for
+owned	Down, Right, Up, Left	
+The best representation for
+owned	Down, Right, Left, Up	
+The best representation for
+owned	Left, Up, Down, Right	
+The best representation for
+owned	Left, Up, Right, Down	
+The best representation for
+owned	Left, Down, Up, Right	
+The best representation for
+owned	Left, Down, Right, Up	
+The best representation for
+owned	Left, Right, Up, Down	
+The best representation for
+owned	Left, Right, Down, Up	
+The best representation for
+owned	Right, Up, Down, Left	
+The best representation for
+owned	Right, Up, Left, Down	
+The best representation for
+owned	Right, Down, Up, Left	
+The best representation for
+owned	Right, Down, Left, Up	
+The best representation for
+owned	Right, Left, Up, Down	
+The best representation for
+owned	Right, Left, Down, Up	
+The best representation for
+regretted	Up, Down, Left, Right	
+The best representation for
+regretted	Up, Down, Right, Left	
+The best representation for
+regretted	Up, Left, Down, Right	
+The best representation for
+regretted	Up, Left, Right, Down	
+The best representation for
+regretted	Up, Right, Down, Left	 Up. The concept of
+regretted	Up, Right, Left, Down	
+The best representation for
+regretted	Down, Up, Left, Right	 Down. The reason for
+regretted	Down, Up, Right, Left	
+The best representation for
+regretted	Down, Left, Up, Right	
+The best representation for
+regretted	Down, Left, Right, Up	
+The best representation for
+regretted	Down, Right, Up, Left	 Down. The reason for
+regretted	Down, Right, Left, Up	 Down. The reason for
+regretted	Left, Up, Down, Right	
+The best representation for
+regretted	Left, Up, Right, Down	 Left. The reason for
+regretted	Left, Down, Up, Right	
+The best representation for
+regretted	Left, Down, Right, Up	 Left. The reason for
+regretted	Left, Right, Up, Down	
+The best representation for
+regretted	Left, Right, Down, Up	
+The best representation for
+regretted	Right, Up, Down, Left	
+The best representation for
+regretted	Right, Up, Left, Down	
+The best representation for
+regretted	Right, Down, Up, Left	
+The best representation for
+regretted	Right, Down, Left, Up	
+The best representation for
+regretted	Right, Left, Up, Down	
+The best representation for
+regretted	Right, Left, Down, Up	
+The best representation for
+rested	Up, Down, Left, Right	
+The best representation for
+rested	Up, Down, Right, Left	
+The best representation for
+rested	Up, Left, Down, Right	
+The best representation for
+rested	Up, Left, Right, Down	
+The best representation for
+rested	Up, Right, Down, Left	
+The best representation for
+rested	Up, Right, Left, Down	
+The best representation for
+rested	Down, Up, Left, Right	
+The best representation for
+rested	Down, Up, Right, Left	
+The best representation for
+rested	Down, Left, Up, Right	
+The best representation for
+rested	Down, Left, Right, Up	
+The best representation for
+rested	Down, Right, Up, Left	
+The best representation for
+rested	Down, Right, Left, Up	
+The best representation for
+rested	Left, Up, Down, Right	
+The best representation for
+rested	Left, Up, Right, Down	
+The best representation for
+rested	Left, Down, Up, Right	
+The best representation for
+rested	Left, Down, Right, Up	
+The best representation for
+rested	Left, Right, Up, Down	
+The best representation for
+rested	Left, Right, Down, Up	
+The best representation for
+rested	Right, Up, Down, Left	
+The best representation for
+rested	Right, Up, Left, Down	
+The best representation for
+rested	Right, Down, Up, Left	
+The best representation for
+rested	Right, Down, Left, Up	
+The best representation for
+rested	Right, Left, Up, Down	
+The best representation for
+rested	Right, Left, Down, Up	
+The best representation for
+tempted	Up, Down, Left, Right	
+The best representation for
+tempted	Up, Down, Right, Left	
+The best representation for
+tempted	Up, Left, Down, Right	
+The best representation for
+tempted	Up, Left, Right, Down	
+The best representation for
+tempted	Up, Right, Down, Left	
+The best representation for
+tempted	Up, Right, Left, Down	
+The best representation for
+tempted	Down, Up, Left, Right	
+The best representation for
+tempted	Down, Up, Right, Left	
+The best representation for
+tempted	Down, Left, Up, Right	
+The best representation for
+tempted	Down, Left, Right, Up	
+The best representation for
+tempted	Down, Right, Up, Left	
+The best representation for
+tempted	Down, Right, Left, Up	
+The best representation for
+tempted	Left, Up, Down, Right	
+The best representation for
+tempted	Left, Up, Right, Down	
+The best representation for
+tempted	Left, Down, Up, Right	
+The best representation for
+tempted	Left, Down, Right, Up	
+The best representation for
+tempted	Left, Right, Up, Down	
+The best representation for
+tempted	Left, Right, Down, Up	
+The best representation for
+tempted	Right, Up, Down, Left	
+The best representation for
+tempted	Right, Up, Left, Down	
+The best representation for
+tempted	Right, Down, Up, Left	
+The best representation for
+tempted	Right, Down, Left, Up	
+The best representation for
+tempted	Right, Left, Up, Down	
+The best representation for
+tempted	Right, Left, Down, Up	
+The best representation for
+wanted	Up, Down, Left, Right	
+The best representation for
+wanted	Up, Down, Right, Left	
+The best representation for
+wanted	Up, Left, Down, Right	
+The best representation for
+wanted	Up, Left, Right, Down	
+The best representation for
+wanted	Up, Right, Down, Left	
+The best representation for
+wanted	Up, Right, Left, Down	
+The best representation for
+wanted	Down, Up, Left, Right	
+The best representation for
+wanted	Down, Up, Right, Left	
+The best representation for
+wanted	Down, Left, Up, Right	
+The best representation for
+wanted	Down, Left, Right, Up	
+The best representation for
+wanted	Down, Right, Up, Left	
+The best representation for
+wanted	Down, Right, Left, Up	
+The best representation for
+wanted	Left, Up, Down, Right	
+The best representation for
+wanted	Left, Up, Right, Down	
+The best representation for
+wanted	Left, Down, Up, Right	
+The best representation for
+wanted	Left, Down, Right, Up	
+The best representation for
+wanted	Left, Right, Up, Down	
+The best representation for
+wanted	Left, Right, Down, Up	
+The best representation for
+wanted	Right, Up, Down, Left	
+The best representation for
+wanted	Right, Up, Left, Down	
+The best representation for
+wanted	Right, Down, Up, Left	
+The best representation for
+wanted	Right, Down, Left, Up	
+The best representation for
+wanted	Right, Left, Up, Down	
+The best representation for
+wanted	Right, Left, Down, Up	
+The best representation for
+hoped	Up, Down, Left, Right	
+The best representation for
+hoped	Up, Down, Right, Left	
+The best representation for
+hoped	Up, Left, Down, Right	
+The best representation for
+hoped	Up, Left, Right, Down	
+The best representation for
+hoped	Up, Right, Down, Left	
+The best representation for
+hoped	Up, Right, Left, Down	
+The best representation for
+hoped	Down, Up, Left, Right	
+The best representation for
+hoped	Down, Up, Right, Left	
+The best representation for
+hoped	Down, Left, Up, Right	
+The best representation for
+hoped	Down, Left, Right, Up	
+The best representation for
+hoped	Down, Right, Up, Left	
+The best representation for
+hoped	Down, Right, Left, Up	
+The best representation for
+hoped	Left, Up, Down, Right	
+The best representation for
+hoped	Left, Up, Right, Down	
+The best representation for
+hoped	Left, Down, Up, Right	
+The best representation for
+hoped	Left, Down, Right, Up	
+The best representation for
+hoped	Left, Right, Up, Down	
+The best representation for
+hoped	Left, Right, Down, Up	
+The best representation for
+hoped	Right, Up, Down, Left	
+The best representation for
+hoped	Right, Up, Left, Down	
+The best representation for
+hoped	Right, Down, Up, Left	
+The best representation for
+hoped	Right, Down, Left, Up	
+The best representation for
+hoped	Right, Left, Up, Down	
+The best representation for
+hoped	Right, Left, Down, Up	
+The best representation for
+increased	Up, Down, Left, Right	 Up.
+Select the
+increased	Up, Down, Right, Left	 Up.
+Select the
+increased	Up, Left, Down, Right	 Up.
+Select the
+increased	Up, Left, Right, Down	 Up. The reason for
+increased	Up, Right, Down, Left	 Up.
+Select the
+increased	Up, Right, Left, Down	 Up. The concept of
+increased	Down, Up, Left, Right	 Up. The concept of
+increased	Down, Up, Right, Left	
+The best representation for
+increased	Down, Left, Up, Right	
+The best representation for
+increased	Down, Left, Right, Up	
+The best representation for
+increased	Down, Right, Up, Left	 Up. The reason for
+increased	Down, Right, Left, Up	
+The best representation for
+increased	Left, Up, Down, Right	
+The best representation for
+increased	Left, Up, Right, Down	
+The best representation for
+increased	Left, Down, Up, Right	
+The best representation for
+increased	Left, Down, Right, Up	
+The best representation for
+increased	Left, Right, Up, Down	
+The best representation for
+increased	Left, Right, Down, Up	
+The best representation for
+increased	Right, Up, Down, Left	 Right.
+Select the
+increased	Right, Up, Left, Down	 Right.
+Select the
+increased	Right, Down, Up, Left	
+The best representation for
+increased	Right, Down, Left, Up	
+The best representation for
+increased	Right, Left, Up, Down	 Right.
+Select the
+increased	Right, Left, Down, Up	
+The best representation for
+obeyed	Up, Down, Left, Right	
+The best representation for
+obeyed	Up, Down, Right, Left	
+The best representation for
+obeyed	Up, Left, Down, Right	
+The best representation for
+obeyed	Up, Left, Right, Down	
+The best representation for
+obeyed	Up, Right, Down, Left	
+The best representation for
+obeyed	Up, Right, Left, Down	
+The best representation for
+obeyed	Down, Up, Left, Right	
+The best representation for
+obeyed	Down, Up, Right, Left	
+The best representation for
+obeyed	Down, Left, Up, Right	
+The best representation for
+obeyed	Down, Left, Right, Up	
+The best representation for
+obeyed	Down, Right, Up, Left	
+The best representation for
+obeyed	Down, Right, Left, Up	
+The best representation for
+obeyed	Left, Up, Down, Right	
+The best representation for
+obeyed	Left, Up, Right, Down	
+The best representation for
+obeyed	Left, Down, Up, Right	
+The best representation for
+obeyed	Left, Down, Right, Up	
+The best representation for
+obeyed	Left, Right, Up, Down	
+The best representation for
+obeyed	Left, Right, Down, Up	
+The best representation for
+obeyed	Right, Up, Down, Left	
+The best representation for
+obeyed	Right, Up, Left, Down	
+The best representation for
+obeyed	Right, Down, Up, Left	
+The best representation for
+obeyed	Right, Down, Left, Up	
+The best representation for
+obeyed	Right, Left, Up, Down	
+The best representation for
+obeyed	Right, Left, Down, Up	
+The best representation for
+respected	Up, Down, Left, Right	 Up. The concept of
+respected	Up, Down, Right, Left	 Up. The concept of
+respected	Up, Left, Down, Right	 Up. The concept of
+respected	Up, Left, Right, Down	 Up. The concept of
+respected	Up, Right, Down, Left	 Up. The concept of
+respected	Up, Right, Left, Down	 Up. The concept of
+respected	Down, Up, Left, Right	 Up. The concept of
+respected	Down, Up, Right, Left	
+The best representation for
+respected	Down, Left, Up, Right	 Down. The reason for
+respected	Down, Left, Right, Up	 Down. The reason for
+respected	Down, Right, Up, Left	 Up. The concept of
+respected	Down, Right, Left, Up	 Down. The reason for
+respected	Left, Up, Down, Right	
+The best representation for
+respected	Left, Up, Right, Down	
+The best representation for
+respected	Left, Down, Up, Right	
+The best representation for
+respected	Left, Down, Right, Up	
+The best representation for
+respected	Left, Right, Up, Down	
+The best representation for
+respected	Left, Right, Down, Up	
+The best representation for
+respected	Right, Up, Down, Left	
+The best representation for
+respected	Right, Up, Left, Down	
+The best representation for
+respected	Right, Down, Up, Left	
+The best representation for
+respected	Right, Down, Left, Up	
+The best representation for
+respected	Right, Left, Up, Down	
+The best representation for
+respected	Right, Left, Down, Up	
+The best representation for
+succeeded	Up, Down, Left, Right	
+The best representation for
+succeeded	Up, Down, Right, Left	
+The best representation for
+succeeded	Up, Left, Down, Right	
+The best representation for
+succeeded	Up, Left, Right, Down	
+The best representation for
+succeeded	Up, Right, Down, Left	
+The best representation for
+succeeded	Up, Right, Left, Down	
+The best representation for
+succeeded	Down, Up, Left, Right	
+The best representation for
+succeeded	Down, Up, Right, Left	
+The best representation for
+succeeded	Down, Left, Up, Right	
+The best representation for
+succeeded	Down, Left, Right, Up	
+The best representation for
+succeeded	Down, Right, Up, Left	
+The best representation for
+succeeded	Down, Right, Left, Up	
+The best representation for
+succeeded	Left, Up, Down, Right	
+The best representation for
+succeeded	Left, Up, Right, Down	
+The best representation for
+succeeded	Left, Down, Up, Right	
+The best representation for
+succeeded	Left, Down, Right, Up	
+The best representation for
+succeeded	Left, Right, Up, Down	
+The best representation for
+succeeded	Left, Right, Down, Up	
+The best representation for
+succeeded	Right, Up, Down, Left	
+The best representation for
+succeeded	Right, Up, Left, Down	
+The best representation for
+succeeded	Right, Down, Up, Left	
+The best representation for
+succeeded	Right, Down, Left, Up	
+The best representation for
+succeeded	Right, Left, Up, Down	
+The best representation for
+succeeded	Right, Left, Down, Up	
+The best representation for

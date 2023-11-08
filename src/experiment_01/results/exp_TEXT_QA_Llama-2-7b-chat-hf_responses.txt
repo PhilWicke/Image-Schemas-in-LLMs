@@ -1,0 +1,1957 @@
+fled	Up, Down, Left, Right	 Up.
+
+Ex
+fled	Up, Down, Right, Left	 Up.
+
+Ex
+fled	Up, Left, Down, Right	 B: Down.
+
+fled	Up, Left, Right, Down	 B: Right
+
+
+fled	Up, Right, Down, Left	 B: Down.
+
+fled	Up, Right, Left, Down	 B: Down.
+
+fled	Down, Up, Left, Right	 Up.
+
+Ex
+fled	Down, Up, Right, Left	 Up.
+
+Ex
+fled	Down, Left, Up, Right	 B: Up. Ex
+fled	Down, Left, Right, Up	 Up.
+
+Ex
+fled	Down, Right, Up, Left	 The concept "Up"
+fled	Down, Right, Left, Up	 The concept "Up"
+fled	Left, Up, Down, Right	 B: Down.
+
+fled	Left, Up, Right, Down	 B: Down.
+
+fled	Left, Down, Up, Right	 Up.
+
+Ex
+fled	Left, Down, Right, Up	 Up.
+
+Ex
+fled	Left, Right, Up, Down	 Up.
+
+Ex
+fled	Left, Right, Down, Up	 Up.
+
+Ex
+fled	Right, Up, Down, Left	 The concept "Down"
+fled	Right, Up, Left, Down	 The concept that best represents
+fled	Right, Down, Up, Left	 Up.
+
+Ex
+fled	Right, Down, Left, Up	 Up.
+
+Ex
+fled	Right, Left, Up, Down	 Up.
+
+Ex
+fled	Right, Left, Down, Up	 B: Up. Ex
+pointed at	Up, Down, Left, Right	 Up
+
+Explan
+pointed at	Up, Down, Right, Left	 Right
+
+Explan
+pointed at	Up, Left, Down, Right	 Up
+
+Explan
+pointed at	Up, Left, Right, Down	 Right
+
+Explan
+pointed at	Up, Right, Down, Left	 Up.
+
+Ex
+pointed at	Up, Right, Left, Down	 Up.
+
+Ex
+pointed at	Down, Up, Left, Right	 Up.
+
+Ex
+pointed at	Down, Up, Right, Left	 Up.
+
+Ex
+pointed at	Down, Left, Up, Right	 Up.
+
+Ex
+pointed at	Down, Left, Right, Up	 Right
+
+A:
+pointed at	Down, Right, Up, Left	 The concept "Up"
+pointed at	Down, Right, Left, Up	 Right
+
+A:
+pointed at	Left, Up, Down, Right	 Right
+
+Explan
+pointed at	Left, Up, Right, Down	 Down.
+
+Ex
+pointed at	Left, Down, Up, Right	 Up.
+
+Ex
+pointed at	Left, Down, Right, Up	 Up.
+
+Ex
+pointed at	Left, Right, Up, Down	 Up.
+
+Ex
+pointed at	Left, Right, Down, Up	 Down.
+
+Ex
+pointed at	Right, Up, Down, Left	 The concept "Up"
+pointed at	Right, Up, Left, Down	 The concept "Up"
+pointed at	Right, Down, Up, Left	 Up.
+
+Ex
+pointed at	Right, Down, Left, Up	 Up.
+
+Ex
+pointed at	Right, Left, Up, Down	 Up.
+
+Ex
+pointed at	Right, Left, Down, Up	 Down.
+
+Ex
+pulled	Up, Down, Left, Right	 Left
+
+Explan
+pulled	Up, Down, Right, Left	 Right
+
+A:
+pulled	Up, Left, Down, Right	 B: Down.
+
+pulled	Up, Left, Right, Down	 Right
+
+A:
+pulled	Up, Right, Down, Left	 B: Down
+
+
+pulled	Up, Right, Left, Down	 Right
+
+A:
+pulled	Down, Up, Left, Right	 Up
+
+Explan
+pulled	Down, Up, Right, Left	 Up
+
+Explan
+pulled	Down, Left, Up, Right	 Up.
+
+Ex
+pulled	Down, Left, Right, Up	 Right
+
+A:
+pulled	Down, Right, Up, Left	 Right
+
+A:
+pulled	Down, Right, Left, Up	 Right
+
+A:
+pulled	Left, Up, Down, Right	 Right
+
+A:
+pulled	Left, Up, Right, Down	 B: Down.
+
+pulled	Left, Down, Up, Right	 Up.
+
+Ex
+pulled	Left, Down, Right, Up	 Right
+
+A:
+pulled	Left, Right, Up, Down	 Up.
+
+Ex
+pulled	Left, Right, Down, Up	 Left
+
+A:
+pulled	Right, Up, Down, Left	 B: Right
+
+
+pulled	Right, Up, Left, Down	 Left
+
+Explan
+pulled	Right, Down, Up, Left	 Up.
+
+Ex
+pulled	Right, Down, Left, Up	 Up.
+
+Ex
+pulled	Right, Left, Up, Down	 Up.
+
+Ex
+pulled	Right, Left, Down, Up	 Right
+
+A:
+pushed	Up, Down, Left, Right	 Right
+
+Explan
+pushed	Up, Down, Right, Left	 Right
+
+Explan
+pushed	Up, Left, Down, Right	 Right
+
+Explan
+pushed	Up, Left, Right, Down	 Right
+
+Explan
+pushed	Up, Right, Down, Left	 Right
+
+Explan
+pushed	Up, Right, Left, Down	 Right
+
+Explan
+pushed	Down, Up, Left, Right	 Up.
+
+Ex
+pushed	Down, Up, Right, Left	 Up.
+
+Ex
+pushed	Down, Left, Up, Right	 Up.
+
+Ex
+pushed	Down, Left, Right, Up	 Right
+
+A:
+pushed	Down, Right, Up, Left	 Right
+
+Explan
+pushed	Down, Right, Left, Up	 Right.
+
+Ex
+pushed	Left, Up, Down, Right	 Right
+
+Explan
+pushed	Left, Up, Right, Down	 Right
+
+A:
+pushed	Left, Down, Up, Right	 Right
+
+Explan
+pushed	Left, Down, Right, Up	 Right
+
+A:
+pushed	Left, Right, Up, Down	 Right
+
+A:
+pushed	Left, Right, Down, Up	 Right
+
+A:
+pushed	Right, Up, Down, Left	 B: Pushed
+
+pushed	Right, Up, Left, Down	 B: Pushed means
+pushed	Right, Down, Up, Left	 Up.
+
+Ex
+pushed	Right, Down, Left, Up	 Up.
+
+Ex
+pushed	Right, Left, Up, Down	 Up.
+
+Ex
+pushed	Right, Left, Down, Up	 Down.
+
+Ex
+walked	Up, Down, Left, Right	 Right
+
+Explan
+walked	Up, Down, Right, Left	 Right
+
+Explan
+walked	Up, Left, Down, Right	 Right
+
+Explan
+walked	Up, Left, Right, Down	 Right
+
+Explan
+walked	Up, Right, Down, Left	 Up
+
+Explan
+walked	Up, Right, Left, Down	 Down.
+
+Ex
+walked	Down, Up, Left, Right	 Up.
+
+Ex
+walked	Down, Up, Right, Left	 Up.
+
+Ex
+walked	Down, Left, Up, Right	 Up.
+
+Ex
+walked	Down, Left, Right, Up	 Right
+
+Explan
+walked	Down, Right, Up, Left	 Up.
+
+Ex
+walked	Down, Right, Left, Up	 Right
+
+Explan
+walked	Left, Up, Down, Right	 Right
+
+Explan
+walked	Left, Up, Right, Down	 Right
+
+Q:
+walked	Left, Down, Up, Right	 Up.
+
+Ex
+walked	Left, Down, Right, Up	 Right
+
+Explan
+walked	Left, Right, Up, Down	 Up.
+
+Ex
+walked	Left, Right, Down, Up	 Right
+
+Explan
+walked	Right, Up, Down, Left	 Right
+
+Explan
+walked	Right, Up, Left, Down	 Down.
+
+Ex
+walked	Right, Down, Up, Left	 Up.
+
+Ex
+walked	Right, Down, Left, Up	 Up.
+
+Ex
+walked	Right, Left, Up, Down	 Up.
+
+Ex
+walked	Right, Left, Down, Up	 Down
+
+Explan
+hunted	Up, Down, Left, Right	 Left
+
+A:
+hunted	Up, Down, Right, Left	 Right
+
+A:
+hunted	Up, Left, Down, Right	 Right
+
+A:
+hunted	Up, Left, Right, Down	 Right
+
+A:
+hunted	Up, Right, Down, Left	 B: Down. Ex
+hunted	Up, Right, Left, Down	 Down
+
+Explan
+hunted	Down, Up, Left, Right	 Up
+
+Explan
+hunted	Down, Up, Right, Left	 Up
+
+Explan
+hunted	Down, Left, Up, Right	 Up
+
+A:
+hunted	Down, Left, Right, Up	 Right
+
+A:
+hunted	Down, Right, Up, Left	 Up. Explanation
+hunted	Down, Right, Left, Up	 Right
+
+A:
+hunted	Left, Up, Down, Right	 Right
+
+A:
+hunted	Left, Up, Right, Down	 Right
+
+A:
+hunted	Left, Down, Up, Right	 Up
+
+Explan
+hunted	Left, Down, Right, Up	 Right
+
+A:
+hunted	Left, Right, Up, Down	 Left
+
+A:
+hunted	Left, Right, Down, Up	 Left
+
+A:
+hunted	Right, Up, Down, Left	 The concept of "Down
+hunted	Right, Up, Left, Down	 The concept that best represents
+hunted	Right, Down, Up, Left	 Up.
+
+Ex
+hunted	Right, Down, Left, Up	 Up. Explanation
+hunted	Right, Left, Up, Down	 Right
+
+A:
+hunted	Right, Left, Down, Up	 Right
+
+A:
+impacted	Up, Down, Left, Right	 Right
+
+A:
+impacted	Up, Down, Right, Left	 Right
+
+A:
+impacted	Up, Left, Down, Right	 Right
+
+A:
+impacted	Up, Left, Right, Down	 Right
+
+A:
+impacted	Up, Right, Down, Left	 Right
+
+A:
+impacted	Up, Right, Left, Down	 Down
+
+A:
+impacted	Down, Up, Left, Right	 Up
+
+Explan
+impacted	Down, Up, Right, Left	 Up
+
+Explan
+impacted	Down, Left, Up, Right	 Up. Explanation
+impacted	Down, Left, Right, Up	 Right
+
+A:
+impacted	Down, Right, Up, Left	 Right
+
+A:
+impacted	Down, Right, Left, Up	 Right
+
+A:
+impacted	Left, Up, Down, Right	 Right
+
+A:
+impacted	Left, Up, Right, Down	 Down
+
+A:
+impacted	Left, Down, Up, Right	 Up
+
+A:
+impacted	Left, Down, Right, Up	 Right
+
+A:
+impacted	Left, Right, Up, Down	 Up
+
+A:
+impacted	Left, Right, Down, Up	 Down
+
+A:
+impacted	Right, Up, Down, Left	 Right
+
+A:
+impacted	Right, Up, Left, Down	 Up.
+
+Ex
+impacted	Right, Down, Up, Left	 Up. Explanation
+impacted	Right, Down, Left, Up	 Up. Explanation
+impacted	Right, Left, Up, Down	 Up.
+
+Ex
+impacted	Right, Left, Down, Up	 Down
+
+A:
+perched	Up, Down, Left, Right	 Up
+
+Explan
+perched	Up, Down, Right, Left	 Up.
+
+Ex
+perched	Up, Left, Down, Right	 Up
+
+Explan
+perched	Up, Left, Right, Down	 Right
+
+Explan
+perched	Up, Right, Down, Left	 Up
+
+Explan
+perched	Up, Right, Left, Down	 Up
+
+Explan
+perched	Down, Up, Left, Right	 Up
+
+Explan
+perched	Down, Up, Right, Left	 Up
+
+Explan
+perched	Down, Left, Up, Right	 Up
+
+Explan
+perched	Down, Left, Right, Up	 Up.
+
+Ex
+perched	Down, Right, Up, Left	 Up.
+
+Ex
+perched	Down, Right, Left, Up	 Up.
+
+Ex
+perched	Left, Up, Down, Right	 Right
+
+A:
+perched	Left, Up, Right, Down	 The concept of "Up
+perched	Left, Down, Up, Right	 Up
+
+A:
+perched	Left, Down, Right, Up	 Up
+
+A:
+perched	Left, Right, Up, Down	 Up
+
+A:
+perched	Left, Right, Down, Up	 Up
+
+A:
+perched	Right, Up, Down, Left	 The concept of "Up
+perched	Right, Up, Left, Down	 The concept of "Up
+perched	Right, Down, Up, Left	 Up.
+
+Ex
+perched	Right, Down, Left, Up	 Up.
+
+Ex
+perched	Right, Left, Up, Down	 Up.
+
+Ex
+perched	Right, Left, Down, Up	 The concept of "down
+showed	Up, Down, Left, Right	 Up.
+
+Ex
+showed	Up, Down, Right, Left	 Right
+
+Explan
+showed	Up, Left, Down, Right	 Up.
+
+Ex
+showed	Up, Left, Right, Down	 Right
+
+Explan
+showed	Up, Right, Down, Left	 Up.
+
+Ex
+showed	Up, Right, Left, Down	 Up
+
+Explan
+showed	Down, Up, Left, Right	 Up.
+
+Ex
+showed	Down, Up, Right, Left	 Up.
+
+Ex
+showed	Down, Left, Up, Right	 Up.
+
+Ex
+showed	Down, Left, Right, Up	 Up.
+
+Ex
+showed	Down, Right, Up, Left	 Up.
+
+Ex
+showed	Down, Right, Left, Up	 Up.
+
+Ex
+showed	Left, Up, Down, Right	 Right
+
+Explan
+showed	Left, Up, Right, Down	 Down.
+
+Ex
+showed	Left, Down, Up, Right	 Right
+
+Explan
+showed	Left, Down, Right, Up	 Right
+
+Explan
+showed	Left, Right, Up, Down	 Right
+
+Explan
+showed	Left, Right, Down, Up	 Down.
+
+Ex
+showed	Right, Up, Down, Left	 Right
+
+Explan
+showed	Right, Up, Left, Down	 Up.
+
+Ex
+showed	Right, Down, Up, Left	 Up.
+
+Ex
+showed	Right, Down, Left, Up	 Up.
+
+Ex
+showed	Right, Left, Up, Down	 Up.
+
+Ex
+showed	Right, Left, Down, Up	 Down
+
+Explan
+smashed	Up, Down, Left, Right	 Up
+
+Explan
+smashed	Up, Down, Right, Left	 Right
+
+Explan
+smashed	Up, Left, Down, Right	 Right
+
+Explan
+smashed	Up, Left, Right, Down	 Right
+
+Q:
+smashed	Up, Right, Down, Left	 Up
+
+Explan
+smashed	Up, Right, Left, Down	 Down.
+
+Ex
+smashed	Down, Up, Left, Right	 Up
+
+Explan
+smashed	Down, Up, Right, Left	 Up
+
+Explan
+smashed	Down, Left, Up, Right	 Up. Explanation
+smashed	Down, Left, Right, Up	 Right
+
+Q:
+smashed	Down, Right, Up, Left	 Up. Explanation
+smashed	Down, Right, Left, Up	 Right
+
+Q:
+smashed	Left, Up, Down, Right	 Right
+
+A:
+smashed	Left, Up, Right, Down	 Down.
+
+Ex
+smashed	Left, Down, Up, Right	 Up
+
+Explan
+smashed	Left, Down, Right, Up	 Up
+
+Explan
+smashed	Left, Right, Up, Down	 Up.
+
+Ex
+smashed	Left, Right, Down, Up	 Down.
+
+Ex
+smashed	Right, Up, Down, Left	 The concept "Down"
+smashed	Right, Up, Left, Down	 Down.
+
+Ex
+smashed	Right, Down, Up, Left	 Up. Explanation
+smashed	Right, Down, Left, Up	 Up. Explanation
+smashed	Right, Left, Up, Down	 Up.
+
+Ex
+smashed	Right, Left, Down, Up	 Down.
+
+Ex
+bombed	Up, Down, Left, Right	 Up
+
+A:
+bombed	Up, Down, Right, Left	 Right
+
+A:
+bombed	Up, Left, Down, Right	 Up
+
+A:
+bombed	Up, Left, Right, Down	 Right
+
+A:
+bombed	Up, Right, Down, Left	 Up
+
+A:
+bombed	Up, Right, Left, Down	 Down.
+
+Ex
+bombed	Down, Up, Left, Right	 Up
+
+A:
+bombed	Down, Up, Right, Left	 Up
+
+A:
+bombed	Down, Left, Up, Right	 Up
+
+A:
+bombed	Down, Left, Right, Up	 Up.
+
+Ex
+bombed	Down, Right, Up, Left	 Up.
+
+Ex
+bombed	Down, Right, Left, Up	 Up.
+
+Ex
+bombed	Left, Up, Down, Right	 Right
+
+A:
+bombed	Left, Up, Right, Down	 Down
+
+A:
+bombed	Left, Down, Up, Right	 Up
+
+A:
+bombed	Left, Down, Right, Up	 Up
+
+A:
+bombed	Left, Right, Up, Down	 Up.
+
+Ex
+bombed	Left, Right, Down, Up	 Down
+
+A:
+bombed	Right, Up, Down, Left	 Right
+
+A:
+bombed	Right, Up, Left, Down	 Down.
+
+Ex
+bombed	Right, Down, Up, Left	 Up.
+
+Ex
+bombed	Right, Down, Left, Up	 Up.
+
+Ex
+bombed	Right, Left, Up, Down	 Up.
+
+Ex
+bombed	Right, Left, Down, Up	 Down
+
+Explan
+flew	Up, Down, Left, Right	 Up.
+
+Ex
+flew	Up, Down, Right, Left	 Up.
+
+Ex
+flew	Up, Left, Down, Right	 Up.
+
+Ex
+flew	Up, Left, Right, Down	 Up.
+
+Ex
+flew	Up, Right, Down, Left	 Up.
+
+Ex
+flew	Up, Right, Left, Down	 Up.
+
+Ex
+flew	Down, Up, Left, Right	 Up.
+
+Ex
+flew	Down, Up, Right, Left	 Up.
+
+Ex
+flew	Down, Left, Up, Right	 Up.
+
+Ex
+flew	Down, Left, Right, Up	 Up.
+
+Ex
+flew	Down, Right, Up, Left	 Up.
+
+Ex
+flew	Down, Right, Left, Up	 Up.
+
+Ex
+flew	Left, Up, Down, Right	 Right
+
+A:
+flew	Left, Up, Right, Down	 Up.
+
+Ex
+flew	Left, Down, Up, Right	 Up.
+
+Ex
+flew	Left, Down, Right, Up	 Up.
+
+Ex
+flew	Left, Right, Up, Down	 Up.
+
+Ex
+flew	Left, Right, Down, Up	 Up.
+
+Ex
+flew	Right, Up, Down, Left	 Up.
+
+Ex
+flew	Right, Up, Left, Down	 Up.
+
+Ex
+flew	Right, Down, Up, Left	 Up.
+
+Ex
+flew	Right, Down, Left, Up	 Up.
+
+Ex
+flew	Right, Left, Up, Down	 Up.
+
+Ex
+flew	Right, Left, Down, Up	 Up.
+
+Ex
+floated	Up, Down, Left, Right	 Right
+
+Explan
+floated	Up, Down, Right, Left	 Right
+
+Explan
+floated	Up, Left, Down, Right	 Right
+
+Explan
+floated	Up, Left, Right, Down	 Right
+
+Explan
+floated	Up, Right, Down, Left	 B: Down. Ex
+floated	Up, Right, Left, Down	 Right
+
+Explan
+floated	Down, Up, Left, Right	 Up.
+
+Ex
+floated	Down, Up, Right, Left	 Up.
+
+Ex
+floated	Down, Left, Up, Right	 Up.
+
+Ex
+floated	Down, Left, Right, Up	 Right.
+
+Ex
+floated	Down, Right, Up, Left	 The concept "Up"
+floated	Down, Right, Left, Up	 Right.
+
+Ex
+floated	Left, Up, Down, Right	 Right
+
+A:
+floated	Left, Up, Right, Down	 Right
+
+A:
+floated	Left, Down, Up, Right	 Up.
+
+Ex
+floated	Left, Down, Right, Up	 Right
+
+The correct
+floated	Left, Right, Up, Down	 Up.
+
+Ex
+floated	Left, Right, Down, Up	 The concept of "Down
+floated	Right, Up, Down, Left	 The concept of "Up
+floated	Right, Up, Left, Down	 The concept of "Down
+floated	Right, Down, Up, Left	 Up.
+
+Ex
+floated	Right, Down, Left, Up	 Up. Explanation
+floated	Right, Left, Up, Down	 Up.
+
+Ex
+floated	Right, Left, Down, Up	 The concept of "Down
+lifted	Up, Down, Left, Right	 Up
+
+A:
+lifted	Up, Down, Right, Left	 Up
+
+A:
+lifted	Up, Left, Down, Right	 Up
+
+A:
+lifted	Up, Left, Right, Down	 Right
+
+A:
+lifted	Up, Right, Down, Left	 Up
+
+A:
+lifted	Up, Right, Left, Down	 Up
+
+A:
+lifted	Down, Up, Left, Right	 Up
+
+A:
+lifted	Down, Up, Right, Left	 Up
+
+A:
+lifted	Down, Left, Up, Right	 Up
+
+A:
+lifted	Down, Left, Right, Up	 Right
+
+A:
+lifted	Down, Right, Up, Left	 Up
+
+A:
+lifted	Down, Right, Left, Up	 Up
+
+A:
+lifted	Left, Up, Down, Right	 Right
+
+A:
+lifted	Left, Up, Right, Down	 Up
+
+A:
+lifted	Left, Down, Up, Right	 Up
+
+A:
+lifted	Left, Down, Right, Up	 Up
+
+A:
+lifted	Left, Right, Up, Down	 Up
+
+A:
+lifted	Left, Right, Down, Up	 Up
+
+A:
+lifted	Right, Up, Down, Left	 Up
+
+A:
+lifted	Right, Up, Left, Down	 Up
+
+A:
+lifted	Right, Down, Up, Left	 Up
+
+A:
+lifted	Right, Down, Left, Up	 Up
+
+A:
+lifted	Right, Left, Up, Down	 Up
+
+A:
+lifted	Right, Left, Down, Up	 Up
+
+A:
+sank	Up, Down, Left, Right	 Up
+
+Explan
+sank	Up, Down, Right, Left	 Down.
+
+Ex
+sank	Up, Left, Down, Right	 B. Down.
+
+sank	Up, Left, Right, Down	 Up
+
+Explan
+sank	Up, Right, Down, Left	 B. Down.
+
+sank	Up, Right, Left, Down	 Down.
+
+Ex
+sank	Down, Up, Left, Right	 Up
+
+Explan
+sank	Down, Up, Right, Left	 Up
+
+Explan
+sank	Down, Left, Up, Right	 B: Up
+
+
+sank	Down, Left, Right, Up	 Right
+
+Explan
+sank	Down, Right, Up, Left	 The concept that best represents
+sank	Down, Right, Left, Up	 Down.
+
+Ex
+sank	Left, Up, Down, Right	 Down.
+
+Ex
+sank	Left, Up, Right, Down	 Down.
+
+Ex
+sank	Left, Down, Up, Right	 Up
+
+Explan
+sank	Left, Down, Right, Up	 The concept "Down"
+sank	Left, Right, Up, Down	 Left
+
+A:
+sank	Left, Right, Down, Up	 Down.
+
+Ex
+sank	Right, Up, Down, Left	 B: Right
+
+
+sank	Right, Up, Left, Down	 The concept that best represents
+sank	Right, Down, Up, Left	 Up.
+
+Ex
+sank	Right, Down, Left, Up	 Up.
+
+Ex
+sank	Right, Left, Up, Down	 Up.
+
+Ex
+sank	Right, Left, Down, Up	 Down
+
+Explan
+argued with	Up, Down, Left, Right	 Left
+
+Explan
+argued with	Up, Down, Right, Left	 Right
+
+A:
+argued with	Up, Left, Down, Right	 Right
+
+Explan
+argued with	Up, Left, Right, Down	 Right
+
+Explan
+argued with	Up, Right, Down, Left	 Right
+
+Explan
+argued with	Up, Right, Left, Down	 Right
+
+Explan
+argued with	Down, Up, Left, Right	 Up
+
+Explan
+argued with	Down, Up, Right, Left	 Up
+
+Explan
+argued with	Down, Left, Up, Right	 Up
+
+Explan
+argued with	Down, Left, Right, Up	 Right
+
+A:
+argued with	Down, Right, Up, Left	 Right
+
+A:
+argued with	Down, Right, Left, Up	 Right
+
+A:
+argued with	Left, Up, Down, Right	 Right
+
+A:
+argued with	Left, Up, Right, Down	 Right
+
+A:
+argued with	Left, Down, Up, Right	 Right
+
+Explan
+argued with	Left, Down, Right, Up	 Right
+
+A:
+argued with	Left, Right, Up, Down	 Right
+
+A:
+argued with	Left, Right, Down, Up	 Right
+
+A:
+argued with	Right, Up, Down, Left	 Left
+
+Explan
+argued with	Right, Up, Left, Down	 Left
+
+Explan
+argued with	Right, Down, Up, Left	 Up
+
+Explan
+argued with	Right, Down, Left, Up	 Up
+
+Explan
+argued with	Right, Left, Up, Down	 Up
+
+Explan
+argued with	Right, Left, Down, Up	 Left
+
+Explan
+gave to	Up, Down, Left, Right	 Right
+
+Explan
+gave to	Up, Down, Right, Left	 Right
+
+Explan
+gave to	Up, Left, Down, Right	 Right
+
+Explan
+gave to	Up, Left, Right, Down	 Right
+
+Explan
+gave to	Up, Right, Down, Left	 Up
+
+Explan
+gave to	Up, Right, Left, Down	 Right
+
+Explan
+gave to	Down, Up, Left, Right	 Up.
+
+Ex
+gave to	Down, Up, Right, Left	 Up.
+
+Ex
+gave to	Down, Left, Up, Right	 Up.
+
+Ex
+gave to	Down, Left, Right, Up	 Right
+
+Explan
+gave to	Down, Right, Up, Left	 Right
+
+Explan
+gave to	Down, Right, Left, Up	 Right
+
+Explan
+gave to	Left, Up, Down, Right	 Right
+
+A:
+gave to	Left, Up, Right, Down	 Right
+
+Explan
+gave to	Left, Down, Up, Right	 Right
+
+Explan
+gave to	Left, Down, Right, Up	 Right
+
+Explan
+gave to	Left, Right, Up, Down	 Left
+
+Explan
+gave to	Left, Right, Down, Up	 Left
+
+Explan
+gave to	Right, Up, Down, Left	 Right
+
+A:
+gave to	Right, Up, Left, Down	 Right
+
+Explan
+gave to	Right, Down, Up, Left	 Up.
+
+Ex
+gave to	Right, Down, Left, Up	 Up.
+
+Ex
+gave to	Right, Left, Up, Down	 Right
+
+A:
+gave to	Right, Left, Down, Up	 Right
+
+A:
+offended	Up, Down, Left, Right	 Right
+
+A:
+offended	Up, Down, Right, Left	 Right
+
+A:
+offended	Up, Left, Down, Right	 Right
+
+A:
+offended	Up, Left, Right, Down	 Right
+
+A:
+offended	Up, Right, Down, Left	 Right
+
+A:
+offended	Up, Right, Left, Down	 Right
+
+A:
+offended	Down, Up, Left, Right	 Up.
+
+Ex
+offended	Down, Up, Right, Left	 Up
+
+Explan
+offended	Down, Left, Up, Right	 Right
+
+A:
+offended	Down, Left, Right, Up	 Right
+
+A:
+offended	Down, Right, Up, Left	 Right
+
+A:
+offended	Down, Right, Left, Up	 Right
+
+A:
+offended	Left, Up, Down, Right	 Right
+
+A:
+offended	Left, Up, Right, Down	 Right
+
+A:
+offended	Left, Down, Up, Right	 Right
+
+A:
+offended	Left, Down, Right, Up	 Right
+
+A:
+offended	Left, Right, Up, Down	 Right
+
+A:
+offended	Left, Right, Down, Up	 Right
+
+A:
+offended	Right, Up, Down, Left	 Right
+
+A:
+offended	Right, Up, Left, Down	 Right
+
+A:
+offended	Right, Down, Up, Left	 Up.
+
+Ex
+offended	Right, Down, Left, Up	 Up.
+
+Ex
+offended	Right, Left, Up, Down	 Right
+
+A:
+offended	Right, Left, Down, Up	 Right
+
+A:
+rushed	Up, Down, Left, Right	 Right
+
+A:
+rushed	Up, Down, Right, Left	 Right
+
+Explan
+rushed	Up, Left, Down, Right	 B. Down.
+
+rushed	Up, Left, Right, Down	 Right
+
+Explan
+rushed	Up, Right, Down, Left	 Right
+
+Explan
+rushed	Up, Right, Left, Down	 Right
+
+Explan
+rushed	Down, Up, Left, Right	 Up
+
+Explan
+rushed	Down, Up, Right, Left	 Up
+
+Explan
+rushed	Down, Left, Up, Right	 Up
+
+Explan
+rushed	Down, Left, Right, Up	 Right
+
+A:
+rushed	Down, Right, Up, Left	 Right
+
+Explan
+rushed	Down, Right, Left, Up	 Right
+
+A:
+rushed	Left, Up, Down, Right	 Right
+
+A:
+rushed	Left, Up, Right, Down	 Down
+
+Explan
+rushed	Left, Down, Up, Right	 Up
+
+Explan
+rushed	Left, Down, Right, Up	 Right
+
+A:
+rushed	Left, Right, Up, Down	 Right
+
+A:
+rushed	Left, Right, Down, Up	 Down
+
+Explan
+rushed	Right, Up, Down, Left	 B. Down.
+
+rushed	Right, Up, Left, Down	 B. Down.
+
+rushed	Right, Down, Up, Left	 Up.
+
+Ex
+rushed	Right, Down, Left, Up	 Up.
+
+Ex
+rushed	Right, Left, Up, Down	 Up.
+
+Ex
+rushed	Right, Left, Down, Up	 Down
+
+Explan
+warned	Up, Down, Left, Right	 B. Right.
+
+warned	Up, Down, Right, Left	 B. Left.
+
+warned	Up, Left, Down, Right	 B: Down. Ex
+warned	Up, Left, Right, Down	 The concept of "Down
+warned	Up, Right, Down, Left	 The concept of "Down
+warned	Up, Right, Left, Down	 The concept of "Down
+warned	Down, Up, Left, Right	 B: Right
+
+
+warned	Down, Up, Right, Left	 B: Right
+
+
+warned	Down, Left, Up, Right	 The concept that best represents
+warned	Down, Left, Right, Up	 The concept of "Up
+warned	Down, Right, Up, Left	 The concept "Up"
+warned	Down, Right, Left, Up	 The concept of "Up
+warned	Left, Up, Down, Right	 The concept of "Right
+warned	Left, Up, Right, Down	 The concept of "Down
+warned	Left, Down, Up, Right	 The concept "Down"
+warned	Left, Down, Right, Up	 The concept "Up"
+warned	Left, Right, Up, Down	 The concept of "Up
+warned	Left, Right, Down, Up	 The concept of "Down
+warned	Right, Up, Down, Left	 The concept of "Down
+warned	Right, Up, Left, Down	 The concept of "Down
+warned	Right, Down, Up, Left	 The concept "Up"
+warned	Right, Down, Left, Up	 The concept of "Up
+warned	Right, Left, Up, Down	 The concept of "Up
+warned	Right, Left, Down, Up	 The concept of "Down
+owned	Up, Down, Left, Right	 Left
+
+A:
+owned	Up, Down, Right, Left	 Right
+
+A:
+owned	Up, Left, Down, Right	 Up
+
+Explan
+owned	Up, Left, Right, Down	 Right
+
+A:
+owned	Up, Right, Down, Left	 Up.
+
+Ex
+owned	Up, Right, Left, Down	 Right
+
+A:
+owned	Down, Up, Left, Right	 Up.
+
+Ex
+owned	Down, Up, Right, Left	 Up.
+
+Ex
+owned	Down, Left, Up, Right	 Up.
+
+Ex
+owned	Down, Left, Right, Up	 Up.
+
+Ex
+owned	Down, Right, Up, Left	 Right
+
+A:
+owned	Down, Right, Left, Up	 Right
+
+A:
+owned	Left, Up, Down, Right	 Right
+
+A:
+owned	Left, Up, Right, Down	 Up.
+
+Ex
+owned	Left, Down, Up, Right	 Right
+
+A:
+owned	Left, Down, Right, Up	 Up.
+
+Ex
+owned	Left, Right, Up, Down	 Left
+
+A:
+owned	Left, Right, Down, Up	 Left
+
+A:
+owned	Right, Up, Down, Left	 Right
+
+A:
+owned	Right, Up, Left, Down	 Left
+
+Explan
+owned	Right, Down, Up, Left	 Up.
+
+Ex
+owned	Right, Down, Left, Up	 Up.
+
+Ex
+owned	Right, Left, Up, Down	 Up.
+
+Ex
+owned	Right, Left, Down, Up	 Right
+
+A:
+regretted	Up, Down, Left, Right	 B: Right
+
+
+regretted	Up, Down, Right, Left	 Right
+
+A:
+regretted	Up, Left, Down, Right	 B: Right
+
+
+regretted	Up, Left, Right, Down	 Right
+
+Explan
+regretted	Up, Right, Down, Left	 B: Down. Ex
+regretted	Up, Right, Left, Down	 Right
+
+Explan
+regretted	Down, Up, Left, Right	 Up. Explanation
+regretted	Down, Up, Right, Left	 Up
+
+Explan
+regretted	Down, Left, Up, Right	 B: Up. Ex
+regretted	Down, Left, Right, Up	 Right
+
+A:
+regretted	Down, Right, Up, Left	 B: Up. Ex
+regretted	Down, Right, Left, Up	 Right.
+
+Ex
+regretted	Left, Up, Down, Right	 Right
+
+A:
+regretted	Left, Up, Right, Down	 Down.
+
+Ex
+regretted	Left, Down, Up, Right	 Up.
+
+Ex
+regretted	Left, Down, Right, Up	 Right
+
+A:
+regretted	Left, Right, Up, Down	 Right
+
+A:
+regretted	Left, Right, Down, Up	 Right
+
+A:
+regretted	Right, Up, Down, Left	 Right
+
+A:
+regretted	Right, Up, Left, Down	 B: Down. Ex
+regretted	Right, Down, Up, Left	 B: Up. Ex
+regretted	Right, Down, Left, Up	 B: Up. Ex
+regretted	Right, Left, Up, Down	 Right
+
+A:
+regretted	Right, Left, Down, Up	 Right
+
+A:
+rested	Up, Down, Left, Right	 Up
+
+Explan
+rested	Up, Down, Right, Left	 Right
+
+Explan
+rested	Up, Left, Down, Right	 B: Rest
+
+
+rested	Up, Left, Right, Down	 Right
+
+Explan
+rested	Up, Right, Down, Left	 B: Rest
+
+
+rested	Up, Right, Left, Down	 Right
+
+Explan
+rested	Down, Up, Left, Right	 Up
+
+Explan
+rested	Down, Up, Right, Left	 Up
+
+Explan
+rested	Down, Left, Up, Right	 Up
+
+Explan
+rested	Down, Left, Right, Up	 Right
+
+Explan
+rested	Down, Right, Up, Left	 B: Up
+
+
+rested	Down, Right, Left, Up	 Right
+
+Explan
+rested	Left, Up, Down, Right	 Right
+
+Explan
+rested	Left, Up, Right, Down	 Right
+
+Explan
+rested	Left, Down, Up, Right	 Up
+
+Explan
+rested	Left, Down, Right, Up	 Right
+
+Explan
+rested	Left, Right, Up, Down	 Right
+
+A:
+rested	Left, Right, Down, Up	 Right
+
+Explan
+rested	Right, Up, Down, Left	 B: Down
+
+
+rested	Right, Up, Left, Down	 B: Down
+
+
+rested	Right, Down, Up, Left	 Up.
+
+Ex
+rested	Right, Down, Left, Up	 Up
+
+Explan
+rested	Right, Left, Up, Down	 Up
+
+Explan
+rested	Right, Left, Down, Up	 Right
+
+Explan
+tempted	Up, Down, Left, Right	 Right
+
+Explan
+tempted	Up, Down, Right, Left	 Right
+
+Explan
+tempted	Up, Left, Down, Right	 Right
+
+Explan
+tempted	Up, Left, Right, Down	 Right
+
+Explan
+tempted	Up, Right, Down, Left	 Right
+
+Explan
+tempted	Up, Right, Left, Down	 Right
+
+Explan
+tempted	Down, Up, Left, Right	 Up
+
+Explan
+tempted	Down, Up, Right, Left	 Up
+
+Explan
+tempted	Down, Left, Up, Right	 Up
+
+Explan
+tempted	Down, Left, Right, Up	 Right
+
+Explan
+tempted	Down, Right, Up, Left	 Up
+
+Explan
+tempted	Down, Right, Left, Up	 Right
+
+A:
+tempted	Left, Up, Down, Right	 Right
+
+A:
+tempted	Left, Up, Right, Down	 Right
+
+A:
+tempted	Left, Down, Up, Right	 Right
+
+Explan
+tempted	Left, Down, Right, Up	 Right
+
+A:
+tempted	Left, Right, Up, Down	 Up
+
+Explan
+tempted	Left, Right, Down, Up	 Right
+
+A:
+tempted	Right, Up, Down, Left	 The concept of "left
+tempted	Right, Up, Left, Down	 The concept of "down
+tempted	Right, Down, Up, Left	 Up
+
+Explan
+tempted	Right, Down, Left, Up	 Up
+
+Explan
+tempted	Right, Left, Up, Down	 Up
+
+Explan
+tempted	Right, Left, Down, Up	 Up
+
+Explan
+wanted	Up, Down, Left, Right	 B: The concept of
+wanted	Up, Down, Right, Left	 Up
+
+Explan
+wanted	Up, Left, Down, Right	 Up
+
+Explan
+wanted	Up, Left, Right, Down	 Up
+
+Explan
+wanted	Up, Right, Down, Left	 Up
+
+Explan
+wanted	Up, Right, Left, Down	 Up
+
+Explan
+wanted	Down, Up, Left, Right	 B: Down
+
+
+wanted	Down, Up, Right, Left	 B: Right
+
+
+wanted	Down, Left, Up, Right	 B: Up.
+
+wanted	Down, Left, Right, Up	 The concept of "Up
+wanted	Down, Right, Up, Left	 The concept "Up"
+wanted	Down, Right, Left, Up	 The concept "Up"
+wanted	Left, Up, Down, Right	 The concept "Up"
+wanted	Left, Up, Right, Down	 The concept "Up"
+wanted	Left, Down, Up, Right	 The concept "Down"
+wanted	Left, Down, Right, Up	 The concept "Down"
+wanted	Left, Right, Up, Down	 Left
+
+A:
+wanted	Left, Right, Down, Up	 The concept of "Down
+wanted	Right, Up, Down, Left	 The concept of "Up
+wanted	Right, Up, Left, Down	 The concept "Down"
+wanted	Right, Down, Up, Left	 The concept "Up"
+wanted	Right, Down, Left, Up	 The concept of "Up
+wanted	Right, Left, Up, Down	 Right
+
+A:
+wanted	Right, Left, Down, Up	 The concept "Down"
+hoped	Up, Down, Left, Right	 B. Right.
+
+hoped	Up, Down, Right, Left	 Right
+
+Explan
+hoped	Up, Left, Down, Right	 B. Down.
+
+hoped	Up, Left, Right, Down	 Right
+
+Explan
+hoped	Up, Right, Down, Left	 B. Down.
+
+hoped	Up, Right, Left, Down	 B. Down.
+
+hoped	Down, Up, Left, Right	 B. Right.
+
+hoped	Down, Up, Right, Left	 B. Up. Ex
+hoped	Down, Left, Up, Right	 B: Right
+
+
+hoped	Down, Left, Right, Up	 Right
+
+Explan
+hoped	Down, Right, Up, Left	 B: Up. Ex
+hoped	Down, Right, Left, Up	 The concept "Up"
+hoped	Left, Up, Down, Right	 Right
+
+Explan
+hoped	Left, Up, Right, Down	 B. Down.
+
+hoped	Left, Down, Up, Right	 B: Up. Ex
+hoped	Left, Down, Right, Up	 B: Right
+
+
+hoped	Left, Right, Up, Down	 Up.
+
+Ex
+hoped	Left, Right, Down, Up	 The concept "Up"
+hoped	Right, Up, Down, Left	 B. Down.
+
+hoped	Right, Up, Left, Down	 B: Down. Ex
+hoped	Right, Down, Up, Left	 B: Up. Ex
+hoped	Right, Down, Left, Up	 B: Up. Ex
+hoped	Right, Left, Up, Down	 B. Down.
+
+hoped	Right, Left, Down, Up	 B. Up. Ex
+increased	Up, Down, Left, Right	 Up
+
+Explan
+increased	Up, Down, Right, Left	 Up
+
+Explan
+increased	Up, Left, Down, Right	 Up
+
+Explan
+increased	Up, Left, Right, Down	 Right
+
+A:
+increased	Up, Right, Down, Left	 Up
+
+Explan
+increased	Up, Right, Left, Down	 Up
+
+Explan
+increased	Down, Up, Left, Right	 Up
+
+Explan
+increased	Down, Up, Right, Left	 Up
+
+Explan
+increased	Down, Left, Up, Right	 Up
+
+Explan
+increased	Down, Left, Right, Up	 Right
+
+A:
+increased	Down, Right, Up, Left	 Up
+
+Explan
+increased	Down, Right, Left, Up	 Up
+
+Explan
+increased	Left, Up, Down, Right	 Right
+
+A:
+increased	Left, Up, Right, Down	 Down
+
+Explan
+increased	Left, Down, Up, Right	 Up
+
+Explan
+increased	Left, Down, Right, Up	 Up
+
+Explan
+increased	Left, Right, Up, Down	 Right
+
+A:
+increased	Left, Right, Down, Up	 Right
+
+A:
+increased	Right, Up, Down, Left	 Up
+
+Explan
+increased	Right, Up, Left, Down	 Up
+
+Explan
+increased	Right, Down, Up, Left	 Up
+
+Explan
+increased	Right, Down, Left, Up	 Up
+
+Explan
+increased	Right, Left, Up, Down	 Up
+
+Explan
+increased	Right, Left, Down, Up	 Right
+
+A:
+obeyed	Up, Down, Left, Right	 Up
+
+Explan
+obeyed	Up, Down, Right, Left	 Right
+
+Explan
+obeyed	Up, Left, Down, Right	 Right
+
+Explan
+obeyed	Up, Left, Right, Down	 Right
+
+Explan
+obeyed	Up, Right, Down, Left	 Up
+
+Explan
+obeyed	Up, Right, Left, Down	 Up
+
+Explan
+obeyed	Down, Up, Left, Right	 Up
+
+Explan
+obeyed	Down, Up, Right, Left	 Up
+
+Explan
+obeyed	Down, Left, Up, Right	 Up
+
+Explan
+obeyed	Down, Left, Right, Up	 Right
+
+A:
+obeyed	Down, Right, Up, Left	 Up
+
+Explan
+obeyed	Down, Right, Left, Up	 Right
+
+A:
+obeyed	Left, Up, Down, Right	 Right
+
+A:
+obeyed	Left, Up, Right, Down	 Down
+
+Explan
+obeyed	Left, Down, Up, Right	 Up
+
+Explan
+obeyed	Left, Down, Right, Up	 Right
+
+A:
+obeyed	Left, Right, Up, Down	 Right
+
+A:
+obeyed	Left, Right, Down, Up	 Right
+
+A:
+obeyed	Right, Up, Down, Left	 Right
+
+A:
+obeyed	Right, Up, Left, Down	 Up
+
+Explan
+obeyed	Right, Down, Up, Left	 Up.
+
+Ex
+obeyed	Right, Down, Left, Up	 Up
+
+Explan
+obeyed	Right, Left, Up, Down	 Up
+
+Explan
+obeyed	Right, Left, Down, Up	 Right
+
+A:
+respected	Up, Down, Left, Right	 Right
+
+Explan
+respected	Up, Down, Right, Left	 Right
+
+Explan
+respected	Up, Left, Down, Right	 Right
+
+Explan
+respected	Up, Left, Right, Down	 Right
+
+Explan
+respected	Up, Right, Down, Left	 Right
+
+Explan
+respected	Up, Right, Left, Down	 Right
+
+Explan
+respected	Down, Up, Left, Right	 Up
+
+Explan
+respected	Down, Up, Right, Left	 Up
+
+Explan
+respected	Down, Left, Up, Right	 Up.
+
+Ex
+respected	Down, Left, Right, Up	 Right
+
+Explan
+respected	Down, Right, Up, Left	 Up.
+
+Ex
+respected	Down, Right, Left, Up	 Right
+
+Explan
+respected	Left, Up, Down, Right	 Right
+
+Explan
+respected	Left, Up, Right, Down	 Right
+
+Explan
+respected	Left, Down, Up, Right	 Right
+
+Explan
+respected	Left, Down, Right, Up	 Right
+
+Explan
+respected	Left, Right, Up, Down	 Right
+
+A:
+respected	Left, Right, Down, Up	 Right
+
+A:
+respected	Right, Up, Down, Left	 Up.
+
+Ex
+respected	Right, Up, Left, Down	 Up.
+
+Ex
+respected	Right, Down, Up, Left	 Up.
+
+Ex
+respected	Right, Down, Left, Up	 Up.
+
+Ex
+respected	Right, Left, Up, Down	 Up.
+
+Ex
+respected	Right, Left, Down, Up	 Right
+
+A:
+succeeded	Up, Down, Left, Right	 Up
+
+A:
+succeeded	Up, Down, Right, Left	 Up
+
+A:
+succeeded	Up, Left, Down, Right	 Up
+
+Explan
+succeeded	Up, Left, Right, Down	 Up
+
+Explan
+succeeded	Up, Right, Down, Left	 Up
+
+Explan
+succeeded	Up, Right, Left, Down	 Up
+
+Explan
+succeeded	Down, Up, Left, Right	 Up
+
+Explan
+succeeded	Down, Up, Right, Left	 Up
+
+Explan
+succeeded	Down, Left, Up, Right	 B: Up
+
+
+succeeded	Down, Left, Right, Up	 Up.
+
+Ex
+succeeded	Down, Right, Up, Left	 B: Up
+
+
+succeeded	Down, Right, Left, Up	 Right
+
+A:
+succeeded	Left, Up, Down, Right	 Right
+
+A:
+succeeded	Left, Up, Right, Down	 Up
+
+Explan
+succeeded	Left, Down, Up, Right	 Up
+
+Explan
+succeeded	Left, Down, Right, Up	 Up
+
+Explan
+succeeded	Left, Right, Up, Down	 Up
+
+A:
+succeeded	Left, Right, Down, Up	 Left
+
+A:
+succeeded	Right, Up, Down, Left	 Right
+
+A:
+succeeded	Right, Up, Left, Down	 B: Down.
+
+succeeded	Right, Down, Up, Left	 Up.
+
+Ex
+succeeded	Right, Down, Left, Up	 Up.
+
+Ex
+succeeded	Right, Left, Up, Down	 Up
+
+A:
+succeeded	Right, Left, Down, Up	 Right
+
+A:
