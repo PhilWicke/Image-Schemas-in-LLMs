@@ -6,8 +6,11 @@ import random
 from tqdm import tqdm
 
 
-def logprobs_from_prompt(prompt, tokenizer, model):
-  encoded = tokenizer(prompt, return_tensors="pt")
+def logprobs_from_prompt(prompt, tokenizer, model, gpu_id=False):
+  if gpu_id:
+    encoded = tokenizer(prompt, return_tensors="pt").to(torch.device("cuda:"+str(gpu_id)))
+  else:
+    encoded = tokenizer(prompt, return_tensors="pt") 
   input_ids = encoded["input_ids"]
   output = model(input_ids=input_ids)
   shift_labels = input_ids[..., 1:].contiguous()
