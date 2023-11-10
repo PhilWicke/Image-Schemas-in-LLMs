@@ -1,0 +1,948 @@
+fled	↑, ↓, ←, →	↑, ↓,
+fled	↑, ↓, →, ←	↑, ↓,
+fled	↑, ←, ↓, →	↑, ←,
+fled	↑, ←, →, ↓	↑ means that the event
+fled	↑, →, ↓, ←	↑, →, 
+fled	↑, →, ←, ↓	↑ means that the event
+fled	↓, ↑, ←, →	↓, ↑,
+fled	↓, ↑, →, ←	↓, ↑,
+fled	↓, ←, ↑, →	↓, ←,
+fled	↓, ←, →, ↑	↓, ←,
+fled	↓, →, ↑, ←	↓, →, 
+fled	↓, →, ←, ↑	↓, →, 
+fled	←, ↑, ↓, →	←, ↑,
+fled	←, ↑, →, ↓	←, ↑,
+fled	←, ↓, ↑, →	←, ↓,
+fled	←, ↓, →, ↑	←, ↓,
+fled	←, →, ↑, ↓	←, →, 
+fled	←, →, ↓, ↑	←, →, 
+fled	→, ↑, ↓, ←	↑
+Given the
+fled	→, ↑, ←, ↓	↑
+Given the
+fled	→, ↓, ↑, ←	↑
+Given the
+fled	→, ↓, ←, ↑	↑
+Given the
+fled	→, ←, ↑, ↓	↑
+Given the
+fled	→, ←, ↓, ↑	↑
+Given the
+pointed at	↑, ↓, ←, →	↑, ↓,
+pointed at	↑, ↓, →, ←	↑, ↓,
+pointed at	↑, ←, ↓, →	↑, ←,
+pointed at	↑, ←, →, ↓	↑, ←,
+pointed at	↑, →, ↓, ←	↑, →, 
+pointed at	↑, →, ←, ↓	↑, →, 
+pointed at	↓, ↑, ←, →	↓, ↑,
+pointed at	↓, ↑, →, ←	↓, ↑,
+pointed at	↓, ←, ↑, →	↓, ←,
+pointed at	↓, ←, →, ↑	↓, ←,
+pointed at	↓, →, ↑, ←	↓
+Given the
+pointed at	↓, →, ←, ↑	↓, →, 
+pointed at	←, ↑, ↓, →	↑
+Given the
+pointed at	←, ↑, →, ↓	↑
+Given the
+pointed at	←, ↓, ↑, →	←, ↓,
+pointed at	←, ↓, →, ↑	←, ↓,
+pointed at	←, →, ↑, ↓	←, →, 
+pointed at	←, →, ↓, ↑	←, →, 
+pointed at	→, ↑, ↓, ←	↑
+Given the
+pointed at	→, ↑, ←, ↓	↑
+Given the
+pointed at	→, ↓, ↑, ←	↑
+Given the
+pointed at	→, ↓, ←, ↑	↑
+Given the
+pointed at	→, ←, ↑, ↓	↑
+Given the
+pointed at	→, ←, ↓, ↑	↑
+Given the
+pulled	↑, ↓, ←, →	↑, ↓,
+pulled	↑, ↓, →, ←	↑, ↓,
+pulled	↑, ←, ↓, →	↑, ←,
+pulled	↑, ←, →, ↓	↑, ←,
+pulled	↑, →, ↓, ←	↑, →, 
+pulled	↑, →, ←, ↓	↑, →, 
+pulled	↓, ↑, ←, →	↓, ↑,
+pulled	↓, ↑, →, ←	↓, ↑,
+pulled	↓, ←, ↑, →	↓, ←,
+pulled	↓, ←, →, ↑	↓, ←,
+pulled	↓, →, ↑, ←	↓
+Given the
+pulled	↓, →, ←, ↑	↓, →, 
+pulled	←, ↑, ↓, →	←, ↑,
+pulled	←, ↑, →, ↓	←, ↑,
+pulled	←, ↓, ↑, →	←, ↓,
+pulled	←, ↓, →, ↑	←, ↓,
+pulled	←, →, ↑, ↓	←, →, 
+pulled	←, →, ↓, ↑	←, →, 
+pulled	→, ↑, ↓, ←	↑
+Given the
+pulled	→, ↑, ←, ↓	↑
+Given the
+pulled	→, ↓, ↑, ←	↓
+Given the
+pulled	→, ↓, ←, ↑	↑
+Given the
+pulled	→, ←, ↑, ↓	↑
+Given the
+pulled	→, ←, ↓, ↑	↑
+Given the
+pushed	↑, ↓, ←, →	↑, ↓,
+pushed	↑, ↓, →, ←	↑, ↓,
+pushed	↑, ←, ↓, →	↑, ←,
+pushed	↑, ←, →, ↓	↑, ←,
+pushed	↑, →, ↓, ←	↑, →, 
+pushed	↑, →, ←, ↓	↑, →, 
+pushed	↓, ↑, ←, →	↓, ↑,
+pushed	↓, ↑, →, ←	↓, ↑,
+pushed	↓, ←, ↑, →	↓, ←,
+pushed	↓, ←, →, ↑	↓, ←,
+pushed	↓, →, ↑, ←	↓
+Given the
+pushed	↓, →, ←, ↑	↓, →, 
+pushed	←, ↑, ↓, →	←, ↑,
+pushed	←, ↑, →, ↓	←, ↑,
+pushed	←, ↓, ↑, →	←, ↓,
+pushed	←, ↓, →, ↑	←, ↓,
+pushed	←, →, ↑, ↓	←, →, 
+pushed	←, →, ↓, ↑	←, →, 
+pushed	→, ↑, ↓, ←	↑
+Given the
+pushed	→, ↑, ←, ↓	↑
+Given the
+pushed	→, ↓, ↑, ←	↓
+Given the
+pushed	→, ↓, ←, ↑	↓
+Given the
+pushed	→, ←, ↑, ↓	↑
+Given the
+pushed	→, ←, ↓, ↑	↑
+Given the
+walked	↑, ↓, ←, →	↑, ↓,
+walked	↑, ↓, →, ←	↑ means 'walked
+walked	↑, ←, ↓, →	↑ means 'walked
+walked	↑, ←, →, ↓	↑ means 'walked
+walked	↑, →, ↓, ←	↑ means that the event
+walked	↑, →, ←, ↓	↑ means 'walked
+walked	↓, ↑, ←, →	↓, ↑,
+walked	↓, ↑, →, ←	↓ means 'walked
+walked	↓, ←, ↑, →	↓, ←,
+walked	↓, ←, →, ↑	↓, ←,
+walked	↓, →, ↑, ←	↓ means that the event
+walked	↓, →, ←, ↑	↓ means the event is
+walked	←, ↑, ↓, →	←, ↑,
+walked	←, ↑, →, ↓	←, ↑,
+walked	←, ↓, ↑, →	←, ↓,
+walked	←, ↓, →, ↑	←, ↓,
+walked	←, →, ↑, ↓	←, →, 
+walked	←, →, ↓, ↑	←, →, 
+walked	→, ↑, ↓, ←	↑
+Given the
+walked	→, ↑, ←, ↓	↑
+Given the
+walked	→, ↓, ↑, ←	↑
+Given the
+walked	→, ↓, ←, ↑	↑
+Given the
+walked	→, ←, ↑, ↓	↑
+Given the
+walked	→, ←, ↓, ↑	↑
+Given the
+hunted	↑, ↓, ←, →	↑ means 'incre
+hunted	↑, ↓, →, ←	↑ means 'incre
+hunted	↑, ←, ↓, →	↑ means that the event
+hunted	↑, ←, →, ↓	↑ means that the event
+hunted	↑, →, ↓, ←	↑ means that the event
+hunted	↑, →, ←, ↓	↑ means that the event
+hunted	↓, ↑, ←, →	↓ means 'hunted
+hunted	↓, ↑, →, ←	↓ means 'hunted
+hunted	↓, ←, ↑, →	↓ means 'hunted
+hunted	↓, ←, →, ↑	↓ means 'hunted
+hunted	↓, →, ↑, ←	↓ means that the event
+hunted	↓, →, ←, ↑	↓ means that the event
+hunted	←, ↑, ↓, →	←, ↑,
+hunted	←, ↑, →, ↓	↑
+Given the
+hunted	←, ↓, ↑, →	←, ↓,
+hunted	←, ↓, →, ↑	←, ↓,
+hunted	←, →, ↑, ↓	←, →, 
+hunted	←, →, ↓, ↑	←, →, 
+hunted	→, ↑, ↓, ←	↑
+Given the
+hunted	→, ↑, ←, ↓	↑
+Given the
+hunted	→, ↓, ↑, ←	↑
+Given the
+hunted	→, ↓, ←, ↑	↑
+Given the
+hunted	→, ←, ↑, ↓	↑
+Given the
+hunted	→, ←, ↓, ↑	↑
+Given the
+impacted	↑, ↓, ←, →	↑, ↓,
+impacted	↑, ↓, →, ←	↑, ↓,
+impacted	↑, ←, ↓, →	↑, ←,
+impacted	↑, ←, →, ↓	↑ means that the event
+impacted	↑, →, ↓, ←	↑, →, 
+impacted	↑, →, ←, ↓	↑, →, 
+impacted	↓, ↑, ←, →	↓, ↑,
+impacted	↓, ↑, →, ←	↓, ↑,
+impacted	↓, ←, ↑, →	↓, ←,
+impacted	↓, ←, →, ↑	↓, ←,
+impacted	↓, →, ↑, ←	↓, →, 
+impacted	↓, →, ←, ↑	↓, →, 
+impacted	←, ↑, ↓, →	←, ↑,
+impacted	←, ↑, →, ↓	↑
+Given the
+impacted	←, ↓, ↑, →	←, ↓,
+impacted	←, ↓, →, ↑	←, ↓,
+impacted	←, →, ↑, ↓	←, →, 
+impacted	←, →, ↓, ↑	←, →, 
+impacted	→, ↑, ↓, ←	↑
+Given the
+impacted	→, ↑, ←, ↓	↑
+Given the
+impacted	→, ↓, ↑, ←	↓
+Given the
+impacted	→, ↓, ←, ↑	↓
+Given the
+impacted	→, ←, ↑, ↓	↑
+Given the
+impacted	→, ←, ↓, ↑	↑
+Given the
+perched	↑, ↓, ←, →	↑, ↓,
+perched	↑, ↓, →, ←	↑, ↓,
+perched	↑, ←, ↓, →	↑, ←,
+perched	↑, ←, →, ↓	↑ means 'up',
+perched	↑, →, ↓, ←	↑ means 'up',
+perched	↑, →, ←, ↓	↑ means 'up',
+perched	↓, ↑, ←, →	↓, ↑,
+perched	↓, ↑, →, ←	↓ means 'goes
+perched	↓, ←, ↑, →	↓, ←,
+perched	↓, ←, →, ↑	↓
+Given the
+perched	↓, →, ↑, ←	↓
+Given the
+perched	↓, →, ←, ↑	↓ means 'perched
+perched	←, ↑, ↓, →	↑
+Given the
+perched	←, ↑, →, ↓	↑
+Given the
+perched	←, ↓, ↑, →	←, ↓,
+perched	←, ↓, →, ↑	←, ↓,
+perched	←, →, ↑, ↓	←, →, 
+perched	←, →, ↓, ↑	←, →, 
+perched	→, ↑, ↓, ←	↑
+Given the
+perched	→, ↑, ←, ↓	↑
+Given the
+perched	→, ↓, ↑, ←	↑
+Given the
+perched	→, ↓, ←, ↑	↑
+Given the
+perched	→, ←, ↑, ↓	↑
+Given the
+perched	→, ←, ↓, ↑	↑
+Given the
+showed	↑, ↓, ←, →	↑, ↓,
+showed	↑, ↓, →, ←	↑, ↓,
+showed	↑, ←, ↓, →	↑, ←,
+showed	↑, ←, →, ↓	↑ means 'goes
+showed	↑, →, ↓, ←	↑, →, 
+showed	↑, →, ←, ↓	↑, →, 
+showed	↓, ↑, ←, →	↓, ↑,
+showed	↓, ↑, →, ←	↓, ↑,
+showed	↓, ←, ↑, →	↓, ←,
+showed	↓, ←, →, ↑	↓
+Given the
+showed	↓, →, ↑, ←	↓
+Given the
+showed	↓, →, ←, ↑	↓
+Given the
+showed	←, ↑, ↓, →	←, ↑,
+showed	←, ↑, →, ↓	↑
+Given the
+showed	←, ↓, ↑, →	←, ↓,
+showed	←, ↓, →, ↑	←, ↓,
+showed	←, →, ↑, ↓	←, →, 
+showed	←, →, ↓, ↑	←
+Given the
+showed	→, ↑, ↓, ←	↑
+Given the
+showed	→, ↑, ←, ↓	↑
+Given the
+showed	→, ↓, ↑, ←	↓
+Given the
+showed	→, ↓, ←, ↑	↑
+Given the
+showed	→, ←, ↑, ↓	↑
+Given the
+showed	→, ←, ↓, ↑	↑
+Given the
+smashed	↑, ↓, ←, →	↑, ↓,
+smashed	↑, ↓, →, ←	↑, ↓,
+smashed	↑, ←, ↓, →	↑, ←,
+smashed	↑, ←, →, ↓	↑ means that the event
+smashed	↑, →, ↓, ←	↑ means that the event
+smashed	↑, →, ←, ↓	↑ means that the event
+smashed	↓, ↑, ←, →	↓, ↑,
+smashed	↓, ↑, →, ←	↓, ↑,
+smashed	↓, ←, ↑, →	↓, ←,
+smashed	↓, ←, →, ↑	↓, ←,
+smashed	↓, →, ↑, ←	↓, →, 
+smashed	↓, →, ←, ↑	↓, →, 
+smashed	←, ↑, ↓, →	←, ↑,
+smashed	←, ↑, →, ↓	←, ↑,
+smashed	←, ↓, ↑, →	←, ↓,
+smashed	←, ↓, →, ↑	←, ↓,
+smashed	←, →, ↑, ↓	←, →, 
+smashed	←, →, ↓, ↑	←, →, 
+smashed	→, ↑, ↓, ←	↑
+Given the
+smashed	→, ↑, ←, ↓	↑
+Given the
+smashed	→, ↓, ↑, ←	↑
+Given the
+smashed	→, ↓, ←, ↑	↑
+Given the
+smashed	→, ←, ↑, ↓	↑
+Given the
+smashed	→, ←, ↓, ↑	↑
+Given the
+bombed	↑, ↓, ←, →	↑, ↓,
+bombed	↑, ↓, →, ←	↑, ↓,
+bombed	↑, ←, ↓, →	↑, ←,
+bombed	↑, ←, →, ↓	↑ means that the event
+bombed	↑, →, ↓, ←	↑, →, 
+bombed	↑, →, ←, ↓	↑, →, 
+bombed	↓, ↑, ←, →	↓, ↑,
+bombed	↓, ↑, →, ←	↓
+Given the
+bombed	↓, ←, ↑, →	↓, ←,
+bombed	↓, ←, →, ↑	↓
+Given the
+bombed	↓, →, ↑, ←	↓
+Given the
+bombed	↓, →, ←, ↑	↓, →, 
+bombed	←, ↑, ↓, →	←, ↑,
+bombed	←, ↑, →, ↓	↑
+Given the
+bombed	←, ↓, ↑, →	←, ↓,
+bombed	←, ↓, →, ↑	←, ↓,
+bombed	←, →, ↑, ↓	←
+Given the
+bombed	←, →, ↓, ↑	←
+Given the
+bombed	→, ↑, ↓, ←	↑
+Given the
+bombed	→, ↑, ←, ↓	↑
+Given the
+bombed	→, ↓, ↑, ←	↑
+Given the
+bombed	→, ↓, ←, ↑	↑
+Given the
+bombed	→, ←, ↑, ↓	↑
+Given the
+bombed	→, ←, ↓, ↑	↑
+Given the
+flew	↑, ↓, ←, →	↑, ↓,
+flew	↑, ↓, →, ←	↑, ↓,
+flew	↑, ←, ↓, →	↑, ←,
+flew	↑, ←, →, ↓	↑, ←,
+flew	↑, →, ↓, ←	↑, →, 
+flew	↑, →, ←, ↓	↑, →, 
+flew	↓, ↑, ←, →	↓, ↑,
+flew	↓, ↑, →, ←	↓, ↑,
+flew	↓, ←, ↑, →	↓, ←,
+flew	↓, ←, →, ↑	↓
+Given the
+flew	↓, →, ↑, ←	↓
+Given the
+flew	↓, →, ←, ↑	↓, →, 
+flew	←, ↑, ↓, →	←
+Given the
+flew	←, ↑, →, ↓	↑
+Given the
+flew	←, ↓, ↑, →	←, ↓,
+flew	←, ↓, →, ↑	←, ↓,
+flew	←, →, ↑, ↓	←, →, 
+flew	←, →, ↓, ↑	←, →, 
+flew	→, ↑, ↓, ←	↑
+Given the
+flew	→, ↑, ←, ↓	↑
+Given the
+flew	→, ↓, ↑, ←	↑
+Given the
+flew	→, ↓, ←, ↑	↑
+Given the
+flew	→, ←, ↑, ↓	↑
+Given the
+flew	→, ←, ↓, ↑	↑
+Given the
+floated	↑, ↓, ←, →	↑, ↓,
+floated	↑, ↓, →, ←	↑, ↓,
+floated	↑, ←, ↓, →	↑, ←,
+floated	↑, ←, →, ↓	↑, ←,
+floated	↑, →, ↓, ←	↑, →, 
+floated	↑, →, ←, ↓	↑, →, 
+floated	↓, ↑, ←, →	↓, ↑,
+floated	↓, ↑, →, ←	↓, ↑,
+floated	↓, ←, ↑, →	↓, ←,
+floated	↓, ←, →, ↑	↓, ←,
+floated	↓, →, ↑, ←	↓ means the event is
+floated	↓, →, ←, ↑	↓, →, 
+floated	←, ↑, ↓, →	←, ↑,
+floated	←, ↑, →, ↓	↑
+Given the
+floated	←, ↓, ↑, →	←, ↓,
+floated	←, ↓, →, ↑	←, ↓,
+floated	←, →, ↑, ↓	←, →, 
+floated	←, →, ↓, ↑	←, →, 
+floated	→, ↑, ↓, ←	↑
+Given the
+floated	→, ↑, ←, ↓	↑
+Given the
+floated	→, ↓, ↑, ←	↓
+Given the
+floated	→, ↓, ←, ↑	↑
+Given the
+floated	→, ←, ↑, ↓	↑
+Given the
+floated	→, ←, ↓, ↑	↑
+Given the
+lifted	↑, ↓, ←, →	↑, ↓,
+lifted	↑, ↓, →, ←	↑, ↓,
+lifted	↑, ←, ↓, →	↑, ←,
+lifted	↑, ←, →, ↓	↑, ←,
+lifted	↑, →, ↓, ←	↑, →, 
+lifted	↑, →, ←, ↓	↑, →, 
+lifted	↓, ↑, ←, →	↓, ↑,
+lifted	↓, ↑, →, ←	↓, ↑,
+lifted	↓, ←, ↑, →	↓, ←,
+lifted	↓, ←, →, ↑	↓, ←,
+lifted	↓, →, ↑, ←	↓, →, 
+lifted	↓, →, ←, ↑	↓, →, 
+lifted	←, ↑, ↓, →	↑
+Given the
+lifted	←, ↑, →, ↓	↑
+Given the
+lifted	←, ↓, ↑, →	←, ↓,
+lifted	←, ↓, →, ↑	←, ↓,
+lifted	←, →, ↑, ↓	←, →, 
+lifted	←, →, ↓, ↑	←, →, 
+lifted	→, ↑, ↓, ←	↑
+Given the
+lifted	→, ↑, ←, ↓	↑
+Given the
+lifted	→, ↓, ↑, ←	↑
+Given the
+lifted	→, ↓, ←, ↑	↑
+Given the
+lifted	→, ←, ↑, ↓	↑
+Given the
+lifted	→, ←, ↓, ↑	↑
+Given the
+sank	↑, ↓, ←, →	↑, ↓,
+sank	↑, ↓, →, ←	↑, ↓,
+sank	↑, ←, ↓, →	↑ means that the event
+sank	↑, ←, →, ↓	↑ means that the event
+sank	↑, →, ↓, ←	↑ means that the event
+sank	↑, →, ←, ↓	↑ means that the event
+sank	↓, ↑, ←, →	↓, ↑,
+sank	↓, ↑, →, ←	↓
+Given the
+sank	↓, ←, ↑, →	↓, ←,
+sank	↓, ←, →, ↑	↓
+Given the
+sank	↓, →, ↑, ←	↓
+Given the
+sank	↓, →, ←, ↑	↓
+Given the
+sank	←, ↑, ↓, →	←, ↑,
+sank	←, ↑, →, ↓	←, ↑,
+sank	←, ↓, ↑, →	←, ↓,
+sank	←, ↓, →, ↑	←, ↓,
+sank	←, →, ↑, ↓	←, →, 
+sank	←, →, ↓, ↑	←, →, 
+sank	→, ↑, ↓, ←	↑
+Given the
+sank	→, ↑, ←, ↓	↑
+Given the
+sank	→, ↓, ↑, ←	↓
+Given the
+sank	→, ↓, ←, ↑	↓
+Given the
+sank	→, ←, ↑, ↓	↑
+Given the
+sank	→, ←, ↓, ↑	↑
+Given the
+argued with	↑, ↓, ←, →	↑ means that the event
+argued with	↑, ↓, →, ←	↑ means that the event
+argued with	↑, ←, ↓, →	↑ means that the event
+argued with	↑, ←, →, ↓	↑ means that the event
+argued with	↑, →, ↓, ←	↑ means that the event
+argued with	↑, →, ←, ↓	↑ means that the event
+argued with	↓, ↑, ←, →	↓ means that the event
+argued with	↓, ↑, →, ←	↓ means that the event
+argued with	↓, ←, ↑, →	↓ means that the event
+argued with	↓, ←, →, ↑	↓ means that the event
+argued with	↓, →, ↑, ←	↓ means that the event
+argued with	↓, →, ←, ↑	↓ means that the event
+argued with	←, ↑, ↓, →	←, ↑,
+argued with	←, ↑, →, ↓	←, ↑,
+argued with	←, ↓, ↑, →	←, ↓,
+argued with	←, ↓, →, ↑	←, ↓,
+argued with	←, →, ↑, ↓	←, →, 
+argued with	←, →, ↓, ↑	←, →, 
+argued with	→, ↑, ↓, ←	↑
+Given the
+argued with	→, ↑, ←, ↓	↑ means that the event
+argued with	→, ↓, ↑, ←	↑
+Given the
+argued with	→, ↓, ←, ↑	↑
+Given the
+argued with	→, ←, ↑, ↓	↑
+Given the
+argued with	→, ←, ↓, ↑	↑
+Given the
+gave to	↑, ↓, ←, →	↑ means 'incre
+gave to	↑, ↓, →, ←	↑ means 'incre
+gave to	↑, ←, ↓, →	↑ means that the event
+gave to	↑, ←, →, ↓	↑ means that the event
+gave to	↑, →, ↓, ←	↑ means that the event
+gave to	↑, →, ←, ↓	↑ means that the event
+gave to	↓, ↑, ←, →	↓ means 'gave
+gave to	↓, ↑, →, ←	↓ means 'gave
+gave to	↓, ←, ↑, →	↓ means 'gave
+gave to	↓, ←, →, ↑	↓ means 'gave
+gave to	↓, →, ↑, ←	↓ means 'gave
+gave to	↓, →, ←, ↑	↓ means 'gave
+gave to	←, ↑, ↓, →	←, ↑,
+gave to	←, ↑, →, ↓	↑
+Given the
+gave to	←, ↓, ↑, →	←, ↓,
+gave to	←, ↓, →, ↑	←, ↓,
+gave to	←, →, ↑, ↓	←, →, 
+gave to	←, →, ↓, ↑	←, →, 
+gave to	→, ↑, ↓, ←	↑
+Given the
+gave to	→, ↑, ←, ↓	↑
+Given the
+gave to	→, ↓, ↑, ←	↑
+Given the
+gave to	→, ↓, ←, ↑	↑
+Given the
+gave to	→, ←, ↑, ↓	↑
+Given the
+gave to	→, ←, ↓, ↑	↑
+Given the
+offended	↑, ↓, ←, →	↑, ↓,
+offended	↑, ↓, →, ←	↑, ↓,
+offended	↑, ←, ↓, →	↑, ←,
+offended	↑, ←, →, ↓	↑ means 'incre
+offended	↑, →, ↓, ←	↑ means 'incre
+offended	↑, →, ←, ↓	↑ means 'incre
+offended	↓, ↑, ←, →	↓, ↑,
+offended	↓, ↑, →, ←	↓
+Given the
+offended	↓, ←, ↑, →	↓, ←,
+offended	↓, ←, →, ↑	↓
+Given the
+offended	↓, →, ↑, ←	↓
+Given the
+offended	↓, →, ←, ↑	↓, →, 
+offended	←, ↑, ↓, →	←, ↑,
+offended	←, ↑, →, ↓	↑
+Given the
+offended	←, ↓, ↑, →	←, ↓,
+offended	←, ↓, →, ↑	←, ↓,
+offended	←, →, ↑, ↓	←, →, 
+offended	←, →, ↓, ↑	←, →, 
+offended	→, ↑, ↓, ←	↑
+Given the
+offended	→, ↑, ←, ↓	↑
+Given the
+offended	→, ↓, ↑, ←	↑
+Given the
+offended	→, ↓, ←, ↑	↑
+Given the
+offended	→, ←, ↑, ↓	↑
+Given the
+offended	→, ←, ↓, ↑	↑
+Given the
+rushed	↑, ↓, ←, →	↑, ↓,
+rushed	↑, ↓, →, ←	↑, ↓,
+rushed	↑, ←, ↓, →	↑ means 'incre
+rushed	↑, ←, →, ↓	↑ means 'incre
+rushed	↑, →, ↓, ←	↑ means 'up',
+rushed	↑, →, ←, ↓	↑ means 'up',
+rushed	↓, ↑, ←, →	↓, ↑,
+rushed	↓, ↑, →, ←	↓ means 'rushed
+rushed	↓, ←, ↑, →	↓, ←,
+rushed	↓, ←, →, ↑	↓, ←,
+rushed	↓, →, ↑, ←	↓ means 'rushed
+rushed	↓, →, ←, ↑	↓ means 'rushed
+rushed	←, ↑, ↓, →	←, ↑,
+rushed	←, ↑, →, ↓	←, ↑,
+rushed	←, ↓, ↑, →	←, ↓,
+rushed	←, ↓, →, ↑	←, ↓,
+rushed	←, →, ↑, ↓	←, →, 
+rushed	←, →, ↓, ↑	←, →, 
+rushed	→, ↑, ↓, ←	↑
+Given the
+rushed	→, ↑, ←, ↓	↑
+Given the
+rushed	→, ↓, ↑, ←	↑
+Given the
+rushed	→, ↓, ←, ↑	↑
+Given the
+rushed	→, ←, ↑, ↓	↑
+Given the
+rushed	→, ←, ↓, ↑	↑
+Given the
+warned	↑, ↓, ←, →	↑, ↓,
+warned	↑, ↓, →, ←	↑ means that the event
+warned	↑, ←, ↓, →	↑ means that the event
+warned	↑, ←, →, ↓	↑ means that the event
+warned	↑, →, ↓, ←	↑ means that the event
+warned	↑, →, ←, ↓	↑ means that the event
+warned	↓, ↑, ←, →	↓ means that the event
+warned	↓, ↑, →, ←	↓ means that the event
+warned	↓, ←, ↑, →	↓ means that the event
+warned	↓, ←, →, ↑	↓ means that the event
+warned	↓, →, ↑, ←	↓ means that the event
+warned	↓, →, ←, ↑	↓ means that the event
+warned	←, ↑, ↓, →	←, ↑,
+warned	←, ↑, →, ↓	←, ↑,
+warned	←, ↓, ↑, →	←, ↓,
+warned	←, ↓, →, ↑	←, ↓,
+warned	←, →, ↑, ↓	←, →, 
+warned	←, →, ↓, ↑	←, →, 
+warned	→, ↑, ↓, ←	↑
+Given the
+warned	→, ↑, ←, ↓	↑
+Given the
+warned	→, ↓, ↑, ←	↓
+Given the
+warned	→, ↓, ←, ↑	↓
+Given the
+warned	→, ←, ↑, ↓	↑
+Given the
+warned	→, ←, ↓, ↑	↑
+Given the
+owned	↑, ↓, ←, →	↑, ↓,
+owned	↑, ↓, →, ←	↑, ↓,
+owned	↑, ←, ↓, →	↑, ←,
+owned	↑, ←, →, ↓	↑ means that the event
+owned	↑, →, ↓, ←	↑, →, 
+owned	↑, →, ←, ↓	↑, →, 
+owned	↓, ↑, ←, →	↓, ↑,
+owned	↓, ↑, →, ←	↓, ↑,
+owned	↓, ←, ↑, →	↓, ←,
+owned	↓, ←, →, ↑	↓, ←,
+owned	↓, →, ↑, ←	↓ means that the event
+owned	↓, →, ←, ↑	↓, →, 
+owned	←, ↑, ↓, →	←, ↑,
+owned	←, ↑, →, ↓	←, ↑,
+owned	←, ↓, ↑, →	←, ↓,
+owned	←, ↓, →, ↑	←, ↓,
+owned	←, →, ↑, ↓	←, →, 
+owned	←, →, ↓, ↑	←, →, 
+owned	→, ↑, ↓, ←	↑
+Given the
+owned	→, ↑, ←, ↓	↑
+Given the
+owned	→, ↓, ↑, ←	↓
+Given the
+owned	→, ↓, ←, ↑	↓
+Given the
+owned	→, ←, ↑, ↓	↑
+Given the
+owned	→, ←, ↓, ↑	↓
+Given the
+regretted	↑, ↓, ←, →	↑, ↓,
+regretted	↑, ↓, →, ←	↑, ↓,
+regretted	↑, ←, ↓, →	↑, ←,
+regretted	↑, ←, →, ↓	↑ means 'incre
+regretted	↑, →, ↓, ←	↑ means that the event
+regretted	↑, →, ←, ↓	↑ means that the event
+regretted	↓, ↑, ←, →	↓, ↑,
+regretted	↓, ↑, →, ←	↓, ↑,
+regretted	↓, ←, ↑, →	↓, ←,
+regretted	↓, ←, →, ↑	↓, ←,
+regretted	↓, →, ↑, ←	↓, →, 
+regretted	↓, →, ←, ↑	↓, →, 
+regretted	←, ↑, ↓, →	←, ↑,
+regretted	←, ↑, →, ↓	←, ↑,
+regretted	←, ↓, ↑, →	←, ↓,
+regretted	←, ↓, →, ↑	←, ↓,
+regretted	←, →, ↑, ↓	←, →, 
+regretted	←, →, ↓, ↑	←, →, 
+regretted	→, ↑, ↓, ←	↑
+Given the
+regretted	→, ↑, ←, ↓	↑
+Given the
+regretted	→, ↓, ↑, ←	↑
+Given the
+regretted	→, ↓, ←, ↑	↑
+Given the
+regretted	→, ←, ↑, ↓	↑
+Given the
+regretted	→, ←, ↓, ↑	↑
+Given the
+rested	↑, ↓, ←, →	↑, ↓,
+rested	↑, ↓, →, ←	↑, ↓,
+rested	↑, ←, ↓, →	↑ means that the event
+rested	↑, ←, →, ↓	↑ means that the event
+rested	↑, →, ↓, ←	↑ means that the event
+rested	↑, →, ←, ↓	↑ means that the event
+rested	↓, ↑, ←, →	↓, ↑,
+rested	↓, ↑, →, ←	↓ means 'goes
+rested	↓, ←, ↑, →	↓, ←,
+rested	↓, ←, →, ↑	↓, ←,
+rested	↓, →, ↑, ←	↓ means 'resting
+rested	↓, →, ←, ↑	↓, →, 
+rested	←, ↑, ↓, →	←, ↑,
+rested	←, ↑, →, ↓	←, ↑,
+rested	←, ↓, ↑, →	←, ↓,
+rested	←, ↓, →, ↑	←, ↓,
+rested	←, →, ↑, ↓	←, →, 
+rested	←, →, ↓, ↑	←, →, 
+rested	→, ↑, ↓, ←	↑
+Given the
+rested	→, ↑, ←, ↓	↑
+Given the
+rested	→, ↓, ↑, ←	↑
+Given the
+rested	→, ↓, ←, ↑	↑
+Given the
+rested	→, ←, ↑, ↓	↑
+Given the
+rested	→, ←, ↓, ↑	↑
+Given the
+tempted	↑, ↓, ←, →	↑, ↓,
+tempted	↑, ↓, →, ←	↑, ↓,
+tempted	↑, ←, ↓, →	↑ means that the event
+tempted	↑, ←, →, ↓	↑ means that the event
+tempted	↑, →, ↓, ←	↑ means that the event
+tempted	↑, →, ←, ↓	↑ means that the event
+tempted	↓, ↑, ←, →	↓, ↑,
+tempted	↓, ↑, →, ←	↓ means that the event
+tempted	↓, ←, ↑, →	↓, ←,
+tempted	↓, ←, →, ↑	↓, ←,
+tempted	↓, →, ↑, ←	↓ means that the event
+tempted	↓, →, ←, ↑	↓ means that the event
+tempted	←, ↑, ↓, →	←, ↑,
+tempted	←, ↑, →, ↓	←, ↑,
+tempted	←, ↓, ↑, →	←, ↓,
+tempted	←, ↓, →, ↑	←, ↓,
+tempted	←, →, ↑, ↓	←, →, 
+tempted	←, →, ↓, ↑	←, →, 
+tempted	→, ↑, ↓, ←	↑
+Given the
+tempted	→, ↑, ←, ↓	↑
+Given the
+tempted	→, ↓, ↑, ←	↑
+Given the
+tempted	→, ↓, ←, ↑	↑
+Given the
+tempted	→, ←, ↑, ↓	↑
+Given the
+tempted	→, ←, ↓, ↑	↑
+Given the
+wanted	↑, ↓, ←, →	↑, ↓,
+wanted	↑, ↓, →, ←	↑, ↓,
+wanted	↑, ←, ↓, →	↑ means that the event
+wanted	↑, ←, →, ↓	↑ means that the event
+wanted	↑, →, ↓, ←	↑ means that the event
+wanted	↑, →, ←, ↓	↑ means that the event
+wanted	↓, ↑, ←, →	↓, ↑,
+wanted	↓, ↑, →, ←	↓ means that the event
+wanted	↓, ←, ↑, →	↓, ←,
+wanted	↓, ←, →, ↑	↓, ←,
+wanted	↓, →, ↑, ←	↓ means that the event
+wanted	↓, →, ←, ↑	↓, →, 
+wanted	←, ↑, ↓, →	←, ↑,
+wanted	←, ↑, →, ↓	←, ↑,
+wanted	←, ↓, ↑, →	←, ↓,
+wanted	←, ↓, →, ↑	←, ↓,
+wanted	←, →, ↑, ↓	←, →, 
+wanted	←, →, ↓, ↑	←, →, 
+wanted	→, ↑, ↓, ←	↑
+Given the
+wanted	→, ↑, ←, ↓	↑
+Given the
+wanted	→, ↓, ↑, ←	↑
+Given the
+wanted	→, ↓, ←, ↑	↑
+Given the
+wanted	→, ←, ↑, ↓	↑
+Given the
+wanted	→, ←, ↓, ↑	↑
+Given the
+hoped	↑, ↓, ←, →	↑ means that the event
+hoped	↑, ↓, →, ←	↑ means that the event
+hoped	↑, ←, ↓, →	↑ means that the event
+hoped	↑, ←, →, ↓	↑ means that the event
+hoped	↑, →, ↓, ←	↑ means that the event
+hoped	↑, →, ←, ↓	↑ means that the event
+hoped	↓, ↑, ←, →	↓ means that the event
+hoped	↓, ↑, →, ←	↓ means that the event
+hoped	↓, ←, ↑, →	↓ means that the event
+hoped	↓, ←, →, ↑	↓ means that the event
+hoped	↓, →, ↑, ←	↓ means that the event
+hoped	↓, →, ←, ↑	↓ means that the event
+hoped	←, ↑, ↓, →	←, ↑,
+hoped	←, ↑, →, ↓	←, ↑,
+hoped	←, ↓, ↑, →	←, ↓,
+hoped	←, ↓, →, ↑	←, ↓,
+hoped	←, →, ↑, ↓	←, →, 
+hoped	←, →, ↓, ↑	←, →, 
+hoped	→, ↑, ↓, ←	↑
+Given the
+hoped	→, ↑, ←, ↓	↑
+Given the
+hoped	→, ↓, ↑, ←	↑
+Given the
+hoped	→, ↓, ←, ↑	↑
+Given the
+hoped	→, ←, ↑, ↓	↑
+Given the
+hoped	→, ←, ↓, ↑	↑
+Given the
+increased	↑, ↓, ←, →	↑, ↓,
+increased	↑, ↓, →, ←	↑ means 'incre
+increased	↑, ←, ↓, →	↑ means 'incre
+increased	↑, ←, →, ↓	↑ means 'incre
+increased	↑, →, ↓, ←	↑ means 'incre
+increased	↑, →, ←, ↓	↑ means 'incre
+increased	↓, ↑, ←, →	↓ means 'decre
+increased	↓, ↑, →, ←	↓ means 'decre
+increased	↓, ←, ↑, →	↓ means 'decre
+increased	↓, ←, →, ↑	↓ means 'decre
+increased	↓, →, ↑, ←	↓ means 'decre
+increased	↓, →, ←, ↑	↓ means 'decre
+increased	←, ↑, ↓, →	↑
+Given the
+increased	←, ↑, →, ↓	↑
+Given the
+increased	←, ↓, ↑, →	←, ↓,
+increased	←, ↓, →, ↑	↑
+Given the
+increased	←, →, ↑, ↓	←, →, 
+increased	←, →, ↓, ↑	←, →, 
+increased	→, ↑, ↓, ←	↑
+Given the
+increased	→, ↑, ←, ↓	↑
+Given the
+increased	→, ↓, ↑, ←	↑
+Given the
+increased	→, ↓, ←, ↑	↑
+Given the
+increased	→, ←, ↑, ↓	↑
+Given the
+increased	→, ←, ↓, ↑	↑
+Given the
+obeyed	↑, ↓, ←, →	↑, ↓,
+obeyed	↑, ↓, →, ←	↑, ↓,
+obeyed	↑, ←, ↓, →	↑ means 'goes
+obeyed	↑, ←, →, ↓	↑ means 'goes
+obeyed	↑, →, ↓, ←	↑ means that the event
+obeyed	↑, →, ←, ↓	↑ means 'goes
+obeyed	↓, ↑, ←, →	↓, ↑,
+obeyed	↓, ↑, →, ←	↓ means 'goes
+obeyed	↓, ←, ↑, →	↓, ←,
+obeyed	↓, ←, →, ↑	↓, ←,
+obeyed	↓, →, ↑, ←	↓ means 'goes
+obeyed	↓, →, ←, ↑	↓, →, 
+obeyed	←, ↑, ↓, →	←, ↑,
+obeyed	←, ↑, →, ↓	←, ↑,
+obeyed	←, ↓, ↑, →	←, ↓,
+obeyed	←, ↓, →, ↑	←, ↓,
+obeyed	←, →, ↑, ↓	←, →, 
+obeyed	←, →, ↓, ↑	←, →, 
+obeyed	→, ↑, ↓, ←	↑
+Given the
+obeyed	→, ↑, ←, ↓	↑
+Given the
+obeyed	→, ↓, ↑, ←	↓
+Given the
+obeyed	→, ↓, ←, ↑	↑
+Given the
+obeyed	→, ←, ↑, ↓	↑
+Given the
+obeyed	→, ←, ↓, ↑	↑
+Given the
+respected	↑, ↓, ←, →	↑, ↓,
+respected	↑, ↓, →, ←	↑ means 'incre
+respected	↑, ←, ↓, →	↑ means that the event
+respected	↑, ←, →, ↓	↑ means that the event
+respected	↑, →, ↓, ←	↑ means that the event
+respected	↑, →, ←, ↓	↑ means that the event
+respected	↓, ↑, ←, →	↓ means 'respected
+respected	↓, ↑, →, ←	↓ means that the event
+respected	↓, ←, ↑, →	↓ means 'respected
+respected	↓, ←, →, ↑	↓ means that the event
+respected	↓, →, ↑, ←	↓ means that the event
+respected	↓, →, ←, ↑	↓ means that the event
+respected	←, ↑, ↓, →	←, ↑,
+respected	←, ↑, →, ↓	↑
+Given the
+respected	←, ↓, ↑, →	←, ↓,
+respected	←, ↓, →, ↑	←, ↓,
+respected	←, →, ↑, ↓	←, →, 
+respected	←, →, ↓, ↑	←, →, 
+respected	→, ↑, ↓, ←	↑
+Given the
+respected	→, ↑, ←, ↓	↑
+Given the
+respected	→, ↓, ↑, ←	↓
+Given the
+respected	→, ↓, ←, ↑	↑
+Given the
+respected	→, ←, ↑, ↓	↑
+Given the
+respected	→, ←, ↓, ↑	↑
+Given the
+succeeded	↑, ↓, ←, →	↑, ↓,
+succeeded	↑, ↓, →, ←	↑, ↓,
+succeeded	↑, ←, ↓, →	↑, ←,
+succeeded	↑, ←, →, ↓	↑, ←,
+succeeded	↑, →, ↓, ←	↑, →, 
+succeeded	↑, →, ←, ↓	↑, →, 
+succeeded	↓, ↑, ←, →	↓, ↑,
+succeeded	↓, ↑, →, ←	↓
+Given the
+succeeded	↓, ←, ↑, →	↓, ←,
+succeeded	↓, ←, →, ↑	↓
+Given the
+succeeded	↓, →, ↑, ←	↓
+Given the
+succeeded	↓, →, ←, ↑	↓
+Given the
+succeeded	←, ↑, ↓, →	←, ↑,
+succeeded	←, ↑, →, ↓	↑
+Given the
+succeeded	←, ↓, ↑, →	←, ↓,
+succeeded	←, ↓, →, ↑	←, ↓,
+succeeded	←, →, ↑, ↓	←
+Given the
+succeeded	←, →, ↓, ↑	←
+Given the
+succeeded	→, ↑, ↓, ←	↑
+Given the
+succeeded	→, ↑, ←, ↓	↑
+Given the
+succeeded	→, ↓, ↑, ←	↑
+Given the
+succeeded	→, ↓, ←, ↑	↑
+Given the
+succeeded	→, ←, ↑, ↓	↑
+Given the
+succeeded	→, ←, ↓, ↑	↑
+Given the

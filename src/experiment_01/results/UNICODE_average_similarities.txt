@@ -1,0 +1,5 @@
+Model	Average Similarity
+Llama-2-7b-hf	0.38138333333333335
+Llama-2-7b-chat-hf	0.4443
+Llama-2-13b-hf	0.4436
+Llama-2-13b-chat-hf	0.4976833333333334

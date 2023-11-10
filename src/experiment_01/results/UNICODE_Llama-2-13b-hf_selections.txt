@@ -1,0 +1,31 @@
+Action	UP	DOWN	LEFT	RIGHT
+fled	12	6	6	0
+pointed at	14	6	4	0
+pulled	11	7	6	0
+pushed	10	8	6	0
+walked	12	6	6	0
+hunted	13	6	5	0
+impacted	11	8	5	0
+perched	14	6	4	0
+showed	12	7	5	0
+smashed	12	6	6	0
+bombed	13	6	5	0
+flew	13	6	5	0
+floated	12	7	5	0
+lifted	14	6	4	0
+sank	10	8	6	0
+argued with	12	6	6	0
+gave to	13	6	5	0
+offended	13	6	5	0
+rushed	12	6	6	0
+warned	10	8	6	0
+owned	9	9	6	0
+regretted	12	6	6	0
+rested	12	6	6	0
+tempted	12	6	6	0
+wanted	12	6	6	0
+hoped	12	6	6	0
+increased	15	6	3	0
+obeyed	11	7	6	0
+respected	12	7	5	0
+succeeded	13	6	5	0

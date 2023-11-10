@@ -1,0 +1,1350 @@
+fled	↑, ↓, ←, →	↑ represents an increase or
+fled	↑, ↓, →, ←	↑ represents an increase or
+fled	↑, ←, ↓, →	↑ represents an increase or
+fled	↑, ←, →, ↓	↑ represents the event '
+fled	↑, →, ↓, ←	↑ represents an increase or
+fled	↑, →, ←, ↓	↑ represents an increase or
+fled	↓, ↑, ←, →	↓ represents the event '
+fled	↓, ↑, →, ←	↓ represents the event '
+fled	↓, ←, ↑, →	↓ represents the event '
+fled	↓, ←, →, ↑	↓ means "moved
+fled	↓, →, ↑, ←	↓ represents the event '
+fled	↓, →, ←, ↑	↓ represents the event '
+fled	←, ↑, ↓, →	←
+
+Explan
+fled	←, ↑, →, ↓	←
+
+Explan
+fled	←, ↓, ↑, →	← represents the event '
+fled	←, ↓, →, ↑	← represents movement to the
+fled	←, →, ↑, ↓	←
+
+Explan
+fled	←, →, ↓, ↑	← represents the event '
+fled	→, ↑, ↓, ←	↑
+
+Explan
+fled	→, ↑, ←, ↓	↘
+
+
+fled	→, ↓, ↑, ←	↓
+
+Explan
+fled	→, ↓, ←, ↑	↓
+
+Explan
+fled	→, ←, ↑, ↓	↘
+
+
+fled	→, ←, ↓, ↑	←
+
+Explan
+pointed at	↑, ↓, ←, →	↑ represents the event '
+pointed at	↑, ↓, →, ←	↓
+
+Explan
+pointed at	↑, ←, ↓, →	←
+
+Why?
+pointed at	↑, ←, →, ↓	←
+
+Explan
+pointed at	↑, →, ↓, ←	↑ represents movement upward
+pointed at	↑, →, ←, ↓	↑ represents movement upward
+pointed at	↓, ↑, ←, →	↓ represents the event '
+pointed at	↓, ↑, →, ←	↓ represents the event '
+pointed at	↓, ←, ↑, →	↓ represents the event '
+pointed at	↓, ←, →, ↑	↓ means 'down',
+pointed at	↓, →, ↑, ←	↓ represents the event '
+pointed at	↓, →, ←, ↑	↓ represents the event '
+pointed at	←, ↑, ↓, →	←
+
+Explan
+pointed at	←, ↑, →, ↓	← represents movement to the
+pointed at	←, ↓, ↑, →	← represents movement to the
+pointed at	←, ↓, →, ↑	← represents movement to the
+pointed at	←, →, ↑, ↓	←
+
+Explan
+pointed at	←, →, ↓, ↑	←
+
+Explan
+pointed at	→, ↑, ↓, ←	↓
+
+Why:
+pointed at	→, ↑, ←, ↓	↗
+
+
+pointed at	→, ↓, ↑, ←	↓
+
+Explan
+pointed at	→, ↓, ←, ↑	↓
+
+Why:
+pointed at	→, ←, ↑, ↓	←
+
+Why:
+pointed at	→, ←, ↓, ↑	←
+
+Explan
+pulled	↑, ↓, ←, →	↑ represents an increase or
+pulled	↑, ↓, →, ←	↓
+
+Why:
+pulled	↑, ←, ↓, →	↑ represents an increase or
+pulled	↑, ←, →, ↓	↑ represents an increase or
+pulled	↑, →, ↓, ←	↑ represents an increase or
+pulled	↑, →, ←, ↓	↑ represents an increase or
+pulled	↓, ↑, ←, →	↓ represents the event '
+pulled	↓, ↑, →, ←	↓ represents a downward
+pulled	↓, ←, ↑, →	↓ represents the event '
+pulled	↓, ←, →, ↑	↓ represents the event '
+pulled	↓, →, ↑, ←	↓ represents the event '
+pulled	↓, →, ←, ↑	↓ represents the event '
+pulled	←, ↑, ↓, →	←
+
+Why:
+pulled	←, ↑, →, ↓	←
+
+Why:
+pulled	←, ↓, ↑, →	←
+
+Why:
+pulled	←, ↓, →, ↑	← represents a pull event
+pulled	←, →, ↑, ↓	←
+
+Why:
+pulled	←, →, ↓, ↑	←
+
+Why:
+pulled	→, ↑, ↓, ←	↑
+
+Why:
+pulled	→, ↑, ←, ↓	↘
+
+
+pulled	→, ↓, ↑, ←	↓
+
+Explan
+pulled	→, ↓, ←, ↑	↓
+
+Why:
+pulled	→, ←, ↑, ↓	←
+
+Why:
+pulled	→, ←, ↓, ↑	←
+
+Why:
+pushed	↑, ↓, ←, →	↑ represents an increase or
+pushed	↑, ↓, →, ←	↑ represents an increase or
+pushed	↑, ←, ↓, →	↑ represents an increase or
+pushed	↑, ←, →, ↓	↗
+
+
+pushed	↑, →, ↓, ←	↑ represents an increase or
+pushed	↑, →, ←, ↓	↑ represents an increase or
+pushed	↓, ↑, ←, →	↓ represents the event '
+pushed	↓, ↑, →, ←	↓ represents a downward
+pushed	↓, ←, ↑, →	↓ represents the event '
+pushed	↓, ←, →, ↑	↓ represents the event '
+pushed	↓, →, ↑, ←	↓ represents the event '
+pushed	↓, →, ←, ↑	↓ represents the event '
+pushed	←, ↑, ↓, →	←
+
+Explan
+pushed	←, ↑, →, ↓	← represents a pull event
+pushed	←, ↓, ↑, →	← represents a pull event
+pushed	←, ↓, →, ↑	← represents a pull event
+pushed	←, →, ↑, ↓	←
+
+Explan
+pushed	←, →, ↓, ↑	← represents a pull event
+pushed	→, ↑, ↓, ←	↗
+
+
+pushed	→, ↑, ←, ↓	↗
+
+
+pushed	→, ↓, ↑, ←	↗
+
+
+pushed	→, ↓, ←, ↑	↗
+
+
+pushed	→, ←, ↑, ↓	←
+
+Why:
+pushed	→, ←, ↓, ↑	←
+
+Why:
+walked	↑, ↓, ←, →	↑ represents movement upwards
+walked	↑, ↓, →, ←	↑ represents movement upward
+walked	↑, ←, ↓, →	↑ represents movement upwards
+walked	↑, ←, →, ↓	↗
+
+
+walked	↑, →, ↓, ←	↑ represents movement upward
+walked	↑, →, ←, ↓	↑ represents movement upward
+walked	↓, ↑, ←, →	↓ represents the event '
+walked	↓, ↑, →, ←	↓ represents movement downward
+walked	↓, ←, ↑, →	↓ means move down,
+walked	↓, ←, →, ↑	↓ means move down,
+walked	↓, →, ↑, ←	↓ represents the event '
+walked	↓, →, ←, ↑	↓ means move down,
+walked	←, ↑, ↓, →	← represents the event as
+walked	←, ↑, →, ↓	← represents the event as
+walked	←, ↓, ↑, →	← represents the event as
+walked	←, ↓, →, ↑	← represents walking backwards,
+walked	←, →, ↑, ↓	←
+
+Why:
+walked	←, →, ↓, ↑	← represents left, arrow
+walked	→, ↑, ↓, ←	↗
+
+
+walked	→, ↑, ←, ↓	↗
+
+
+walked	→, ↓, ↑, ←	↗
+
+
+walked	→, ↓, ←, ↑	↗
+
+
+walked	→, ←, ↑, ↓	↗
+
+
+walked	→, ←, ↓, ↑	←
+
+Why:
+hunted	↑, ↓, ←, →	↓
+
+Explan
+hunted	↑, ↓, →, ←	↓ represents the event '
+hunted	↑, ←, ↓, →	↑ represents movement upwards
+hunted	↑, ←, →, ↓	↑ represents movement upwards
+hunted	↑, →, ↓, ←	↑ represents movement upwards
+hunted	↑, →, ←, ↓	↑ represents movement upwards
+hunted	↓, ↑, ←, →	↓ represents the event '
+hunted	↓, ↑, →, ←	↓ represents the event '
+hunted	↓, ←, ↑, →	↓ represents the event '
+hunted	↓, ←, →, ↑	↓ represents the event '
+hunted	↓, →, ↑, ←	↓ represents movement downward
+hunted	↓, →, ←, ↑	↓ represents movement downward
+hunted	←, ↑, ↓, →	←
+
+Explan
+hunted	←, ↑, →, ↓	← represents movement to the
+hunted	←, ↓, ↑, →	← represents movement to the
+hunted	←, ↓, →, ↑	← represents movement to the
+hunted	←, →, ↑, ↓	←
+
+Explan
+hunted	←, →, ↓, ↑	← represents movement to the
+hunted	→, ↑, ↓, ←	↓
+
+Explan
+hunted	→, ↑, ←, ↓	↓
+
+Explan
+hunted	→, ↓, ↑, ←	↓
+
+Explan
+hunted	→, ↓, ←, ↑	↓
+
+Explan
+hunted	→, ←, ↑, ↓	←
+
+Explan
+hunted	→, ←, ↓, ↑	←
+
+Explan
+impacted	↑, ↓, ←, →	↓
+
+Why:
+impacted	↑, ↓, →, ←	↓
+
+Why:
+impacted	↑, ←, ↓, →	↑ represents an increase or
+impacted	↑, ←, →, ↓	↑ represents an increase or
+impacted	↑, →, ↓, ←	↑ represents an increase or
+impacted	↑, →, ←, ↓	↑ represents an increase or
+impacted	↓, ↑, ←, →	↓ represents a decrease or
+impacted	↓, ↑, →, ←	↓ represents a decrease or
+impacted	↓, ←, ↑, →	↓ represents a decrease,
+impacted	↓, ←, →, ↑	↓ represents a decrease or
+impacted	↓, →, ↑, ←	↓ represents a decrease or
+impacted	↓, →, ←, ↑	↓ represents a decrease,
+impacted	←, ↑, ↓, →	←
+
+Explan
+impacted	←, ↑, →, ↓	← represents a move backwards
+impacted	←, ↓, ↑, →	↓
+
+Why:
+impacted	←, ↓, →, ↑	← represents a change in
+impacted	←, →, ↑, ↓	← represents a change in
+impacted	←, →, ↓, ↑	← represents a change in
+impacted	→, ↑, ↓, ←	↓
+
+Why:
+impacted	→, ↑, ←, ↓	↓
+
+Explan
+impacted	→, ↓, ↑, ←	↓
+
+Explan
+impacted	→, ↓, ←, ↑	↓
+
+Why:
+impacted	→, ←, ↑, ↓	←
+
+Why:
+impacted	→, ←, ↓, ↑	↓
+
+Why:
+perched	↑, ↓, ←, →	↑ represents the event '
+perched	↑, ↓, →, ←	↑ represents the event '
+perched	↑, ←, ↓, →	↑ represents the event '
+perched	↑, ←, →, ↓	↑ represents the event '
+perched	↑, →, ↓, ←	↑ represents the event '
+perched	↑, →, ←, ↓	↑ represents movement upward
+perched	↓, ↑, ←, →	↓ represents the event '
+perched	↓, ↑, →, ←	↓ represents the event '
+perched	↓, ←, ↑, →	↓ represents the event '
+perched	↓, ←, →, ↑	↓ represents the event '
+perched	↓, →, ↑, ←	↓ represents the event '
+perched	↓, →, ←, ↑	↓ represents the event '
+perched	←, ↑, ↓, →	← represents the event '
+perched	←, ↑, →, ↓	← represents the event '
+perched	←, ↓, ↑, →	← represents the event '
+perched	←, ↓, →, ↑	← represents the event '
+perched	←, →, ↑, ↓	← represents movement to the
+perched	←, →, ↓, ↑	← represents movement to the
+perched	→, ↑, ↓, ←	↑
+
+Explan
+perched	→, ↑, ←, ↓	↑
+
+Explan
+perched	→, ↓, ↑, ←	↓
+
+Explan
+perched	→, ↓, ←, ↑	↓
+
+Explan
+perched	→, ←, ↑, ↓	↑
+
+Explan
+perched	→, ←, ↓, ↑	↓
+
+Explan
+showed	↑, ↓, ←, →	↑ represents an increase or
+showed	↑, ↓, →, ←	↑ represents an increase or
+showed	↑, ←, ↓, →	↑ represents an increase or
+showed	↑, ←, →, ↓	↑ represents an increase or
+showed	↑, →, ↓, ←	↑ represents an increase or
+showed	↑, →, ←, ↓	↑ represents an increase or
+showed	↓, ↑, ←, →	↓ represents a decrease,
+showed	↓, ↑, →, ←	↓ represents a decrease,
+showed	↓, ←, ↑, →	↓ means "move down
+showed	↓, ←, →, ↑	↓ means "move down
+showed	↓, →, ↑, ←	↓ represents the event as
+showed	↓, →, ←, ↑	↓ means "move down
+showed	←, ↑, ↓, →	←
+
+Correct
+showed	←, ↑, →, ↓	←
+
+Given
+showed	←, ↓, ↑, →	←
+
+Given
+showed	←, ↓, →, ↑	← represents a movement to
+showed	←, →, ↑, ↓	←
+
+Explan
+showed	←, →, ↓, ↑	←
+
+Given
+showed	→, ↑, ↓, ←	↘
+
+
+showed	→, ↑, ←, ↓	↘
+
+
+showed	→, ↓, ↑, ←	↓
+
+Given
+showed	→, ↓, ←, ↑	↘
+
+
+showed	→, ←, ↑, ↓	↘
+
+
+showed	→, ←, ↓, ↑	↘
+
+
+smashed	↑, ↓, ←, →	↓
+
+Explan
+smashed	↑, ↓, →, ←	↓
+
+Explan
+smashed	↑, ←, ↓, →	↑ represents an increase or
+smashed	↑, ←, →, ↓	↑ represents an increase or
+smashed	↑, →, ↓, ←	↑ represents an increase or
+smashed	↑, →, ←, ↓	↑ represents an increase or
+smashed	↓, ↑, ←, →	↓ represents the event '
+smashed	↓, ↑, →, ←	↓ represents movement downward
+smashed	↓, ←, ↑, →	↓ means "move down
+smashed	↓, ←, →, ↑	↓ means "move down
+smashed	↓, →, ↑, ←	↓ represents movement downward
+smashed	↓, →, ←, ↑	↓ represents movement downward
+smashed	←, ↑, ↓, →	← represents the event as
+smashed	←, ↑, →, ↓	← represents the event as
+smashed	←, ↓, ↑, →	← represents the event as
+smashed	←, ↓, →, ↑	← represents left, 
+smashed	←, →, ↑, ↓	← represents left, arrow
+smashed	←, →, ↓, ↑	← represents left, arrow
+smashed	→, ↑, ↓, ←	↓
+
+Explan
+smashed	→, ↑, ←, ↓	↓
+
+Why:
+smashed	→, ↓, ↑, ←	↓
+
+Explan
+smashed	→, ↓, ←, ↑	↓
+
+Why:
+smashed	→, ←, ↑, ↓	←
+
+Why:
+smashed	→, ←, ↓, ↑	←
+
+Why:
+bombed	↑, ↓, ←, →	↓
+
+Why:
+bombed	↑, ↓, →, ←	↓
+
+Why:
+bombed	↑, ←, ↓, →	↑ represents an increase or
+bombed	↑, ←, →, ↓	↑ represents an increase or
+bombed	↑, →, ↓, ←	↑ represents an increase or
+bombed	↑, →, ←, ↓	↑ represents an increase or
+bombed	↓, ↑, ←, →	↓ represents a downward
+bombed	↓, ↑, →, ←	↓ represents a downward
+bombed	↓, ←, ↑, →	↓ represents a downward
+bombed	↓, ←, →, ↑	↓ represents a downward
+bombed	↓, →, ↑, ←	↓ represents a downward
+bombed	↓, →, ←, ↑	↓ represents a downward
+bombed	←, ↑, ↓, →	←
+
+Why:
+bombed	←, ↑, →, ↓	←
+
+Why:
+bombed	←, ↓, ↑, →	↓
+
+Why:
+bombed	←, ↓, →, ↑	← represents a movement to
+bombed	←, →, ↑, ↓	←
+
+Why:
+bombed	←, →, ↓, ↑	← represents a move to
+bombed	→, ↑, ↓, ←	↓
+
+Why:
+bombed	→, ↑, ←, ↓	↓
+
+Why:
+bombed	→, ↓, ↑, ←	↓
+
+Why:
+bombed	→, ↓, ←, ↑	↓
+
+Why:
+bombed	→, ←, ↑, ↓	←
+
+Why:
+bombed	→, ←, ↓, ↑	↓
+
+Why:
+flew	↑, ↓, ←, →	↑
+
+Correct
+flew	↑, ↓, →, ←	↑ represents upward movement
+flew	↑, ←, ↓, →	↑ represents movement upward
+flew	↑, ←, →, ↓	↑
+
+Explan
+flew	↑, →, ↓, ←	↑
+
+Explan
+flew	↑, →, ←, ↓	↑ represents movement upward
+flew	↓, ↑, ←, →	↓
+
+The correct
+flew	↓, ↑, →, ←	↓ represents movement downward
+flew	↓, ←, ↑, →	↓ represents the event '
+flew	↓, ←, →, ↑	↓
+
+Answer:
+flew	↓, →, ↑, ←	↓ represents the event '
+flew	↓, →, ←, ↑	↓ represents movement downward
+flew	←, ↑, ↓, →	↑
+
+Why?
+flew	←, ↑, →, ↓	↗
+
+
+flew	←, ↓, ↑, →	↓
+
+Explan
+flew	←, ↓, →, ↑	↘
+
+
+flew	←, →, ↑, ↓	↗
+
+
+flew	←, →, ↓, ↑	↗
+
+
+flew	→, ↑, ↓, ←	↑
+
+Explan
+flew	→, ↑, ←, ↓	↗
+
+
+flew	→, ↓, ↑, ←	↓
+
+Explan
+flew	→, ↓, ←, ↑	↗
+
+
+flew	→, ←, ↑, ↓	↑
+
+Explan
+flew	→, ←, ↓, ↑	↗
+
+
+floated	↑, ↓, ←, →	↑ represents an event that
+floated	↑, ↓, →, ←	↑ represents an event that
+floated	↑, ←, ↓, →	↑ represents an event that
+floated	↑, ←, →, ↓	↑ represents an event that
+floated	↑, →, ↓, ←	↑ represents an event that
+floated	↑, →, ←, ↓	↑ represents an event that
+floated	↓, ↑, ←, →	↓ represents the event '
+floated	↓, ↑, →, ←	↓ represents the event '
+floated	↓, ←, ↑, →	↓ represents the event '
+floated	↓, ←, →, ↑	↓ represents the event '
+floated	↓, →, ↑, ←	↓ represents the event '
+floated	↓, →, ←, ↑	↓ represents the event '
+floated	←, ↑, ↓, →	← represents a move to
+floated	←, ↑, →, ↓	← represents a move to
+floated	←, ↓, ↑, →	↓
+
+Explan
+floated	←, ↓, →, ↑	← represents a move to
+floated	←, →, ↑, ↓	←
+
+Explan
+floated	←, →, ↓, ↑	← represents a move to
+floated	→, ↑, ↓, ←	↑
+
+Why:
+floated	→, ↑, ←, ↓	↘
+
+
+floated	→, ↓, ↑, ←	↓
+
+Explan
+floated	→, ↓, ←, ↑	↓
+
+Why:
+floated	→, ←, ↑, ↓	↘
+
+
+floated	→, ←, ↓, ↑	↘
+
+
+lifted	↑, ↓, ←, →	↑ represents an increase or
+lifted	↑, ↓, →, ←	↑ represents an increase or
+lifted	↑, ←, ↓, →	↑ represents an increase or
+lifted	↑, ←, →, ↓	↑ represents an increase or
+lifted	↑, →, ↓, ←	↑ represents an increase or
+lifted	↑, →, ←, ↓	↑ represents an increase or
+lifted	↓, ↑, ←, →	↓ represents a decrease or
+lifted	↓, ↑, →, ←	↓ represents a decrease or
+lifted	↓, ←, ↑, →	↓ means "move down
+lifted	↓, ←, →, ↑	↓ means "move down
+lifted	↓, →, ↑, ←	↓ represents a decrease or
+lifted	↓, →, ←, ↑	↓ represents a decrease,
+lifted	←, ↑, ↓, →	↑
+
+Why?
+lifted	←, ↑, →, ↓	← represents a move to
+lifted	←, ↓, ↑, →	← represents a move to
+lifted	←, ↓, →, ↑	← represents a move to
+lifted	←, →, ↑, ↓	← represents a move to
+lifted	←, →, ↓, ↑	← represents a move to
+lifted	→, ↑, ↓, ←	↑
+
+Why?
+lifted	→, ↑, ←, ↓	↑
+
+Why?
+lifted	→, ↓, ↑, ←	↑
+
+Why?
+lifted	→, ↓, ←, ↑	↓
+
+Why:
+lifted	→, ←, ↑, ↓	↑
+
+Why?
+lifted	→, ←, ↓, ↑	↑
+
+Why?
+sank	↑, ↓, ←, →	↓
+
+Explan
+sank	↑, ↓, →, ←	↓
+
+Explan
+sank	↑, ←, ↓, →	↓
+
+Explan
+sank	↑, ←, →, ↓	↓
+
+Explan
+sank	↑, →, ↓, ←	↓
+
+Explan
+sank	↑, →, ←, ↓	↓
+
+Explan
+sank	↓, ↑, ←, →	↓ represents the event '
+sank	↓, ↑, →, ←	↓ represents the event '
+sank	↓, ←, ↑, →	↓ represents the event '
+sank	↓, ←, →, ↑	↓
+
+Explan
+sank	↓, →, ↑, ←	↓
+
+Explan
+sank	↓, →, ←, ↑	↓ represents the event '
+sank	←, ↑, ↓, →	←
+
+Explan
+sank	←, ↑, →, ↓	←
+
+Explan
+sank	←, ↓, ↑, →	↓
+
+Explan
+sank	←, ↓, →, ↑	↓
+
+Explan
+sank	←, →, ↑, ↓	←
+
+Explan
+sank	←, →, ↓, ↑	← represents movement to the
+sank	→, ↑, ↓, ←	↓
+
+Explan
+sank	→, ↑, ←, ↓	↓
+
+Explan
+sank	→, ↓, ↑, ←	↓
+
+Explan
+sank	→, ↓, ←, ↑	↓
+
+Explan
+sank	→, ←, ↑, ↓	↓
+
+Explan
+sank	→, ←, ↓, ↑	↓
+
+Explan
+argued with	↑, ↓, ←, →	↓
+
+Explan
+argued with	↑, ↓, →, ←	↓
+
+Explan
+argued with	↑, ←, ↓, →	↑ represents an increase or
+argued with	↑, ←, →, ↓	↑ represents an increase or
+argued with	↑, →, ↓, ←	↑ represents an increase or
+argued with	↑, →, ←, ↓	↑ represents an increase or
+argued with	↓, ↑, ←, →	↓ represents a decrease in
+argued with	↓, ↑, →, ←	↓ represents a downward
+argued with	↓, ←, ↑, →	↓ means "decre
+argued with	↓, ←, →, ↑	↓ means "decre
+argued with	↓, →, ↑, ←	↓ represents a downward
+argued with	↓, →, ←, ↑	↓ means "decre
+argued with	←, ↑, ↓, →	←
+
+Explan
+argued with	←, ↑, →, ↓	←
+
+Explan
+argued with	←, ↓, ↑, →	← represents a causal
+argued with	←, ↓, →, ↑	← represents a causal
+argued with	←, →, ↑, ↓	←
+
+Explan
+argued with	←, →, ↓, ↑	← represents a causal
+argued with	→, ↑, ↓, ←	↘
+
+
+argued with	→, ↑, ←, ↓	↘
+
+
+argued with	→, ↓, ↑, ←	↓
+
+Explan
+argued with	→, ↓, ←, ↑	↓
+
+Explan
+argued with	→, ←, ↑, ↓	←
+
+Explan
+argued with	→, ←, ↓, ↑	←
+
+Explan
+gave to	↑, ↓, ←, →	↑ represents an increase or
+gave to	↑, ↓, →, ←	↑ represents an increase or
+gave to	↑, ←, ↓, →	↑ represents an increase or
+gave to	↑, ←, →, ↓	←
+
+Explan
+gave to	↑, →, ↓, ←	↑ represents an increase or
+gave to	↑, →, ←, ↓	↑ represents an increase or
+gave to	↓, ↑, ←, →	↓ means "gave
+gave to	↓, ↑, →, ←	↓ represents a decrease,
+gave to	↓, ←, ↑, →	↓ means "gave
+gave to	↓, ←, →, ↑	↓ means "gave
+gave to	↓, →, ↑, ←	↓ means "gave
+gave to	↓, →, ←, ↑	↓ means "gave
+gave to	←, ↑, ↓, →	←
+
+Given
+gave to	←, ↑, →, ↓	←
+
+Given
+gave to	←, ↓, ↑, →	←
+
+Given
+gave to	←, ↓, →, ↑	← (left)
+
+gave to	←, →, ↑, ↓	←
+
+Explan
+gave to	←, →, ↓, ↑	←
+
+Explan
+gave to	→, ↑, ↓, ←	↘
+
+
+gave to	→, ↑, ←, ↓	↘
+
+
+gave to	→, ↓, ↑, ←	↓
+
+Explan
+gave to	→, ↓, ←, ↑	↓
+
+Explan
+gave to	→, ←, ↑, ↓	←
+
+Explan
+gave to	→, ←, ↓, ↑	←
+
+Explan
+offended	↑, ↓, ←, →	↓
+
+Why:
+offended	↑, ↓, →, ←	↓
+
+Why:
+offended	↑, ←, ↓, →	↑ represents an increase or
+offended	↑, ←, →, ↓	↑ represents an increase or
+offended	↑, →, ↓, ←	↑ represents an increase or
+offended	↑, →, ←, ↓	↑ represents an increase or
+offended	↓, ↑, ←, →	↓ represents the event '
+offended	↓, ↑, →, ←	↓ represents a decrease or
+offended	↓, ←, ↑, →	↓ represents the event '
+offended	↓, ←, →, ↑	↓
+
+Why:
+offended	↓, →, ↑, ←	↓
+
+The arrow
+offended	↓, →, ←, ↑	↓
+
+The arrow
+offended	←, ↑, ↓, →	←
+
+Why:
+offended	←, ↑, →, ↓	←
+
+Why:
+offended	←, ↓, ↑, →	← represents a leftward
+offended	←, ↓, →, ↑	← represents a move backwards
+offended	←, →, ↑, ↓	←
+
+Why:
+offended	←, →, ↓, ↑	← represents a leftward
+offended	→, ↑, ↓, ←	↓
+
+Explan
+offended	→, ↑, ←, ↓	↓
+
+Explan
+offended	→, ↓, ↑, ←	↓
+
+The arrow
+offended	→, ↓, ←, ↑	↓
+
+Why:
+offended	→, ←, ↑, ↓	←
+
+Why:
+offended	→, ←, ↓, ↑	←
+
+Why:
+rushed	↑, ↓, ←, →	↑ represents an increase or
+rushed	↑, ↓, →, ←	↑ represents an increase or
+rushed	↑, ←, ↓, →	↑ represents an increase or
+rushed	↑, ←, →, ↓	↑ represents an increase or
+rushed	↑, →, ↓, ←	↑ represents an increase or
+rushed	↑, →, ←, ↓	↑ represents an increase or
+rushed	↓, ↑, ←, →	↓
+
+Given
+rushed	↓, ↑, →, ←	↓ represents movement downward
+rushed	↓, ←, ↑, →	↓
+
+Given
+rushed	↓, ←, →, ↑	↓
+
+Given
+rushed	↓, →, ↑, ←	↓
+
+Explan
+rushed	↓, →, ←, ↑	↓
+
+Explan
+rushed	←, ↑, ↓, →	←
+
+Explan
+rushed	←, ↑, →, ↓	←
+
+Explan
+rushed	←, ↓, ↑, →	←
+
+Explan
+rushed	←, ↓, →, ↑	←
+
+Explan
+rushed	←, →, ↑, ↓	←
+
+Explan
+rushed	←, →, ↓, ↑	←
+
+Explan
+rushed	→, ↑, ↓, ←	↑
+
+Why:
+rushed	→, ↑, ←, ↓	↗
+
+
+rushed	→, ↓, ↑, ←	↓
+
+Explan
+rushed	→, ↓, ←, ↑	↓
+
+Why:
+rushed	→, ←, ↑, ↓	↗
+
+
+rushed	→, ←, ↓, ↑	↗
+
+
+warned	↑, ↓, ←, →	↑ represents an increase,
+warned	↑, ↓, →, ←	↑ represents an increase,
+warned	↑, ←, ↓, →	↑ means "incre
+warned	↑, ←, →, ↓	←
+
+Why:
+warned	↑, →, ↓, ←	↑ represents an increase or
+warned	↑, →, ←, ↓	↑ represents an increase or
+warned	↓, ↑, ←, →	↓ represents a decrease,
+warned	↓, ↑, →, ←	↓ represents a decrease,
+warned	↓, ←, ↑, →	↓ means "go down
+warned	↓, ←, →, ↑	↓ means "go down
+warned	↓, →, ↑, ←	↓ means "go down
+warned	↓, →, ←, ↑	↓ means "go down
+warned	←, ↑, ↓, →	←
+
+Explan
+warned	←, ↑, →, ↓	←
+
+Explan
+warned	←, ↓, ↑, →	←
+
+Explan
+warned	←, ↓, →, ↑	← represents the event as
+warned	←, →, ↑, ↓	←
+
+Explan
+warned	←, →, ↓, ↑	←
+
+Explan
+warned	→, ↑, ↓, ←	↑
+
+Why:
+warned	→, ↑, ←, ↓	↗
+
+
+warned	→, ↓, ↑, ←	↓
+
+Explan
+warned	→, ↓, ←, ↑	↓
+
+Why:
+warned	→, ←, ↑, ↓	←
+
+Why:
+warned	→, ←, ↓, ↑	←
+
+Why:
+owned	↑, ↓, ←, →	↑ represents an increase,
+owned	↑, ↓, →, ←	↑ represents an increase or
+owned	↑, ←, ↓, →	↑ represents an increase or
+owned	↑, ←, →, ↓	↑ represents an increase or
+owned	↑, →, ↓, ←	↑ represents an increase or
+owned	↑, →, ←, ↓	↑ represents an increase or
+owned	↓, ↑, ←, →	↓ means "move down
+owned	↓, ↑, →, ←	↓ represents a downward
+owned	↓, ←, ↑, →	↓ means "move down
+owned	↓, ←, →, ↑	↓ means "move down
+owned	↓, →, ↑, ←	↓ means "move down
+owned	↓, →, ←, ↑	↓ means "go down
+owned	←, ↑, ↓, →	←
+
+Explan
+owned	←, ↑, →, ↓	← represents previous, arrow
+owned	←, ↓, ↑, →	← represents previous event,
+owned	←, ↓, →, ↑	← represents previous event,
+owned	←, →, ↑, ↓	←
+
+Explan
+owned	←, →, ↓, ↑	← represents a move to
+owned	→, ↑, ↓, ←	↩️
+
+owned	→, ↑, ←, ↓	↩️
+
+owned	→, ↓, ↑, ←	↓
+
+Explan
+owned	→, ↓, ←, ↑	↩️
+
+owned	→, ←, ↑, ↓	↩️
+
+owned	→, ←, ↓, ↑	↩️
+
+regretted	↑, ↓, ←, →	↓
+
+Why?
+regretted	↑, ↓, →, ←	↓
+
+Explan
+regretted	↑, ←, ↓, →	↑ represents an increase or
+regretted	↑, ←, →, ↓	↑ represents a positive change
+regretted	↑, →, ↓, ←	↑ represents a move up
+regretted	↑, →, ←, ↓	↑ represents a change in
+regretted	↓, ↑, ←, →	↓ represents a decrease or
+regretted	↓, ↑, →, ←	↓ represents a downward
+regretted	↓, ←, ↑, →	↓ represents a downward
+regretted	↓, ←, →, ↑	↓ means "move down
+regretted	↓, →, ↑, ←	↓ represents a downward
+regretted	↓, →, ←, ↑	↓ represents a downward
+regretted	←, ↑, ↓, →	←
+
+Why:
+regretted	←, ↑, →, ↓	←
+
+Why:
+regretted	←, ↓, ↑, →	← represents a change in
+regretted	←, ↓, →, ↑	← represents a change in
+regretted	←, →, ↑, ↓	←
+
+Why:
+regretted	←, →, ↓, ↑	← represents a change in
+regretted	→, ↑, ↓, ←	↓
+
+Explan
+regretted	→, ↑, ←, ↓	↘
+
+
+regretted	→, ↓, ↑, ←	↓
+
+Explan
+regretted	→, ↓, ←, ↑	↓
+
+Why:
+regretted	→, ←, ↑, ↓	←
+
+Why:
+regretted	→, ←, ↓, ↑	←
+
+Why:
+rested	↑, ↓, ←, →	↓
+
+Why:
+rested	↑, ↓, →, ←	↓
+
+Why:
+rested	↑, ←, ↓, →	↑ represents movement upwards
+rested	↑, ←, →, ↓	←
+
+Why:
+rested	↑, →, ↓, ←	↑ represents movement upwards
+rested	↑, →, ←, ↓	↑ represents movement upwards
+rested	↓, ↑, ←, →	↓ represents the event '
+rested	↓, ↑, →, ←	↓ represents the event '
+rested	↓, ←, ↑, →	↓ represents the event '
+rested	↓, ←, →, ↑	↓
+
+The correct
+rested	↓, →, ↑, ←	↓
+
+The correct
+rested	↓, →, ←, ↑	↓ represents the event '
+rested	←, ↑, ↓, →	←
+
+Why:
+rested	←, ↑, →, ↓	←
+
+Explan
+rested	←, ↓, ↑, →	←
+
+Why:
+rested	←, ↓, →, ↑	←
+
+Why:
+rested	←, →, ↑, ↓	←
+
+Why:
+rested	←, →, ↓, ↑	←
+
+Why:
+rested	→, ↑, ↓, ←	↓
+
+Explan
+rested	→, ↑, ←, ↓	↓
+
+Explan
+rested	→, ↓, ↑, ←	↓
+
+Explan
+rested	→, ↓, ←, ↑	↓
+
+Why:
+rested	→, ←, ↑, ↓	←
+
+Why:
+rested	→, ←, ↓, ↑	←
+
+Why:
+tempted	↑, ↓, ←, →	↑ represents an increase or
+tempted	↑, ↓, →, ←	↑ represents an increase or
+tempted	↑, ←, ↓, →	↑ represents an increase or
+tempted	↑, ←, →, ↓	↑ represents an increase or
+tempted	↑, →, ↓, ←	↑ represents an increase or
+tempted	↑, →, ←, ↓	↑ represents an increase or
+tempted	↓, ↑, ←, →	↓ represents a decrease or
+tempted	↓, ↑, →, ←	↓ represents a decrease or
+tempted	↓, ←, ↑, →	↓ represents a decrease,
+tempted	↓, ←, →, ↑	↓ means "move down
+tempted	↓, →, ↑, ←	↓ represents a decrease or
+tempted	↓, →, ←, ↑	↓ represents a decrease,
+tempted	←, ↑, ↓, →	←
+
+Given
+tempted	←, ↑, →, ↓	← represents a temptation
+tempted	←, ↓, ↑, →	← represents a temptation
+tempted	←, ↓, →, ↑	← represents a temptation
+tempted	←, →, ↑, ↓	←
+
+Why:
+tempted	←, →, ↓, ↑	← represents a causal
+tempted	→, ↑, ↓, ←	↺
+
+
+tempted	→, ↑, ←, ↓	↺
+
+
+tempted	→, ↓, ↑, ←	↓
+
+Explan
+tempted	→, ↓, ←, ↑	↓
+
+Why:
+tempted	→, ←, ↑, ↓	←
+
+Why:
+tempted	→, ←, ↓, ↑	←
+
+Why:
+wanted	↑, ↓, ←, →	↑ represents an increase,
+wanted	↑, ↓, →, ←	↑ represents an increase or
+wanted	↑, ←, ↓, →	↑ represents an increase or
+wanted	↑, ←, →, ↓	↑ represents an increase or
+wanted	↑, →, ↓, ←	↑ represents an increase or
+wanted	↑, →, ←, ↓	↑ represents an increase or
+wanted	↓, ↑, ←, →	↓ represents a decrease,
+wanted	↓, ↑, →, ←	↓ represents a decrease,
+wanted	↓, ←, ↑, →	↓ means "move down
+wanted	↓, ←, →, ↑	↓ means "move down
+wanted	↓, →, ↑, ←	↓ represents a decrease or
+wanted	↓, →, ←, ↑	↓ means "move down
+wanted	←, ↑, ↓, →	← represents the event as
+wanted	←, ↑, →, ↓	← represents the event as
+wanted	←, ↓, ↑, →	← represents a causal
+wanted	←, ↓, →, ↑	← represents a causal
+wanted	←, →, ↑, ↓	←
+
+Explan
+wanted	←, →, ↓, ↑	← represents a causal
+wanted	→, ↑, ↓, ←	↘
+
+
+wanted	→, ↑, ←, ↓	↘
+
+
+wanted	→, ↓, ↑, ←	↓
+
+Explan
+wanted	→, ↓, ←, ↑	↩️
+
+wanted	→, ←, ↑, ↓	↘
+
+
+wanted	→, ←, ↓, ↑	↘
+
+
+hoped	↑, ↓, ←, →	↑ represents an increase,
+hoped	↑, ↓, →, ←	↑ represents an increase or
+hoped	↑, ←, ↓, →	↑ represents a change in
+hoped	↑, ←, →, ↓	↑ represents a change in
+hoped	↑, →, ↓, ←	↑ represents a change in
+hoped	↑, →, ←, ↓	↑ represents a change in
+hoped	↓, ↑, ←, →	↓ represents a decrease,
+hoped	↓, ↑, →, ←	↓ represents a decrease,
+hoped	↓, ←, ↑, →	↓ means "decre
+hoped	↓, ←, →, ↑	↓ means "decre
+hoped	↓, →, ↑, ←	↓ represents the event as
+hoped	↓, →, ←, ↑	↓ means "decre
+hoped	←, ↑, ↓, →	← represents the past,
+hoped	←, ↑, →, ↓	← represents the event as
+hoped	←, ↓, ↑, →	← represents the past,
+hoped	←, ↓, →, ↑	← represents the event as
+hoped	←, →, ↑, ↓	← represents the event as
+hoped	←, →, ↓, ↑	← represents the event as
+hoped	→, ↑, ↓, ←	↑
+
+Given
+hoped	→, ↑, ←, ↓	↑
+
+Why:
+hoped	→, ↓, ↑, ←	↓
+
+Given
+hoped	→, ↓, ←, ↑	↓
+
+Given
+hoped	→, ←, ↑, ↓	↓
+
+Explan
+hoped	→, ←, ↓, ↑	↓
+
+Explan
+increased	↑, ↓, ←, →	↑ represents an increase.
+increased	↑, ↓, →, ←	↑ represents an increase.
+increased	↑, ←, ↓, →	↑ represents an increase.
+increased	↑, ←, →, ↓	↑ represents an increase.
+increased	↑, →, ↓, ←	↑ represents an increase.
+increased	↑, →, ←, ↓	↑ represents an increase.
+increased	↓, ↑, ←, →	↓ represents decrease, 
+increased	↓, ↑, →, ←	↓ represents decrease, 
+increased	↓, ←, ↑, →	↓ means decrease, 
+increased	↓, ←, →, ↑	↓ means decrease, 
+increased	↓, →, ↑, ←	↓ represents decrease, →
+increased	↓, →, ←, ↑	↓ represents decrease, →
+increased	←, ↑, ↓, →	↑ represents an increase.
+increased	←, ↑, →, ↓	↑ represents an increase.
+increased	←, ↓, ↑, →	↓
+
+Explan
+increased	←, ↓, →, ↑	← represents a decrease,
+increased	←, →, ↑, ↓	← represents a decrease,
+increased	←, →, ↓, ↑	← represents a decrease,
+increased	→, ↑, ↓, ←	↑
+
+Given
+increased	→, ↑, ←, ↓	↑
+
+Why:
+increased	→, ↓, ↑, ←	↑
+
+Explan
+increased	→, ↓, ←, ↑	↓
+
+Explan
+increased	→, ←, ↑, ↓	↑
+
+Explan
+increased	→, ←, ↓, ↑	↓
+
+Explan
+obeyed	↑, ↓, ←, →	↑ represents the event '
+obeyed	↑, ↓, →, ←	↑ represents an increase or
+obeyed	↑, ←, ↓, →	↑ represents the event '
+obeyed	↑, ←, →, ↓	←
+
+Why:
+obeyed	↑, →, ↓, ←	↑ represents an increase or
+obeyed	↑, →, ←, ↓	↑ represents an increase or
+obeyed	↓, ↑, ←, →	↓ represents the event '
+obeyed	↓, ↑, →, ←	↓ represents the event '
+obeyed	↓, ←, ↑, →	↓ means move down,
+obeyed	↓, ←, →, ↑	↓ means move down,
+obeyed	↓, →, ↑, ←	↓ represents the event '
+obeyed	↓, →, ←, ↑	↓ means move down,
+obeyed	←, ↑, ↓, →	←
+
+Given
+obeyed	←, ↑, →, ↓	←
+
+Given
+obeyed	←, ↓, ↑, →	←
+
+Given
+obeyed	←, ↓, →, ↑	← represents the event '
+obeyed	←, →, ↑, ↓	←
+
+Why:
+obeyed	←, →, ↓, ↑	←
+
+Given
+obeyed	→, ↑, ↓, ←	↑
+
+Why:
+obeyed	→, ↑, ←, ↓	↘
+
+
+obeyed	→, ↓, ↑, ←	↓
+
+The correct
+obeyed	→, ↓, ←, ↑	↓
+
+Why:
+obeyed	→, ←, ↑, ↓	←
+
+Why:
+obeyed	→, ←, ↓, ↑	←
+
+Why:
+respected	↑, ↓, ←, →	↑ represents an increase,
+respected	↑, ↓, →, ←	↑ represents an increase,
+respected	↑, ←, ↓, →	↑ represents an increase,
+respected	↑, ←, →, ↓	↑ represents an increase or
+respected	↑, →, ↓, ←	↑ represents an increase or
+respected	↑, →, ←, ↓	↑ represents an increase or
+respected	↓, ↑, ←, →	↓ represents a decrease,
+respected	↓, ↑, →, ←	↓ represents a decrease,
+respected	↓, ←, ↑, →	↓ means "move down
+respected	↓, ←, →, ↑	↓ means "move down
+respected	↓, →, ↑, ←	↓ represents a downward
+respected	↓, →, ←, ↑	↓ represents a downward
+respected	←, ↑, ↓, →	←
+
+Explan
+respected	←, ↑, →, ↓	← represents left, 
+respected	←, ↓, ↑, →	← represents the event '
+respected	←, ↓, →, ↑	← represents left, 
+respected	←, →, ↑, ↓	←
+
+Explan
+respected	←, →, ↓, ↑	← represents left, arrow
+respected	→, ↑, ↓, ←	↑
+
+Why:
+respected	→, ↑, ←, ↓	↘
+
+
+respected	→, ↓, ↑, ←	↓
+
+Explan
+respected	→, ↓, ←, ↑	↓
+
+Why:
+respected	→, ←, ↑, ↓	↘
+
+
+respected	→, ←, ↓, ↑	←
+
+Why:
+succeeded	↑, ↓, ←, →	↑ represents success.
+succeeded	↑, ↓, →, ←	↑ represents success.
+succeeded	↑, ←, ↓, →	↑ represents success.
+succeeded	↑, ←, →, ↓	↑ represents success.
+succeeded	↑, →, ↓, ←	↑ represents success.
+succeeded	↑, →, ←, ↓	↑ represents success.
+
+succeeded	↓, ↑, ←, →	↓ represents failure, 
+succeeded	↓, ↑, →, ←	↓ represents failure, 
+succeeded	↓, ←, ↑, →	↓ means "failed",
+succeeded	↓, ←, →, ↑	↓ means "failed",
+succeeded	↓, →, ↑, ←	↓ means "preced
+succeeded	↓, →, ←, ↑	↓ means "failed",
+succeeded	←, ↑, ↓, →	←
+
+Why:
+succeeded	←, ↑, →, ↓	←
+
+Explan
+succeeded	←, ↓, ↑, →	←
+
+Why:
+succeeded	←, ↓, →, ↑	←
+
+Why:
+succeeded	←, →, ↑, ↓	←
+
+Why:
+succeeded	←, →, ↓, ↑	←
+
+Why:
+succeeded	→, ↑, ↓, ←	↑
+
+Why:
+succeeded	→, ↑, ←, ↓	↩️
+
+succeeded	→, ↓, ↑, ←	↓
+
+Why:
+succeeded	→, ↓, ←, ↑	↩️
+
+succeeded	→, ←, ↑, ↓	↩️
+
+succeeded	→, ←, ↓, ↑	↩️
+

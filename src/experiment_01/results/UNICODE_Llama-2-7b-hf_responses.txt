@@ -1,0 +1,1440 @@
+fled	↑, ↓, ←, →	↑
+Given the
+fled	↑, ↓, →, ←	↑
+Given the
+fled	↑, ←, ↓, →	↑
+Given the
+fled	↑, ←, →, ↓	↑
+Given the
+fled	↑, →, ↓, ←	↑.
+Given
+fled	↑, →, ←, ↓	↑
+Given the
+fled	↓, ↑, ←, →	↓
+Given the
+fled	↓, ↑, →, ←	↓
+Given the
+fled	↓, ←, ↑, →	↓
+Given the
+fled	↓, ←, →, ↑	↓
+Given the
+fled	↓, →, ↑, ←	↓.
+Given
+fled	↓, →, ←, ↑	↓
+Given the
+fled	←, ↑, ↓, →	↑
+Given the
+fled	←, ↑, →, ↓	↑
+Given the
+fled	←, ↓, ↑, →	←
+Given the
+fled	←, ↓, →, ↑	←
+Given the
+fled	←, →, ↑, ↓	←
+Given the
+fled	←, →, ↓, ↑	←
+Given the
+fled	→, ↑, ↓, ←	↑
+Given the
+fled	→, ↑, ←, ↓	↑
+Given the
+fled	→, ↓, ↑, ←	↑
+Given the
+fled	→, ↓, ←, ↑	↑
+Given the
+fled	→, ←, ↑, ↓	↑
+Given the
+fled	→, ←, ↓, ↑	←
+Given the
+pointed at	↑, ↓, ←, →	↑.
+Given
+pointed at	↑, ↓, →, ←	↑.
+Given
+pointed at	↑, ←, ↓, →	↑.
+Given
+pointed at	↑, ←, →, ↓	↑
+Given the
+pointed at	↑, →, ↓, ←	↑.
+Given
+pointed at	↑, →, ←, ↓	↑.
+Given
+pointed at	↓, ↑, ←, →	↑
+Given the
+pointed at	↓, ↑, →, ←	↑.
+Given
+pointed at	↓, ←, ↑, →	↑
+Given the
+pointed at	↓, ←, →, ↑	↑
+Given the
+pointed at	↓, →, ↑, ←	↑.
+Given
+pointed at	↓, →, ←, ↑	↓.
+Given
+pointed at	←, ↑, ↓, →	↑
+Given the
+pointed at	←, ↑, →, ↓	↑
+Given the
+pointed at	←, ↓, ↑, →	←
+Given the
+pointed at	←, ↓, →, ↑	←
+Given the
+pointed at	←, →, ↑, ↓	↑
+Given the
+pointed at	←, →, ↓, ↑	←
+Given the
+pointed at	→, ↑, ↓, ←	↑.
+Given
+pointed at	→, ↑, ←, ↓	↑.
+Given
+pointed at	→, ↓, ↑, ←	↑.
+Given
+pointed at	→, ↓, ←, ↑	↑
+Given the
+pointed at	→, ←, ↑, ↓	↑
+Given the
+pointed at	→, ←, ↓, ↑	↑
+Given the
+pulled	↑, ↓, ←, →	↑
+Given the
+pulled	↑, ↓, →, ←	↑.
+Given
+pulled	↑, ←, ↓, →	↑
+Given the
+pulled	↑, ←, →, ↓	↑
+Given the
+pulled	↑, →, ↓, ←	↑.
+Given
+pulled	↑, →, ←, ↓	↑
+Given the
+pulled	↓, ↑, ←, →	↑
+Given the
+pulled	↓, ↑, →, ←	↓
+Given the
+pulled	↓, ←, ↑, →	↓
+Given the
+pulled	↓, ←, →, ↑	↑
+Given the
+pulled	↓, →, ↑, ←	↓.
+Given
+pulled	↓, →, ←, ↑	↓
+Given the
+pulled	←, ↑, ↓, →	↑
+Given the
+pulled	←, ↑, →, ↓	↑
+Given the
+pulled	←, ↓, ↑, →	←
+Given the
+pulled	←, ↓, →, ↑	←
+Given the
+pulled	←, →, ↑, ↓	↑
+Given the
+pulled	←, →, ↓, ↑	←
+Given the
+pulled	→, ↑, ↓, ←	↑.
+Given
+pulled	→, ↑, ←, ↓	↑
+Given the
+pulled	→, ↓, ↑, ←	↑
+Given the
+pulled	→, ↓, ←, ↑	↑
+Given the
+pulled	→, ←, ↑, ↓	↑
+Given the
+pulled	→, ←, ↓, ↑	↑
+Given the
+pushed	↑, ↓, ←, →	↑
+Given the
+pushed	↑, ↓, →, ←	↑
+Given the
+pushed	↑, ←, ↓, →	↑
+Given the
+pushed	↑, ←, →, ↓	↑
+Given the
+pushed	↑, →, ↓, ←	↑.
+Given
+pushed	↑, →, ←, ↓	↑
+Given the
+pushed	↓, ↑, ←, →	↓
+Given the
+pushed	↓, ↑, →, ←	↓
+Given the
+pushed	↓, ←, ↑, →	↓
+Given the
+pushed	↓, ←, →, ↑	↓
+Given the
+pushed	↓, →, ↑, ←	↓.
+Given
+pushed	↓, →, ←, ↑	↓
+Given the
+pushed	←, ↑, ↓, →	↑
+Given the
+pushed	←, ↑, →, ↓	↑
+Given the
+pushed	←, ↓, ↑, →	←
+Given the
+pushed	←, ↓, →, ↑	←
+Given the
+pushed	←, →, ↑, ↓	←
+Given the
+pushed	←, →, ↓, ↑	←
+Given the
+pushed	→, ↑, ↓, ←	↑.
+Given
+pushed	→, ↑, ←, ↓	↑
+Given the
+pushed	→, ↓, ↑, ←	↑
+Given the
+pushed	→, ↓, ←, ↑	↑
+Given the
+pushed	→, ←, ↑, ↓	↑
+Given the
+pushed	→, ←, ↓, ↑	←
+Given the
+walked	↑, ↓, ←, →	↑
+Given the
+walked	↑, ↓, →, ←	↑
+Given the
+walked	↑, ←, ↓, →	↑
+Given the
+walked	↑, ←, →, ↓	↑
+Given the
+walked	↑, →, ↓, ←	↑.
+Given
+walked	↑, →, ←, ↓	↑
+Given the
+walked	↓, ↑, ←, →	↓
+Given the
+walked	↓, ↑, →, ←	↓
+Given the
+walked	↓, ←, ↑, →	↓
+Given the
+walked	↓, ←, →, ↑	↓
+Given the
+walked	↓, →, ↑, ←	↓.
+Given
+walked	↓, →, ←, ↑	↓
+Given the
+walked	←, ↑, ↓, →	↑
+Given the
+walked	←, ↑, →, ↓	↑
+Given the
+walked	←, ↓, ↑, →	←
+Given the
+walked	←, ↓, →, ↑	←
+Given the
+walked	←, →, ↑, ↓	←
+Given the
+walked	←, →, ↓, ↑	←
+Given the
+walked	→, ↑, ↓, ←	↑
+Given the
+walked	→, ↑, ←, ↓	↑
+Given the
+walked	→, ↓, ↑, ←	↑
+Given the
+walked	→, ↓, ←, ↑	↑
+Given the
+walked	→, ←, ↑, ↓	↑
+Given the
+walked	→, ←, ↓, ↑	↑
+Given the
+hunted	↑, ↓, ←, →	↑
+Given the
+hunted	↑, ↓, →, ←	↑
+Given the
+hunted	↑, ←, ↓, →	↑
+Given the
+hunted	↑, ←, →, ↓	↑
+Given the
+hunted	↑, →, ↓, ←	↑.
+Given
+hunted	↑, →, ←, ↓	↑
+Given the
+hunted	↓, ↑, ←, →	↓
+Given the
+hunted	↓, ↑, →, ←	↓
+Given the
+hunted	↓, ←, ↑, →	↓
+Given the
+hunted	↓, ←, →, ↑	↑
+Given the
+hunted	↓, →, ↑, ←	↓
+Given the
+hunted	↓, →, ←, ↑	↓
+Given the
+hunted	←, ↑, ↓, →	↑
+Given the
+hunted	←, ↑, →, ↓	↑
+Given the
+hunted	←, ↓, ↑, →	←
+Given the
+hunted	←, ↓, →, ↑	←
+Given the
+hunted	←, →, ↑, ↓	↑
+Given the
+hunted	←, →, ↓, ↑	←
+Given the
+hunted	→, ↑, ↓, ←	↑
+Given the
+hunted	→, ↑, ←, ↓	↑
+Given the
+hunted	→, ↓, ↑, ←	↑
+Given the
+hunted	→, ↓, ←, ↑	↑
+Given the
+hunted	→, ←, ↑, ↓	↑
+Given the
+hunted	→, ←, ↓, ↑	↑
+Given the
+impacted	↑, ↓, ←, →	↑
+Given the
+impacted	↑, ↓, →, ←	↑
+Given the
+impacted	↑, ←, ↓, →	↑
+Given the
+impacted	↑, ←, →, ↓	↑
+Given the
+impacted	↑, →, ↓, ←	↑
+Given the
+impacted	↑, →, ←, ↓	↑
+Given the
+impacted	↓, ↑, ←, →	↓
+Given the
+impacted	↓, ↑, →, ←	↓
+Given the
+impacted	↓, ←, ↑, →	↓
+Given the
+impacted	↓, ←, →, ↑	↑
+Given the
+impacted	↓, →, ↑, ←	↓
+Given the
+impacted	↓, →, ←, ↑	↓
+Given the
+impacted	←, ↑, ↓, →	↑
+Given the
+impacted	←, ↑, →, ↓	↑
+Given the
+impacted	←, ↓, ↑, →	←
+Given the
+impacted	←, ↓, →, ↑	←
+Given the
+impacted	←, →, ↑, ↓	↑
+Given the
+impacted	←, →, ↓, ↑	←
+Given the
+impacted	→, ↑, ↓, ←	↑
+Given the
+impacted	→, ↑, ←, ↓	↑
+Given the
+impacted	→, ↓, ↑, ←	↑
+Given the
+impacted	→, ↓, ←, ↑	↑
+Given the
+impacted	→, ←, ↑, ↓	↑
+Given the
+impacted	→, ←, ↓, ↑	↑
+Given the
+perched	↑, ↓, ←, →	↑
+Given the
+perched	↑, ↓, →, ←	↑
+Given the
+perched	↑, ←, ↓, →	↑
+Given the
+perched	↑, ←, →, ↓	↑
+Given the
+perched	↑, →, ↓, ←	↑.
+Given
+perched	↑, →, ←, ↓	↑
+Given the
+perched	↓, ↑, ←, →	↓
+Given the
+perched	↓, ↑, →, ←	↓
+Given the
+perched	↓, ←, ↑, →	↓
+Given the
+perched	↓, ←, →, ↑	↑
+Given the
+perched	↓, →, ↑, ←	↓.
+Given
+perched	↓, →, ←, ↑	↓
+Given the
+perched	←, ↑, ↓, →	↑
+Given the
+perched	←, ↑, →, ↓	↑
+Given the
+perched	←, ↓, ↑, →	←
+Given the
+perched	←, ↓, →, ↑	←
+Given the
+perched	←, →, ↑, ↓	←
+Given the
+perched	←, →, ↓, ↑	←
+Given the
+perched	→, ↑, ↓, ←	↑
+Given the
+perched	→, ↑, ←, ↓	↑
+Given the
+perched	→, ↓, ↑, ←	↑
+Given the
+perched	→, ↓, ←, ↑	↑
+Given the
+perched	→, ←, ↑, ↓	↑
+Given the
+perched	→, ←, ↓, ↑	↑
+Given the
+showed	↑, ↓, ←, →	↑
+Given the
+showed	↑, ↓, →, ←	↑
+Given the
+showed	↑, ←, ↓, →	↑
+Given the
+showed	↑, ←, →, ↓	↑
+Given the
+showed	↑, →, ↓, ←	↑.
+Given
+showed	↑, →, ←, ↓	↑.
+Given
+showed	↓, ↑, ←, →	↑
+Given the
+showed	↓, ↑, →, ←	↓.
+Given
+showed	↓, ←, ↑, →	↓
+Given the
+showed	↓, ←, →, ↑	↑
+Given the
+showed	↓, →, ↑, ←	↓.
+Given
+showed	↓, →, ←, ↑	↓
+Given the
+showed	←, ↑, ↓, →	↑
+Given the
+showed	←, ↑, →, ↓	↑
+Given the
+showed	←, ↓, ↑, →	←
+Given the
+showed	←, ↓, →, ↑	←
+Given the
+showed	←, →, ↑, ↓	↑
+Given the
+showed	←, →, ↓, ↑	←
+Given the
+showed	→, ↑, ↓, ←	↑.
+Given
+showed	→, ↑, ←, ↓	↑
+Given the
+showed	→, ↓, ↑, ←	↑.
+Given
+showed	→, ↓, ←, ↑	↑
+Given the
+showed	→, ←, ↑, ↓	↑
+Given the
+showed	→, ←, ↓, ↑	↑
+Given the
+smashed	↑, ↓, ←, →	↑
+Given the
+smashed	↑, ↓, →, ←	↑
+Given the
+smashed	↑, ←, ↓, →	↑
+Given the
+smashed	↑, ←, →, ↓	↑
+Given the
+smashed	↑, →, ↓, ←	↑.
+Given
+smashed	↑, →, ←, ↓	↑
+Given the
+smashed	↓, ↑, ←, →	↓
+Given the
+smashed	↓, ↑, →, ←	↓
+Given the
+smashed	↓, ←, ↑, →	↓
+Given the
+smashed	↓, ←, →, ↑	↑
+Given the
+smashed	↓, →, ↑, ←	↓.
+Given
+smashed	↓, →, ←, ↑	↓
+Given the
+smashed	←, ↑, ↓, →	↑
+Given the
+smashed	←, ↑, →, ↓	↑
+Given the
+smashed	←, ↓, ↑, →	←
+Given the
+smashed	←, ↓, →, ↑	←
+Given the
+smashed	←, →, ↑, ↓	←
+Given the
+smashed	←, →, ↓, ↑	←
+Given the
+smashed	→, ↑, ↓, ←	↑
+Given the
+smashed	→, ↑, ←, ↓	↑
+Given the
+smashed	→, ↓, ↑, ←	↑
+Given the
+smashed	→, ↓, ←, ↑	↑
+Given the
+smashed	→, ←, ↑, ↓	↑
+Given the
+smashed	→, ←, ↓, ↑	↑
+Given the
+bombed	↑, ↓, ←, →	↑
+Given the
+bombed	↑, ↓, →, ←	↑
+Given the
+bombed	↑, ←, ↓, →	↑
+Given the
+bombed	↑, ←, →, ↓	↑
+Given the
+bombed	↑, →, ↓, ←	↑.
+Given
+bombed	↑, →, ←, ↓	↑
+Given the
+bombed	↓, ↑, ←, →	↓
+Given the
+bombed	↓, ↑, →, ←	↓
+Given the
+bombed	↓, ←, ↑, →	↓
+Given the
+bombed	↓, ←, →, ↑	↑
+Given the
+bombed	↓, →, ↑, ←	↓
+Given the
+bombed	↓, →, ←, ↑	↓
+Given the
+bombed	←, ↑, ↓, →	↑
+Given the
+bombed	←, ↑, →, ↓	↑
+Given the
+bombed	←, ↓, ↑, →	←
+Given the
+bombed	←, ↓, →, ↑	←
+Given the
+bombed	←, →, ↑, ↓	↑
+Given the
+bombed	←, →, ↓, ↑	←
+Given the
+bombed	→, ↑, ↓, ←	↑
+Given the
+bombed	→, ↑, ←, ↓	↑
+Given the
+bombed	→, ↓, ↑, ←	↑
+Given the
+bombed	→, ↓, ←, ↑	↑
+Given the
+bombed	→, ←, ↑, ↓	↑
+Given the
+bombed	→, ←, ↓, ↑	↑
+Given the
+flew	↑, ↓, ←, →	↑
+Given the
+flew	↑, ↓, →, ←	↑
+Given the
+flew	↑, ←, ↓, →	↑
+Given the
+flew	↑, ←, →, ↓	↑
+Given the
+flew	↑, →, ↓, ←	↑.
+Given
+flew	↑, →, ←, ↓	↑
+Given the
+flew	↓, ↑, ←, →	↑
+Given the
+flew	↓, ↑, →, ←	↓
+Given the
+flew	↓, ←, ↑, →	↓
+Given the
+flew	↓, ←, →, ↑	↑
+Given the
+flew	↓, →, ↑, ←	↓.
+Given
+flew	↓, →, ←, ↑	↓
+Given the
+flew	←, ↑, ↓, →	↑
+Given the
+flew	←, ↑, →, ↓	↑
+Given the
+flew	←, ↓, ↑, →	←
+Given the
+flew	←, ↓, →, ↑	←
+Given the
+flew	←, →, ↑, ↓	↑
+Given the
+flew	←, →, ↓, ↑	←
+Given the
+flew	→, ↑, ↓, ←	↑
+Given the
+flew	→, ↑, ←, ↓	↑
+Given the
+flew	→, ↓, ↑, ←	↑
+Given the
+flew	→, ↓, ←, ↑	↑
+Given the
+flew	→, ←, ↑, ↓	↑
+Given the
+flew	→, ←, ↓, ↑	↑
+Given the
+floated	↑, ↓, ←, →	↑
+Given the
+floated	↑, ↓, →, ←	↑.
+Which
+floated	↑, ←, ↓, →	↑
+Given the
+floated	↑, ←, →, ↓	↑
+Given the
+floated	↑, →, ↓, ←	↑.
+Which
+floated	↑, →, ←, ↓	↑.
+Which
+floated	↓, ↑, ←, →	↑
+Given the
+floated	↓, ↑, →, ←	↓.
+Given
+floated	↓, ←, ↑, →	↓
+Given the
+floated	↓, ←, →, ↑	↑
+Given the
+floated	↓, →, ↑, ←	↓.
+Given
+floated	↓, →, ←, ↑	↓.
+Given
+floated	←, ↑, ↓, →	↑
+Given the
+floated	←, ↑, →, ↓	↑
+Given the
+floated	←, ↓, ↑, →	←
+Given the
+floated	←, ↓, →, ↑	←
+Given the
+floated	←, →, ↑, ↓	←
+Given the
+floated	←, →, ↓, ↑	←
+Given the
+floated	→, ↑, ↓, ←	↑.
+Which
+floated	→, ↑, ←, ↓	↑
+Given the
+floated	→, ↓, ↑, ←	↑
+Given the
+floated	→, ↓, ←, ↑	↑
+Given the
+floated	→, ←, ↑, ↓	↑
+Given the
+floated	→, ←, ↓, ↑	←
+Given the
+lifted	↑, ↓, ←, →	↑
+Given the
+lifted	↑, ↓, →, ←	↑.
+Given
+lifted	↑, ←, ↓, →	↑
+Given the
+lifted	↑, ←, →, ↓	↑
+Given the
+lifted	↑, →, ↓, ←	↑.
+Given
+lifted	↑, →, ←, ↓	↑.
+Given
+lifted	↓, ↑, ←, →	↑
+Given the
+lifted	↓, ↑, →, ←	↓.
+Given
+lifted	↓, ←, ↑, →	↓
+Given the
+lifted	↓, ←, →, ↑	↑
+Given the
+lifted	↓, →, ↑, ←	↑.
+Given
+lifted	↓, →, ←, ↑	↓.
+Given
+lifted	←, ↑, ↓, →	↑
+Given the
+lifted	←, ↑, →, ↓	↑
+Given the
+lifted	←, ↓, ↑, →	↑
+Given the
+lifted	←, ↓, →, ↑	←
+Given the
+lifted	←, →, ↑, ↓	↑
+Given the
+lifted	←, →, ↓, ↑	←
+Given the
+lifted	→, ↑, ↓, ←	↑.
+Given
+lifted	→, ↑, ←, ↓	↑
+Given the
+lifted	→, ↓, ↑, ←	↑
+Given the
+lifted	→, ↓, ←, ↑	↑
+Given the
+lifted	→, ←, ↑, ↓	↑
+Given the
+lifted	→, ←, ↓, ↑	↑
+Given the
+sank	↑, ↓, ←, →	↑
+Given the
+sank	↑, ↓, →, ←	↑.
+Given
+sank	↑, ←, ↓, →	↑
+Given the
+sank	↑, ←, →, ↓	↑
+Given the
+sank	↑, →, ↓, ←	↑.
+Given
+sank	↑, →, ←, ↓	↑.
+Given
+sank	↓, ↑, ←, →	↑
+Given the
+sank	↓, ↑, →, ←	↓.
+Given
+sank	↓, ←, ↑, →	↓
+Given the
+sank	↓, ←, →, ↑	↑
+Given the
+sank	↓, →, ↑, ←	↓.
+Given
+sank	↓, →, ←, ↑	↓.
+Given
+sank	←, ↑, ↓, →	↑
+Given the
+sank	←, ↑, →, ↓	↑
+Given the
+sank	←, ↓, ↑, →	←
+Given the
+sank	←, ↓, →, ↑	←
+Given the
+sank	←, →, ↑, ↓	↑
+Given the
+sank	←, →, ↓, ↑	←
+Given the
+sank	→, ↑, ↓, ←	↑.
+Given
+sank	→, ↑, ←, ↓	↑
+Given the
+sank	→, ↓, ↑, ←	↑
+Given the
+sank	→, ↓, ←, ↑	↑
+Given the
+sank	→, ←, ↑, ↓	↑
+Given the
+sank	→, ←, ↓, ↑	←
+Given the
+argued with	↑, ↓, ←, →	↑
+Given the
+argued with	↑, ↓, →, ←	↑
+Given the
+argued with	↑, ←, ↓, →	↑
+Given the
+argued with	↑, ←, →, ↓	↑
+Given the
+argued with	↑, →, ↓, ←	↑
+Given the
+argued with	↑, →, ←, ↓	↑
+Given the
+argued with	↓, ↑, ←, →	↓
+Given the
+argued with	↓, ↑, →, ←	↓
+Given the
+argued with	↓, ←, ↑, →	↓
+Given the
+argued with	↓, ←, →, ↑	↓
+Given the
+argued with	↓, →, ↑, ←	↓
+Given the
+argued with	↓, →, ←, ↑	↓
+Given the
+argued with	←, ↑, ↓, →	↑
+Given the
+argued with	←, ↑, →, ↓	↑
+Given the
+argued with	←, ↓, ↑, →	←
+Given the
+argued with	←, ↓, →, ↑	←
+Given the
+argued with	←, →, ↑, ↓	↑
+Given the
+argued with	←, →, ↓, ↑	←
+Given the
+argued with	→, ↑, ↓, ←	↑
+Given the
+argued with	→, ↑, ←, ↓	↑
+Given the
+argued with	→, ↓, ↑, ←	↓
+Given the
+argued with	→, ↓, ←, ↑	↓
+Given the
+argued with	→, ←, ↑, ↓	↑
+Given the
+argued with	→, ←, ↓, ↑	↓
+Given the
+gave to	↑, ↓, ←, →	↑
+Given the
+gave to	↑, ↓, →, ←	↑
+Given the
+gave to	↑, ←, ↓, →	↑
+Given the
+gave to	↑, ←, →, ↓	↑
+Given the
+gave to	↑, →, ↓, ←	↑
+Given the
+gave to	↑, →, ←, ↓	↑
+Given the
+gave to	↓, ↑, ←, →	↑
+Given the
+gave to	↓, ↑, →, ←	↓
+Given the
+gave to	↓, ←, ↑, →	↓
+Given the
+gave to	↓, ←, →, ↑	↑
+Given the
+gave to	↓, →, ↑, ←	↓
+Given the
+gave to	↓, →, ←, ↑	↓
+Given the
+gave to	←, ↑, ↓, →	↑
+Given the
+gave to	←, ↑, →, ↓	↑
+Given the
+gave to	←, ↓, ↑, →	←
+Given the
+gave to	←, ↓, →, ↑	←
+Given the
+gave to	←, →, ↑, ↓	↑
+Given the
+gave to	←, →, ↓, ↑	←
+Given the
+gave to	→, ↑, ↓, ←	↑
+Given the
+gave to	→, ↑, ←, ↓	↑
+Given the
+gave to	→, ↓, ↑, ←	↑
+Given the
+gave to	→, ↓, ←, ↑	↑
+Given the
+gave to	→, ←, ↑, ↓	↑
+Given the
+gave to	→, ←, ↓, ↑	↑
+Given the
+offended	↑, ↓, ←, →	↑
+Given the
+offended	↑, ↓, →, ←	↑
+Given the
+offended	↑, ←, ↓, →	↑
+Given the
+offended	↑, ←, →, ↓	↑
+Given the
+offended	↑, →, ↓, ←	↑
+Given the
+offended	↑, →, ←, ↓	↑
+Given the
+offended	↓, ↑, ←, →	↓
+Given the
+offended	↓, ↑, →, ←	↓
+Given the
+offended	↓, ←, ↑, →	↓
+Given the
+offended	↓, ←, →, ↑	↑
+Given the
+offended	↓, →, ↑, ←	↓
+Given the
+offended	↓, →, ←, ↑	↓
+Given the
+offended	←, ↑, ↓, →	↑
+Given the
+offended	←, ↑, →, ↓	↑
+Given the
+offended	←, ↓, ↑, →	←
+Given the
+offended	←, ↓, →, ↑	←
+Given the
+offended	←, →, ↑, ↓	←
+Given the
+offended	←, →, ↓, ↑	←
+Given the
+offended	→, ↑, ↓, ←	↑
+Given the
+offended	→, ↑, ←, ↓	↑
+Given the
+offended	→, ↓, ↑, ←	↑
+Given the
+offended	→, ↓, ←, ↑	↑
+Given the
+offended	→, ←, ↑, ↓	↑
+Given the
+offended	→, ←, ↓, ↑	↑
+Given the
+rushed	↑, ↓, ←, →	↑
+Given the
+rushed	↑, ↓, →, ←	↑
+Given the
+rushed	↑, ←, ↓, →	↑
+Given the
+rushed	↑, ←, →, ↓	↑
+Given the
+rushed	↑, →, ↓, ←	↑
+Given the
+rushed	↑, →, ←, ↓	↑
+Given the
+rushed	↓, ↑, ←, →	↓
+Given the
+rushed	↓, ↑, →, ←	↓
+Given the
+rushed	↓, ←, ↑, →	↓
+Given the
+rushed	↓, ←, →, ↑	↑
+Given the
+rushed	↓, →, ↑, ←	↓
+Given the
+rushed	↓, →, ←, ↑	↓
+Given the
+rushed	←, ↑, ↓, →	↑
+Given the
+rushed	←, ↑, →, ↓	↑
+Given the
+rushed	←, ↓, ↑, →	←
+Given the
+rushed	←, ↓, →, ↑	←
+Given the
+rushed	←, →, ↑, ↓	←
+Given the
+rushed	←, →, ↓, ↑	←
+Given the
+rushed	→, ↑, ↓, ←	↑
+Given the
+rushed	→, ↑, ←, ↓	↑
+Given the
+rushed	→, ↓, ↑, ←	↑
+Given the
+rushed	→, ↓, ←, ↑	↑
+Given the
+rushed	→, ←, ↑, ↓	↑
+Given the
+rushed	→, ←, ↓, ↑	↑
+Given the
+warned	↑, ↓, ←, →	↑
+Given the
+warned	↑, ↓, →, ←	↑
+Given the
+warned	↑, ←, ↓, →	↑
+Given the
+warned	↑, ←, →, ↓	↑
+Given the
+warned	↑, →, ↓, ←	↑.
+Given
+warned	↑, →, ←, ↓	↑
+Given the
+warned	↓, ↑, ←, →	↓
+Given the
+warned	↓, ↑, →, ←	↓
+Given the
+warned	↓, ←, ↑, →	↓
+Given the
+warned	↓, ←, →, ↑	↑
+Given the
+warned	↓, →, ↑, ←	↓
+Given the
+warned	↓, →, ←, ↑	↓
+Given the
+warned	←, ↑, ↓, →	↑
+Given the
+warned	←, ↑, →, ↓	↑
+Given the
+warned	←, ↓, ↑, →	←
+Given the
+warned	←, ↓, →, ↑	←
+Given the
+warned	←, →, ↑, ↓	↑
+Given the
+warned	←, →, ↓, ↑	←
+Given the
+warned	→, ↑, ↓, ←	↑
+Given the
+warned	→, ↑, ←, ↓	↑
+Given the
+warned	→, ↓, ↑, ←	↑
+Given the
+warned	→, ↓, ←, ↑	↑
+Given the
+warned	→, ←, ↑, ↓	↑
+Given the
+warned	→, ←, ↓, ↑	←
+Given the
+owned	↑, ↓, ←, →	↑
+Given the
+owned	↑, ↓, →, ←	↑.
+Given
+owned	↑, ←, ↓, →	↑
+Given the
+owned	↑, ←, →, ↓	↑
+Given the
+owned	↑, →, ↓, ←	↑.
+Given
+owned	↑, →, ←, ↓	↑.
+Given
+owned	↓, ↑, ←, →	↑
+Given the
+owned	↓, ↑, →, ←	↓
+Given the
+owned	↓, ←, ↑, →	↓
+Given the
+owned	↓, ←, →, ↑	↑
+Given the
+owned	↓, →, ↑, ←	↓.
+Given
+owned	↓, →, ←, ↑	↓
+Given the
+owned	←, ↑, ↓, →	↑
+Given the
+owned	←, ↑, →, ↓	↑
+Given the
+owned	←, ↓, ↑, →	←
+Given the
+owned	←, ↓, →, ↑	←
+Given the
+owned	←, →, ↑, ↓	↑
+Given the
+owned	←, →, ↓, ↑	←
+Given the
+owned	→, ↑, ↓, ←	↑.
+Given
+owned	→, ↑, ←, ↓	↑
+Given the
+owned	→, ↓, ↑, ←	↑
+Given the
+owned	→, ↓, ←, ↑	↑
+Given the
+owned	→, ←, ↑, ↓	↑
+Given the
+owned	→, ←, ↓, ↑	←
+Given the
+regretted	↑, ↓, ←, →	↑
+Given the
+regretted	↑, ↓, →, ←	↑
+Given the
+regretted	↑, ←, ↓, →	↑
+Given the
+regretted	↑, ←, →, ↓	↑
+Given the
+regretted	↑, →, ↓, ←	↑
+Given the
+regretted	↑, →, ←, ↓	↑
+Given the
+regretted	↓, ↑, ←, →	↓
+Given the
+regretted	↓, ↑, →, ←	↓
+Given the
+regretted	↓, ←, ↑, →	↓
+Given the
+regretted	↓, ←, →, ↑	↓
+Given the
+regretted	↓, →, ↑, ←	↓
+Given the
+regretted	↓, →, ←, ↑	↓
+Given the
+regretted	←, ↑, ↓, →	↑
+Given the
+regretted	←, ↑, →, ↓	↑
+Given the
+regretted	←, ↓, ↑, →	←
+Given the
+regretted	←, ↓, →, ↑	←
+Given the
+regretted	←, →, ↑, ↓	←
+Given the
+regretted	←, →, ↓, ↑	←
+Given the
+regretted	→, ↑, ↓, ←	↑
+Given the
+regretted	→, ↑, ←, ↓	↑
+Given the
+regretted	→, ↓, ↑, ←	↑
+Given the
+regretted	→, ↓, ←, ↑	↑
+Given the
+regretted	→, ←, ↑, ↓	↑
+Given the
+regretted	→, ←, ↓, ↑	↑
+Given the
+rested	↑, ↓, ←, →	↑
+Given the
+rested	↑, ↓, →, ←	↑
+Given the
+rested	↑, ←, ↓, →	↑
+Given the
+rested	↑, ←, →, ↓	↑
+Given the
+rested	↑, →, ↓, ←	↑
+Given the
+rested	↑, →, ←, ↓	↑
+Given the
+rested	↓, ↑, ←, →	↓
+Given the
+rested	↓, ↑, →, ←	↓
+Given the
+rested	↓, ←, ↑, →	↓
+Given the
+rested	↓, ←, →, ↑	↑
+Given the
+rested	↓, →, ↑, ←	↓
+Given the
+rested	↓, →, ←, ↑	↓
+Given the
+rested	←, ↑, ↓, →	↑
+Given the
+rested	←, ↑, →, ↓	↑
+Given the
+rested	←, ↓, ↑, →	←
+Given the
+rested	←, ↓, →, ↑	←
+Given the
+rested	←, →, ↑, ↓	↑
+Given the
+rested	←, →, ↓, ↑	←
+Given the
+rested	→, ↑, ↓, ←	↑
+Given the
+rested	→, ↑, ←, ↓	↑
+Given the
+rested	→, ↓, ↑, ←	↑
+Given the
+rested	→, ↓, ←, ↑	↑
+Given the
+rested	→, ←, ↑, ↓	↑
+Given the
+rested	→, ←, ↓, ↑	↑
+Given the
+tempted	↑, ↓, ←, →	↑
+Given the
+tempted	↑, ↓, →, ←	↑
+Given the
+tempted	↑, ←, ↓, →	↑
+Given the
+tempted	↑, ←, →, ↓	↑
+Given the
+tempted	↑, →, ↓, ←	↑.
+Given
+tempted	↑, →, ←, ↓	↑
+Given the
+tempted	↓, ↑, ←, →	↓
+Given the
+tempted	↓, ↑, →, ←	↓
+Given the
+tempted	↓, ←, ↑, →	↓
+Given the
+tempted	↓, ←, →, ↑	↓
+Given the
+tempted	↓, →, ↑, ←	↓
+Given the
+tempted	↓, →, ←, ↑	↓
+Given the
+tempted	←, ↑, ↓, →	↑
+Given the
+tempted	←, ↑, →, ↓	↑
+Given the
+tempted	←, ↓, ↑, →	←
+Given the
+tempted	←, ↓, →, ↑	←
+Given the
+tempted	←, →, ↑, ↓	↑
+Given the
+tempted	←, →, ↓, ↑	←
+Given the
+tempted	→, ↑, ↓, ←	↑
+Given the
+tempted	→, ↑, ←, ↓	↑
+Given the
+tempted	→, ↓, ↑, ←	↑
+Given the
+tempted	→, ↓, ←, ↑	↓
+Given the
+tempted	→, ←, ↑, ↓	↑
+Given the
+tempted	→, ←, ↓, ↑	←
+Given the
+wanted	↑, ↓, ←, →	↑
+Given the
+wanted	↑, ↓, →, ←	↑.
+Given
+wanted	↑, ←, ↓, →	↑
+Given the
+wanted	↑, ←, →, ↓	↑
+Given the
+wanted	↑, →, ↓, ←	↑.
+Given
+wanted	↑, →, ←, ↓	↑.
+Given
+wanted	↓, ↑, ←, →	↑
+Given the
+wanted	↓, ↑, →, ←	↓.
+Given
+wanted	↓, ←, ↑, →	↓
+Given the
+wanted	↓, ←, →, ↑	↑
+Given the
+wanted	↓, →, ↑, ←	↓.
+Given
+wanted	↓, →, ←, ↑	↓
+Given the
+wanted	←, ↑, ↓, →	↑
+Given the
+wanted	←, ↑, →, ↓	↑
+Given the
+wanted	←, ↓, ↑, →	←
+Given the
+wanted	←, ↓, →, ↑	←
+Given the
+wanted	←, →, ↑, ↓	←
+Given the
+wanted	←, →, ↓, ↑	←
+Given the
+wanted	→, ↑, ↓, ←	↑.
+Given
+wanted	→, ↑, ←, ↓	↑
+Given the
+wanted	→, ↓, ↑, ←	↑
+Given the
+wanted	→, ↓, ←, ↑	↑
+Given the
+wanted	→, ←, ↑, ↓	↑
+Given the
+wanted	→, ←, ↓, ↑	←
+Given the
+hoped	↑, ↓, ←, →	↑
+Given the
+hoped	↑, ↓, →, ←	↑
+Given the
+hoped	↑, ←, ↓, →	↑
+Given the
+hoped	↑, ←, →, ↓	↑
+Given the
+hoped	↑, →, ↓, ←	↑.
+Given
+hoped	↑, →, ←, ↓	↑
+Given the
+hoped	↓, ↑, ←, →	↓
+Given the
+hoped	↓, ↑, →, ←	↓
+Given the
+hoped	↓, ←, ↑, →	↓
+Given the
+hoped	↓, ←, →, ↑	↓
+Given the
+hoped	↓, →, ↑, ←	↓.
+Given
+hoped	↓, →, ←, ↑	↓
+Given the
+hoped	←, ↑, ↓, →	↑
+Given the
+hoped	←, ↑, →, ↓	↑
+Given the
+hoped	←, ↓, ↑, →	←
+Given the
+hoped	←, ↓, →, ↑	←
+Given the
+hoped	←, →, ↑, ↓	↑
+Given the
+hoped	←, →, ↓, ↑	←
+Given the
+hoped	→, ↑, ↓, ←	↑
+Given the
+hoped	→, ↑, ←, ↓	↑
+Given the
+hoped	→, ↓, ↑, ←	↑
+Given the
+hoped	→, ↓, ←, ↑	↓
+Given the
+hoped	→, ←, ↑, ↓	↑
+Given the
+hoped	→, ←, ↓, ↑	↓
+Given the
+increased	↑, ↓, ←, →	↑
+Given the
+increased	↑, ↓, →, ←	↑
+Given the
+increased	↑, ←, ↓, →	↑
+Given the
+increased	↑, ←, →, ↓	↑
+Given the
+increased	↑, →, ↓, ←	↑.
+Given
+increased	↑, →, ←, ↓	↑
+Given the
+increased	↓, ↑, ←, →	↑
+Given the
+increased	↓, ↑, →, ←	↓
+Given the
+increased	↓, ←, ↑, →	↑
+Given the
+increased	↓, ←, →, ↑	↑
+Given the
+increased	↓, →, ↑, ←	↑
+Given the
+increased	↓, →, ←, ↑	↓
+Given the
+increased	←, ↑, ↓, →	↑
+Given the
+increased	←, ↑, →, ↓	↑
+Given the
+increased	←, ↓, ↑, →	↑
+Given the
+increased	←, ↓, →, ↑	↑
+Given the
+increased	←, →, ↑, ↓	↑
+Given the
+increased	←, →, ↓, ↑	↑
+Given the
+increased	→, ↑, ↓, ←	↑
+Given the
+increased	→, ↑, ←, ↓	↑
+Given the
+increased	→, ↓, ↑, ←	↑
+Given the
+increased	→, ↓, ←, ↑	↑
+Given the
+increased	→, ←, ↑, ↓	↑
+Given the
+increased	→, ←, ↓, ↑	↑
+Given the
+obeyed	↑, ↓, ←, →	↑
+Given the
+obeyed	↑, ↓, →, ←	↑
+Given the
+obeyed	↑, ←, ↓, →	↑
+Given the
+obeyed	↑, ←, →, ↓	↑
+Given the
+obeyed	↑, →, ↓, ←	↑
+Given the
+obeyed	↑, →, ←, ↓	↑
+Given the
+obeyed	↓, ↑, ←, →	↓
+Given the
+obeyed	↓, ↑, →, ←	↓
+Given the
+obeyed	↓, ←, ↑, →	↓
+Given the
+obeyed	↓, ←, →, ↑	↓
+Given the
+obeyed	↓, →, ↑, ←	↓
+Given the
+obeyed	↓, →, ←, ↑	↓
+Given the
+obeyed	←, ↑, ↓, →	↑
+Given the
+obeyed	←, ↑, →, ↓	↑
+Given the
+obeyed	←, ↓, ↑, →	←
+Given the
+obeyed	←, ↓, →, ↑	←
+Given the
+obeyed	←, →, ↑, ↓	←
+Given the
+obeyed	←, →, ↓, ↑	←
+Given the
+obeyed	→, ↑, ↓, ←	↑
+Given the
+obeyed	→, ↑, ←, ↓	↑
+Given the
+obeyed	→, ↓, ↑, ←	↓
+Given the
+obeyed	→, ↓, ←, ↑	↓
+Given the
+obeyed	→, ←, ↑, ↓	↑
+Given the
+obeyed	→, ←, ↓, ↑	↓
+Given the
+respected	↑, ↓, ←, →	↑
+Given the
+respected	↑, ↓, →, ←	↑.
+Given
+respected	↑, ←, ↓, →	↑
+Given the
+respected	↑, ←, →, ↓	↑
+Given the
+respected	↑, →, ↓, ←	↑.
+Given
+respected	↑, →, ←, ↓	↑.
+Given
+respected	↓, ↑, ←, →	↓
+Given the
+respected	↓, ↑, →, ←	↓.
+Given
+respected	↓, ←, ↑, →	↓
+Given the
+respected	↓, ←, →, ↑	↓
+Given the
+respected	↓, →, ↑, ←	↓.
+Given
+respected	↓, →, ←, ↑	↓.
+Given
+respected	←, ↑, ↓, →	↑
+Given the
+respected	←, ↑, →, ↓	↑
+Given the
+respected	←, ↓, ↑, →	←
+Given the
+respected	←, ↓, →, ↑	←
+Given the
+respected	←, →, ↑, ↓	↑
+Given the
+respected	←, →, ↓, ↑	←
+Given the
+respected	→, ↑, ↓, ←	↑.
+Given
+respected	→, ↑, ←, ↓	↑
+Given the
+respected	→, ↓, ↑, ←	↑
+Given the
+respected	→, ↓, ←, ↑	↑
+Given the
+respected	→, ←, ↑, ↓	↑
+Given the
+respected	→, ←, ↓, ↑	↑
+Given the
+succeeded	↑, ↓, ←, →	↑
+Given the
+succeeded	↑, ↓, →, ←	↑.
+Given
+succeeded	↑, ←, ↓, →	↑
+Given the
+succeeded	↑, ←, →, ↓	↑
+Given the
+succeeded	↑, →, ↓, ←	↑.
+Given
+succeeded	↑, →, ←, ↓	↑.
+Given
+succeeded	↓, ↑, ←, →	↑.
+Given
+succeeded	↓, ↑, →, ←	↓.
+Given
+succeeded	↓, ←, ↑, →	↓
+Given the
+succeeded	↓, ←, →, ↑	↓.
+Given
+succeeded	↓, →, ↑, ←	↓.
+Given
+succeeded	↓, →, ←, ↑	↓.
+Given
+succeeded	←, ↑, ↓, →	↑
+Given the
+succeeded	←, ↑, →, ↓	↑
+Given the
+succeeded	←, ↓, ↑, →	←
+Given the
+succeeded	←, ↓, →, ↑	←
+Given the
+succeeded	←, →, ↑, ↓	←
+Given the
+succeeded	←, →, ↓, ↑	←
+Given the
+succeeded	→, ↑, ↓, ←	↑.
+Given
+succeeded	→, ↑, ←, ↓	↑.
+Given
+succeeded	→, ↓, ↑, ←	↑.
+Given
+succeeded	→, ↓, ←, ↑	↓.
+Given
+succeeded	→, ←, ↑, ↓	↑
+Given the
+succeeded	→, ←, ↓, ↑	←
+Given the

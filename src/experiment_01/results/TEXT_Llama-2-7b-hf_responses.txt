@@ -1,0 +1,1460 @@
+fled	up, down, left, right	left'.
+Given
+fled	up, down, right, left	left'.
+Given
+fled	up, left, down, right	left'.
+Given
+fled	up, left, right, down	left'.
+Given
+fled	up, right, down, left	left'.
+Given
+fled	up, right, left, down	left'.
+Given
+fled	down, up, left, right	left'.
+Given
+fled	down, up, right, left	up'.
+Given
+fled	down, left, up, right	left'.
+Given
+fled	down, left, right, up	left'.
+Given
+fled	down, right, up, left	left'.
+Given
+fled	down, right, left, up	left'.
+Given
+fled	left, up, down, right	left'.
+Given
+fled	left, up, right, down	left'.
+Given
+fled	left, down, up, right	left'.
+Given
+fled	left, down, right, up	left'.
+Given
+fled	left, right, up, down	left'.
+Given
+fled	left, right, down, up	left'.
+Given
+fled	right, up, down, left	left'.
+Given
+fled	right, up, left, down	left'.
+Given
+fled	right, down, up, left	left'.
+Given
+fled	right, down, left, up	left'.
+Given
+fled	right, left, up, down	left'.
+Given
+fled	right, left, down, up	left'.
+Given
+pointed at	up, down, left, right	left'.
+For the
+pointed at	up, down, right, left	down'.
+For the
+pointed at	up, left, down, right	down'.
+For the
+pointed at	up, left, right, down	left'.
+Given
+pointed at	up, right, down, left	up'.
+For the
+pointed at	up, right, left, down	up'.
+Given
+pointed at	down, up, left, right	up'.
+For the
+pointed at	down, up, right, left	up'.
+For the
+pointed at	down, left, up, right	left'.
+Given
+pointed at	down, left, right, up	left'.
+Given
+pointed at	down, right, up, left	up'.
+For the
+pointed at	down, right, left, up	down'.
+For the
+pointed at	left, up, down, right	up'.
+For the
+pointed at	left, up, right, down	up'.
+Given
+pointed at	left, down, up, right	down'.
+Given
+pointed at	left, down, right, up	down'.
+Given
+pointed at	left, right, up, down	left'.
+Given
+pointed at	left, right, down, up	down'.
+Given
+pointed at	right, up, down, left	up'.
+For the
+pointed at	right, up, left, down	up'.
+Given
+pointed at	right, down, up, left	down'.
+For the
+pointed at	right, down, left, up	down'.
+For the
+pointed at	right, left, up, down	left'.
+For the
+pointed at	right, left, down, up	down'.
+For the
+pulled	up, down, left, right	down'.
+For the
+pulled	up, down, right, left	down'.
+For the
+pulled	up, left, down, right	down'.
+For the
+pulled	up, left, right, down	down'.
+Given
+pulled	up, right, down, left	down'.
+For the
+pulled	up, right, left, down	down'.
+For the
+pulled	down, up, left, right	down'.
+For the
+pulled	down, up, right, left	up'.
+For the
+pulled	down, left, up, right	down'.
+For the
+pulled	down, left, right, up	down'.
+Given
+pulled	down, right, up, left	down'.
+For the
+pulled	down, right, left, up	down'.
+For the
+pulled	left, up, down, right	down'.
+For the
+pulled	left, up, right, down	down'.
+Given
+pulled	left, down, up, right	down'.
+Given
+pulled	left, down, right, up	down'.
+Given
+pulled	left, right, up, down	down'.
+For the
+pulled	left, right, down, up	down'.
+For the
+pulled	right, up, down, left	down'.
+For the
+pulled	right, up, left, down	down'.
+Given
+pulled	right, down, up, left	down'.
+For the
+pulled	right, down, left, up	down'.
+For the
+pulled	right, left, up, down	down'.
+For the
+pulled	right, left, down, up	down'.
+For the
+pushed	up, down, left, right	down'.
+For the
+pushed	up, down, right, left	down'.
+For the
+pushed	up, left, down, right	down'.
+For the
+pushed	up, left, right, down	down'.
+For the
+pushed	up, right, down, left	down'.
+For the
+pushed	up, right, left, down	down'.
+For the
+pushed	down, up, left, right	up'.
+For the
+pushed	down, up, right, left	up'.
+For the
+pushed	down, left, up, right	left'.
+For the
+pushed	down, left, right, up	left'.
+For the
+pushed	down, right, up, left	right'.
+For the
+pushed	down, right, left, up	down'.
+For the
+pushed	left, up, down, right	down'.
+For the
+pushed	left, up, right, down	down'.
+
+Comment
+pushed	left, down, up, right	down'.
+For the
+pushed	left, down, right, up	down'.
+Given
+pushed	left, right, up, down	down'.
+For the
+pushed	left, right, down, up	down'.
+For the
+pushed	right, up, down, left	down'.
+For the
+pushed	right, up, left, down	down'.
+For the
+pushed	right, down, up, left	down'.
+For the
+pushed	right, down, left, up	down'.
+For the
+pushed	right, left, up, down	down'.
+For the
+pushed	right, left, down, up	down'.
+For the
+walked	up, down, left, right	left'.
+For the
+walked	up, down, right, left	right'.
+For the
+walked	up, left, down, right	left'.
+For the
+walked	up, left, right, down	left'.
+Given
+walked	up, right, down, left	right'.
+For the
+walked	up, right, left, down	right'.
+Given
+walked	down, up, left, right	left'.
+For the
+walked	down, up, right, left	up'.
+For the
+walked	down, left, up, right	left'.
+Given
+walked	down, left, right, up	left'.
+Given
+walked	down, right, up, left	right'.
+For the
+walked	down, right, left, up	right'.
+Given
+walked	left, up, down, right	left'.
+For the
+walked	left, up, right, down	left'.
+
+Comment
+walked	left, down, up, right	down'.
+Given
+walked	left, down, right, up	down'.
+Given
+walked	left, right, up, down	left'.
+Given
+walked	left, right, down, up	down'.
+Given
+walked	right, up, down, left	left'.
+For the
+walked	right, up, left, down	left'.
+Given
+walked	right, down, up, left	down'.
+For the
+walked	right, down, left, up	down'.
+Given
+walked	right, left, up, down	left'.
+For the
+walked	right, left, down, up	down'.
+Given
+hunted	up, down, left, right	down'.
+For the
+hunted	up, down, right, left	down'.
+For the
+hunted	up, left, down, right	down'.
+Given
+hunted	up, left, right, down	down'.
+Given
+hunted	up, right, down, left	down'.
+Given
+hunted	up, right, left, down	down'.
+Given
+hunted	down, up, left, right	down'.
+For the
+hunted	down, up, right, left	down'.
+For the
+hunted	down, left, up, right	down'.
+Given
+hunted	down, left, right, up	down'.
+Given
+hunted	down, right, up, left	down'.
+Given
+hunted	down, right, left, up	down'.
+Given
+hunted	left, up, down, right	down'.
+Given
+hunted	left, up, right, down	down'.
+Given
+hunted	left, down, up, right	down'.
+Given
+hunted	left, down, right, up	down'.
+Given
+hunted	left, right, up, down	left'.
+Given
+hunted	left, right, down, up	down'.
+Given
+hunted	right, up, down, left	down'.
+Given
+hunted	right, up, left, down	down'.
+Given
+hunted	right, down, up, left	down'.
+Given
+hunted	right, down, left, up	down'.
+Given
+hunted	right, left, up, down	left'.
+Given
+hunted	right, left, down, up	left'.
+Given
+impacted	up, down, left, right	down'.
+Given
+impacted	up, down, right, left	down'.
+Given
+impacted	up, left, down, right	down'.
+Given
+impacted	up, left, right, down	down'.
+Given
+impacted	up, right, down, left	down'.
+Given
+impacted	up, right, left, down	down'.
+Given
+impacted	down, up, left, right	down'.
+Given
+impacted	down, up, right, left	down'.
+Given
+impacted	down, left, up, right	down'.
+Given
+impacted	down, left, right, up	down'.
+Given
+impacted	down, right, up, left	down'.
+Given
+impacted	down, right, left, up	down'.
+Given
+impacted	left, up, down, right	down'.
+Given
+impacted	left, up, right, down	down'.
+Given
+impacted	left, down, up, right	down'.
+Given
+impacted	left, down, right, up	down'.
+Given
+impacted	left, right, up, down	down'.
+Given
+impacted	left, right, down, up	down'.
+Given
+impacted	right, up, down, left	down'.
+Given
+impacted	right, up, left, down	down'.
+Given
+impacted	right, down, up, left	down'.
+Given
+impacted	right, down, left, up	down'.
+Given
+impacted	right, left, up, down	down'.
+Given
+impacted	right, left, down, up	down'.
+Given
+perched	up, down, left, right	down'.
+Given
+perched	up, down, right, left	up'.
+Given
+perched	up, left, down, right	down'.
+Given
+perched	up, left, right, down	up'.
+Given
+perched	up, right, down, left	up'.
+Given
+perched	up, right, left, down	up'.
+Given
+perched	down, up, left, right	up'.
+Given
+perched	down, up, right, left	up'.
+Given
+perched	down, left, up, right	up'.
+Given
+perched	down, left, right, up	up'.
+Given
+perched	down, right, up, left	up'.
+Given
+perched	down, right, left, up	down'.
+Given
+perched	left, up, down, right	up'.
+Given
+perched	left, up, right, down	up'.
+Given
+perched	left, down, up, right	down'.
+Given
+perched	left, down, right, up	down'.
+Given
+perched	left, right, up, down	up'.
+Given
+perched	left, right, down, up	down'.
+Given
+perched	right, up, down, left	up'.
+Given
+perched	right, up, left, down	up'.
+Given
+perched	right, down, up, left	down'.
+Given
+perched	right, down, left, up	down'.
+Given
+perched	right, left, up, down	up'.
+Given
+perched	right, left, down, up	down'.
+Given
+showed	up, down, left, right	down'.
+For the
+showed	up, down, right, left	down'.
+For the
+showed	up, left, down, right	down'.
+Given
+showed	up, left, right, down	down'.
+Given
+showed	up, right, down, left	down'.
+For the
+showed	up, right, left, down	down'.
+Given
+showed	down, up, left, right	up'.
+For the
+showed	down, up, right, left	up'.
+For the
+showed	down, left, up, right	up'.
+Given
+showed	down, left, right, up	up'.
+Given
+showed	down, right, up, left	up'.
+For the
+showed	down, right, left, up	up'.
+Given
+showed	left, up, down, right	up'.
+Given
+showed	left, up, right, down	up'.
+Given
+showed	left, down, up, right	down'.
+Given
+showed	left, down, right, up	down'.
+Given
+showed	left, right, up, down	up'.
+Given
+showed	left, right, down, up	down'.
+Given
+showed	right, up, down, left	up'.
+For the
+showed	right, up, left, down	up'.
+Given
+showed	right, down, up, left	down'.
+For the
+showed	right, down, left, up	down'.
+Given
+showed	right, left, up, down	up'.
+Given
+showed	right, left, down, up	down'.
+Given
+smashed	up, down, left, right	down'.
+Given
+smashed	up, down, right, left	down'.
+Given
+smashed	up, left, down, right	down'.
+Given
+smashed	up, left, right, down	down'.
+Given
+smashed	up, right, down, left	down'.
+Given
+smashed	up, right, left, down	down'.
+Given
+smashed	down, up, left, right	down'.
+Given
+smashed	down, up, right, left	down'.
+Given
+smashed	down, left, up, right	down'.
+Given
+smashed	down, left, right, up	down'.
+Given
+smashed	down, right, up, left	down'.
+Given
+smashed	down, right, left, up	down'.
+Given
+smashed	left, up, down, right	down'.
+Given
+smashed	left, up, right, down	down'.
+Given
+smashed	left, down, up, right	down'.
+Given
+smashed	left, down, right, up	down'.
+Given
+smashed	left, right, up, down	down'.
+Given
+smashed	left, right, down, up	down'.
+Given
+smashed	right, up, down, left	down'.
+Given
+smashed	right, up, left, down	down'.
+Given
+smashed	right, down, up, left	down'.
+Given
+smashed	right, down, left, up	down'.
+Given
+smashed	right, left, up, down	down'.
+Given
+smashed	right, left, down, up	down'.
+Given
+bombed	up, down, left, right	down'.
+Given
+bombed	up, down, right, left	down'.
+Given
+bombed	up, left, down, right	down'.
+Given
+bombed	up, left, right, down	down'.
+Given
+bombed	up, right, down, left	down'.
+Given
+bombed	up, right, left, down	down'.
+Given
+bombed	down, up, left, right	down'.
+Given
+bombed	down, up, right, left	down'.
+Given
+bombed	down, left, up, right	left'.
+Given
+bombed	down, left, right, up	down'.
+Given
+bombed	down, right, up, left	down'.
+Given
+bombed	down, right, left, up	down'.
+Given
+bombed	left, up, down, right	down'.
+Given
+bombed	left, up, right, down	down'.
+Given
+bombed	left, down, up, right	down'.
+Given
+bombed	left, down, right, up	down'.
+Given
+bombed	left, right, up, down	left'.
+Given
+bombed	left, right, down, up	down'.
+Given
+bombed	right, up, down, left	down'.
+Given
+bombed	right, up, left, down	down'.
+Given
+bombed	right, down, up, left	down'.
+Given
+bombed	right, down, left, up	down'.
+Given
+bombed	right, left, up, down	left'.
+Given
+bombed	right, left, down, up	down'.
+Given
+flew	up, down, left, right	up'.
+For the
+flew	up, down, right, left	up'.
+For the
+flew	up, left, down, right	up'.
+Given
+flew	up, left, right, down	up'.
+Given
+flew	up, right, down, left	up'.
+Given
+flew	up, right, left, down	up'.
+Given
+flew	down, up, left, right	up'.
+Given
+flew	down, up, right, left	up'.
+Given
+flew	down, left, up, right	up'.
+Given
+flew	down, left, right, up	up'.
+Given
+flew	down, right, up, left	up'.
+Given
+flew	down, right, left, up	up'.
+Given
+flew	left, up, down, right	up'.
+Given
+flew	left, up, right, down	up'.
+
+Comment
+flew	left, down, up, right	up'.
+Given
+flew	left, down, right, up	up'.
+Given
+flew	left, right, up, down	up'.
+Given
+flew	left, right, down, up	up'.
+Given
+flew	right, up, down, left	up'.
+Given
+flew	right, up, left, down	up'.
+Given
+flew	right, down, up, left	up'.
+Given
+flew	right, down, left, up	up'.
+Given
+flew	right, left, up, down	up'.
+Given
+flew	right, left, down, up	up'.
+Given
+floated	up, down, left, right	down'.
+Given
+floated	up, down, right, left	down'.
+Given
+floated	up, left, down, right	down'.
+Given
+floated	up, left, right, down	down'.
+Given
+floated	up, right, down, left	up'.
+Given
+floated	up, right, left, down	up'.
+Given
+floated	down, up, left, right	up'.
+For the
+floated	down, up, right, left	up'.
+For the
+floated	down, left, up, right	up'.
+Given
+floated	down, left, right, up	up'.
+Given
+floated	down, right, up, left	up'.
+Given
+floated	down, right, left, up	up'.
+Given
+floated	left, up, down, right	up'.
+Given
+floated	left, up, right, down	up'.
+Given
+floated	left, down, up, right	up'.
+Given
+floated	left, down, right, up	down'.
+Given
+floated	left, right, up, down	up'.
+Given
+floated	left, right, down, up	down'.
+Given
+floated	right, up, down, left	up'.
+Given
+floated	right, up, left, down	up'.
+Given
+floated	right, down, up, left	down'.
+Given
+floated	right, down, left, up	down'.
+Given
+floated	right, left, up, down	up'.
+Given
+floated	right, left, down, up	down'.
+Given
+lifted	up, down, left, right	up'.
+For the
+lifted	up, down, right, left	up'.
+For the
+lifted	up, left, down, right	up'.
+For the
+lifted	up, left, right, down	up'.
+For the
+lifted	up, right, down, left	up'.
+For the
+lifted	up, right, left, down	up'.
+For the
+lifted	down, up, left, right	up'.
+For the
+lifted	down, up, right, left	up'.
+For the
+lifted	down, left, up, right	up'.
+For the
+lifted	down, left, right, up	up'.
+Given
+lifted	down, right, up, left	up'.
+For the
+lifted	down, right, left, up	up'.
+For the
+lifted	left, up, down, right	up'.
+For the
+lifted	left, up, right, down	up'.
+Given
+lifted	left, down, up, right	up'.
+For the
+lifted	left, down, right, up	up'.
+Given
+lifted	left, right, up, down	up'.
+For the
+lifted	left, right, down, up	up'.
+For the
+lifted	right, up, down, left	up'.
+For the
+lifted	right, up, left, down	up'.
+For the
+lifted	right, down, up, left	up'.
+For the
+lifted	right, down, left, up	up'.
+For the
+lifted	right, left, up, down	up'.
+For the
+lifted	right, left, down, up	up'.
+For the
+sank	up, down, left, right	down'.
+For the
+sank	up, down, right, left	down'.
+For the
+sank	up, left, down, right	down'.
+Given
+sank	up, left, right, down	down'.
+Given
+sank	up, right, down, left	down'.
+Given
+sank	up, right, left, down	down'.
+Given
+sank	down, up, left, right	down'.
+For the
+sank	down, up, right, left	down'.
+For the
+sank	down, left, up, right	down'.
+Given
+sank	down, left, right, up	down'.
+Given
+sank	down, right, up, left	down'.
+Given
+sank	down, right, left, up	down'.
+Given
+sank	left, up, down, right	down'.
+Given
+sank	left, up, right, down	down'.
+Given
+sank	left, down, up, right	down'.
+Given
+sank	left, down, right, up	down'.
+Given
+sank	left, right, up, down	down'.
+Given
+sank	left, right, down, up	down'.
+Given
+sank	right, up, down, left	down'.
+Given
+sank	right, up, left, down	down'.
+Given
+sank	right, down, up, left	down'.
+Given
+sank	right, down, left, up	down'.
+Given
+sank	right, left, up, down	down'.
+Given
+sank	right, left, down, up	down'.
+Given
+argued with	up, down, left, right	down'.
+For the
+argued with	up, down, right, left	down'.
+For the
+argued with	up, left, down, right	down'.
+For the
+argued with	up, left, right, down	down'.
+Given
+argued with	up, right, down, left	down'.
+For the
+argued with	up, right, left, down	down'.
+For the
+argued with	down, up, left, right	up'.
+For the
+argued with	down, up, right, left	up'.
+For the
+argued with	down, left, up, right	down'.
+For the
+argued with	down, left, right, up	left'.
+Given
+argued with	down, right, up, left	right'.
+For the
+argued with	down, right, left, up	right'.
+Given
+argued with	left, up, down, right	down'.
+For the
+argued with	left, up, right, down	down'.
+Given
+argued with	left, down, up, right	down'.
+Given
+argued with	left, down, right, up	down'.
+Given
+argued with	left, right, up, down	right'.
+For the
+argued with	left, right, down, up	down'.
+Given
+argued with	right, up, down, left	down'.
+For the
+argued with	right, up, left, down	up'.
+For the
+argued with	right, down, up, left	down'.
+For the
+argued with	right, down, left, up	down'.
+For the
+argued with	right, left, up, down	left'.
+For the
+argued with	right, left, down, up	down'.
+For the
+gave to	up, down, left, right	left'.
+For the
+gave to	up, down, right, left	down'.
+For the
+gave to	up, left, down, right	left'.
+Given
+gave to	up, left, right, down	left'.
+Given
+gave to	up, right, down, left	up'.
+Given
+gave to	up, right, left, down	left'.
+Given
+gave to	down, up, left, right	left'.
+For the
+gave to	down, up, right, left	down'.
+For the
+gave to	down, left, up, right	left'.
+Given
+gave to	down, left, right, up	left'.
+Given
+gave to	down, right, up, left	down'.
+Given
+gave to	down, right, left, up	left'.
+Given
+gave to	left, up, down, right	left'.
+For the
+gave to	left, up, right, down	left'.
+Given
+gave to	left, down, up, right	left'.
+Given
+gave to	left, down, right, up	left'.
+Given
+gave to	left, right, up, down	left'.
+Given
+gave to	left, right, down, up	left'.
+Given
+gave to	right, up, down, left	left'.
+For the
+gave to	right, up, left, down	left'.
+Given
+gave to	right, down, up, left	down'.
+For the
+gave to	right, down, left, up	left'.
+For the
+gave to	right, left, up, down	left'.
+For the
+gave to	right, left, down, up	left'.
+For the
+offended	up, down, left, right	down'.
+The concept
+offended	up, down, right, left	down'.
+For the
+offended	up, left, down, right	down'.
+The concept
+offended	up, left, right, down	down'.
+The concept
+offended	up, right, down, left	down'.
+The concept
+offended	up, right, left, down	down'.
+The concept
+offended	down, up, left, right	down'.
+The concept
+offended	down, up, right, left	down'.
+For the
+offended	down, left, up, right	left'.
+Given
+offended	down, left, right, up	left'.
+Given
+offended	down, right, up, left	down'.
+Given
+offended	down, right, left, up	left'.
+Given
+offended	left, up, down, right	down'.
+The concept
+offended	left, up, right, down	down'.
+Given
+offended	left, down, up, right	down'.
+Given
+offended	left, down, right, up	down'.
+Given
+offended	left, right, up, down	left'.
+Given
+offended	left, right, down, up	left'.
+Given
+offended	right, up, down, left	down'.
+The concept
+offended	right, up, left, down	down'.
+The concept
+offended	right, down, up, left	down'.
+The concept
+offended	right, down, left, up	down'.
+Given
+offended	right, left, up, down	left'.
+Given
+offended	right, left, down, up	left'.
+Given
+rushed	up, down, left, right	down'.
+Given
+rushed	up, down, right, left	down'.
+Given
+rushed	up, left, down, right	down'.
+Given
+rushed	up, left, right, down	down'.
+Given
+rushed	up, right, down, left	down'.
+Given
+rushed	up, right, left, down	down'.
+Given
+rushed	down, up, left, right	down'.
+Given
+rushed	down, up, right, left	up'.
+Given
+rushed	down, left, up, right	left'.
+Given
+rushed	down, left, right, up	left'.
+Given
+rushed	down, right, up, left	down'.
+Given
+rushed	down, right, left, up	down'.
+Given
+rushed	left, up, down, right	down'.
+Given
+rushed	left, up, right, down	down'.
+Given
+rushed	left, down, up, right	down'.
+Given
+rushed	left, down, right, up	down'.
+Given
+rushed	left, right, up, down	down'.
+Given
+rushed	left, right, down, up	down'.
+Given
+rushed	right, up, down, left	down'.
+Given
+rushed	right, up, left, down	down'.
+Given
+rushed	right, down, up, left	down'.
+Given
+rushed	right, down, left, up	down'.
+Given
+rushed	right, left, up, down	left'.
+Given
+rushed	right, left, down, up	down'.
+Given
+warned	up, down, left, right	left'.
+For the
+warned	up, down, right, left	right'.
+For the
+warned	up, left, down, right	left'.
+For the
+warned	up, left, right, down	left'.
+Given
+warned	up, right, down, left	right'.
+For the
+warned	up, right, left, down	left'.
+Given
+warned	down, up, left, right	left'.
+For the
+warned	down, up, right, left	up'.
+For the
+warned	down, left, up, right	left'.
+Given
+warned	down, left, right, up	left'.
+Given
+warned	down, right, up, left	left'.
+For the
+warned	down, right, left, up	left'.
+Given
+warned	left, up, down, right	left'.
+For the
+warned	left, up, right, down	left'.
+Given
+warned	left, down, up, right	left'.
+
+Comment
+warned	left, down, right, up	left'.
+Given
+warned	left, right, up, down	left'.
+Given
+warned	left, right, down, up	left'.
+Given
+warned	right, up, down, left	left'.
+For the
+warned	right, up, left, down	left'.
+Given
+warned	right, down, up, left	left'.
+For the
+warned	right, down, left, up	left'.
+For the
+warned	right, left, up, down	left'.
+For the
+warned	right, left, down, up	left'.
+Given
+owned	up, down, left, right	down'.
+The concept
+owned	up, down, right, left	down'.
+For the
+owned	up, left, down, right	down'.
+Given
+owned	up, left, right, down	down'.
+Given
+owned	up, right, down, left	down'.
+For the
+owned	up, right, left, down	down'.
+Given
+owned	down, up, left, right	down'.
+For the
+owned	down, up, right, left	up'.
+For the
+owned	down, left, up, right	left'.
+Given
+owned	down, left, right, up	left'.
+Given
+owned	down, right, up, left	right'.
+Given
+owned	down, right, left, up	right'.
+Given
+owned	left, up, down, right	down'.
+Given
+owned	left, up, right, down	down'.
+Given
+owned	left, down, up, right	down'.
+Given
+owned	left, down, right, up	down'.
+Given
+owned	left, right, up, down	right'.
+Given
+owned	left, right, down, up	left'.
+Given
+owned	right, up, down, left	down'.
+For the
+owned	right, up, left, down	down'.
+Given
+owned	right, down, up, left	down'.
+For the
+owned	right, down, left, up	down'.
+Given
+owned	right, left, up, down	left'.
+Given
+owned	right, left, down, up	left'.
+Given
+regretted	up, down, left, right	down'.
+I would
+regretted	up, down, right, left	down'.
+For the
+regretted	up, left, down, right	down'.
+Given
+regretted	up, left, right, down	down'.
+Given
+regretted	up, right, down, left	down'.
+Given
+regretted	up, right, left, down	down'.
+Given
+regretted	down, up, left, right	up'.
+The concept
+regretted	down, up, right, left	up'.
+The concept
+regretted	down, left, up, right	left'.
+Given
+regretted	down, left, right, up	left'.
+Given
+regretted	down, right, up, left	left'.
+Given
+regretted	down, right, left, up	left'.
+Given
+regretted	left, up, down, right	down'.
+Given
+regretted	left, up, right, down	down'.
+Given
+regretted	left, down, up, right	left'.
+Given
+regretted	left, down, right, up	left'.
+Given
+regretted	left, right, up, down	left'.
+Given
+regretted	left, right, down, up	left'.
+Given
+regretted	right, up, down, left	left'.
+Given
+regretted	right, up, left, down	down'.
+Given
+regretted	right, down, up, left	down'.
+Given
+regretted	right, down, left, up	down'.
+Given
+regretted	right, left, up, down	left'.
+Given
+regretted	right, left, down, up	left'.
+Given
+rested	up, down, left, right	down'.
+For the
+rested	up, down, right, left	down'.
+For the
+rested	up, left, down, right	down'.
+For the
+rested	up, left, right, down	down'.
+Given
+rested	up, right, down, left	down'.
+For the
+rested	up, right, left, down	down'.
+Given
+rested	down, up, left, right	down'.
+For the
+rested	down, up, right, left	down'.
+For the
+rested	down, left, up, right	down'.
+For the
+rested	down, left, right, up	down'.
+Given
+rested	down, right, up, left	down'.
+For the
+rested	down, right, left, up	down'.
+For the
+rested	left, up, down, right	down'.
+For the
+rested	left, up, right, down	down'.
+Given
+rested	left, down, up, right	down'.
+Given
+rested	left, down, right, up	down'.
+Given
+rested	left, right, up, down	down'.
+Given
+rested	left, right, down, up	down'.
+Given
+rested	right, up, down, left	down'.
+For the
+rested	right, up, left, down	down'.
+Given
+rested	right, down, up, left	down'.
+For the
+rested	right, down, left, up	down'.
+For the
+rested	right, left, up, down	down'.
+For the
+rested	right, left, down, up	down'.
+For the
+tempted	up, down, left, right	down'.
+For the
+tempted	up, down, right, left	down'.
+For the
+tempted	up, left, down, right	down'.
+The concept
+tempted	up, left, right, down	down'.
+Given
+tempted	up, right, down, left	down'.
+For the
+tempted	up, right, left, down	down'.
+Given
+tempted	down, up, left, right	up'.
+The concept
+tempted	down, up, right, left	up'.
+For the
+tempted	down, left, up, right	left'.
+Given
+tempted	down, left, right, up	left'.
+Given
+tempted	down, right, up, left	down'.
+Given
+tempted	down, right, left, up	left'.
+Given
+tempted	left, up, down, right	down'.
+Given
+tempted	left, up, right, down	down'.
+Given
+tempted	left, down, up, right	down'.
+Given
+tempted	left, down, right, up	down'.
+Given
+tempted	left, right, up, down	left'.
+Given
+tempted	left, right, down, up	down'.
+Given
+tempted	right, up, down, left	down'.
+For the
+tempted	right, up, left, down	down'.
+Given
+tempted	right, down, up, left	down'.
+For the
+tempted	right, down, left, up	down'.
+Given
+tempted	right, left, up, down	left'.
+Given
+tempted	right, left, down, up	down'.
+Given
+wanted	up, down, left, right	down'.
+For the
+wanted	up, down, right, left	down'.
+For the
+wanted	up, left, down, right	down'.
+Given
+wanted	up, left, right, down	down'.
+Given
+wanted	up, right, down, left	right'.
+Given
+wanted	up, right, left, down	right'.
+Given
+wanted	down, up, left, right	up'.
+For the
+wanted	down, up, right, left	up'.
+For the
+wanted	down, left, up, right	down'.
+Given
+wanted	down, left, right, up	down'.
+Given
+wanted	down, right, up, left	right'.
+Given
+wanted	down, right, left, up	right'.
+Given
+wanted	left, up, down, right	up'.
+For the
+wanted	left, up, right, down	up'.
+Given
+wanted	left, down, up, right	left'.
+Given
+wanted	left, down, right, up	left'.
+Given
+wanted	left, right, up, down	left'.
+Given
+wanted	left, right, down, up	down'.
+Given
+wanted	right, up, down, left	right'.
+For the
+wanted	right, up, left, down	right'.
+Given
+wanted	right, down, up, left	right'.
+For the
+wanted	right, down, left, up	down'.
+Given
+wanted	right, left, up, down	left'.
+Given
+wanted	right, left, down, up	left'.
+Given
+hoped	up, down, left, right	down'.
+For the
+hoped	up, down, right, left	down'.
+For the
+hoped	up, left, down, right	down'.
+Given
+hoped	up, left, right, down	down'.
+Given
+hoped	up, right, down, left	down'.
+Given
+hoped	up, right, left, down	down'.
+Given
+hoped	down, up, left, right	up'.
+For the
+hoped	down, up, right, left	up'.
+For the
+hoped	down, left, up, right	left'.
+Given
+hoped	down, left, right, up	left'.
+Given
+hoped	down, right, up, left	up'.
+Given
+hoped	down, right, left, up	left'.
+Given
+hoped	left, up, down, right	up'.
+Given
+hoped	left, up, right, down	up'.
+Given
+hoped	left, down, up, right	up'.
+Given
+hoped	left, down, right, up	left'.
+Given
+hoped	left, right, up, down	right'.
+Given
+hoped	left, right, down, up	down'.
+Given
+hoped	right, up, down, left	left'.
+Given
+hoped	right, up, left, down	left'.
+Given
+hoped	right, down, up, left	left'.
+Given
+hoped	right, down, left, up	down'.
+Given
+hoped	right, left, up, down	left'.
+Given
+hoped	right, left, down, up	left'.
+Given
+increased	up, down, left, right	up'.
+For the
+increased	up, down, right, left	up'.
+For the
+increased	up, left, down, right	up'.
+For the
+increased	up, left, right, down	up'.
+For the
+increased	up, right, down, left	up'.
+For the
+increased	up, right, left, down	up'.
+For the
+increased	down, up, left, right	up'.
+For the
+increased	down, up, right, left	up'.
+For the
+increased	down, left, up, right	up'.
+For the
+increased	down, left, right, up	up'.
+For the
+increased	down, right, up, left	up'.
+For the
+increased	down, right, left, up	up'.
+For the
+increased	left, up, down, right	up'.
+For the
+increased	left, up, right, down	up'.
+For the
+increased	left, down, up, right	up'.
+For the
+increased	left, down, right, up	up'.
+For the
+increased	left, right, up, down	up'.
+For the
+increased	left, right, down, up	up'.
+For the
+increased	right, up, down, left	up'.
+For the
+increased	right, up, left, down	up'.
+For the
+increased	right, down, up, left	up'.
+For the
+increased	right, down, left, up	up'.
+For the
+increased	right, left, up, down	up'.
+For the
+increased	right, left, down, up	up'.
+For the
+obeyed	up, down, left, right	down'.
+For the
+obeyed	up, down, right, left	down'.
+For the
+obeyed	up, left, down, right	left'.
+For the
+obeyed	up, left, right, down	left'.
+Given
+obeyed	up, right, down, left	right'.
+For the
+obeyed	up, right, left, down	right'.
+For the
+obeyed	down, up, left, right	up'.
+For the
+obeyed	down, up, right, left	up'.
+For the
+obeyed	down, left, up, right	left'.
+Given
+obeyed	down, left, right, up	left'.
+Given
+obeyed	down, right, up, left	right'.
+For the
+obeyed	down, right, left, up	left'.
+For the
+obeyed	left, up, down, right	down'.
+For the
+obeyed	left, up, right, down	down'.
+Given
+obeyed	left, down, up, right	down'.
+Given
+obeyed	left, down, right, up	down'.
+Given
+obeyed	left, right, up, down	right'.
+Given
+obeyed	left, right, down, up	right'.
+Given
+obeyed	right, up, down, left	left'.
+For the
+obeyed	right, up, left, down	left'.
+For the
+obeyed	right, down, up, left	down'.
+For the
+obeyed	right, down, left, up	down'.
+For the
+obeyed	right, left, up, down	left'.
+For the
+obeyed	right, left, down, up	left'.
+For the
+respected	up, down, left, right	up'.
+For the
+respected	up, down, right, left	up'.
+For the
+respected	up, left, down, right	up'.
+Given
+respected	up, left, right, down	up'.
+Given
+respected	up, right, down, left	up'.
+Given
+respected	up, right, left, down	up'.
+Given
+respected	down, up, left, right	up'.
+For the
+respected	down, up, right, left	up'.
+For the
+respected	down, left, up, right	up'.
+Given
+respected	down, left, right, up	up'.
+Given
+respected	down, right, up, left	up'.
+Given
+respected	down, right, left, up	up'.
+Given
+respected	left, up, down, right	up'.
+Given
+respected	left, up, right, down	up'.
+Given
+respected	left, down, up, right	up'.
+Given
+respected	left, down, right, up	up'.
+Given
+respected	left, right, up, down	up'.
+Given
+respected	left, right, down, up	down'.
+Given
+respected	right, up, down, left	up'.
+For the
+respected	right, up, left, down	up'.
+Given
+respected	right, down, up, left	up'.
+For the
+respected	right, down, left, up	down'.
+Given
+respected	right, left, up, down	left'.
+For the
+respected	right, left, down, up	left'.
+Given
+succeeded	up, down, left, right	up'.
+For the
+succeeded	up, down, right, left	up'.
+For the
+succeeded	up, left, down, right	up'.
+
+Comment
+succeeded	up, left, right, down	up'.
+
+Comment
+succeeded	up, right, down, left	up'.
+
+Comment
+succeeded	up, right, left, down	up'.
+
+Comment
+succeeded	down, up, left, right	up'.
+
+Comment
+succeeded	down, up, right, left	up'.
+For the
+succeeded	down, left, up, right	up'.
+
+Comment
+succeeded	down, left, right, up	up'.
+
+Comment
+succeeded	down, right, up, left	up'.
+
+Comment
+succeeded	down, right, left, up	up'.
+
+Comment
+succeeded	left, up, down, right	up'.
+
+Comment
+succeeded	left, up, right, down	up'.
+
+Comment
+succeeded	left, down, up, right	up'.
+
+Comment
+succeeded	left, down, right, up	up'.
+
+Comment
+succeeded	left, right, up, down	right'.
+For the
+succeeded	left, right, down, up	right'.
+
+Comment
+succeeded	right, up, down, left	up'.
+For the
+succeeded	right, up, left, down	up'.
+
+Comment
+succeeded	right, down, up, left	up'.
+
+Comment
+succeeded	right, down, left, up	right'.
+For the
+succeeded	right, left, up, down	right'.
+For the
+succeeded	right, left, down, up	right'.
+For the
