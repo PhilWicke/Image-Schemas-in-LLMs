@@ -1,0 +1,2160 @@
+fled	↑, ↓, ←, →	
+
+↑
+fled	↑, ↓, →, ←	
+
+→
+fled	↑, ←, ↓, →	
+
+↑
+fled	↑, ←, →, ↓	
+
+↑
+fled	↑, →, ↓, ←	
+
+The arrow that
+fled	↑, →, ←, ↓	
+
+←
+fled	↓, ↑, ←, →	
+
+↓
+fled	↓, ↑, →, ←	
+
+↓
+fled	↓, ←, ↑, →	
+
+↓
+fled	↓, ←, →, ↑	
+
+↓
+fled	↓, →, ↑, ←	
+
+↓
+fled	↓, →, ←, ↑	
+
+↓
+fled	←, ↑, ↓, →	
+
+←
+fled	←, ↑, →, ↓	
+
+The event '
+fled	←, ↓, ↑, →	
+
+←
+fled	←, ↓, →, ↑	
+
+←
+fled	←, →, ↑, ↓	
+
+←
+fled	←, →, ↓, ↑	
+
+←
+fled	→, ↑, ↓, ←	
+
+→
+fled	→, ↑, ←, ↓	
+
+→
+fled	→, ↓, ↑, ←	
+
+→
+fled	→, ↓, ←, ↑	
+
+→
+fled	→, ←, ↑, ↓	
+
+→
+fled	→, ←, ↓, ↑	
+
+→
+pointed at	↑, ↓, ←, →	
+
+→
+pointed at	↑, ↓, →, ←	
+
+→
+pointed at	↑, ←, ↓, →	
+
+↑
+pointed at	↑, ←, →, ↓	
+
+↑
+pointed at	↑, →, ↓, ←	
+
+→
+pointed at	↑, →, ←, ↓	
+
+→
+pointed at	↓, ↑, ←, →	
+
+↓
+pointed at	↓, ↑, →, ←	
+
+→
+pointed at	↓, ←, ↑, →	
+
+↓
+pointed at	↓, ←, →, ↑	
+
+→
+pointed at	↓, →, ↑, ←	
+
+→
+pointed at	↓, →, ←, ↑	
+
+→
+pointed at	←, ↑, ↓, →	
+
+→
+pointed at	←, ↑, →, ↓	
+
+→
+pointed at	←, ↓, ↑, →	
+
+→
+pointed at	←, ↓, →, ↑	
+
+→
+pointed at	←, →, ↑, ↓	
+
+→
+pointed at	←, →, ↓, ↑	
+
+→
+pointed at	→, ↑, ↓, ←	
+
+→
+pointed at	→, ↑, ←, ↓	
+
+→
+pointed at	→, ↓, ↑, ←	
+
+→
+pointed at	→, ↓, ←, ↑	
+
+→
+pointed at	→, ←, ↑, ↓	
+
+→
+pointed at	→, ←, ↓, ↑	
+
+→
+pulled	↑, ↓, ←, →	
+
+↑
+pulled	↑, ↓, →, ←	
+
+↑
+pulled	↑, ←, ↓, →	
+
+↑
+pulled	↑, ←, →, ↓	
+
+↑
+pulled	↑, →, ↓, ←	
+
+↑
+pulled	↑, →, ←, ↓	
+
+↑
+pulled	↓, ↑, ←, →	
+
+↓
+pulled	↓, ↑, →, ←	
+
+↓
+pulled	↓, ←, ↑, →	
+
+↓
+pulled	↓, ←, →, ↑	
+
+↓
+pulled	↓, →, ↑, ←	
+
+↓
+pulled	↓, →, ←, ↑	
+
+↓
+pulled	←, ↑, ↓, →	
+
+←
+pulled	←, ↑, →, ↓	
+
+The arrow that
+pulled	←, ↓, ↑, →	
+
+←
+pulled	←, ↓, →, ↑	
+
+←
+pulled	←, →, ↑, ↓	
+
+The arrow that
+pulled	←, →, ↓, ↑	
+
+The arrow that
+pulled	→, ↑, ↓, ←	
+
+→
+pulled	→, ↑, ←, ↓	
+
+→
+pulled	→, ↓, ↑, ←	
+
+→
+pulled	→, ↓, ←, ↑	
+
+→
+pulled	→, ←, ↑, ↓	
+
+→
+pulled	→, ←, ↓, ↑	
+
+→
+pushed	↑, ↓, ←, →	
+
+↑
+pushed	↑, ↓, →, ←	
+
+↑
+pushed	↑, ←, ↓, →	
+
+↑
+pushed	↑, ←, →, ↓	
+
+↑
+pushed	↑, →, ↓, ←	
+
+↑
+pushed	↑, →, ←, ↓	
+
+↑
+pushed	↓, ↑, ←, →	
+
+↓
+pushed	↓, ↑, →, ←	
+
+↓
+pushed	↓, ←, ↑, →	
+
+↓
+pushed	↓, ←, →, ↑	
+
+↓
+pushed	↓, →, ↑, ←	
+
+↓
+pushed	↓, →, ←, ↑	
+
+↓
+pushed	←, ↑, ↓, →	
+
+↑
+pushed	←, ↑, →, ↓	
+
+→
+pushed	←, ↓, ↑, →	
+
+→
+pushed	←, ↓, →, ↑	
+
+→
+pushed	←, →, ↑, ↓	
+
+→
+pushed	←, →, ↓, ↑	
+
+→
+pushed	→, ↑, ↓, ←	
+
+→
+pushed	→, ↑, ←, ↓	
+
+→
+pushed	→, ↓, ↑, ←	
+
+→
+pushed	→, ↓, ←, ↑	
+
+→
+pushed	→, ←, ↑, ↓	
+
+→
+pushed	→, ←, ↓, ↑	
+
+→
+walked	↑, ↓, ←, →	
+
+↑
+walked	↑, ↓, →, ←	
+
+The arrow that
+walked	↑, ←, ↓, →	
+
+↑
+walked	↑, ←, →, ↓	
+
+↑
+walked	↑, →, ↓, ←	
+
+The arrow that
+walked	↑, →, ←, ↓	
+
+The arrow that
+walked	↓, ↑, ←, →	
+
+The arrow that
+walked	↓, ↑, →, ←	
+
+The arrow that
+walked	↓, ←, ↑, →	
+
+The arrow that
+walked	↓, ←, →, ↑	
+
+The arrow that
+walked	↓, →, ↑, ←	
+
+The arrow that
+walked	↓, →, ←, ↑	
+
+The arrow that
+walked	←, ↑, ↓, →	
+
+The arrow that
+walked	←, ↑, →, ↓	
+
+The arrow that
+walked	←, ↓, ↑, →	
+
+The arrow that
+walked	←, ↓, →, ↑	
+
+The arrow that
+walked	←, →, ↑, ↓	
+
+The arrow that
+walked	←, →, ↓, ↑	
+
+→
+walked	→, ↑, ↓, ←	
+
+→
+walked	→, ↑, ←, ↓	
+
+→
+walked	→, ↓, ↑, ←	
+
+→
+walked	→, ↓, ←, ↑	
+
+→
+walked	→, ←, ↑, ↓	
+
+→
+walked	→, ←, ↓, ↑	
+
+→
+hunted	↑, ↓, ←, →	
+
+↑
+hunted	↑, ↓, →, ←	
+
+→
+hunted	↑, ←, ↓, →	
+
+↑
+hunted	↑, ←, →, ↓	
+
+↑
+hunted	↑, →, ↓, ←	
+
+→
+hunted	↑, →, ←, ↓	
+
+↓
+hunted	↓, ↑, ←, →	
+
+↓
+hunted	↓, ↑, →, ←	
+
+↓
+hunted	↓, ←, ↑, →	
+
+↓
+hunted	↓, ←, →, ↑	
+
+↓
+hunted	↓, →, ↑, ←	
+
+↓
+hunted	↓, →, ←, ↑	
+
+↓
+hunted	←, ↑, ↓, →	
+
+←
+hunted	←, ↑, →, ↓	
+
+←
+hunted	←, ↓, ↑, →	
+
+↓
+hunted	←, ↓, →, ↑	
+
+↓
+hunted	←, →, ↑, ↓	
+
+↓
+hunted	←, →, ↓, ↑	
+
+→
+hunted	→, ↑, ↓, ←	
+
+→
+hunted	→, ↑, ←, ↓	
+
+→
+hunted	→, ↓, ↑, ←	
+
+→
+hunted	→, ↓, ←, ↑	
+
+→
+hunted	→, ←, ↑, ↓	
+
+→
+hunted	→, ←, ↓, ↑	
+
+→
+impacted	↑, ↓, ←, →	
+
+↑
+impacted	↑, ↓, →, ←	
+
+↑
+impacted	↑, ←, ↓, →	
+
+↑
+impacted	↑, ←, →, ↓	
+
+↑
+impacted	↑, →, ↓, ←	
+
+The arrow that
+impacted	↑, →, ←, ↓	
+
+The arrow that
+impacted	↓, ↑, ←, →	
+
+↓
+impacted	↓, ↑, →, ←	
+
+↓
+impacted	↓, ←, ↑, →	
+
+↓
+impacted	↓, ←, →, ↑	
+
+↓
+impacted	↓, →, ↑, ←	
+
+↓
+impacted	↓, →, ←, ↑	
+
+↓
+impacted	←, ↑, ↓, →	
+
+↓
+impacted	←, ↑, →, ↓	
+
+↓
+impacted	←, ↓, ↑, →	
+
+↓
+impacted	←, ↓, →, ↑	
+
+↓
+impacted	←, →, ↑, ↓	
+
+↓
+impacted	←, →, ↓, ↑	
+
+→
+impacted	→, ↑, ↓, ←	
+
+→
+impacted	→, ↑, ←, ↓	
+
+→
+impacted	→, ↓, ↑, ←	
+
+→
+impacted	→, ↓, ←, ↑	
+
+→
+impacted	→, ←, ↑, ↓	
+
+→
+impacted	→, ←, ↓, ↑	
+
+→
+perched	↑, ↓, ←, →	
+
+↑
+perched	↑, ↓, →, ←	
+
+↑
+perched	↑, ←, ↓, →	
+
+↑
+perched	↑, ←, →, ↓	
+
+↑
+perched	↑, →, ↓, ←	
+
+↑
+perched	↑, →, ←, ↓	
+
+↑
+perched	↓, ↑, ←, →	
+
+↑
+perched	↓, ↑, →, ←	
+
+↑
+perched	↓, ←, ↑, →	
+
+The arrow that
+perched	↓, ←, →, ↑	
+
+The arrow that
+perched	↓, →, ↑, ←	
+
+The arrow that
+perched	↓, →, ←, ↑	
+
+The arrow that
+perched	←, ↑, ↓, →	
+
+↑
+perched	←, ↑, →, ↓	
+
+↑
+perched	←, ↓, ↑, →	
+
+The arrow that
+perched	←, ↓, →, ↑	
+
+The arrow that
+perched	←, →, ↑, ↓	
+
+↑
+perched	←, →, ↓, ↑	
+
+→
+perched	→, ↑, ↓, ←	
+
+→
+perched	→, ↑, ←, ↓	
+
+→
+perched	→, ↓, ↑, ←	
+
+→
+perched	→, ↓, ←, ↑	
+
+→
+perched	→, ←, ↑, ↓	
+
+→
+perched	→, ←, ↓, ↑	
+
+→
+showed	↑, ↓, ←, →	
+
+↑
+showed	↑, ↓, →, ←	
+
+→
+showed	↑, ←, ↓, →	
+
+↑
+showed	↑, ←, →, ↓	
+
+↑
+showed	↑, →, ↓, ←	
+
+→
+showed	↑, →, ←, ↓	
+
+The arrow that
+showed	↓, ↑, ←, →	
+
+↓
+showed	↓, ↑, →, ←	
+
+→
+showed	↓, ←, ↑, →	
+
+The arrow that
+showed	↓, ←, →, ↑	
+
+The arrow that
+showed	↓, →, ↑, ←	
+
+→
+showed	↓, →, ←, ↑	
+
+→
+showed	←, ↑, ↓, →	
+
+→
+showed	←, ↑, →, ↓	
+
+→
+showed	←, ↓, ↑, →	
+
+→
+showed	←, ↓, →, ↑	
+
+→
+showed	←, →, ↑, ↓	
+
+→
+showed	←, →, ↓, ↑	
+
+→
+showed	→, ↑, ↓, ←	
+
+→
+showed	→, ↑, ←, ↓	
+
+→
+showed	→, ↓, ↑, ←	
+
+→
+showed	→, ↓, ←, ↑	
+
+→
+showed	→, ←, ↑, ↓	
+
+→
+showed	→, ←, ↓, ↑	
+
+→
+smashed	↑, ↓, ←, →	
+
+↑
+smashed	↑, ↓, →, ←	
+
+↑
+smashed	↑, ←, ↓, →	
+
+↑
+smashed	↑, ←, →, ↓	
+
+↑
+smashed	↑, →, ↓, ←	
+
+↑
+smashed	↑, →, ←, ↓	
+
+↑
+smashed	↓, ↑, ←, →	
+
+↓
+smashed	↓, ↑, →, ←	
+
+The arrow that
+smashed	↓, ←, ↑, →	
+
+The arrow that
+smashed	↓, ←, →, ↑	
+
+The arrow that
+smashed	↓, →, ↑, ←	
+
+The arrow that
+smashed	↓, →, ←, ↑	
+
+The arrow that
+smashed	←, ↑, ↓, →	
+
+The arrow that
+smashed	←, ↑, →, ↓	
+
+The arrow that
+smashed	←, ↓, ↑, →	
+
+The arrow that
+smashed	←, ↓, →, ↑	
+
+The arrow that
+smashed	←, →, ↑, ↓	
+
+The arrow that
+smashed	←, →, ↓, ↑	
+
+The arrow that
+smashed	→, ↑, ↓, ←	
+
+→
+smashed	→, ↑, ←, ↓	
+
+→
+smashed	→, ↓, ↑, ←	
+
+→
+smashed	→, ↓, ←, ↑	
+
+→
+smashed	→, ←, ↑, ↓	
+
+→
+smashed	→, ←, ↓, ↑	
+
+→
+bombed	↑, ↓, ←, →	
+
+↓
+bombed	↑, ↓, →, ←	
+
+↓
+bombed	↑, ←, ↓, →	
+
+↓
+bombed	↑, ←, →, ↓	
+
+↓
+bombed	↑, →, ↓, ←	
+
+↓
+bombed	↑, →, ←, ↓	
+
+↓
+bombed	↓, ↑, ←, →	
+
+↓
+bombed	↓, ↑, →, ←	
+
+↓
+bombed	↓, ←, ↑, →	
+
+↓
+bombed	↓, ←, →, ↑	
+
+↓
+bombed	↓, →, ↑, ←	
+
+↓
+bombed	↓, →, ←, ↑	
+
+↓
+bombed	←, ↑, ↓, →	
+
+↓
+bombed	←, ↑, →, ↓	
+
+↓
+bombed	←, ↓, ↑, →	
+
+↓
+bombed	←, ↓, →, ↑	
+
+→
+bombed	←, →, ↑, ↓	
+
+↓
+bombed	←, →, ↓, ↑	
+
+↓
+bombed	→, ↑, ↓, ←	
+
+→
+bombed	→, ↑, ←, ↓	
+
+→
+bombed	→, ↓, ↑, ←	
+
+→
+bombed	→, ↓, ←, ↑	
+
+→
+bombed	→, ←, ↑, ↓	
+
+→
+bombed	→, ←, ↓, ↑	
+
+→
+flew	↑, ↓, ←, →	
+
+↑
+flew	↑, ↓, →, ←	
+
+↑
+flew	↑, ←, ↓, →	
+
+↑
+flew	↑, ←, →, ↓	
+
+↑
+flew	↑, →, ↓, ←	
+
+↑
+flew	↑, →, ←, ↓	
+
+↑
+flew	↓, ↑, ←, →	
+
+↑
+flew	↓, ↑, →, ←	
+
+↑
+flew	↓, ←, ↑, →	
+
+↑
+flew	↓, ←, →, ↑	
+
+The arrow that
+flew	↓, →, ↑, ←	
+
+↑
+flew	↓, →, ←, ↑	
+
+→
+flew	←, ↑, ↓, →	
+
+↑
+flew	←, ↑, →, ↓	
+
+↑
+flew	←, ↓, ↑, →	
+
+The arrow that
+flew	←, ↓, →, ↑	
+
+The arrow that
+flew	←, →, ↑, ↓	
+
+→
+flew	←, →, ↓, ↑	
+
+→
+flew	→, ↑, ↓, ←	
+
+→
+flew	→, ↑, ←, ↓	
+
+→
+flew	→, ↓, ↑, ←	
+
+→
+flew	→, ↓, ←, ↑	
+
+→
+flew	→, ←, ↑, ↓	
+
+→
+flew	→, ←, ↓, ↑	
+
+→
+floated	↑, ↓, ←, →	
+
+↑
+floated	↑, ↓, →, ←	
+
+↑
+floated	↑, ←, ↓, →	
+
+↑
+floated	↑, ←, →, ↓	
+
+↑
+floated	↑, →, ↓, ←	
+
+↑
+floated	↑, →, ←, ↓	
+
+↑
+floated	↓, ↑, ←, →	
+
+↑
+floated	↓, ↑, →, ←	
+
+The arrow that
+floated	↓, ←, ↑, →	
+
+The arrow that
+floated	↓, ←, →, ↑	
+
+The arrow that
+floated	↓, →, ↑, ←	
+
+The arrow that
+floated	↓, →, ←, ↑	
+
+The arrow that
+floated	←, ↑, ↓, →	
+
+The arrow that
+floated	←, ↑, →, ↓	
+
+The arrow that
+floated	←, ↓, ↑, →	
+
+The event '
+floated	←, ↓, →, ↑	
+
+The arrow that
+floated	←, →, ↑, ↓	
+
+→
+floated	←, →, ↓, ↑	
+
+→
+floated	→, ↑, ↓, ←	
+
+→
+floated	→, ↑, ←, ↓	
+
+→
+floated	→, ↓, ↑, ←	
+
+→
+floated	→, ↓, ←, ↑	
+
+→
+floated	→, ←, ↑, ↓	
+
+→
+floated	→, ←, ↓, ↑	
+
+→
+lifted	↑, ↓, ←, →	
+
+↑
+lifted	↑, ↓, →, ←	
+
+↑
+lifted	↑, ←, ↓, →	
+
+↑
+lifted	↑, ←, →, ↓	
+
+↑
+lifted	↑, →, ↓, ←	
+
+↑
+lifted	↑, →, ←, ↓	
+
+↑
+lifted	↓, ↑, ←, →	
+
+↑
+lifted	↓, ↑, →, ←	
+
+↑
+lifted	↓, ←, ↑, →	
+
+↑
+lifted	↓, ←, →, ↑	
+
+↑
+lifted	↓, →, ↑, ←	
+
+↑
+lifted	↓, →, ←, ↑	
+
+↑
+lifted	←, ↑, ↓, →	
+
+↑
+lifted	←, ↑, →, ↓	
+
+↑
+lifted	←, ↓, ↑, →	
+
+↓
+lifted	←, ↓, →, ↑	
+
+↓
+lifted	←, →, ↑, ↓	
+
+↑
+lifted	←, →, ↓, ↑	
+
+The arrow that
+lifted	→, ↑, ↓, ←	
+
+↑
+lifted	→, ↑, ←, ↓	
+
+↑
+lifted	→, ↓, ↑, ←	
+
+→
+lifted	→, ↓, ←, ↑	
+
+→
+lifted	→, ←, ↑, ↓	
+
+→
+lifted	→, ←, ↓, ↑	
+
+→
+sank	↑, ↓, ←, →	
+
+↓
+sank	↑, ↓, →, ←	
+
+↓
+sank	↑, ←, ↓, →	
+
+↓
+sank	↑, ←, →, ↓	
+
+The arrow that
+sank	↑, →, ↓, ←	
+
+↓
+sank	↑, →, ←, ↓	
+
+The arrow that
+sank	↓, ↑, ←, →	
+
+↓
+sank	↓, ↑, →, ←	
+
+↓
+sank	↓, ←, ↑, →	
+
+↓
+sank	↓, ←, →, ↑	
+
+↓
+sank	↓, →, ↑, ←	
+
+↓
+sank	↓, →, ←, ↑	
+
+↓
+sank	←, ↑, ↓, →	
+
+↓
+sank	←, ↑, →, ↓	
+
+↓
+sank	←, ↓, ↑, →	
+
+↓
+sank	←, ↓, →, ↑	
+
+↓
+sank	←, →, ↑, ↓	
+
+↓
+sank	←, →, ↓, ↑	
+
+↓
+sank	→, ↑, ↓, ←	
+
+The arrow that
+sank	→, ↑, ←, ↓	
+
+The arrow that
+sank	→, ↓, ↑, ←	
+
+The arrow that
+sank	→, ↓, ←, ↑	
+
+The arrow that
+sank	→, ←, ↑, ↓	
+
+The arrow that
+sank	→, ←, ↓, ↑	
+
+→
+argued with	↑, ↓, ←, →	
+
+↑
+argued with	↑, ↓, →, ←	
+
+↑
+argued with	↑, ←, ↓, →	
+
+↑
+argued with	↑, ←, →, ↓	
+
+↑
+argued with	↑, →, ↓, ←	
+
+The arrow that
+argued with	↑, →, ←, ↓	
+
+The arrow that
+argued with	↓, ↑, ←, →	
+
+↓
+argued with	↓, ↑, →, ←	
+
+↓
+argued with	↓, ←, ↑, →	
+
+↓
+argued with	↓, ←, →, ↑	
+
+↓
+argued with	↓, →, ↑, ←	
+
+↓
+argued with	↓, →, ←, ↑	
+
+↓
+argued with	←, ↑, ↓, →	
+
+←
+argued with	←, ↑, →, ↓	
+
+←
+argued with	←, ↓, ↑, →	
+
+←
+argued with	←, ↓, →, ↑	
+
+←
+argued with	←, →, ↑, ↓	
+
+←
+argued with	←, →, ↓, ↑	
+
+→
+argued with	→, ↑, ↓, ←	
+
+→
+argued with	→, ↑, ←, ↓	
+
+→
+argued with	→, ↓, ↑, ←	
+
+→
+argued with	→, ↓, ←, ↑	
+
+→
+argued with	→, ←, ↑, ↓	
+
+→
+argued with	→, ←, ↓, ↑	
+
+→
+gave to	↑, ↓, ←, →	
+
+↑
+gave to	↑, ↓, →, ←	
+
+→
+gave to	↑, ←, ↓, →	
+
+↑
+gave to	↑, ←, →, ↓	
+
+↑
+gave to	↑, →, ↓, ←	
+
+→
+gave to	↑, →, ←, ↓	
+
+→
+gave to	↓, ↑, ←, →	
+
+↓
+gave to	↓, ↑, →, ←	
+
+→
+gave to	↓, ←, ↑, →	
+
+↓
+gave to	↓, ←, →, ↑	
+
+→
+gave to	↓, →, ↑, ←	
+
+→
+gave to	↓, →, ←, ↑	
+
+→
+gave to	←, ↑, ↓, →	
+
+→
+gave to	←, ↑, →, ↓	
+
+→
+gave to	←, ↓, ↑, →	
+
+→
+gave to	←, ↓, →, ↑	
+
+→
+gave to	←, →, ↑, ↓	
+
+→
+gave to	←, →, ↓, ↑	
+
+→
+gave to	→, ↑, ↓, ←	
+
+→
+gave to	→, ↑, ←, ↓	
+
+→
+gave to	→, ↓, ↑, ←	
+
+→
+gave to	→, ↓, ←, ↑	
+
+→
+gave to	→, ←, ↑, ↓	
+
+→
+gave to	→, ←, ↓, ↑	
+
+→
+offended	↑, ↓, ←, →	
+
+↓
+offended	↑, ↓, →, ←	
+
+↓
+offended	↑, ←, ↓, →	
+
+↓
+offended	↑, ←, →, ↓	
+
+↓
+offended	↑, →, ↓, ←	
+
+↓
+offended	↑, →, ←, ↓	
+
+↓
+offended	↓, ↑, ←, →	
+
+↓
+offended	↓, ↑, →, ←	
+
+↓
+offended	↓, ←, ↑, →	
+
+↓
+offended	↓, ←, →, ↑	
+
+↓
+offended	↓, →, ↑, ←	
+
+↓
+offended	↓, →, ←, ↑	
+
+↓
+offended	←, ↑, ↓, →	
+
+←
+offended	←, ↑, →, ↓	
+
+←
+offended	←, ↓, ↑, →	
+
+←
+offended	←, ↓, →, ↑	
+
+↓
+offended	←, →, ↑, ↓	
+
+←
+offended	←, →, ↓, ↑	
+
+←
+offended	→, ↑, ↓, ←	
+
+→
+offended	→, ↑, ←, ↓	
+
+→
+offended	→, ↓, ↑, ←	
+
+→
+offended	→, ↓, ←, ↑	
+
+→
+offended	→, ←, ↑, ↓	
+
+→
+offended	→, ←, ↓, ↑	
+
+→
+rushed	↑, ↓, ←, →	
+
+↑
+rushed	↑, ↓, →, ←	
+
+↑
+rushed	↑, ←, ↓, →	
+
+↑
+rushed	↑, ←, →, ↓	
+
+↑
+rushed	↑, →, ↓, ←	
+
+↑
+rushed	↑, →, ←, ↓	
+
+↑
+rushed	↓, ↑, ←, →	
+
+↓
+rushed	↓, ↑, →, ←	
+
+↓
+rushed	↓, ←, ↑, →	
+
+↓
+rushed	↓, ←, →, ↑	
+
+↓
+rushed	↓, →, ↑, ←	
+
+↓
+rushed	↓, →, ←, ↑	
+
+↓
+rushed	←, ↑, ↓, →	
+
+↓
+rushed	←, ↑, →, ↓	
+
+→
+rushed	←, ↓, ↑, →	
+
+↓
+rushed	←, ↓, →, ↑	
+
+→
+rushed	←, →, ↑, ↓	
+
+→
+rushed	←, →, ↓, ↑	
+
+→
+rushed	→, ↑, ↓, ←	
+
+→
+rushed	→, ↑, ←, ↓	
+
+→
+rushed	→, ↓, ↑, ←	
+
+→
+rushed	→, ↓, ←, ↑	
+
+→
+rushed	→, ←, ↑, ↓	
+
+→
+rushed	→, ←, ↓, ↑	
+
+→
+warned	↑, ↓, ←, →	
+
+↑
+warned	↑, ↓, →, ←	
+
+→
+warned	↑, ←, ↓, →	
+
+↑
+warned	↑, ←, →, ↓	
+
+↑
+warned	↑, →, ↓, ←	
+
+The arrow that
+warned	↑, →, ←, ↓	
+
+↓
+warned	↓, ↑, ←, →	
+
+↓
+warned	↓, ↑, →, ←	
+
+↓
+warned	↓, ←, ↑, →	
+
+↓
+warned	↓, ←, →, ↑	
+
+↓
+warned	↓, →, ↑, ←	
+
+↓
+warned	↓, →, ←, ↑	
+
+↓
+warned	←, ↑, ↓, →	
+
+↓
+warned	←, ↑, →, ↓	
+
+↓
+warned	←, ↓, ↑, →	
+
+↓
+warned	←, ↓, →, ↑	
+
+↓
+warned	←, →, ↑, ↓	
+
+↓
+warned	←, →, ↓, ↑	
+
+↓
+warned	→, ↑, ↓, ←	
+
+→
+warned	→, ↑, ←, ↓	
+
+→
+warned	→, ↓, ↑, ←	
+
+→
+warned	→, ↓, ←, ↑	
+
+→
+warned	→, ←, ↑, ↓	
+
+→
+warned	→, ←, ↓, ↑	
+
+→
+owned	↑, ↓, ←, →	
+
+↑
+owned	↑, ↓, →, ←	
+
+→
+owned	↑, ←, ↓, →	
+
+↑
+owned	↑, ←, →, ↓	
+
+↑
+owned	↑, →, ↓, ←	
+
+→
+owned	↑, →, ←, ↓	
+
+↑
+owned	↓, ↑, ←, →	
+
+↓
+owned	↓, ↑, →, ←	
+
+↓
+owned	↓, ←, ↑, →	
+
+↓
+owned	↓, ←, →, ↑	
+
+↓
+owned	↓, →, ↑, ←	
+
+→
+owned	↓, →, ←, ↑	
+
+→
+owned	←, ↑, ↓, →	
+
+←
+owned	←, ↑, →, ↓	
+
+→
+owned	←, ↓, ↑, →	
+
+→
+owned	←, ↓, →, ↑	
+
+→
+owned	←, →, ↑, ↓	
+
+→
+owned	←, →, ↓, ↑	
+
+→
+owned	→, ↑, ↓, ←	
+
+→
+owned	→, ↑, ←, ↓	
+
+→
+owned	→, ↓, ↑, ←	
+
+→
+owned	→, ↓, ←, ↑	
+
+→
+owned	→, ←, ↑, ↓	
+
+→
+owned	→, ←, ↓, ↑	
+
+→
+regretted	↑, ↓, ←, →	
+
+↓
+regretted	↑, ↓, →, ←	
+
+↓
+regretted	↑, ←, ↓, →	
+
+↓
+regretted	↑, ←, →, ↓	
+
+↓
+regretted	↑, →, ↓, ←	
+
+The arrow that
+regretted	↑, →, ←, ↓	
+
+←
+regretted	↓, ↑, ←, →	
+
+↓
+regretted	↓, ↑, →, ←	
+
+↓
+regretted	↓, ←, ↑, →	
+
+↓
+regretted	↓, ←, →, ↑	
+
+↓
+regretted	↓, →, ↑, ←	
+
+↓
+regretted	↓, →, ←, ↑	
+
+↓
+regretted	←, ↑, ↓, →	
+
+←
+regretted	←, ↑, →, ↓	
+
+←
+regretted	←, ↓, ↑, →	
+
+←
+regretted	←, ↓, →, ↑	
+
+←
+regretted	←, →, ↑, ↓	
+
+←
+regretted	←, →, ↓, ↑	
+
+←
+regretted	→, ↑, ↓, ←	
+
+→
+regretted	→, ↑, ←, ↓	
+
+The arrow that
+regretted	→, ↓, ↑, ←	
+
+→
+regretted	→, ↓, ←, ↑	
+
+→
+regretted	→, ←, ↑, ↓	
+
+→
+regretted	→, ←, ↓, ↑	
+
+→
+rested	↑, ↓, ←, →	
+
+↑
+rested	↑, ↓, →, ←	
+
+↑
+rested	↑, ←, ↓, →	
+
+↑
+rested	↑, ←, →, ↓	
+
+↑
+rested	↑, →, ↓, ←	
+
+↑
+rested	↑, →, ←, ↓	
+
+↑
+rested	↓, ↑, ←, →	
+
+↓
+rested	↓, ↑, →, ←	
+
+↓
+rested	↓, ←, ↑, →	
+
+↓
+rested	↓, ←, →, ↑	
+
+↓
+rested	↓, →, ↑, ←	
+
+↓
+rested	↓, →, ←, ↑	
+
+↓
+rested	←, ↑, ↓, →	
+
+↓
+rested	←, ↑, →, ↓	
+
+The arrow that
+rested	←, ↓, ↑, →	
+
+↓
+rested	←, ↓, →, ↑	
+
+↓
+rested	←, →, ↑, ↓	
+
+↓
+rested	←, →, ↓, ↑	
+
+→
+rested	→, ↑, ↓, ←	
+
+→
+rested	→, ↑, ←, ↓	
+
+→
+rested	→, ↓, ↑, ←	
+
+→
+rested	→, ↓, ←, ↑	
+
+→
+rested	→, ←, ↑, ↓	
+
+→
+rested	→, ←, ↓, ↑	
+
+→
+tempted	↑, ↓, ←, →	
+
+↑
+tempted	↑, ↓, →, ←	
+
+↑
+tempted	↑, ←, ↓, →	
+
+↑
+tempted	↑, ←, →, ↓	
+
+↑
+tempted	↑, →, ↓, ←	
+
+The arrow that
+tempted	↑, →, ←, ↓	
+
+The arrow that
+tempted	↓, ↑, ←, →	
+
+↓
+tempted	↓, ↑, →, ←	
+
+↓
+tempted	↓, ←, ↑, →	
+
+The arrow that
+tempted	↓, ←, →, ↑	
+
+The arrow that
+tempted	↓, →, ↑, ←	
+
+↓
+tempted	↓, →, ←, ↑	
+
+The arrow that
+tempted	←, ↑, ↓, →	
+
+↓
+tempted	←, ↑, →, ↓	
+
+→
+tempted	←, ↓, ↑, →	
+
+→
+tempted	←, ↓, →, ↑	
+
+→
+tempted	←, →, ↑, ↓	
+
+→
+tempted	←, →, ↓, ↑	
+
+→
+tempted	→, ↑, ↓, ←	
+
+→
+tempted	→, ↑, ←, ↓	
+
+→
+tempted	→, ↓, ↑, ←	
+
+→
+tempted	→, ↓, ←, ↑	
+
+→
+tempted	→, ←, ↑, ↓	
+
+→
+tempted	→, ←, ↓, ↑	
+
+→
+wanted	↑, ↓, ←, →	
+
+↑
+wanted	↑, ↓, →, ←	
+
+→
+wanted	↑, ←, ↓, →	
+
+↑
+wanted	↑, ←, →, ↓	
+
+↑
+wanted	↑, →, ↓, ←	
+
+The arrow that
+wanted	↑, →, ←, ↓	
+
+↑
+wanted	↓, ↑, ←, →	
+
+↓
+wanted	↓, ↑, →, ←	
+
+→
+wanted	↓, ←, ↑, →	
+
+↓
+wanted	↓, ←, →, ↑	
+
+↓
+wanted	↓, →, ↑, ←	
+
+↓
+wanted	↓, →, ←, ↑	
+
+↓
+wanted	←, ↑, ↓, →	
+
+→
+wanted	←, ↑, →, ↓	
+
+→
+wanted	←, ↓, ↑, →	
+
+→
+wanted	←, ↓, →, ↑	
+
+→
+wanted	←, →, ↑, ↓	
+
+→
+wanted	←, →, ↓, ↑	
+
+→
+wanted	→, ↑, ↓, ←	
+
+→
+wanted	→, ↑, ←, ↓	
+
+→
+wanted	→, ↓, ↑, ←	
+
+→
+wanted	→, ↓, ←, ↑	
+
+→
+wanted	→, ←, ↑, ↓	
+
+→
+wanted	→, ←, ↓, ↑	
+
+→
+hoped	↑, ↓, ←, →	
+
+↑
+hoped	↑, ↓, →, ←	
+
+↑
+hoped	↑, ←, ↓, →	
+
+↑
+hoped	↑, ←, →, ↓	
+
+↑
+hoped	↑, →, ↓, ←	
+
+↑
+hoped	↑, →, ←, ↓	
+
+↑
+hoped	↓, ↑, ←, →	
+
+↑
+hoped	↓, ↑, →, ←	
+
+↓
+hoped	↓, ←, ↑, →	
+
+The arrow that
+hoped	↓, ←, →, ↑	
+
+The arrow that
+hoped	↓, →, ↑, ←	
+
+The arrow that
+hoped	↓, →, ←, ↑	
+
+→
+hoped	←, ↑, ↓, →	
+
+←
+hoped	←, ↑, →, ↓	
+
+→
+hoped	←, ↓, ↑, →	
+
+→
+hoped	←, ↓, →, ↑	
+
+→
+hoped	←, →, ↑, ↓	
+
+→
+hoped	←, →, ↓, ↑	
+
+→
+hoped	→, ↑, ↓, ←	
+
+→
+hoped	→, ↑, ←, ↓	
+
+→
+hoped	→, ↓, ↑, ←	
+
+→
+hoped	→, ↓, ←, ↑	
+
+→
+hoped	→, ←, ↑, ↓	
+
+→
+hoped	→, ←, ↓, ↑	
+
+→
+increased	↑, ↓, ←, →	
+
+↑
+increased	↑, ↓, →, ←	
+
+↑
+increased	↑, ←, ↓, →	
+
+↑
+increased	↑, ←, →, ↓	
+
+↑
+increased	↑, →, ↓, ←	
+
+↑
+increased	↑, →, ←, ↓	
+
+↑
+increased	↓, ↑, ←, →	
+
+↑
+increased	↓, ↑, →, ←	
+
+↑
+increased	↓, ←, ↑, →	
+
+↑
+increased	↓, ←, →, ↑	
+
+↑
+increased	↓, →, ↑, ←	
+
+↑
+increased	↓, →, ←, ↑	
+
+→
+increased	←, ↑, ↓, →	
+
+↑
+increased	←, ↑, →, ↓	
+
+↑
+increased	←, ↓, ↑, →	
+
+↑
+increased	←, ↓, →, ↑	
+
+→
+increased	←, →, ↑, ↓	
+
+The arrow that
+increased	←, →, ↓, ↑	
+
+→
+increased	→, ↑, ↓, ←	
+
+↑
+increased	→, ↑, ←, ↓	
+
+↑
+increased	→, ↓, ↑, ←	
+
+→
+increased	→, ↓, ←, ↑	
+
+→
+increased	→, ←, ↑, ↓	
+
+→
+increased	→, ←, ↓, ↑	
+
+→
+obeyed	↑, ↓, ←, →	
+
+↑
+obeyed	↑, ↓, →, ←	
+
+→
+obeyed	↑, ←, ↓, →	
+
+↑
+obeyed	↑, ←, →, ↓	
+
+↑
+obeyed	↑, →, ↓, ←	
+
+→
+obeyed	↑, →, ←, ↓	
+
+→
+obeyed	↓, ↑, ←, →	
+
+↓
+obeyed	↓, ↑, →, ←	
+
+→
+obeyed	↓, ←, ↑, →	
+
+↓
+obeyed	↓, ←, →, ↑	
+
+The arrow that
+obeyed	↓, →, ↑, ←	
+
+→
+obeyed	↓, →, ←, ↑	
+
+→
+obeyed	←, ↑, ↓, →	
+
+→
+obeyed	←, ↑, →, ↓	
+
+→
+obeyed	←, ↓, ↑, →	
+
+→
+obeyed	←, ↓, →, ↑	
+
+→
+obeyed	←, →, ↑, ↓	
+
+→
+obeyed	←, →, ↓, ↑	
+
+→
+obeyed	→, ↑, ↓, ←	
+
+→
+obeyed	→, ↑, ←, ↓	
+
+→
+obeyed	→, ↓, ↑, ←	
+
+→
+obeyed	→, ↓, ←, ↑	
+
+→
+obeyed	→, ←, ↑, ↓	
+
+→
+obeyed	→, ←, ↓, ↑	
+
+→
+respected	↑, ↓, ←, →	
+
+↑
+respected	↑, ↓, →, ←	
+
+→
+respected	↑, ←, ↓, →	
+
+↑
+respected	↑, ←, →, ↓	
+
+↑
+respected	↑, →, ↓, ←	
+
+→
+respected	↑, →, ←, ↓	
+
+↑
+respected	↓, ↑, ←, →	
+
+↑
+respected	↓, ↑, →, ←	
+
+→
+respected	↓, ←, ↑, →	
+
+→
+respected	↓, ←, →, ↑	
+
+→
+respected	↓, →, ↑, ←	
+
+→
+respected	↓, →, ←, ↑	
+
+→
+respected	←, ↑, ↓, →	
+
+→
+respected	←, ↑, →, ↓	
+
+→
+respected	←, ↓, ↑, →	
+
+→
+respected	←, ↓, →, ↑	
+
+→
+respected	←, →, ↑, ↓	
+
+→
+respected	←, →, ↓, ↑	
+
+→
+respected	→, ↑, ↓, ←	
+
+→
+respected	→, ↑, ←, ↓	
+
+→
+respected	→, ↓, ↑, ←	
+
+→
+respected	→, ↓, ←, ↑	
+
+→
+respected	→, ←, ↑, ↓	
+
+→
+respected	→, ←, ↓, ↑	
+
+→
+succeeded	↑, ↓, ←, →	
+
+↑
+succeeded	↑, ↓, →, ←	
+
+→
+succeeded	↑, ←, ↓, →	
+
+↑
+succeeded	↑, ←, →, ↓	
+
+↑
+succeeded	↑, →, ↓, ←	
+
+↑
+succeeded	↑, →, ←, ↓	
+
+↑
+succeeded	↓, ↑, ←, →	
+
+↑
+succeeded	↓, ↑, →, ←	
+
+The arrow that
+succeeded	↓, ←, ↑, →	
+
+The arrow that
+succeeded	↓, ←, →, ↑	
+
+The arrow that
+succeeded	↓, →, ↑, ←	
+
+→
+succeeded	↓, →, ←, ↑	
+
+→
+succeeded	←, ↑, ↓, →	
+
+→
+succeeded	←, ↑, →, ↓	
+
+→
+succeeded	←, ↓, ↑, →	
+
+→
+succeeded	←, ↓, →, ↑	
+
+→
+succeeded	←, →, ↑, ↓	
+
+→
+succeeded	←, →, ↓, ↑	
+
+→
+succeeded	→, ↑, ↓, ←	
+
+→
+succeeded	→, ↑, ←, ↓	
+
+→
+succeeded	→, ↓, ↑, ←	
+
+→
+succeeded	→, ↓, ←, ↑	
+
+→
+succeeded	→, ←, ↑, ↓	
+
+→
+succeeded	→, ←, ↓, ↑	
+
+→

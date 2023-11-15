@@ -1,0 +1,794 @@
+fled	up, down, left, right	up'.
+fled	up, down, right, left	up'.
+fled	up, left, down, right	up'.
+fled	up, left, right, down	up'.
+fled	up, right, down, left	left'.
+fled	up, right, left, down	up'.
+fled	down, up, left, right	down'. This is because
+fled	down, up, right, left	down'.
+fled	down, left, up, right	down'. This is because
+fled	down, left, right, up	down'. This is because
+fled	down, right, up, left	left'.
+fled	down, right, left, up	down'. This is because
+fled	left, up, down, right	left'.
+fled	left, up, right, down	left'.
+fled	left, down, up, right	left'.
+fled	left, down, right, up	left'.
+fled	left, right, up, down	left'.
+fled	left, right, down, up	left'.
+fled	right, up, down, left	left'.
+fled	right, up, left, down	left'.
+fled	right, down, up, left	left'.
+fled	right, down, left, up	left'.
+fled	right, left, up, down	left'.
+fled	right, left, down, up	left'.
+pointed at	up, down, left, right	up'.
+pointed at	up, down, right, left	right'.
+pointed at	up, left, down, right	right'.
+pointed at	up, left, right, down	right'.
+pointed at	up, right, down, left	right'.
+pointed at	up, right, left, down	right'.
+pointed at	down, up, left, right	up'.
+pointed at	down, up, right, left	right'.
+pointed at	down, left, up, right	right'.
+pointed at	down, left, right, up	right'.
+pointed at	down, right, up, left	right'.
+pointed at	down, right, left, up	right'.
+pointed at	left, up, down, right	right'.
+pointed at	left, up, right, down	right'.
+pointed at	left, down, up, right	right'.
+pointed at	left, down, right, up	right'.
+pointed at	left, right, up, down	right'.
+pointed at	left, right, down, up	right'.
+pointed at	right, up, down, left	right'.
+pointed at	right, up, left, down	right'.
+pointed at	right, down, up, left	right'.
+pointed at	right, down, left, up	right'.
+pointed at	right, left, up, down	right'.
+pointed at	right, left, down, up	right'.
+pulled	up, down, left, right	down'.
+pulled	up, down, right, left	down'.
+pulled	up, left, down, right	down'.
+pulled	up, left, right, down	right'.
+pulled	up, right, down, left	right'.
+pulled	up, right, left, down	right'.
+pulled	down, up, left, right	down'.
+pulled	down, up, right, left	down'.
+pulled	down, left, up, right	down'.
+pulled	down, left, right, up	down'.
+pulled	down, right, up, left	down'.
+pulled	down, right, left, up	down'.
+pulled	left, up, down, right	left'.
+pulled	left, up, right, down	right'.
+pulled	left, down, up, right	left'.
+pulled	left, down, right, up	right'.
+pulled	left, right, up, down	right'.
+pulled	left, right, down, up	right'.
+pulled	right, up, down, left	right'.
+pulled	right, up, left, down	right'.
+pulled	right, down, up, left	right'.
+pulled	right, down, left, up	right'.
+pulled	right, left, up, down	right'.
+pulled	right, left, down, up	right'.
+pushed	up, down, left, right	down'.
+pushed	up, down, right, left	down'.
+pushed	up, left, down, right	down'.
+pushed	up, left, right, down	down'.
+pushed	up, right, down, left	down'.
+pushed	up, right, left, down	down'.
+pushed	down, up, left, right	down'.
+pushed	down, up, right, left	down'.
+pushed	down, left, up, right	down'.
+pushed	down, left, right, up	down'.
+pushed	down, right, up, left	down'.
+pushed	down, right, left, up	down'.
+pushed	left, up, down, right	down'.
+pushed	left, up, right, down	down'.
+pushed	left, down, up, right	down'.
+pushed	left, down, right, up	down'.
+pushed	left, right, up, down	down'.
+pushed	left, right, down, up	down'.
+pushed	right, up, down, left	down'.
+pushed	right, up, left, down	right'.
+pushed	right, down, up, left	down'.
+pushed	right, down, left, up	down'.
+pushed	right, left, up, down	right'.
+pushed	right, left, down, up	right'.
+walked	up, down, left, right	up'.
+walked	up, down, right, left	up'.
+walked	up, left, down, right	down'.
+walked	up, left, right, down	down'.
+walked	up, right, down, left	right'.
+
+
+
+
+walked	up, right, left, down	up'.
+walked	down, up, left, right	down'.
+walked	down, up, right, left	down'.
+walked	down, left, up, right	down'.
+walked	down, left, right, up	down'.
+walked	down, right, up, left	down'.
+walked	down, right, left, up	down'.
+walked	left, up, down, right	left'.
+
+The
+walked	left, up, right, down	left'.
+
+
+
+
+walked	left, down, up, right	left'.
+walked	left, down, right, up	left'.
+walked	left, right, up, down	left'.
+
+The
+walked	left, right, down, up	left'.
+walked	right, up, down, left	right'.
+
+
+
+
+walked	right, up, left, down	right'.
+
+
+
+
+walked	right, down, up, left	right'.
+walked	right, down, left, up	right'.
+
+
+
+
+walked	right, left, up, down	right'.
+
+
+
+
+walked	right, left, down, up	right'.
+hunted	up, down, left, right	down'.
+hunted	up, down, right, left	down'.
+hunted	up, left, down, right	down'.
+hunted	up, left, right, down	down'.
+hunted	up, right, down, left	down'.
+hunted	up, right, left, down	down'.
+hunted	down, up, left, right	down'.
+hunted	down, up, right, left	down'.
+hunted	down, left, up, right	down'.
+hunted	down, left, right, up	down'.
+hunted	down, right, up, left	down'.
+hunted	down, right, left, up	down'.
+hunted	left, up, down, right	right'.
+hunted	left, up, right, down	down'.
+hunted	left, down, up, right	down'.
+hunted	left, down, right, up	right'.
+hunted	left, right, up, down	right'.
+hunted	left, right, down, up	right'.
+hunted	right, up, down, left	right'.
+hunted	right, up, left, down	right'.
+
+This
+hunted	right, down, up, left	right'.
+hunted	right, down, left, up	right'.
+
+The
+hunted	right, left, up, down	right'.
+hunted	right, left, down, up	right'.
+impacted	up, down, left, right	down'.
+impacted	up, down, right, left	down'.
+impacted	up, left, down, right	down'.
+impacted	up, left, right, down	down'.
+impacted	up, right, down, left	down'.
+impacted	up, right, left, down	down'.
+impacted	down, up, left, right	down'.
+impacted	down, up, right, left	down'.
+impacted	down, left, up, right	down'.
+impacted	down, left, right, up	down'.
+impacted	down, right, up, left	down'.
+impacted	down, right, left, up	down'.
+impacted	left, up, down, right	left'.
+impacted	left, up, right, down	left'.
+impacted	left, down, up, right	left'.
+impacted	left, down, right, up	left'.
+impacted	left, right, up, down	hit'.
+impacted	left, right, down, up	left'.
+impacted	right, up, down, left	right'.
+
+This
+impacted	right, up, left, down	right'.
+
+This
+impacted	right, down, up, left	right'.
+
+The
+impacted	right, down, left, up	right'.
+
+This
+impacted	right, left, up, down	right'.
+
+This
+impacted	right, left, down, up	right'.
+
+The
+perched	up, down, left, right	up'.
+perched	up, down, right, left	up'.
+perched	up, left, down, right	up'.
+perched	up, left, right, down	up'.
+perched	up, right, down, left	up'.
+perched	up, right, left, down	up'.
+perched	down, up, left, right	up'.
+perched	down, up, right, left	up'.
+perched	down, left, up, right	up'.
+perched	down, left, right, up	up'.
+perched	down, right, up, left	up'.
+perched	down, right, left, up	up'.
+perched	left, up, down, right	up'.
+perched	left, up, right, down	up'.
+perched	left, down, up, right	up'.
+perched	left, down, right, up	up'.
+perched	left, right, up, down	up'.
+perched	left, right, down, up	up'.
+perched	right, up, down, left	up'.
+perched	right, up, left, down	up'.
+perched	right, down, up, left	up'.
+perched	right, down, left, up	up'.
+perched	right, left, up, down	up'.
+perched	right, left, down, up	up'.
+showed	up, down, left, right	up'.
+showed	up, down, right, left	up'.
+showed	up, left, down, right	up'.
+showed	up, left, right, down	up'.
+showed	up, right, down, left	up'.
+showed	up, right, left, down	up'.
+showed	down, up, left, right	up'.
+showed	down, up, right, left	up'.
+showed	down, left, up, right	up'.
+showed	down, left, right, up	up'.
+showed	down, right, up, left	right'.
+showed	down, right, left, up	down'.
+showed	left, up, down, right	left'.
+showed	left, up, right, down	right'.
+showed	left, down, up, right	left'.
+showed	left, down, right, up	right'.
+showed	left, right, up, down	left'.
+showed	left, right, down, up	left'.
+showed	right, up, down, left	right'.
+showed	right, up, left, down	right'.
+showed	right, down, up, left	right'.
+showed	right, down, left, up	right'.
+showed	right, left, up, down	right'.
+showed	right, left, down, up	right'.
+smashed	up, down, left, right	down'.
+smashed	up, down, right, left	down'.
+smashed	up, left, down, right	down'.
+smashed	up, left, right, down	down'.
+smashed	up, right, down, left	down'.
+smashed	up, right, left, down	down'.
+smashed	down, up, left, right	down'.
+smashed	down, up, right, left	down'.
+smashed	down, left, up, right	down'.
+smashed	down, left, right, up	down'.
+smashed	down, right, up, left	down'.
+smashed	down, right, left, up	down'.
+smashed	left, up, down, right	down'.
+smashed	left, up, right, down	down'.
+smashed	left, down, up, right	down'.
+smashed	left, down, right, up	down'.
+smashed	left, right, up, down	smashed' as the
+smashed	left, right, down, up	down'.
+smashed	right, up, down, left	down'.
+smashed	right, up, left, down	down'.
+smashed	right, down, up, left	down'.
+smashed	right, down, left, up	down'.
+smashed	right, left, up, down	right'.
+smashed	right, left, down, up	down'.
+bombed	up, down, left, right	down'.
+bombed	up, down, right, left	down'.
+bombed	up, left, down, right	down'.
+bombed	up, left, right, down	down'.
+bombed	up, right, down, left	down'.
+bombed	up, right, left, down	down'.
+bombed	down, up, left, right	down'.
+bombed	down, up, right, left	down'.
+bombed	down, left, up, right	down'.
+bombed	down, left, right, up	down'.
+bombed	down, right, up, left	down'.
+bombed	down, right, left, up	down'.
+bombed	left, up, down, right	down'.
+bombed	left, up, right, down	down'.
+bombed	left, down, up, right	down'.
+bombed	left, down, right, up	down'.
+bombed	left, right, up, down	down'.
+bombed	left, right, down, up	down'.
+bombed	right, up, down, left	down'.
+bombed	right, up, left, down	down'.
+bombed	right, down, up, left	down'.
+bombed	right, down, left, up	down'.
+bombed	right, left, up, down	down'.
+bombed	right, left, down, up	down'.
+flew	up, down, left, right	up'.
+flew	up, down, right, left	up'.
+flew	up, left, down, right	up'.
+flew	up, left, right, down	up'.
+flew	up, right, down, left	up'.
+flew	up, right, left, down	up'.
+flew	down, up, left, right	up'.
+flew	down, up, right, left	up'.
+flew	down, left, up, right	up'.
+flew	down, left, right, up	up'.
+flew	down, right, up, left	up'.
+flew	down, right, left, up	up'.
+flew	left, up, down, right	up'.
+flew	left, up, right, down	up'.
+flew	left, down, up, right	up'.
+flew	left, down, right, up	up'.
+flew	left, right, up, down	up'.
+flew	left, right, down, up	up'.
+flew	right, up, down, left	up'.
+flew	right, up, left, down	up'.
+flew	right, down, up, left	up'.
+flew	right, down, left, up	up'.
+flew	right, left, up, down	up'.
+flew	right, left, down, up	up'.
+floated	up, down, left, right	up'.
+floated	up, down, right, left	up'.
+floated	up, left, down, right	up'.
+floated	up, left, right, down	up'.
+floated	up, right, down, left	up'.
+floated	up, right, left, down	up'.
+floated	down, up, left, right	up'.
+floated	down, up, right, left	up'.
+floated	down, left, up, right	up'.
+floated	down, left, right, up	up'.
+floated	down, right, up, left	up'.
+floated	down, right, left, up	up'.
+floated	left, up, down, right	up'.
+floated	left, up, right, down	up'.
+floated	left, down, up, right	up'.
+floated	left, down, right, up	up'.
+floated	left, right, up, down	up'.
+floated	left, right, down, up	up'.
+floated	right, up, down, left	up'.
+floated	right, up, left, down	up'.
+floated	right, down, up, left	up'.
+floated	right, down, left, up	up'.
+floated	right, left, up, down	up'.
+floated	right, left, down, up	up'.
+lifted	up, down, left, right	up'.
+lifted	up, down, right, left	up'.
+lifted	up, left, down, right	up'.
+lifted	up, left, right, down	up'.
+lifted	up, right, down, left	up'.
+lifted	up, right, left, down	up'.
+lifted	down, up, left, right	up'.
+lifted	down, up, right, left	up'.
+lifted	down, left, up, right	up'.
+lifted	down, left, right, up	up'.
+lifted	down, right, up, left	up'.
+lifted	down, right, left, up	up'.
+lifted	left, up, down, right	up'.
+lifted	left, up, right, down	up'.
+lifted	left, down, up, right	up'.
+lifted	left, down, right, up	up'.
+lifted	left, right, up, down	up'.
+lifted	left, right, down, up	up'.
+lifted	right, up, down, left	up'.
+lifted	right, up, left, down	up'.
+lifted	right, down, up, left	up'.
+lifted	right, down, left, up	up'.
+lifted	right, left, up, down	up'.
+lifted	right, left, down, up	up'.
+sank	up, down, left, right	down'.
+sank	up, down, right, left	down'.
+sank	up, left, down, right	down'.
+sank	up, left, right, down	down'.
+sank	up, right, down, left	down'.
+sank	up, right, left, down	down'.
+sank	down, up, left, right	down'.
+sank	down, up, right, left	down'.
+sank	down, left, up, right	down'.
+sank	down, left, right, up	down'.
+sank	down, right, up, left	down'.
+sank	down, right, left, up	down'.
+sank	left, up, down, right	down'.
+sank	left, up, right, down	down'.
+sank	left, down, up, right	down'.
+sank	left, down, right, up	down'.
+sank	left, right, up, down	down'.
+sank	left, right, down, up	down'.
+sank	right, up, down, left	down'.
+sank	right, up, left, down	down'.
+sank	right, down, up, left	down'.
+sank	right, down, left, up	down'.
+sank	right, left, up, down	down'.
+sank	right, left, down, up	down'.
+argued with	up, down, left, right	down'.
+argued with	up, down, right, left	up'.
+argued with	up, left, down, right	down'.
+argued with	up, left, right, down	down'.
+argued with	up, right, down, left	right'.
+
+
+
+
+argued with	up, right, left, down	right'.
+argued with	down, up, left, right	down'.
+argued with	down, up, right, left	down'.
+argued with	down, left, up, right	down'.
+argued with	down, left, right, up	down'.
+argued with	down, right, up, left	down'.
+argued with	down, right, left, up	down'.
+argued with	left, up, down, right	left'.
+argued with	left, up, right, down	right'.
+argued with	left, down, up, right	left'.
+argued with	left, down, right, up	right'.
+argued with	left, right, up, down	left' and 'right
+argued with	left, right, down, up	right'.
+argued with	right, up, down, left	right'.
+
+
+
+
+argued with	right, up, left, down	right'.
+
+
+
+
+argued with	right, down, up, left	right'.
+
+
+
+
+argued with	right, down, left, up	right'.
+
+
+
+
+argued with	right, left, up, down	right'.
+argued with	right, left, down, up	right'.
+gave to	up, down, left, right	gave'.
+gave to	up, down, right, left	gave'.
+gave to	up, left, down, right	gave'.
+gave to	up, left, right, down	gave'.
+gave to	up, right, down, left	gave'.
+gave to	up, right, left, down	gave'.
+gave to	down, up, left, right	gave'.
+gave to	down, up, right, left	gave'.
+gave to	down, left, up, right	gave'.
+gave to	down, left, right, up	gave'.
+gave to	down, right, up, left	gave'.
+gave to	down, right, left, up	gave'.
+gave to	left, up, down, right	gave'.
+gave to	left, up, right, down	gave'.
+gave to	left, down, up, right	gave'.
+gave to	left, down, right, up	gave'.
+gave to	left, right, up, down	gave'.
+gave to	left, right, down, up	gave'.
+gave to	right, up, down, left	gave'.
+gave to	right, up, left, down	gave'.
+gave to	right, down, up, left	gave'.
+gave to	right, down, left, up	gave'.
+gave to	right, left, up, down	gave'.
+gave to	right, left, down, up	gave'.
+offended	up, down, left, right	down'. This is because
+offended	up, down, right, left	down'. This is because
+offended	up, left, down, right	down'. This is because
+offended	up, left, right, down	down'. This is because
+offended	up, right, down, left	down'. This is because
+offended	up, right, left, down	down'.
+offended	down, up, left, right	down'. This is because
+offended	down, up, right, left	down'.
+offended	down, left, up, right	down'. This is because
+offended	down, left, right, up	down'. This is because
+offended	down, right, up, left	down'. This is because
+offended	down, right, left, up	down'. This is because
+offended	left, up, down, right	left'.
+offended	left, up, right, down	left'.
+offended	left, down, up, right	left'.
+offended	left, down, right, up	left'.
+offended	left, right, up, down	left'.
+offended	left, right, down, up	left'. This is because
+offended	right, up, down, left	right'.
+offended	right, up, left, down	right'.
+
+The
+offended	right, down, up, left	right'.
+offended	right, down, left, up	left'.
+offended	right, left, up, down	right'.
+offended	right, left, down, up	left'.
+rushed	up, down, left, right	up'.
+rushed	up, down, right, left	up'.
+rushed	up, left, down, right	up'.
+rushed	up, left, right, down	up'.
+rushed	up, right, down, left	up'.
+rushed	up, right, left, down	up'.
+rushed	down, up, left, right	down'.
+rushed	down, up, right, left	down'.
+rushed	down, left, up, right	down'.
+rushed	down, left, right, up	down'.
+rushed	down, right, up, left	down'.
+rushed	down, right, left, up	down'.
+rushed	left, up, down, right	left'.
+rushed	left, up, right, down	left'.
+rushed	left, down, up, right	left'.
+rushed	left, down, right, up	left'.
+rushed	left, right, up, down	left'.
+rushed	left, right, down, up	left'.
+rushed	right, up, down, left	right'.
+rushed	right, up, left, down	right'.
+rushed	right, down, up, left	right'.
+rushed	right, down, left, up	right'.
+rushed	right, left, up, down	right'.
+rushed	right, left, down, up	right'.
+warned	up, down, left, right	up'.
+warned	up, down, right, left	up'.
+warned	up, left, down, right	up'.
+warned	up, left, right, down	up'.
+warned	up, right, down, left	up'.
+warned	up, right, left, down	up'.
+warned	down, up, left, right	down'.
+warned	down, up, right, left	down'.
+warned	down, left, up, right	down'.
+warned	down, left, right, up	down'.
+warned	down, right, up, left	down'.
+warned	down, right, left, up	down'.
+warned	left, up, down, right	left'.
+warned	left, up, right, down	left'.
+warned	left, down, up, right	left'.
+warned	left, down, right, up	left'.
+warned	left, right, up, down	left'.
+warned	left, right, down, up	left'.
+warned	right, up, down, left	right'.
+warned	right, up, left, down	right'.
+warned	right, down, up, left	right'.
+warned	right, down, left, up	right'.
+warned	right, left, up, down	right'.
+warned	right, left, down, up	right'.
+owned	up, down, left, right	right'.
+owned	up, down, right, left	right'.
+owned	up, left, down, right	right'.
+owned	up, left, right, down	right'.
+owned	up, right, down, left	right'.
+owned	up, right, left, down	right'.
+owned	down, up, left, right	down'.
+owned	down, up, right, left	right'.
+owned	down, left, up, right	right'.
+owned	down, left, right, up	right'.
+owned	down, right, up, left	right'.
+owned	down, right, left, up	right'.
+owned	left, up, down, right	right'.
+owned	left, up, right, down	right'.
+owned	left, down, up, right	right'.
+owned	left, down, right, up	right'.
+owned	left, right, up, down	right'.
+owned	left, right, down, up	right'.
+owned	right, up, down, left	right'. This is because
+owned	right, up, left, down	right'. This is because
+owned	right, down, up, left	right'. This is because
+owned	right, down, left, up	right'. This is because
+owned	right, left, up, down	right'.
+owned	right, left, down, up	right'.
+regretted	up, down, left, right	down'.
+regretted	up, down, right, left	down'.
+regretted	up, left, down, right	down'.
+regretted	up, left, right, down	down'.
+regretted	up, right, down, left	left'. This is because
+regretted	up, right, left, down	down'.
+regretted	down, up, left, right	down'.
+regretted	down, up, right, left	down'.
+regretted	down, left, up, right	down'.
+regretted	down, left, right, up	down'.
+regretted	down, right, up, left	down'.
+regretted	down, right, left, up	down'.
+regretted	left, up, down, right	left'.
+regretted	left, up, right, down	left'.
+regretted	left, down, up, right	left'.
+regretted	left, down, right, up	left'.
+regretted	left, right, up, down	left'.
+regretted	left, right, down, up	left'.
+regretted	right, up, down, left	right'.
+regretted	right, up, left, down	left'.
+regretted	right, down, up, left	left'.
+regretted	right, down, left, up	left'.
+regretted	right, left, up, down	left'.
+regretted	right, left, down, up	left'.
+rested	up, down, left, right	down'.
+rested	up, down, right, left	down'.
+rested	up, left, down, right	down'.
+rested	up, left, right, down	down'.
+rested	up, right, down, left	down'.
+rested	up, right, left, down	down'.
+rested	down, up, left, right	down'.
+rested	down, up, right, left	down'.
+rested	down, left, up, right	down'.
+rested	down, left, right, up	down'.
+rested	down, right, up, left	down'.
+rested	down, right, left, up	down'.
+rested	left, up, down, right	down'.
+rested	left, up, right, down	down'.
+rested	left, down, up, right	down'.
+rested	left, down, right, up	left'.
+rested	left, right, up, down	down'.
+rested	left, right, down, up	down'.
+rested	right, up, down, left	right'.
+rested	right, up, left, down	right'. This is because
+rested	right, down, up, left	down'.
+rested	right, down, left, up	down'. This is because
+rested	right, left, up, down	down'.
+rested	right, left, down, up	down'.
+tempted	up, down, left, right	down'.
+tempted	up, down, right, left	up'.
+tempted	up, left, down, right	down'.
+tempted	up, left, right, down	down'.
+tempted	up, right, down, left	up'.
+tempted	up, right, left, down	up'.
+tempted	down, up, left, right	down'.
+tempted	down, up, right, left	down'.
+tempted	down, left, up, right	down'.
+tempted	down, left, right, up	down'.
+tempted	down, right, up, left	down'.
+tempted	down, right, left, up	down'.
+tempted	left, up, down, right	left'.
+tempted	left, up, right, down	down'.
+tempted	left, down, up, right	left'.
+tempted	left, down, right, up	left'.
+tempted	left, right, up, down	left.'
+tempted	left, right, down, up	left'.
+tempted	right, up, down, left	right'.
+tempted	right, up, left, down	right'.
+tempted	right, down, up, left	right'.
+tempted	right, down, left, up	down'.
+tempted	right, left, up, down	right'.
+tempted	right, left, down, up	down'.
+wanted	up, down, left, right	up'.
+wanted	up, down, right, left	up'.
+wanted	up, left, down, right	up'.
+wanted	up, left, right, down	up'.
+wanted	up, right, down, left	right'.
+wanted	up, right, left, down	up'.
+wanted	down, up, left, right	up'.
+wanted	down, up, right, left	up'.
+wanted	down, left, up, right	up'.
+wanted	down, left, right, up	up'.
+wanted	down, right, up, left	right'.
+wanted	down, right, left, up	up'.
+wanted	left, up, down, right	right'.
+wanted	left, up, right, down	right'.
+wanted	left, down, up, right	right'.
+wanted	left, down, right, up	right'.
+wanted	left, right, up, down	right'.
+wanted	left, right, down, up	right'.
+wanted	right, up, down, left	right'.
+wanted	right, up, left, down	right'.
+wanted	right, down, up, left	right'.
+wanted	right, down, left, up	right'.
+wanted	right, left, up, down	right'.
+wanted	right, left, down, up	right'.
+hoped	up, down, left, right	up'.
+hoped	up, down, right, left	up'.
+hoped	up, left, down, right	up'.
+hoped	up, left, right, down	up'.
+hoped	up, right, down, left	up'.
+hoped	up, right, left, down	up'.
+hoped	down, up, left, right	up'.
+hoped	down, up, right, left	up'.
+hoped	down, left, up, right	up'.
+hoped	down, left, right, up	up'.
+hoped	down, right, up, left	up'.
+hoped	down, right, left, up	up'.
+hoped	left, up, down, right	up'.
+hoped	left, up, right, down	up'.
+hoped	left, down, up, right	up'.
+hoped	left, down, right, up	up'.
+hoped	left, right, up, down	up'.
+hoped	left, right, down, up	up'.
+hoped	right, up, down, left	right'.
+
+The
+hoped	right, up, left, down	right'.
+
+The
+hoped	right, down, up, left	up'.
+hoped	right, down, left, up	up'.
+hoped	right, left, up, down	up'.
+hoped	right, left, down, up	right'.
+
+The
+increased	up, down, left, right	up'.
+increased	up, down, right, left	up'.
+increased	up, left, down, right	up'.
+increased	up, left, right, down	up'.
+increased	up, right, down, left	up'.
+increased	up, right, left, down	up'.
+increased	down, up, left, right	up'.
+increased	down, up, right, left	up'.
+increased	down, left, up, right	up'.
+increased	down, left, right, up	up'.
+increased	down, right, up, left	up'.
+increased	down, right, left, up	up'.
+increased	left, up, down, right	up'.
+increased	left, up, right, down	right'.
+increased	left, down, up, right	up'.
+increased	left, down, right, up	up'.
+increased	left, right, up, down	up'.
+increased	left, right, down, up	up'.
+increased	right, up, down, left	right'.
+increased	right, up, left, down	up'.
+increased	right, down, up, left	up'.
+increased	right, down, left, up	up'.
+increased	right, left, up, down	up'.
+increased	right, left, down, up	up'.
+obeyed	up, down, left, right	up'.
+obeyed	up, down, right, left	right'.
+obeyed	up, left, down, right	right'.
+obeyed	up, left, right, down	right'.
+obeyed	up, right, down, left	right'.
+obeyed	up, right, left, down	right'.
+obeyed	down, up, left, right	down'.
+obeyed	down, up, right, left	down'.
+obeyed	down, left, up, right	right'.
+obeyed	down, left, right, up	right'.
+obeyed	down, right, up, left	right'.
+obeyed	down, right, left, up	right'.
+obeyed	left, up, down, right	right'.
+obeyed	left, up, right, down	right'.
+obeyed	left, down, up, right	right'.
+obeyed	left, down, right, up	right'.
+obeyed	left, right, up, down	right'.
+obeyed	left, right, down, up	right'.
+obeyed	right, up, down, left	right'. This is because
+obeyed	right, up, left, down	right'.
+obeyed	right, down, up, left	right'. This is because
+obeyed	right, down, left, up	right'. This is because
+obeyed	right, left, up, down	right'.
+obeyed	right, left, down, up	right'.
+respected	up, down, left, right	up'. This is because
+respected	up, down, right, left	up'.
+respected	up, left, down, right	up'.
+respected	up, left, right, down	up'. This is because
+respected	up, right, down, left	up'. This is because
+respected	up, right, left, down	up'. This is because
+respected	down, up, left, right	up'.
+respected	down, up, right, left	up'.
+respected	down, left, up, right	up'.
+respected	down, left, right, up	up'.
+respected	down, right, up, left	right'.
+respected	down, right, left, up	up'.
+respected	left, up, down, right	up'.
+respected	left, up, right, down	up'.
+respected	left, down, up, right	up'.
+respected	left, down, right, up	up'.
+respected	left, right, up, down	left'.
+
+The
+respected	left, right, down, up	right'.
+respected	right, up, down, left	right'. This is because
+respected	right, up, left, down	right'. This is because
+respected	right, down, up, left	right'. This is because
+respected	right, down, left, up	right'. This is because
+respected	right, left, up, down	right'.
+respected	right, left, down, up	right'.
+succeeded	up, down, left, right	up'.
+succeeded	up, down, right, left	up'.
+succeeded	up, left, down, right	right'.
+succeeded	up, left, right, down	right'.
+succeeded	up, right, down, left	right'.
+succeeded	up, right, left, down	up'.
+succeeded	down, up, left, right	up'.
+succeeded	down, up, right, left	up'.
+succeeded	down, left, up, right	right'.
+succeeded	down, left, right, up	right'.
+succeeded	down, right, up, left	right'.
+succeeded	down, right, left, up	right'.
+succeeded	left, up, down, right	right'.
+succeeded	left, up, right, down	right'.
+succeeded	left, down, up, right	right'.
+succeeded	left, down, right, up	right'.
+succeeded	left, right, up, down	right'.
+succeeded	left, right, down, up	right'.
+succeeded	right, up, down, left	right'.
+succeeded	right, up, left, down	right'.
+succeeded	right, down, up, left	right'.
+succeeded	right, down, left, up	right'.
+succeeded	right, left, up, down	right'.
+succeeded	right, left, down, up	right'.
