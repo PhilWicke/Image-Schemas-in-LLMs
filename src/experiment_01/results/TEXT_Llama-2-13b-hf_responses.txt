@@ -1,315 +1,315 @@
 fled	up, down, left, right	up'.
-The concept
+Given
 fled	up, down, right, left	up'.
-The concept
+Given
 fled	up, left, down, right	left'.
-The concept
+Given
 fled	up, left, right, down	left'.
-The concept
+Given
 fled	up, right, down, left	up'.
-The concept
+Given
 fled	up, right, left, down	left'.
-The concept
+Given
 fled	down, up, left, right	up'.
-The concept
+Given
 fled	down, up, right, left	up'.
-The concept
+Given
 fled	down, left, up, right	left'.
-The concept
-fled	down, left, right, up	up'.
-The concept
+Given
+fled	down, left, right, up	left'.
+Given
 fled	down, right, up, left	up'.
-The concept
-fled	down, right, left, up	up'.
-The concept
+Given
+fled	down, right, left, up	left'.
+Given
 fled	left, up, down, right	up'.
-The concept
+Given
 fled	left, up, right, down	up'.
-The concept
+Given
 fled	left, down, up, right	up'.
-The concept
+Given
 fled	left, down, right, up	up'.
-The concept
+Given
 fled	left, right, up, down	left'.
-The concept
+Given
 fled	left, right, down, up	up'.
-The concept
+Given
 fled	right, up, down, left	up'.
-The concept
+Given
 fled	right, up, left, down	left'.
-The concept
+Given
 fled	right, down, up, left	up'.
-The concept
+Given
 fled	right, down, left, up	left'.
-The concept
+Given
 fled	right, left, up, down	left'.
-The concept
+Given
 fled	right, left, down, up	up'.
-The concept
+Given
 pointed at	up, down, left, right	right'.
-The concept
+Given
 pointed at	up, down, right, left	right'.
-The concept
+Given
 pointed at	up, left, down, right	right'.
-The concept
+Given
 pointed at	up, left, right, down	right'.
-The concept
+Given
 pointed at	up, right, down, left	right'.
-The concept
+Given
 pointed at	up, right, left, down	right'.
-The concept
+Given
 pointed at	down, up, left, right	right'.
-The concept
+Given
 pointed at	down, up, right, left	right'.
-The concept
+Given
 pointed at	down, left, up, right	right'.
-The concept
+Given
 pointed at	down, left, right, up	right'.
-The concept
+Given
 pointed at	down, right, up, left	right'.
-The concept
+Given
 pointed at	down, right, left, up	right'.
-The concept
+Given
 pointed at	left, up, down, right	right'.
-The concept
+Given
 pointed at	left, up, right, down	right'.
-The concept
+Given
 pointed at	left, down, up, right	right'.
-The concept
+Given
 pointed at	left, down, right, up	right'.
-The concept
+Given
 pointed at	left, right, up, down	right'.
-The concept
+Given
 pointed at	left, right, down, up	right'.
-The concept
+Given
 pointed at	right, up, down, left	up'.
-The reason
+Given
 pointed at	right, up, left, down	right'.
-The reason
+Given
 pointed at	right, down, up, left	right'.
-The reason
+Given
 pointed at	right, down, left, up	right'.
-The concept
+Given
 pointed at	right, left, up, down	right'.
-The reason
+Given
 pointed at	right, left, down, up	right'.
-The concept
+Given
 pulled	up, down, left, right	up'.
-The concept
+Given
 pulled	up, down, right, left	up'.
-I would
+Given
 pulled	up, left, down, right	down'.
-The concept
+Given
 pulled	up, left, right, down	right'.
-The concept
+Given
 pulled	up, right, down, left	right'.
-The concept
+Given
 pulled	up, right, left, down	right'.
-The concept
+Given
 pulled	down, up, left, right	up'.
-The concept
+Given
 pulled	down, up, right, left	up'.
-The concept
-pulled	down, left, up, right	up'.
-The concept
+Given
+pulled	down, left, up, right	left'.
+Given
 pulled	down, left, right, up	up'.
-The concept
-pulled	down, right, up, left	up'.
-I would
-pulled	down, right, left, up	up'.
-I would
-pulled	left, up, down, right	up'.
-I would
+Given
+pulled	down, right, up, left	right'.
+Given
+pulled	down, right, left, up	right'.
+Given
+pulled	left, up, down, right	right'.
+Given
 pulled	left, up, right, down	right'.
-The concept
-pulled	left, down, up, right	up'.
-I would
+Given
+pulled	left, down, up, right	right'.
+Given
 pulled	left, down, right, up	right'.
-The concept
-pulled	left, right, up, down	up'.
-I would
-pulled	left, right, down, up	up'.
-The concept
+Given
+pulled	left, right, up, down	right'.
+Given
+pulled	left, right, down, up	right'.
+Given
 pulled	right, up, down, left	up'.
-I would
-pulled	right, up, left, down	up'.
-I would
+Given
+pulled	right, up, left, down	right'.
+Given
 pulled	right, down, up, left	up'.
-I would
-pulled	right, down, left, up	up'.
-I would
-pulled	right, left, up, down	up'.
-I would
+Given
+pulled	right, down, left, up	right'.
+Given
+pulled	right, left, up, down	right'.
+Given
 pulled	right, left, down, up	up'.
-The concept
+Given
 pushed	up, down, left, right	down'.
-The concept
+Given
 pushed	up, down, right, left	down'.
-I would
+Given
 pushed	up, left, down, right	right'.
-The concept
+Given
 pushed	up, left, right, down	right'.
-The concept
+Given
 pushed	up, right, down, left	right'.
-The concept
+Given
 pushed	up, right, left, down	right'.
-The concept
+Given
 pushed	down, up, left, right	down'.
-I would
+Given
 pushed	down, up, right, left	down'.
-I would
-pushed	down, left, up, right	right'.
-The concept
+Given
+pushed	down, left, up, right	left'.
+Given
 pushed	down, left, right, up	right'.
-The concept
+Given
 pushed	down, right, up, left	right'.
-The concept
+Given
 pushed	down, right, left, up	right'.
-The concept
+Given
 pushed	left, up, down, right	right'.
-The concept
+Given
 pushed	left, up, right, down	right'.
-I would
+Given
 pushed	left, down, up, right	right'.
-The concept
+Given
 pushed	left, down, right, up	right'.
-The concept
+Given
 pushed	left, right, up, down	right'.
-The concept
+Given
 pushed	left, right, down, up	down'.
-I would
-pushed	right, up, down, left	up'.
-I would
+Given
+pushed	right, up, down, left	right'.
+Given
 pushed	right, up, left, down	right'.
-I would
+Given
 pushed	right, down, up, left	right'.
-I would
+Given
 pushed	right, down, left, up	right'.
-I would
+Given
 pushed	right, left, up, down	right'.
-I would
+Given
 pushed	right, left, down, up	down'.
-I would
+Given
 walked	up, down, left, right	up'.
-I would
-walked	up, down, right, left	right'.
-I would
+Given
+walked	up, down, right, left	up'.
+Given
 walked	up, left, down, right	left'.
-I would
-walked	up, left, right, down	right'.
-I would
+Given
+walked	up, left, right, down	left'.
+Given
 walked	up, right, down, left	right'.
-I would
+Given
 walked	up, right, left, down	right'.
-I would
+Given
 walked	down, up, left, right	down'.
-I would
+Given
 walked	down, up, right, left	down'.
-I would
+Given
 walked	down, left, up, right	left'.
-I would
+Given
 walked	down, left, right, up	left'.
-I would
+Given
 walked	down, right, up, left	right'.
-I would
+Given
 walked	down, right, left, up	right'.
-I would
+Given
 walked	left, up, down, right	right'.
-I would
+Given
 walked	left, up, right, down	right'.
-I would
+Given
 walked	left, down, up, right	right'.
-I would
+Given
 walked	left, down, right, up	right'.
-I would
+Given
 walked	left, right, up, down	right'.
-I would
+Given
 walked	left, right, down, up	down'.
-I would
+I'
 walked	right, up, down, left	right'.
-I would
+Given
 walked	right, up, left, down	right'.
-I would
+Given
 walked	right, down, up, left	right'.
-I would
+Given
 walked	right, down, left, up	right'.
-I would
+Given
 walked	right, left, up, down	right'.
-I would
+Given
 walked	right, left, down, up	down'.
-I would
+Given
 hunted	up, down, left, right	down'.
-The concept
+Given
 hunted	up, down, right, left	down'.
-The concept
+Given
 hunted	up, left, down, right	down'.
-The concept
+Given
 hunted	up, left, right, down	down'.
-The concept
+Given
 hunted	up, right, down, left	down'.
-The concept
+Given
 hunted	up, right, left, down	down'.
-The concept
+Given
 hunted	down, up, left, right	down'.
-The concept
+Given
 hunted	down, up, right, left	down'.
-The concept
+Given
 hunted	down, left, up, right	left'.
-The concept
+Given
 hunted	down, left, right, up	left'.
-The concept
+Given
 hunted	down, right, up, left	right'.
-The concept
+Given
 hunted	down, right, left, up	right'.
-The concept
+Given
 hunted	left, up, down, right	right'.
-The concept
+Given
 hunted	left, up, right, down	right'.
-The concept
+Given
 hunted	left, down, up, right	right'.
-The concept
+Given
 hunted	left, down, right, up	right'.
-The concept
+Given
 hunted	left, right, up, down	right'.
-The concept
+Given
 hunted	left, right, down, up	down'.
 The concept
 hunted	right, up, down, left	up'.
-The concept
-hunted	right, up, left, down	left'.
-The concept
-hunted	right, down, up, left	down'.
-The concept
-hunted	right, down, left, up	left'.
-The concept
+Given
+hunted	right, up, left, down	right'.
+Given
+hunted	right, down, up, left	right'.
+Given
+hunted	right, down, left, up	right'.
+Given
 hunted	right, left, up, down	right'.
-The concept
+Given
 hunted	right, left, down, up	down'.
-The concept
+Given
 impacted	up, down, left, right	down'.
-The reason
-impacted	up, down, right, left	down'.
 The concept
+impacted	up, down, right, left	down'.
+Given
 impacted	up, left, down, right	right'.
 The concept
 impacted	up, left, right, down	down'.
 The concept
-impacted	up, right, down, left	down'.
-The concept
+impacted	up, right, down, left	right'.
+Given
 impacted	up, right, left, down	down'.
 The concept
 impacted	down, up, left, right	down'.
-The reason
+The concept
 impacted	down, up, right, left	down'.
-The reason
+Given
 impacted	down, left, up, right	left'.
 The concept
 impacted	down, left, right, up	right'.
 The concept
 impacted	down, right, up, left	right'.
-The concept
+Given
 impacted	down, right, left, up	right'.
-The concept
+Given
 impacted	left, up, down, right	right'.
 The concept
 impacted	left, up, right, down	right'.
@@ -321,195 +321,195 @@ The concept
 impacted	left, right, up, down	right'.
 The concept
 impacted	left, right, down, up	down'.
-The reason
-impacted	right, up, down, left	up'.
-The reason
+The concept
+impacted	right, up, down, left	right'.
+Given
 impacted	right, up, left, down	right'.
-The reason
+Given
 impacted	right, down, up, left	right'.
-The reason
+Given
 impacted	right, down, left, up	right'.
-The reason
+Given
 impacted	right, left, up, down	right'.
 The concept
 impacted	right, left, down, up	down'.
-The reason
-perched	up, down, left, right	up'.
 The concept
+perched	up, down, left, right	up'.
+Given
 perched	up, down, right, left	up'.
 Given
 perched	up, left, down, right	up'.
-The concept
+Given
 perched	up, left, right, down	up'.
-The concept
+Given
 perched	up, right, down, left	up'.
 Given
 perched	up, right, left, down	up'.
 Given
 perched	down, up, left, right	up'.
-The concept
+Given
 perched	down, up, right, left	up'.
 Given
 perched	down, left, up, right	up'.
-The concept
+Given
 perched	down, left, right, up	up'.
-The concept
+Given
 perched	down, right, up, left	up'.
-The concept
+Given
 perched	down, right, left, up	up'.
-The concept
+Given
 perched	left, up, down, right	up'.
-The concept
+Given
 perched	left, up, right, down	up'.
-The concept
+Given
 perched	left, down, up, right	up'.
-The concept
+Given
 perched	left, down, right, up	up'.
-The concept
+Given
 perched	left, right, up, down	up'.
-The concept
+Given
 perched	left, right, down, up	up'.
-The concept
+Given
 perched	right, up, down, left	up'.
-The concept
+Given
 perched	right, up, left, down	up'.
-The concept
+Given
 perched	right, down, up, left	up'.
-The concept
+Given
 perched	right, down, left, up	up'.
 Given
 perched	right, left, up, down	up'.
-The concept
+Given
 perched	right, left, down, up	up'.
-The concept
+Given
 showed	up, down, left, right	up'.
-The concept
+Given
 showed	up, down, right, left	up'.
-The concept
+Given
 showed	up, left, down, right	up'.
-The concept
+Given
 showed	up, left, right, down	up'.
-The concept
+Given
 showed	up, right, down, left	up'.
-The concept
+Given
 showed	up, right, left, down	up'.
-The concept
+Given
 showed	down, up, left, right	up'.
-The concept
+Given
 showed	down, up, right, left	up'.
-The concept
-showed	down, left, up, right	up'.
-The concept
+Given
+showed	down, left, up, right	left'.
+Given
 showed	down, left, right, up	up'.
-The concept
-showed	down, right, up, left	up'.
-The concept
-showed	down, right, left, up	up'.
-The concept
+Given
+showed	down, right, up, left	right'.
+Given
+showed	down, right, left, up	right'.
+Given
 showed	left, up, down, right	up'.
-The concept
-showed	left, up, right, down	up'.
-The concept
+Given
+showed	left, up, right, down	right'.
+Given
 showed	left, down, up, right	up'.
-The concept
+Given
 showed	left, down, right, up	right'.
-The concept
+Given
 showed	left, right, up, down	up'.
-The concept
+Given
 showed	left, right, down, up	up'.
-The concept
+Given
 showed	right, up, down, left	up'.
-The concept
-showed	right, up, left, down	up'.
-The concept
+Given
+showed	right, up, left, down	right'.
+Given
 showed	right, down, up, left	up'.
-The concept
+Given
 showed	right, down, left, up	up'.
-The concept
+Given
 showed	right, left, up, down	up'.
-The concept
+Given
 showed	right, left, down, up	up'.
-The concept
+Given
 smashed	up, down, left, right	down'.
-I would
+Given
 smashed	up, down, right, left	down'.
-I would
+Given
 smashed	up, left, down, right	down'.
-The concept
+Given
 smashed	up, left, right, down	down'.
-I would
-smashed	up, right, down, left	down'.
-I would
-smashed	up, right, left, down	down'.
-I would
-smashed	down, up, left, right	down'.
-I would
-smashed	down, up, right, left	down'.
-I would
-smashed	down, left, up, right	right'.
 The concept
+smashed	up, right, down, left	down'.
+Given
+smashed	up, right, left, down	down'.
+Given
+smashed	down, up, left, right	down'.
+Given
+smashed	down, up, right, left	down'.
+Given
+smashed	down, left, up, right	left'.
+Given
 smashed	down, left, right, up	right'.
-I would
+Given
 smashed	down, right, up, left	right'.
-I would
+Given
 smashed	down, right, left, up	right'.
-I would
+Given
 smashed	left, up, down, right	right'.
-I would
+The concept
 smashed	left, up, right, down	right'.
-I would
+Given
 smashed	left, down, up, right	right'.
 The concept
 smashed	left, down, right, up	right'.
-I would
+Given
 smashed	left, right, up, down	down'.
-I would
+The concept
 smashed	left, right, down, up	down'.
-I would
+The concept
 smashed	right, up, down, left	down'.
-I would
+Given
 smashed	right, up, left, down	left'.
-I would
+I think
 smashed	right, down, up, left	down'.
-I would
-smashed	right, down, left, up	left'.
-I would
+Given
+smashed	right, down, left, up	right'.
+Given
 smashed	right, left, up, down	right'.
-I would
+Given
 smashed	right, left, down, up	down'.
-I would
+Given
 bombed	up, down, left, right	down'.
-The concept
+Given
 bombed	up, down, right, left	down'.
-The concept
+Given
 bombed	up, left, down, right	left'.
-The concept
+Given
 bombed	up, left, right, down	left'.
-The concept
+Given
 bombed	up, right, down, left	down'.
-The concept
+Given
 bombed	up, right, left, down	left'.
-The concept
+Given
 bombed	down, up, left, right	down'.
-The reason
+Given
 bombed	down, up, right, left	down'.
-The reason
+Given
 bombed	down, left, up, right	left'.
-The concept
+Given
 bombed	down, left, right, up	left'.
-The concept
-bombed	down, right, up, left	right'.
-The concept
+Given
+bombed	down, right, up, left	down'.
+Given
 bombed	down, right, left, up	left'.
-The concept
-bombed	left, up, down, right	right'.
-The concept
+Given
+bombed	left, up, down, right	down'.
+Given
 bombed	left, up, right, down	down'.
-The concept
-bombed	left, down, up, right	right'.
+Given
+bombed	left, down, up, right	down'.
 The concept
 bombed	left, down, right, up	down'.
-The concept
+Given
 bombed	left, right, up, down	down'.
 The concept
 bombed	left, right, down, up	down'.
@@ -517,117 +517,117 @@ The concept
 bombed	right, up, down, left	up'.
 The reason
 bombed	right, up, left, down	left'.
-The concept
+Given
 bombed	right, down, up, left	left'.
 The concept
 bombed	right, down, left, up	left'.
-The concept
+Given
 bombed	right, left, up, down	left'.
 The concept
 bombed	right, left, down, up	down'.
 The concept
 flew	up, down, left, right	up'.
-I would
+Given
 flew	up, down, right, left	up'.
-I would
+Given
 flew	up, left, down, right	up'.
-I would
+Given
 flew	up, left, right, down	up'.
-I would
+Given
 flew	up, right, down, left	up'.
-I would
+Given
 flew	up, right, left, down	up'.
-I would
+Given
 flew	down, up, left, right	up'.
-I would
+Given
 flew	down, up, right, left	up'.
-I would
+Given
 flew	down, left, up, right	up'.
-The concept
+Given
 flew	down, left, right, up	up'.
-I would
+Given
 flew	down, right, up, left	up'.
-I would
+Given
 flew	down, right, left, up	up'.
-I would
+Given
 flew	left, up, down, right	up'.
-I would
+Given
 flew	left, up, right, down	up'.
-I would
+Given
 flew	left, down, up, right	up'.
-I would
+Given
 flew	left, down, right, up	up'.
-I would
+Given
 flew	left, right, up, down	up'.
-I would
+Given
 flew	left, right, down, up	up'.
-I would
+Given
 flew	right, up, down, left	up'.
-I would
+Given
 flew	right, up, left, down	up'.
-I would
+Given
 flew	right, down, up, left	up'.
-I would
+Given
 flew	right, down, left, up	up'.
-I would
+Given
 flew	right, left, up, down	up'.
-I would
+Given
 flew	right, left, down, up	up'.
-I would
+Given
 floated	up, down, left, right	up'.
-The concept
+Given
 floated	up, down, right, left	up'.
 Given
 floated	up, left, down, right	right'.
-The concept
+Given
 floated	up, left, right, down	up'.
-The concept
+Given
 floated	up, right, down, left	right'.
-The concept
-floated	up, right, left, down	up'.
-The concept
+Given
+floated	up, right, left, down	right'.
+Given
 floated	down, up, left, right	up'.
-The concept
+Given
 floated	down, up, right, left	up'.
 Given
-floated	down, left, up, right	up'.
-The concept
+floated	down, left, up, right	left'.
+Given
 floated	down, left, right, up	up'.
-The concept
-floated	down, right, up, left	up'.
-The concept
+Given
+floated	down, right, up, left	right'.
+Given
 floated	down, right, left, up	up'.
-The concept
-floated	left, up, down, right	up'.
-The concept
+Given
+floated	left, up, down, right	right'.
+Given
 floated	left, up, right, down	right'.
-The concept
+Given
 floated	left, down, up, right	up'.
-The concept
-floated	left, down, right, up	up'.
-The concept
+Given
+floated	left, down, right, up	right'.
+Given
 floated	left, right, up, down	up'.
-The concept
+Given
 floated	left, right, down, up	up'.
-The concept
+Given
 floated	right, up, down, left	up'.
-The concept
+Given
 floated	right, up, left, down	up'.
-The concept
+Given
 floated	right, down, up, left	up'.
-The concept
+Given
 floated	right, down, left, up	up'.
-The concept
+Given
 floated	right, left, up, down	up'.
-The concept
+Given
 floated	right, left, down, up	up'.
-The concept
+Given
 lifted	up, down, left, right	up'.
 Given
 lifted	up, down, right, left	up'.
 Given
 lifted	up, left, down, right	up'.
-The concept
+Given
 lifted	up, left, right, down	up'.
 Given
 lifted	up, right, down, left	up'.
@@ -635,29 +635,29 @@ Given
 lifted	up, right, left, down	up'.
 Given
 lifted	down, up, left, right	up'.
-The concept
+Given
 lifted	down, up, right, left	up'.
 Given
 lifted	down, left, up, right	up'.
-The concept
+Given
 lifted	down, left, right, up	up'.
-The concept
+Given
 lifted	down, right, up, left	up'.
-The concept
+Given
 lifted	down, right, left, up	up'.
-The concept
+Given
 lifted	left, up, down, right	up'.
-I would
+Given
 lifted	left, up, right, down	up'.
-I would
+Given
 lifted	left, down, up, right	up'.
-The concept
+Given
 lifted	left, down, right, up	up'.
-The concept
+Given
 lifted	left, right, up, down	up'.
-The concept
+Given
 lifted	left, right, down, up	up'.
-The concept
+Given
 lifted	right, up, down, left	up'.
 Given
 lifted	right, up, left, down	up'.
@@ -707,7 +707,7 @@ Given
 sank	left, right, down, up	down'.
 Given
 sank	right, up, down, left	down'.
-I would
+Given
 sank	right, up, left, down	down'.
 Given
 sank	right, down, up, left	down'.
@@ -719,58 +719,58 @@ Given
 sank	right, left, down, up	down'.
 Given
 argued with	up, down, left, right	down'.
-The concept
+Given
 argued with	up, down, right, left	down'.
-The concept
+Given
 argued with	up, left, down, right	down'.
-The concept
-argued with	up, left, right, down	right'.
-The concept
+Given
+argued with	up, left, right, down	down'.
+Given
 argued with	up, right, down, left	down'.
-The concept
+Given
 argued with	up, right, left, down	down'.
-The concept
+Given
 argued with	down, up, left, right	down'.
-The reason
-argued with	down, up, right, left	up'.
-The concept
+Given
+argued with	down, up, right, left	down'.
+Given
 argued with	down, left, up, right	left'.
-The concept
-argued with	down, left, right, up	right'.
-The concept
+Given
+argued with	down, left, right, up	left'.
+Given
 argued with	down, right, up, left	right'.
-The concept
+Given
 argued with	down, right, left, up	right'.
-The concept
+Given
 argued with	left, up, down, right	right'.
-The concept
+Given
 argued with	left, up, right, down	right'.
-The concept
+Given
 argued with	left, down, up, right	down'.
-The concept
-argued with	left, down, right, up	right'.
-The concept
+Given
+argued with	left, down, right, up	down'.
+Given
 argued with	left, right, up, down	up'.
-I would
+The concept
 argued with	left, right, down, up	down'.
-The reason
+The concept
 argued with	right, up, down, left	up'.
-I would
+Given
 argued with	right, up, left, down	up'.
-I would
+Given
 argued with	right, down, up, left	up'.
-I would
-argued with	right, down, left, up	up'.
-I would
+Given
+argued with	right, down, left, up	down'.
+Given
 argued with	right, left, up, down	up'.
-I would
+Given
 argued with	right, left, down, up	down'.
-The reason
+Given
 gave to	up, down, left, right	up'.
 Given
 gave to	up, down, right, left	right'.
 Given
-gave to	up, left, down, right	right'.
+gave to	up, left, down, right	left'.
 Given
 gave to	up, left, right, down	right'.
 Given
@@ -783,8 +783,8 @@ Given
 gave to	down, up, right, left	right'.
 Given
 gave to	down, left, up, right	left'.
-The concept
-gave to	down, left, right, up	right'.
+Given
+gave to	down, left, right, up	left'.
 Given
 gave to	down, right, up, left	right'.
 Given
@@ -815,405 +815,405 @@ Given
 gave to	right, left, down, up	right'.
 Given
 offended	up, down, left, right	down'.
-I would
+I'
 offended	up, down, right, left	down'.
-I would
+I'
 offended	up, left, down, right	left'.
-I would
+I'
 offended	up, left, right, down	down'.
-I would
-offended	up, right, down, left	right'.
-I would
-offended	up, right, left, down	right'.
-I would
+I think
+offended	up, right, down, left	down'.
+I think
+offended	up, right, left, down	down'.
+I think
 offended	down, up, left, right	down'.
-I would
+I think
 offended	down, up, right, left	down'.
-I would
+I think
 offended	down, left, up, right	left'.
-I would
+Given
 offended	down, left, right, up	left'.
-I would
+I'
 offended	down, right, up, left	right'.
-The concept
+Given
 offended	down, right, left, up	right'.
-I would
+Given
 offended	left, up, down, right	right'.
-I would
-offended	left, up, right, down	right'.
-I would
-offended	left, down, up, right	right'.
-I would
-offended	left, down, right, up	right'.
-I would
-offended	left, right, up, down	right'.
-I would
-offended	left, right, down, up	down'.
-I would
-offended	right, up, down, left	right'.
-I would
-offended	right, up, left, down	right'.
-I would
-offended	right, down, up, left	right'.
-I would
-offended	right, down, left, up	right'.
-I would
-offended	right, left, up, down	right'.
 The concept
+offended	left, up, right, down	right'.
+I'
+offended	left, down, up, right	right'.
+The concept
+offended	left, down, right, up	right'.
+I'
+offended	left, right, up, down	right'.
+The concept
+offended	left, right, down, up	down'.
+I think
+offended	right, up, down, left	right'.
+The reason
+offended	right, up, left, down	right'.
+The reason
+offended	right, down, up, left	right'.
+Given
+offended	right, down, left, up	right'.
+Given
+offended	right, left, up, down	right'.
+The reason
 offended	right, left, down, up	right'.
 The concept
 rushed	up, down, left, right	up'.
-I would
+The concept
 rushed	up, down, right, left	up'.
-I would
-rushed	up, left, down, right	left'.
-I would
+Given
+rushed	up, left, down, right	up'.
+I think
 rushed	up, left, right, down	up'.
-I would
+I think
 rushed	up, right, down, left	up'.
-I would
+Given
 rushed	up, right, left, down	up'.
-I would
+I think
 rushed	down, up, left, right	up'.
-I would
+Given
 rushed	down, up, right, left	up'.
-I would
+Given
 rushed	down, left, up, right	left'.
-The concept
-rushed	down, left, right, up	up'.
-The concept
+Given
+rushed	down, left, right, up	left'.
+Given
 rushed	down, right, up, left	up'.
-I would
+Given
 rushed	down, right, left, up	up'.
-I would
+Given
 rushed	left, up, down, right	up'.
-I would
+I think
 rushed	left, up, right, down	up'.
-I would
+I think
 rushed	left, down, up, right	up'.
-I would
+I think
 rushed	left, down, right, up	right'.
-The concept
+Given
 rushed	left, right, up, down	up'.
-I would
+I think
 rushed	left, right, down, up	down'.
 The concept
 rushed	right, up, down, left	up'.
-I would
+I think
 rushed	right, up, left, down	up'.
-I would
+I think
 rushed	right, down, up, left	up'.
-I would
+I think
 rushed	right, down, left, up	up'.
-I would
+Given
 rushed	right, left, up, down	up'.
-I would
+I think
 rushed	right, left, down, up	down'.
-I would
+The concept
 warned	up, down, left, right	up'.
-The concept
+Given
 warned	up, down, right, left	up'.
-The concept
+Given
 warned	up, left, down, right	left'.
-The concept
+Given
 warned	up, left, right, down	left'.
-The concept
-warned	up, right, down, left	up'.
-The concept
+Given
+warned	up, right, down, left	right'.
+Given
 warned	up, right, left, down	left'.
-The concept
+Given
 warned	down, up, left, right	up'.
-The concept
+Given
 warned	down, up, right, left	up'.
-The concept
+Given
 warned	down, left, up, right	left'.
-The concept
+Given
 warned	down, left, right, up	left'.
-The concept
+Given
 warned	down, right, up, left	right'.
-The concept
+Given
 warned	down, right, left, up	left'.
-The concept
+Given
 warned	left, up, down, right	left'.
-The concept
+Given
 warned	left, up, right, down	left'.
-The concept
+Given
 warned	left, down, up, right	left'.
-The concept
+Given
 warned	left, down, right, up	right'.
-The concept
+Given
 warned	left, right, up, down	left'.
-The concept
+Given
 warned	left, right, down, up	left'.
-The concept
+Given
 warned	right, up, down, left	up'.
-The concept
+Given
 warned	right, up, left, down	left'.
-The concept
-warned	right, down, up, left	up'.
-The concept
+Given
+warned	right, down, up, left	right'.
+Given
 warned	right, down, left, up	left'.
-The concept
+Given
 warned	right, left, up, down	left'.
-The concept
+Given
 warned	right, left, down, up	left'.
-The concept
+Given
 owned	up, down, left, right	right'.
 The concept
 owned	up, down, right, left	right'.
-The concept
+Given
 owned	up, left, down, right	right'.
-The concept
+Given
 owned	up, left, right, down	right'.
-The concept
+Given
 owned	up, right, down, left	right'.
-The concept
+Given
 owned	up, right, left, down	right'.
-The concept
-owned	down, up, left, right	right'.
-The concept
+Given
+owned	down, up, left, right	up'.
+Given
 owned	down, up, right, left	right'.
-The concept
+Given
 owned	down, left, up, right	left'.
-The concept
+Given
 owned	down, left, right, up	right'.
-The concept
+Given
 owned	down, right, up, left	right'.
-The concept
+Given
 owned	down, right, left, up	right'.
-The concept
+Given
 owned	left, up, down, right	right'.
 The concept
 owned	left, up, right, down	right'.
-The concept
+Given
 owned	left, down, up, right	right'.
-The concept
+Given
 owned	left, down, right, up	right'.
-The concept
+Given
 owned	left, right, up, down	right'.
 The concept
 owned	left, right, down, up	right'.
-The concept
+Given
 owned	right, up, down, left	right'.
-The reason
+Given
 owned	right, up, left, down	right'.
-The reason
+Given
 owned	right, down, up, left	right'.
-The reason
+Given
 owned	right, down, left, up	right'.
-The concept
+Given
 owned	right, left, up, down	right'.
-The reason
-owned	right, left, down, up	right'.
 The concept
+owned	right, left, down, up	right'.
+Given
 regretted	up, down, left, right	down'.
-I would
+I'
 regretted	up, down, right, left	down'.
-I would
+I'
 regretted	up, left, down, right	left'.
-I would
+The concept
 regretted	up, left, right, down	down'.
-I would
+The concept
 regretted	up, right, down, left	down'.
-I would
+I think
 regretted	up, right, left, down	down'.
-I would
-regretted	down, up, left, right	left'.
-I would
-regretted	down, up, right, left	left'.
+The concept
+regretted	down, up, left, right	down'.
+The concept
+regretted	down, up, right, left	down'.
 The concept
 regretted	down, left, up, right	left'.
 The concept
 regretted	down, left, right, up	left'.
-I would
+The concept
 regretted	down, right, up, left	left'.
 The concept
 regretted	down, right, left, up	left'.
-I would
+I'
 regretted	left, up, down, right	left'.
-I would
+I'
 regretted	left, up, right, down	left'.
-I would
+I'
 regretted	left, down, up, right	left'.
-I would
-regretted	left, down, right, up	left'.
-I would
+I'
+regretted	left, down, right, up	down'.
+I think
 regretted	left, right, up, down	left'.
-I would
+I'
 regretted	left, right, down, up	down'.
-I would
+I think
 regretted	right, up, down, left	left'.
-I would
+I'
 regretted	right, up, left, down	left'.
-I would
+I think
 regretted	right, down, up, left	left'.
-I would
+The concept
 regretted	right, down, left, up	left'.
-I would
+I think
 regretted	right, left, up, down	left'.
-I would
+I'
 regretted	right, left, down, up	left'.
-I would
+I'
 rested	up, down, left, right	down'.
-The concept
+Given
 rested	up, down, right, left	down'.
-The concept
+Given
 rested	up, left, down, right	down'.
-The concept
+Given
 rested	up, left, right, down	down'.
-The concept
+Given
 rested	up, right, down, left	down'.
-The concept
+Given
 rested	up, right, left, down	down'.
-The concept
+Given
 rested	down, up, left, right	down'.
-The concept
+Given
 rested	down, up, right, left	down'.
 Given
 rested	down, left, up, right	left'.
-The concept
+Given
 rested	down, left, right, up	down'.
-The concept
+Given
 rested	down, right, up, left	down'.
-The concept
+Given
 rested	down, right, left, up	down'.
-The concept
+Given
 rested	left, up, down, right	down'.
-I would
+Given
 rested	left, up, right, down	down'.
-I would
+Given
 rested	left, down, up, right	down'.
-I would
+Given
 rested	left, down, right, up	down'.
-I would
+Given
 rested	left, right, up, down	down'.
-I would
+Given
 rested	left, right, down, up	down'.
-I would
+Given
 rested	right, up, down, left	down'.
-I would
+Given
 rested	right, up, left, down	down'.
-I would
+Given
 rested	right, down, up, left	down'.
-I would
+Given
 rested	right, down, left, up	down'.
-I would
+Given
 rested	right, left, up, down	down'.
-I would
+Given
 rested	right, left, down, up	down'.
-I would
+Given
 tempted	up, down, left, right	up'.
-The concept
+Given
 tempted	up, down, right, left	up'.
-The concept
+Given
 tempted	up, left, down, right	up'.
-The concept
+Given
 tempted	up, left, right, down	up'.
-The concept
+Given
 tempted	up, right, down, left	up'.
-The concept
+Given
 tempted	up, right, left, down	up'.
-The concept
+Given
 tempted	down, up, left, right	up'.
-The concept
+Given
 tempted	down, up, right, left	up'.
-The concept
+Given
 tempted	down, left, up, right	left'.
-The concept
+Given
 tempted	down, left, right, up	left'.
-The concept
+Given
 tempted	down, right, up, left	right'.
-The concept
+Given
 tempted	down, right, left, up	right'.
-The concept
+Given
 tempted	left, up, down, right	up'.
-The concept
+Given
 tempted	left, up, right, down	up'.
-The concept
+Given
 tempted	left, down, up, right	up'.
-The concept
+Given
 tempted	left, down, right, up	right'.
-The concept
+Given
 tempted	left, right, up, down	up'.
 The concept
 tempted	left, right, down, up	up'.
 The concept
 tempted	right, up, down, left	up'.
-The concept
+Given
 tempted	right, up, left, down	up'.
-The concept
+Given
 tempted	right, down, up, left	up'.
-The concept
+Given
 tempted	right, down, left, up	right'.
-The concept
+Given
 tempted	right, left, up, down	up'.
-The concept
+Given
 tempted	right, left, down, up	right'.
-The concept
+Given
 wanted	up, down, left, right	up'.
-The concept
+Given
 wanted	up, down, right, left	up'.
-The concept
-wanted	up, left, down, right	left'.
-The concept
+Given
+wanted	up, left, down, right	up'.
+Given
 wanted	up, left, right, down	up'.
-The concept
+Given
 wanted	up, right, down, left	up'.
-The concept
+Given
 wanted	up, right, left, down	up'.
-The concept
+Given
 wanted	down, up, left, right	up'.
-The concept
+Given
 wanted	down, up, right, left	up'.
-The concept
+Given
 wanted	down, left, up, right	left'.
-The concept
+Given
 wanted	down, left, right, up	left'.
-The concept
+Given
 wanted	down, right, up, left	right'.
-The concept
+Given
 wanted	down, right, left, up	right'.
-The concept
+Given
 wanted	left, up, down, right	up'.
-The concept
+Given
 wanted	left, up, right, down	up'.
-I would
+Given
 wanted	left, down, up, right	up'.
-The concept
+Given
 wanted	left, down, right, up	right'.
-The concept
+Given
 wanted	left, right, up, down	up'.
 The concept
-wanted	left, right, down, up	up'.
+wanted	left, right, down, up	down'.
 The concept
 wanted	right, up, down, left	up'.
-The concept
-wanted	right, up, left, down	up'.
-The concept
-wanted	right, down, up, left	up'.
-The concept
+Given
+wanted	right, up, left, down	right'.
+Given
+wanted	right, down, up, left	right'.
+Given
 wanted	right, down, left, up	right'.
-The concept
-wanted	right, left, up, down	up'.
-The concept
+Given
+wanted	right, left, up, down	right'.
+Given
 wanted	right, left, down, up	right'.
-The concept
+Given
 hoped	up, down, left, right	up'.
-I would
+The concept
 hoped	up, down, right, left	up'.
-I would
+The concept
 hoped	up, left, down, right	up'.
-I would
+The concept
 hoped	up, left, right, down	up'.
-I would
+The concept
 hoped	up, right, down, left	up'.
-I would
+The concept
 hoped	up, right, left, down	up'.
-I would
+The concept
 hoped	down, up, left, right	up'.
 The concept
 hoped	down, up, right, left	up'.
-I would
+The concept
 hoped	down, left, up, right	up'.
 The concept
 hoped	down, left, right, up	up'.
@@ -1221,47 +1221,47 @@ The concept
 hoped	down, right, up, left	up'.
 The concept
 hoped	down, right, left, up	up'.
-I would
+The concept
 hoped	left, up, down, right	up'.
-I would
+I hope
 hoped	left, up, right, down	up'.
-I would
+I hope
 hoped	left, down, up, right	up'.
-I would
+I hope
 hoped	left, down, right, up	up'.
-I would
+I hope
 hoped	left, right, up, down	up'.
-I would
+I hope
 hoped	left, right, down, up	up'.
-I would
+The concept
 hoped	right, up, down, left	up'.
-I would
+I hope
 hoped	right, up, left, down	up'.
-I would
+I hope
 hoped	right, down, up, left	up'.
-I would
+I hope
 hoped	right, down, left, up	up'.
-I would
+Given
 hoped	right, left, up, down	up'.
-I would
+The concept
 hoped	right, left, down, up	up'.
-I would
+The concept
 increased	up, down, left, right	up'.
-For the
+Given
 increased	up, down, right, left	up'.
 Given
 increased	up, left, down, right	up'.
-For the
+Given
 increased	up, left, right, down	up'.
 Given
 increased	up, right, down, left	up'.
-For the
+Given
 increased	up, right, left, down	up'.
 Given
 increased	down, up, left, right	up'.
-For the
+Given
 increased	down, up, right, left	up'.
-For the
+Given
 increased	down, left, up, right	up'.
 Given
 increased	down, left, right, up	up'.
@@ -1271,7 +1271,7 @@ Given
 increased	down, right, left, up	up'.
 Given
 increased	left, up, down, right	up'.
-For the
+Given
 increased	left, up, right, down	up'.
 Given
 increased	left, down, up, right	up'.
@@ -1279,7 +1279,7 @@ Given
 increased	left, down, right, up	up'.
 Given
 increased	left, right, up, down	up'.
-For the
+Given
 increased	left, right, down, up	up'.
 Given
 increased	right, up, down, left	up'.
@@ -1297,144 +1297,144 @@ Given
 obeyed	up, down, left, right	right'.
 The concept
 obeyed	up, down, right, left	right'.
-The concept
+Given
 obeyed	up, left, down, right	left'.
-The concept
+Given
 obeyed	up, left, right, down	right'.
-The concept
+Given
 obeyed	up, right, down, left	right'.
-The concept
+Given
 obeyed	up, right, left, down	right'.
-The concept
+Given
 obeyed	down, up, left, right	right'.
 The concept
 obeyed	down, up, right, left	right'.
-The concept
+Given
 obeyed	down, left, up, right	left'.
-The concept
-obeyed	down, left, right, up	right'.
-The concept
+Given
+obeyed	down, left, right, up	left'.
+Given
 obeyed	down, right, up, left	right'.
-The concept
+Given
 obeyed	down, right, left, up	right'.
-The concept
+Given
 obeyed	left, up, down, right	right'.
 The concept
 obeyed	left, up, right, down	right'.
-The concept
+Given
 obeyed	left, down, up, right	right'.
 The concept
 obeyed	left, down, right, up	right'.
-The concept
+Given
 obeyed	left, right, up, down	right'.
-The concept
+Given
 obeyed	left, right, down, up	right'.
-The concept
+Given
 obeyed	right, up, down, left	right'.
-The concept
+Given
 obeyed	right, up, left, down	right'.
-The concept
+Given
 obeyed	right, down, up, left	right'.
-The reason
+Given
 obeyed	right, down, left, up	right'.
-The concept
+Given
 obeyed	right, left, up, down	right'.
-The concept
+Given
 obeyed	right, left, down, up	right'.
-The concept
+Given
 respected	up, down, left, right	up'.
-The concept
+Given
 respected	up, down, right, left	up'.
-The concept
-respected	up, left, down, right	left'.
-The concept
+Given
+respected	up, left, down, right	up'.
+Given
 respected	up, left, right, down	up'.
-The concept
+Given
 respected	up, right, down, left	up'.
-I would
+Given
 respected	up, right, left, down	up'.
-I would
+Given
 respected	down, up, left, right	up'.
-The concept
+Given
 respected	down, up, right, left	up'.
-The concept
+Given
 respected	down, left, up, right	left'.
-The concept
-respected	down, left, right, up	left'.
-The concept
-respected	down, right, up, left	up'.
-The concept
+Given
+respected	down, left, right, up	up'.
+Given
+respected	down, right, up, left	right'.
+Given
 respected	down, right, left, up	up'.
-I would
+Given
 respected	left, up, down, right	up'.
-I would
+I'
 respected	left, up, right, down	right'.
-The concept
+Given
 respected	left, down, up, right	up'.
-I would
-respected	left, down, right, up	up'.
-I would
+Given
+respected	left, down, right, up	right'.
+Given
 respected	left, right, up, down	right'.
 The concept
 respected	left, right, down, up	right'.
-The concept
+Given
 respected	right, up, down, left	up'.
-I would
-respected	right, up, left, down	up'.
-I would
-respected	right, down, up, left	up'.
-I would
-respected	right, down, left, up	up'.
-I would
+I think
+respected	right, up, left, down	right'.
+Given
+respected	right, down, up, left	right'.
+Given
+respected	right, down, left, up	right'.
+Given
 respected	right, left, up, down	right'.
-The concept
+Given
 respected	right, left, down, up	right'.
-The concept
+Given
 succeeded	up, down, left, right	right'.
-The concept
+Given
 succeeded	up, down, right, left	right'.
-The concept
+Given
 succeeded	up, left, down, right	right'.
-The concept
+Given
 succeeded	up, left, right, down	right'.
-I would
+Given
 succeeded	up, right, down, left	right'.
-The concept
+Given
 succeeded	up, right, left, down	right'.
-The concept
-succeeded	down, up, left, right	right'.
-The concept
+Given
+succeeded	down, up, left, right	up'.
+Given
 succeeded	down, up, right, left	right'.
-The concept
+Given
 succeeded	down, left, up, right	right'.
-The concept
+Given
 succeeded	down, left, right, up	right'.
-The concept
+Given
 succeeded	down, right, up, left	right'.
-The concept
+Given
 succeeded	down, right, left, up	right'.
-The concept
+Given
 succeeded	left, up, down, right	right'.
-I would
+Given
 succeeded	left, up, right, down	right'.
-I would
+Given
 succeeded	left, down, up, right	right'.
-The concept
+Given
 succeeded	left, down, right, up	right'.
-I would
+Given
 succeeded	left, right, up, down	right'.
-The concept
+Given
 succeeded	left, right, down, up	right'.
-The concept
+Given
 succeeded	right, up, down, left	right'.
-I would
+Given
 succeeded	right, up, left, down	right'.
-I would
+Given
 succeeded	right, down, up, left	right'.
-I would
+Given
 succeeded	right, down, left, up	right'.
-I would
+Given
 succeeded	right, left, up, down	right'.
-The concept
+Given
 succeeded	right, left, down, up	right'.
-The concept
+Given

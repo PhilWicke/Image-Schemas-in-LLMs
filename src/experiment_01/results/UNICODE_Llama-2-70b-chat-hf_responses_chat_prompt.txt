@@ -1,0 +1,1962 @@
+fled	↑, ↓, ←, →	↓.
+
+You
+fled	↑, ↓, →, ←	←.
+fled	↑, ←, ↓, →	↓.
+
+You
+fled	↑, ←, →, ↓	↓.
+
+You
+fled	↑, →, ↓, ←	↓.
+
+You
+fled	↑, →, ←, ↓	↓.
+
+You
+fled	↓, ↑, ←, →	↓.
+fled	↓, ↑, →, ←	←.
+fled	↓, ←, ↑, →	↓.
+fled	↓, ←, →, ↑	↓.
+fled	↓, →, ↑, ←	←.
+fled	↓, →, ←, ↑	↓.
+
+You
+fled	←, ↑, ↓, →	↓.
+
+You
+fled	←, ↑, →, ↓	↓.
+
+You
+fled	←, ↓, ↑, →	←.
+fled	←, ↓, →, ↑	↓.
+
+You
+fled	←, →, ↑, ↓	↓.
+
+You
+fled	←, →, ↓, ↑	↓.
+
+You
+fled	→, ↑, ↓, ←	←.
+fled	→, ↑, ←, ↓	↓.
+
+You
+fled	→, ↓, ↑, ←	←.
+fled	→, ↓, ←, ↑	←.
+fled	→, ←, ↑, ↓	↓.
+
+You
+fled	→, ←, ↓, ↑	←.
+pointed at	↑, ↓, ←, →	→.
+
+You
+pointed at	↑, ↓, →, ←	←.
+
+You
+pointed at	↑, ←, ↓, →	↓.
+
+You
+pointed at	↑, ←, →, ↓	↓.
+
+You
+pointed at	↑, →, ↓, ←	↓.
+
+You
+pointed at	↑, →, ←, ↓	↓.
+
+You
+pointed at	↓, ↑, ←, →	↓.
+
+You
+pointed at	↓, ↑, →, ←	↓.
+
+You
+pointed at	↓, ←, ↑, →	↓.
+
+You
+pointed at	↓, ←, →, ↑	↓.
+
+You
+pointed at	↓, →, ↑, ←	↓.
+
+You
+pointed at	↓, →, ←, ↑	↓.
+
+You
+pointed at	←, ↑, ↓, →	→.
+
+You
+pointed at	←, ↑, →, ↓	→.
+
+You
+pointed at	←, ↓, ↑, →	→.
+
+You
+pointed at	←, ↓, →, ↑	→.
+
+You
+pointed at	←, →, ↑, ↓	→.
+
+You
+pointed at	←, →, ↓, ↑	↓.
+
+You
+pointed at	→, ↑, ↓, ←	↓.
+
+You
+pointed at	→, ↑, ←, ↓	↓.
+
+You
+pointed at	→, ↓, ↑, ←	↑.
+
+You
+pointed at	→, ↓, ←, ↑	↓.
+
+You
+pointed at	→, ←, ↑, ↓	↓.
+
+You
+pointed at	→, ←, ↓, ↑	↓.
+
+You
+pulled	↑, ↓, ←, →	↓.
+
+You
+pulled	↑, ↓, →, ←	←.
+
+You
+pulled	↑, ←, ↓, →	↓.
+
+You
+pulled	↑, ←, →, ↓	↓.
+
+You
+pulled	↑, →, ↓, ←	↓.
+
+You
+pulled	↑, →, ←, ↓	↓.
+
+You
+pulled	↓, ↑, ←, →	↓.
+
+You
+pulled	↓, ↑, →, ←	↓.
+
+You
+pulled	↓, ←, ↑, →	↓.
+
+You
+pulled	↓, ←, →, ↑	↓.
+
+You
+pulled	↓, →, ↑, ←	↓.
+
+You
+pulled	↓, →, ←, ↑	↓.
+
+You
+pulled	←, ↑, ↓, →	↓.
+
+You
+pulled	←, ↑, →, ↓	↓.
+
+You
+pulled	←, ↓, ↑, →	↓.
+
+You
+pulled	←, ↓, →, ↑	↓.
+
+You
+pulled	←, →, ↑, ↓	↓.
+
+You
+pulled	←, →, ↓, ↑	↓.
+
+You
+pulled	→, ↑, ↓, ←	←.
+pulled	→, ↑, ←, ↓	↓.
+
+You
+pulled	→, ↓, ↑, ←	←.
+pulled	→, ↓, ←, ↑	←.
+
+You
+pulled	→, ←, ↑, ↓	←.
+
+You
+pulled	→, ←, ↓, ↑	←.
+
+You
+pushed	↑, ↓, ←, →	 →.
+
+You
+pushed	↑, ↓, →, ←	←.
+
+You
+pushed	↑, ←, ↓, →	↓.
+
+You
+pushed	↑, ←, →, ↓	↓.
+
+You
+pushed	↑, →, ↓, ←	↓.
+
+You
+pushed	↑, →, ←, ↓	↓.
+
+You
+pushed	↓, ↑, ←, →	↓.
+
+You
+pushed	↓, ↑, →, ←	↓.
+
+You
+pushed	↓, ←, ↑, →	↓.
+
+You
+pushed	↓, ←, →, ↑	↓.
+
+You
+pushed	↓, →, ↑, ←	↓.
+
+You
+pushed	↓, →, ←, ↑	↓.
+
+You
+pushed	←, ↑, ↓, →	↓.
+
+You
+pushed	←, ↑, →, ↓	↓.
+
+You
+pushed	←, ↓, ↑, →	 →.
+
+You
+pushed	←, ↓, →, ↑	 →.
+
+You
+pushed	←, →, ↑, ↓	 →.
+
+You
+pushed	←, →, ↓, ↑	 →.
+
+You
+pushed	→, ↑, ↓, ←	←.
+
+You
+pushed	→, ↑, ←, ↓	←.
+
+You
+pushed	→, ↓, ↑, ←	←.
+
+You
+pushed	→, ↓, ←, ↑	←.
+
+You
+pushed	→, ←, ↑, ↓	←.
+
+You
+pushed	→, ←, ↓, ↑	←.
+
+You
+walked	↑, ↓, ←, →	↓.
+
+Your
+walked	↑, ↓, →, ←	↓.
+
+Your
+walked	↑, ←, ↓, →	↓.
+
+Your
+walked	↑, ←, →, ↓	↓.
+
+You
+walked	↑, →, ↓, ←	↓.
+
+Your
+walked	↑, →, ←, ↓	↓.
+
+Your
+walked	↓, ↑, ←, →	↓.
+
+You
+walked	↓, ↑, →, ←	↓.
+
+You
+walked	↓, ←, ↑, →	↓.
+
+You
+walked	↓, ←, →, ↑	↓.
+
+You
+walked	↓, →, ↑, ←	↓.
+
+You
+walked	↓, →, ←, ↑	↓.
+
+You
+walked	←, ↑, ↓, →	↓.
+
+Your
+walked	←, ↑, →, ↓	↓.
+
+You
+walked	←, ↓, ↑, →	↓.
+
+You
+walked	←, ↓, →, ↑	↓.
+
+You
+walked	←, →, ↑, ↓	↓.
+
+You
+walked	←, →, ↓, ↑	↓.
+
+You
+walked	→, ↑, ↓, ←	↓.
+
+You
+walked	→, ↑, ←, ↓	↓.
+
+You
+walked	→, ↓, ↑, ←	↓.
+
+You
+walked	→, ↓, ←, ↑	↓.
+
+You
+walked	→, ←, ↑, ↓	↓.
+
+Your
+walked	→, ←, ↓, ↑	↓.
+
+Your
+hunted	↑, ↓, ←, →	↓.
+
+You
+hunted	↑, ↓, →, ←	↓.
+
+You
+hunted	↑, ←, ↓, →	↓.
+
+You
+hunted	↑, ←, →, ↓	↓.
+
+You
+hunted	↑, →, ↓, ←	↓.
+
+You
+hunted	↑, →, ←, ↓	↓.
+
+You
+hunted	↓, ↑, ←, →	↓.
+
+You
+hunted	↓, ↑, →, ←	↓.
+
+You
+hunted	↓, ←, ↑, →	↓.
+
+You
+hunted	↓, ←, →, ↑	↓.
+
+You
+hunted	↓, →, ↑, ←	↓.
+
+You
+hunted	↓, →, ←, ↑	↓.
+
+You
+hunted	←, ↑, ↓, →	↓.
+
+You
+hunted	←, ↑, →, ↓	↓.
+
+You
+hunted	←, ↓, ↑, →	↓.
+
+You
+hunted	←, ↓, →, ↑	↓.
+
+You
+hunted	←, →, ↑, ↓	↓.
+
+You
+hunted	←, →, ↓, ↑	↓.
+
+You
+hunted	→, ↑, ↓, ←	↓.
+
+You
+hunted	→, ↑, ←, ↓	↓.
+
+You
+hunted	→, ↓, ↑, ←	↓.
+
+You
+hunted	→, ↓, ←, ↑	↓.
+
+You
+hunted	→, ←, ↑, ↓	↓.
+
+You
+hunted	→, ←, ↓, ↑	↓.
+
+You
+impacted	↑, ↓, ←, →	↓.
+
+Your
+impacted	↑, ↓, →, ←	↓.
+
+Your
+impacted	↑, ←, ↓, →	↓.
+
+Your
+impacted	↑, ←, →, ↓	↓.
+
+Your
+impacted	↑, →, ↓, ←	↓.
+
+Your
+impacted	↑, →, ←, ↓	↓.
+
+Your
+impacted	↓, ↑, ←, →	↓.
+
+Your
+impacted	↓, ↑, →, ←	↓.
+
+Your
+impacted	↓, ←, ↑, →	↓.
+
+Your
+impacted	↓, ←, →, ↑	↓.
+
+Your
+impacted	↓, →, ↑, ←	↓.
+
+Your
+impacted	↓, →, ←, ↑	↓.
+
+Your
+impacted	←, ↑, ↓, →	↓.
+
+Your
+impacted	←, ↑, →, ↓	↓.
+
+Your
+impacted	←, ↓, ↑, →	↓.
+
+Your
+impacted	←, ↓, →, ↑	↓.
+
+Your
+impacted	←, →, ↑, ↓	↓.
+
+Your
+impacted	←, →, ↓, ↑	↓.
+
+Your
+impacted	→, ↑, ↓, ←	↓.
+
+Your
+impacted	→, ↑, ←, ↓	↓.
+
+Your
+impacted	→, ↓, ↑, ←	↓.
+
+Your
+impacted	→, ↓, ←, ↑	↓.
+
+Your
+impacted	→, ←, ↑, ↓	↓.
+
+Your
+impacted	→, ←, ↓, ↑	↓.
+
+Your
+perched	↑, ↓, ←, →	↑.
+perched	↑, ↓, →, ←	↑.
+perched	↑, ←, ↓, →	↑.
+perched	↑, ←, →, ↓	↑.
+perched	↑, →, ↓, ←	↑.
+
+Your
+perched	↑, →, ←, ↓	↑.
+
+Your
+perched	↓, ↑, ←, →	↑.
+
+Your
+perched	↓, ↑, →, ←	↑.
+
+Your
+perched	↓, ←, ↑, →	↑.
+
+Your
+perched	↓, ←, →, ↑	↑.
+perched	↓, →, ↑, ←	↑.
+
+Your
+perched	↓, →, ←, ↑	↑.
+perched	←, ↑, ↓, →	↑.
+
+Your
+perched	←, ↑, →, ↓	↑.
+
+Your
+perched	←, ↓, ↑, →	↑.
+
+Your
+perched	←, ↓, →, ↑	↑.
+perched	←, →, ↑, ↓	↑.
+
+Your
+perched	←, →, ↓, ↑	↑.
+perched	→, ↑, ↓, ←	↑.
+
+Your
+perched	→, ↑, ←, ↓	↑.
+
+Your
+perched	→, ↓, ↑, ←	↑.
+
+Your
+perched	→, ↓, ←, ↑	↑.
+
+Your
+perched	→, ←, ↑, ↓	↑.
+
+Your
+perched	→, ←, ↓, ↑	↑.
+
+Your
+showed	↑, ↓, ←, →	↓.
+
+You
+showed	↑, ↓, →, ←	↓.
+
+You
+showed	↑, ←, ↓, →	↓.
+
+You
+showed	↑, ←, →, ↓	↓.
+
+You
+showed	↑, →, ↓, ←	↓.
+
+You
+showed	↑, →, ←, ↓	↓.
+
+You
+showed	↓, ↑, ←, →	↓.
+showed	↓, ↑, →, ←	↓.
+showed	↓, ←, ↑, →	↓.
+showed	↓, ←, →, ↑	↓.
+showed	↓, →, ↑, ←	↓.
+showed	↓, →, ←, ↑	↓.
+showed	←, ↑, ↓, →	↓.
+
+You
+showed	←, ↑, →, ↓	↓.
+
+You
+showed	←, ↓, ↑, →	↓.
+
+You
+showed	←, ↓, →, ↑	↓.
+
+You
+showed	←, →, ↑, ↓	↓.
+
+You
+showed	←, →, ↓, ↑	↓.
+
+You
+showed	→, ↑, ↓, ←	↓.
+
+You
+showed	→, ↑, ←, ↓	↓.
+
+You
+showed	→, ↓, ↑, ←	↓.
+
+You
+showed	→, ↓, ←, ↑	↓.
+
+You
+showed	→, ←, ↑, ↓	↓.
+
+You
+showed	→, ←, ↓, ↑	↓.
+
+You
+smashed	↑, ↓, ←, →	↓.
+
+You
+smashed	↑, ↓, →, ←	↓.
+
+You
+smashed	↑, ←, ↓, →	↓.
+
+You
+smashed	↑, ←, →, ↓	↓.
+
+You
+smashed	↑, →, ↓, ←	↓.
+
+You
+smashed	↑, →, ←, ↓	↓.
+
+You
+smashed	↓, ↑, ←, →	↓.
+
+You
+smashed	↓, ↑, →, ←	↓.
+
+You
+smashed	↓, ←, ↑, →	↓.
+smashed	↓, ←, →, ↑	↓.
+smashed	↓, →, ↑, ←	↓.
+smashed	↓, →, ←, ↑	↓.
+
+You
+smashed	←, ↑, ↓, →	↓.
+
+You
+smashed	←, ↑, →, ↓	↓.
+
+You
+smashed	←, ↓, ↑, →	↓.
+
+You
+smashed	←, ↓, →, ↑	↓.
+
+You
+smashed	←, →, ↑, ↓	↓.
+
+You
+smashed	←, →, ↓, ↑	↓.
+
+You
+smashed	→, ↑, ↓, ←	↓.
+
+You
+smashed	→, ↑, ←, ↓	↓.
+
+You
+smashed	→, ↓, ↑, ←	↓.
+
+You
+smashed	→, ↓, ←, ↑	↓.
+
+You
+smashed	→, ←, ↑, ↓	↓.
+
+You
+smashed	→, ←, ↓, ↑	↓.
+
+You
+bombed	↑, ↓, ←, →	↓.
+
+Your
+bombed	↑, ↓, →, ←	↓.
+
+Your
+bombed	↑, ←, ↓, →	↓.
+
+Your
+bombed	↑, ←, →, ↓	↓.
+
+You
+bombed	↑, →, ↓, ←	↓.
+
+Your
+bombed	↑, →, ←, ↓	↓.
+
+You
+bombed	↓, ↑, ←, →	↓.
+
+You
+bombed	↓, ↑, →, ←	↓.
+
+You
+bombed	↓, ←, ↑, →	↓.
+
+You
+bombed	↓, ←, →, ↑	↓.
+
+You
+bombed	↓, →, ↑, ←	↓.
+
+You
+bombed	↓, →, ←, ↑	↓.
+
+You
+bombed	←, ↑, ↓, →	↓.
+
+You
+bombed	←, ↑, →, ↓	↓.
+
+You
+bombed	←, ↓, ↑, →	↓.
+
+You
+bombed	←, ↓, →, ↑	↓.
+
+You
+bombed	←, →, ↑, ↓	↓.
+
+You
+bombed	←, →, ↓, ↑	↓.
+
+You
+bombed	→, ↑, ↓, ←	↓.
+
+You
+bombed	→, ↑, ←, ↓	↓.
+
+You
+bombed	→, ↓, ↑, ←	↓.
+
+You
+bombed	→, ↓, ←, ↑	↓.
+
+You
+bombed	→, ←, ↑, ↓	↓.
+
+You
+bombed	→, ←, ↓, ↑	↓.
+
+Your
+flew	↑, ↓, ←, →	↑.
+
+Your
+flew	↑, ↓, →, ←	↑.
+
+You
+flew	↑, ←, ↓, →	↑.
+
+You
+flew	↑, ←, →, ↓	↑.
+
+You
+flew	↑, →, ↓, ←	↑.
+
+You
+flew	↑, →, ←, ↓	↑.
+
+You
+flew	↓, ↑, ←, →	↑.
+
+You
+flew	↓, ↑, →, ←	↑.
+
+You
+flew	↓, ←, ↑, →	↑.
+
+You
+flew	↓, ←, →, ↑	↑.
+
+You
+flew	↓, →, ↑, ←	↑.
+
+You
+flew	↓, →, ←, ↑	↑.
+
+You
+flew	←, ↑, ↓, →	↑.
+
+You
+flew	←, ↑, →, ↓	↑.
+
+You
+flew	←, ↓, ↑, →	↑.
+
+You
+flew	←, ↓, →, ↑	↑.
+
+You
+flew	←, →, ↑, ↓	↑.
+
+You
+flew	←, →, ↓, ↑	↑.
+
+You
+flew	→, ↑, ↓, ←	↑.
+
+You
+flew	→, ↑, ←, ↓	↑.
+
+You
+flew	→, ↓, ↑, ←	↑.
+
+You
+flew	→, ↓, ←, ↑	↑.
+
+You
+flew	→, ←, ↑, ↓	↑.
+
+Your
+flew	→, ←, ↓, ↑	↑.
+
+Your
+floated	↑, ↓, ←, →	↑.
+
+Your
+floated	↑, ↓, →, ←	↑.
+
+Your
+floated	↑, ←, ↓, →	↓.
+
+Your
+floated	↑, ←, →, ↓	↓.
+
+You
+floated	↑, →, ↓, ←	↓.
+
+Your
+floated	↑, →, ←, ↓	↓.
+
+Your
+floated	↓, ↑, ←, →	↓.
+
+You
+floated	↓, ↑, →, ←	↓.
+
+You
+floated	↓, ←, ↑, →	↓.
+
+You
+floated	↓, ←, →, ↑	↓.
+
+You
+floated	↓, →, ↑, ←	↓.
+
+You
+floated	↓, →, ←, ↑	↑.
+
+Your
+floated	←, ↑, ↓, →	↓.
+
+You
+floated	←, ↑, →, ↓	↓.
+
+You
+floated	←, ↓, ↑, →	↑.
+
+Your
+floated	←, ↓, →, ↑	↑.
+
+Your
+floated	←, →, ↑, ↓	↑.
+
+Your
+floated	←, →, ↓, ↑	↓.
+
+You
+floated	→, ↑, ↓, ←	↓.
+
+Your
+floated	→, ↑, ←, ↓	↑.
+
+Your
+floated	→, ↓, ↑, ←	↑.
+
+Your
+floated	→, ↓, ←, ↑	↑.
+
+Your
+floated	→, ←, ↑, ↓	↓.
+
+Your
+floated	→, ←, ↓, ↑	↓.
+
+Your
+lifted	↑, ↓, ←, →	↑.
+
+You
+lifted	↑, ↓, →, ←	↑.
+
+You
+lifted	↑, ←, ↓, →	↑.
+
+You
+lifted	↑, ←, →, ↓	↑.
+
+You
+lifted	↑, →, ↓, ←	↑.
+
+You
+lifted	↑, →, ←, ↓	↑.
+
+You
+lifted	↓, ↑, ←, →	↑.
+
+You
+lifted	↓, ↑, →, ←	↑.
+
+You
+lifted	↓, ←, ↑, →	↑.
+
+You
+lifted	↓, ←, →, ↑	↑.
+
+You
+lifted	↓, →, ↑, ←	↑.
+
+You
+lifted	↓, →, ←, ↑	↑.
+
+You
+lifted	←, ↑, ↓, →	↑.
+
+You
+lifted	←, ↑, →, ↓	↑.
+
+You
+lifted	←, ↓, ↑, →	↑.
+
+You
+lifted	←, ↓, →, ↑	↑.
+
+You
+lifted	←, →, ↑, ↓	↑.
+
+You
+lifted	←, →, ↓, ↑	↑.
+
+You
+lifted	→, ↑, ↓, ←	↑.
+
+You
+lifted	→, ↑, ←, ↓	↑.
+
+You
+lifted	→, ↓, ↑, ←	↑.
+
+You
+lifted	→, ↓, ←, ↑	↑.
+
+You
+lifted	→, ←, ↑, ↓	↑.
+
+Your
+lifted	→, ←, ↓, ↑	↑.
+
+Your
+sank	↑, ↓, ←, →	↓.
+
+You
+sank	↑, ↓, →, ←	↓.
+
+You
+sank	↑, ←, ↓, →	↓.
+
+You
+sank	↑, ←, →, ↓	↓.
+
+You
+sank	↑, →, ↓, ←	↓.
+
+You
+sank	↑, →, ←, ↓	↓.
+
+You
+sank	↓, ↑, ←, →	↓.
+
+You
+sank	↓, ↑, →, ←	↓.
+
+You
+sank	↓, ←, ↑, →	↓.
+sank	↓, ←, →, ↑	↓.
+sank	↓, →, ↑, ←	↓.
+sank	↓, →, ←, ↑	↓.
+
+You
+sank	←, ↑, ↓, →	↓.
+
+You
+sank	←, ↑, →, ↓	↓.
+
+You
+sank	←, ↓, ↑, →	↓.
+
+You
+sank	←, ↓, →, ↑	↓.
+
+You
+sank	←, →, ↑, ↓	↓.
+
+You
+sank	←, →, ↓, ↑	↓.
+
+You
+sank	→, ↑, ↓, ←	↓.
+
+You
+sank	→, ↑, ←, ↓	↓.
+
+You
+sank	→, ↓, ↑, ←	↓.
+
+You
+sank	→, ↓, ←, ↑	↓.
+
+You
+sank	→, ←, ↑, ↓	↓.
+
+You
+sank	→, ←, ↓, ↑	↓.
+
+You
+argued with	↑, ↓, ←, →	↓.
+
+Your
+argued with	↑, ↓, →, ←	↓.
+
+Your
+argued with	↑, ←, ↓, →	↓.
+
+Your
+argued with	↑, ←, →, ↓	↓.
+
+You
+argued with	↑, →, ↓, ←	↓.
+
+Your
+argued with	↑, →, ←, ↓	↓.
+
+You
+argued with	↓, ↑, ←, →	↓.
+
+You
+argued with	↓, ↑, →, ←	↓.
+
+You
+argued with	↓, ←, ↑, →	↓.
+
+You
+argued with	↓, ←, →, ↑	↓.
+
+You
+argued with	↓, →, ↑, ←	↓.
+
+You
+argued with	↓, →, ←, ↑	↓.
+
+You
+argued with	←, ↑, ↓, →	↓.
+
+You
+argued with	←, ↑, →, ↓	↓.
+
+You
+argued with	←, ↓, ↑, →	↓.
+
+You
+argued with	←, ↓, →, ↑	↓.
+
+You
+argued with	←, →, ↑, ↓	↓.
+
+You
+argued with	←, →, ↓, ↑	↓.
+
+You
+argued with	→, ↑, ↓, ←	↓.
+
+You
+argued with	→, ↑, ←, ↓	↓.
+
+You
+argued with	→, ↓, ↑, ←	↓.
+
+You
+argued with	→, ↓, ←, ↑	↓.
+
+You
+argued with	→, ←, ↑, ↓	↓.
+
+You
+argued with	→, ←, ↓, ↑	↓.
+
+You
+gave to	↑, ↓, ←, →	↓.
+
+You
+gave to	↑, ↓, →, ←	↓.
+
+You
+gave to	↑, ←, ↓, →	↓.
+
+You
+gave to	↑, ←, →, ↓	↓.
+
+You
+gave to	↑, →, ↓, ←	↓.
+
+You
+gave to	↑, →, ←, ↓	↓.
+
+The
+gave to	↓, ↑, ←, →	↓.
+
+You
+gave to	↓, ↑, →, ←	↓.
+
+You
+gave to	↓, ←, ↑, →	↓.
+
+You
+gave to	↓, ←, →, ↑	↓.
+
+You
+gave to	↓, →, ↑, ←	↓.
+
+You
+gave to	↓, →, ←, ↑	↓.
+
+You
+gave to	←, ↑, ↓, →	 →.
+
+You
+gave to	←, ↑, →, ↓	↓.
+
+You
+gave to	←, ↓, ↑, →	 →.
+
+You
+gave to	←, ↓, →, ↑	 →.
+
+You
+gave to	←, →, ↑, ↓	 →.
+
+You
+gave to	←, →, ↓, ↑	 →.
+
+You
+gave to	→, ↑, ↓, ←	↓.
+
+You
+gave to	→, ↑, ←, ↓	↓.
+
+You
+gave to	→, ↓, ↑, ←	 →.
+
+You
+gave to	→, ↓, ←, ↑	↓.
+
+You
+gave to	→, ←, ↑, ↓	←.
+gave to	→, ←, ↓, ↑	←.
+offended	↑, ↓, ←, →	↓.
+
+You
+offended	↑, ↓, →, ←	↓.
+
+You
+offended	↑, ←, ↓, →	↓.
+
+You
+offended	↑, ←, →, ↓	↓.
+
+You
+offended	↑, →, ↓, ←	↓.
+
+You
+offended	↑, →, ←, ↓	↓.
+
+You
+offended	↓, ↑, ←, →	↓.
+
+You
+offended	↓, ↑, →, ←	↓.
+
+You
+offended	↓, ←, ↑, →	↓.
+
+You
+offended	↓, ←, →, ↑	↓.
+
+You
+offended	↓, →, ↑, ←	↓.
+offended	↓, →, ←, ↑	↓.
+
+You
+offended	←, ↑, ↓, →	↓.
+
+You
+offended	←, ↑, →, ↓	↓.
+
+You
+offended	←, ↓, ↑, →	↓.
+
+You
+offended	←, ↓, →, ↑	↓.
+
+You
+offended	←, →, ↑, ↓	↓.
+
+You
+offended	←, →, ↓, ↑	↓.
+
+You
+offended	→, ↑, ↓, ←	↓.
+
+You
+offended	→, ↑, ←, ↓	↓.
+
+You
+offended	→, ↓, ↑, ←	↓.
+
+You
+offended	→, ↓, ←, ↑	↓.
+
+You
+offended	→, ←, ↑, ↓	↓.
+
+You
+offended	→, ←, ↓, ↑	↓.
+
+You
+rushed	↑, ↓, ←, →	↓.
+
+Your
+rushed	↑, ↓, →, ←	↓.
+
+Your
+rushed	↑, ←, ↓, →	↓.
+
+Your
+rushed	↑, ←, →, ↓	↓.
+
+You
+rushed	↑, →, ↓, ←	↓.
+
+Your
+rushed	↑, →, ←, ↓	↓.
+
+Your
+rushed	↓, ↑, ←, →	↓.
+rushed	↓, ↑, →, ←	↓.
+rushed	↓, ←, ↑, →	↓.
+rushed	↓, ←, →, ↑	↓.
+rushed	↓, →, ↑, ←	↓.
+rushed	↓, →, ←, ↑	↓.
+
+You
+rushed	←, ↑, ↓, →	↓.
+
+You
+rushed	←, ↑, →, ↓	↓.
+
+You
+rushed	←, ↓, ↑, →	↓.
+
+You
+rushed	←, ↓, →, ↑	↓.
+
+You
+rushed	←, →, ↑, ↓	↓.
+
+You
+rushed	←, →, ↓, ↑	↓.
+
+You
+rushed	→, ↑, ↓, ←	↓.
+
+Your
+rushed	→, ↑, ←, ↓	↓.
+
+You
+rushed	→, ↓, ↑, ←	↓.
+
+You
+rushed	→, ↓, ←, ↑	↓.
+
+You
+rushed	→, ←, ↑, ↓	↓.
+
+Your
+rushed	→, ←, ↓, ↑	↓.
+
+Your
+warned	↑, ↓, ←, →	↓.
+
+You
+warned	↑, ↓, →, ←	↓.
+
+You
+warned	↑, ←, ↓, →	↓.
+
+You
+warned	↑, ←, →, ↓	↓.
+
+You
+warned	↑, →, ↓, ←	↓.
+
+You
+warned	↑, →, ←, ↓	↓.
+
+You
+warned	↓, ↑, ←, →	↓.
+
+You
+warned	↓, ↑, →, ←	↓.
+
+You
+warned	↓, ←, ↑, →	↓.
+
+You
+warned	↓, ←, →, ↑	↓.
+warned	↓, →, ↑, ←	↓.
+
+You
+warned	↓, →, ←, ↑	↓.
+
+You
+warned	←, ↑, ↓, →	↓.
+
+You
+warned	←, ↑, →, ↓	↓.
+
+You
+warned	←, ↓, ↑, →	↓.
+
+You
+warned	←, ↓, →, ↑	↓.
+
+You
+warned	←, →, ↑, ↓	↓.
+
+You
+warned	←, →, ↓, ↑	↓.
+
+You
+warned	→, ↑, ↓, ←	↓.
+
+You
+warned	→, ↑, ←, ↓	↓.
+
+You
+warned	→, ↓, ↑, ←	↓.
+
+You
+warned	→, ↓, ←, ↑	↓.
+
+You
+warned	→, ←, ↑, ↓	↓.
+
+You
+warned	→, ←, ↓, ↑	↓.
+
+You
+owned	↑, ↓, ←, →	↓.
+
+Your
+owned	↑, ↓, →, ←	↓.
+
+Your
+owned	↑, ←, ↓, →	↓.
+
+Your
+owned	↑, ←, →, ↓	↓.
+
+You
+owned	↑, →, ↓, ←	↓.
+
+Your
+owned	↑, →, ←, ↓	↓.
+
+You
+owned	↓, ↑, ←, →	↓.
+
+You
+owned	↓, ↑, →, ←	↓.
+
+You
+owned	↓, ←, ↑, →	↓.
+
+You
+owned	↓, ←, →, ↑	↓.
+
+You
+owned	↓, →, ↑, ←	↓.
+
+You
+owned	↓, →, ←, ↑	↓.
+
+You
+owned	←, ↑, ↓, →	↓.
+
+Your
+owned	←, ↑, →, ↓	↓.
+
+You
+owned	←, ↓, ↑, →	↓.
+
+You
+owned	←, ↓, →, ↑	↓.
+
+You
+owned	←, →, ↑, ↓	↓.
+
+You
+owned	←, →, ↓, ↑	↓.
+
+Your
+owned	→, ↑, ↓, ←	↓.
+
+You
+owned	→, ↑, ←, ↓	↓.
+
+You
+owned	→, ↓, ↑, ←	↓.
+
+You
+owned	→, ↓, ←, ↑	↓.
+
+You
+owned	→, ←, ↑, ↓	↓.
+
+Your
+owned	→, ←, ↓, ↑	↓.
+
+Your
+regretted	↑, ↓, ←, →	↓.
+
+Your
+regretted	↑, ↓, →, ←	↓.
+
+You
+regretted	↑, ←, ↓, →	↓.
+
+Your
+regretted	↑, ←, →, ↓	↓.
+
+You
+regretted	↑, →, ↓, ←	↓.
+
+Your
+regretted	↑, →, ←, ↓	↓.
+
+You
+regretted	↓, ↑, ←, →	↓.
+regretted	↓, ↑, →, ←	↓.
+regretted	↓, ←, ↑, →	↓.
+regretted	↓, ←, →, ↑	↓.
+regretted	↓, →, ↑, ←	↓.
+regretted	↓, →, ←, ↑	↓.
+regretted	←, ↑, ↓, →	↓.
+
+You
+regretted	←, ↑, →, ↓	↓.
+
+You
+regretted	←, ↓, ↑, →	↓.
+
+You
+regretted	←, ↓, →, ↑	↓.
+
+You
+regretted	←, →, ↑, ↓	↓.
+
+You
+regretted	←, →, ↓, ↑	↓.
+
+You
+regretted	→, ↑, ↓, ←	↓.
+
+You
+regretted	→, ↑, ←, ↓	↓.
+
+You
+regretted	→, ↓, ↑, ←	←.
+regretted	→, ↓, ←, ↑	↓.
+
+You
+regretted	→, ←, ↑, ↓	↓.
+
+You
+regretted	→, ←, ↓, ↑	←.
+rested	↑, ↓, ←, →	↓.
+
+Your
+rested	↑, ↓, →, ←	↓.
+
+Your
+rested	↑, ←, ↓, →	↓.
+
+Your
+rested	↑, ←, →, ↓	↓.
+
+You
+rested	↑, →, ↓, ←	↓.
+
+Your
+rested	↑, →, ←, ↓	↓.
+
+Your
+rested	↓, ↑, ←, →	↓.
+
+You
+rested	↓, ↑, →, ←	↓.
+
+You
+rested	↓, ←, ↑, →	↓.
+
+You
+rested	↓, ←, →, ↑	↓.
+
+You
+rested	↓, →, ↑, ←	↓.
+
+You
+rested	↓, →, ←, ↑	↑.
+
+Your
+rested	←, ↑, ↓, →	↓.
+
+You
+rested	←, ↑, →, ↓	↓.
+
+You
+rested	←, ↓, ↑, →	↓.
+
+You
+rested	←, ↓, →, ↑	↑.
+
+Your
+rested	←, →, ↑, ↓	↓.
+
+You
+rested	←, →, ↓, ↑	↓.
+
+You
+rested	→, ↑, ↓, ←	↓.
+
+Your
+rested	→, ↑, ←, ↓	↓.
+
+You
+rested	→, ↓, ↑, ←	←.
+
+You
+rested	→, ↓, ←, ↑	↑.
+
+Your
+rested	→, ←, ↑, ↓	↓.
+
+Your
+rested	→, ←, ↓, ↑	↓.
+
+Your
+tempted	↑, ↓, ←, →	↗️.
+tempted	↑, ↓, →, ←	↗️.
+tempted	↑, ←, ↓, →	↗️.
+tempted	↑, ←, →, ↓	↓.
+
+Your
+tempted	↑, →, ↓, ←	↗️.
+tempted	↑, →, ←, ↓	↓.
+
+Your
+tempted	↓, ↑, ←, →	↘️.
+tempted	↓, ↑, →, ←	↓.
+
+Your
+tempted	↓, ←, ↑, →	↗️.
+tempted	↓, ←, →, ↑	↓.
+
+You
+tempted	↓, →, ↑, ←	↗️.
+tempted	↓, →, ←, ↑	↓.
+
+You
+tempted	←, ↑, ↓, →	↓.
+
+Your
+tempted	←, ↑, →, ↓	↓.
+
+You
+tempted	←, ↓, ↑, →	↗️.
+tempted	←, ↓, →, ↑	↗️.
+tempted	←, →, ↑, ↓	↗.
+tempted	←, →, ↓, ↑	↘️.
+tempted	→, ↑, ↓, ←	↓.
+
+Your
+tempted	→, ↑, ←, ↓	↓.
+
+You
+tempted	→, ↓, ↑, ←	↗️.
+tempted	→, ↓, ←, ↑	↓.
+
+Your
+tempted	→, ←, ↑, ↓	↓.
+
+Your
+tempted	→, ←, ↓, ↑	↓.
+
+Your
+wanted	↑, ↓, ←, →	↓.
+
+Your
+wanted	↑, ↓, →, ←	↓.
+
+Your
+wanted	↑, ←, ↓, →	↓.
+
+Your
+wanted	↑, ←, →, ↓	↓.
+
+Your
+wanted	↑, →, ↓, ←	↓.
+
+Your
+wanted	↑, →, ←, ↓	↓.
+
+Your
+wanted	↓, ↑, ←, →	↓.
+
+Your
+wanted	↓, ↑, →, ←	↓.
+
+You
+wanted	↓, ←, ↑, →	↓.
+
+You
+wanted	↓, ←, →, ↑	↓.
+
+You
+wanted	↓, →, ↑, ←	↓.
+
+You
+wanted	↓, →, ←, ↑	↓.
+
+You
+wanted	←, ↑, ↓, →	↓.
+
+Your
+wanted	←, ↑, →, ↓	↓.
+
+You
+wanted	←, ↓, ↑, →	↓.
+
+Your
+wanted	←, ↓, →, ↑	↓.
+
+Your
+wanted	←, →, ↑, ↓	↓.
+
+Your
+wanted	←, →, ↓, ↑	↓.
+
+Your
+wanted	→, ↑, ↓, ←	↓.
+
+Your
+wanted	→, ↑, ←, ↓	↓.
+
+You
+wanted	→, ↓, ↑, ←	↓.
+
+Your
+wanted	→, ↓, ←, ↑	↓.
+
+Your
+wanted	→, ←, ↑, ↓	↓.
+
+Your
+wanted	→, ←, ↓, ↑	↓.
+
+Your
+hoped	↑, ↓, ←, →	↑.
+hoped	↑, ↓, →, ←	↓.
+
+Your
+hoped	↑, ←, ↓, →	↑.
+hoped	↑, ←, →, ↓	↑.
+hoped	↑, →, ↓, ←	↓.
+
+Your
+hoped	↑, →, ←, ↓	↓.
+
+Your
+hoped	↓, ↑, ←, →	↓.
+hoped	↓, ↑, →, ←	↓.
+hoped	↓, ←, ↑, →	↑.
+hoped	↓, ←, →, ↑	↑.
+hoped	↓, →, ↑, ←	↑.
+hoped	↓, →, ←, ↑	↑.
+hoped	←, ↑, ↓, →	↓.
+
+Your
+hoped	←, ↑, →, ↓	↓.
+
+You
+hoped	←, ↓, ↑, →	↑.
+hoped	←, ↓, →, ↑	↑.
+hoped	←, →, ↑, ↓	↓.
+
+You
+hoped	←, →, ↓, ↑	↑.
+hoped	→, ↑, ↓, ←	↑.
+
+Your
+hoped	→, ↑, ←, ↓	↑.
+
+Your
+hoped	→, ↓, ↑, ←	↑.
+
+Your
+hoped	→, ↓, ←, ↑	↑.
+hoped	→, ←, ↑, ↓	↑.
+
+Your
+hoped	→, ←, ↓, ↑	↑.
+
+Your
+increased	↑, ↓, ←, →	↑.
+increased	↑, ↓, →, ←	↑.
+
+Your
+increased	↑, ←, ↓, →	↑.
+increased	↑, ←, →, ↓	↑.
+increased	↑, →, ↓, ←	↑.
+
+Your
+increased	↑, →, ←, ↓	↑.
+
+Your
+increased	↓, ↑, ←, →	↑.
+
+Your
+increased	↓, ↑, →, ←	↑.
+
+Your
+increased	↓, ←, ↑, →	↑.
+
+Your
+increased	↓, ←, →, ↑	↑.
+
+Your
+increased	↓, →, ↑, ←	↑.
+
+Your
+increased	↓, →, ←, ↑	↑.
+
+Your
+increased	←, ↑, ↓, →	↑.
+
+Your
+increased	←, ↑, →, ↓	↑.
+
+Your
+increased	←, ↓, ↑, →	↑.
+
+Your
+increased	←, ↓, →, ↑	↑.
+increased	←, →, ↑, ↓	↑.
+
+Your
+increased	←, →, ↓, ↑	↑.
+increased	→, ↑, ↓, ←	↑.
+
+Your
+increased	→, ↑, ←, ↓	↑.
+
+Your
+increased	→, ↓, ↑, ←	↑.
+
+Your
+increased	→, ↓, ←, ↑	↑.
+
+Your
+increased	→, ←, ↑, ↓	↑.
+
+Your
+increased	→, ←, ↓, ↑	↑.
+
+Your
+obeyed	↑, ↓, ←, →	↓.
+
+Your
+obeyed	↑, ↓, →, ←	↓.
+
+Your
+obeyed	↑, ←, ↓, →	↓.
+
+Your
+obeyed	↑, ←, →, ↓	↓.
+
+Your
+obeyed	↑, →, ↓, ←	↓.
+
+Your
+obeyed	↑, →, ←, ↓	↓.
+
+Your
+obeyed	↓, ↑, ←, →	↓.
+
+Your
+obeyed	↓, ↑, →, ←	↓.
+obeyed	↓, ←, ↑, →	↓.
+obeyed	↓, ←, →, ↑	↓.
+obeyed	↓, →, ↑, ←	↓.
+obeyed	↓, →, ←, ↑	↓.
+obeyed	←, ↑, ↓, →	↓.
+
+Your
+obeyed	←, ↑, →, ↓	↓.
+
+Your
+obeyed	←, ↓, ↑, →	↓.
+
+Your
+obeyed	←, ↓, →, ↑	↓.
+
+Your
+obeyed	←, →, ↑, ↓	↓.
+
+Your
+obeyed	←, →, ↓, ↑	↓.
+
+Your
+obeyed	→, ↑, ↓, ←	↓.
+
+Your
+obeyed	→, ↑, ←, ↓	↓.
+
+You
+obeyed	→, ↓, ↑, ←	↓.
+
+Your
+obeyed	→, ↓, ←, ↑	↓.
+
+Your
+obeyed	→, ←, ↑, ↓	↓.
+
+Your
+obeyed	→, ←, ↓, ↑	↓.
+
+Your
+respected	↑, ↓, ←, →	↑.
+respected	↑, ↓, →, ←	↑.
+respected	↑, ←, ↓, →	↑.
+respected	↑, ←, →, ↓	↑.
+respected	↑, →, ↓, ←	↑.
+respected	↑, →, ←, ↓	↑.
+respected	↓, ↑, ←, →	↑.
+
+Your
+respected	↓, ↑, →, ←	↑.
+
+Your
+respected	↓, ←, ↑, →	↑.
+
+Your
+respected	↓, ←, →, ↑	↑.
+respected	↓, →, ↑, ←	↑.
+respected	↓, →, ←, ↑	↑.
+respected	←, ↑, ↓, →	↑.
+respected	←, ↑, →, ↓	↑.
+respected	←, ↓, ↑, →	↑.
+respected	←, ↓, →, ↑	↑.
+respected	←, →, ↑, ↓	↑.
+
+Your
+respected	←, →, ↓, ↑	↑.
+respected	→, ↑, ↓, ←	↑.
+
+Your
+respected	→, ↑, ←, ↓	↑.
+
+Your
+respected	→, ↓, ↑, ←	↑.
+
+Your
+respected	→, ↓, ←, ↑	↑.
+
+Your
+respected	→, ←, ↑, ↓	↑.
+
+Your
+respected	→, ←, ↓, ↑	↑.
+
+Your
+succeeded	↑, ↓, ←, →	↑.
+
+Your
+succeeded	↑, ↓, →, ←	↑.
+
+Your
+succeeded	↑, ←, ↓, →	↑.
+
+Your
+succeeded	↑, ←, →, ↓	↑.
+
+Your
+succeeded	↑, →, ↓, ←	↑.
+
+Your
+succeeded	↑, →, ←, ↓	↑.
+
+Your
+succeeded	↓, ↑, ←, →	↑.
+
+Your
+succeeded	↓, ↑, →, ←	↑.
+
+Your
+succeeded	↓, ←, ↑, →	↑.
+
+You
+succeeded	↓, ←, →, ↑	↑.
+
+You
+succeeded	↓, →, ↑, ←	↑.
+
+You
+succeeded	↓, →, ←, ↑	↑.
+
+You
+succeeded	←, ↑, ↓, →	↑.
+
+Your
+succeeded	←, ↑, →, ↓	↑.
+
+Your
+succeeded	←, ↓, ↑, →	↑.
+
+Your
+succeeded	←, ↓, →, ↑	↑.
+
+You
+succeeded	←, →, ↑, ↓	↑.
+
+Your
+succeeded	←, →, ↓, ↑	↑.
+
+Your
+succeeded	→, ↑, ↓, ←	↑.
+
+Your
+succeeded	→, ↑, ←, ↓	↑.
+
+Your
+succeeded	→, ↓, ↑, ←	↑.
+
+Your
+succeeded	→, ↓, ←, ↑	↑.
+
+Your
+succeeded	→, ←, ↑, ↓	↑.
+
+Your
+succeeded	→, ←, ↓, ↑	↑.
+
+Your

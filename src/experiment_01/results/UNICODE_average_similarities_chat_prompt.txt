@@ -1,0 +1,2 @@
+Model	Average Similarity
+Llama-2-70b-chat-hf	0.4281333333333333

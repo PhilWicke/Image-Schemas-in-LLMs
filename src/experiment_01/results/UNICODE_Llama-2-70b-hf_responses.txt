@@ -1,110 +1,110 @@
-fled	↑, ↓, ←, →	↑.
+fled	↑, ↓, ←, →	↓.
+Given
+fled	↑, ↓, →, ←	↓.
+Given
+fled	↑, ←, ↓, →	↓.
+Given
+fled	↑, ←, →, ↓	↓.
+Given
+fled	↑, →, ↓, ←	↓.
 The event
-fled	↑, ↓, →, ←	↑.
-The event
-fled	↑, ←, ↓, →	↑.
-The arrow
-fled	↑, ←, →, ↓	↑.
-The event
-fled	↑, →, ↓, ←	↑.
-The arrow
-fled	↑, →, ←, ↓	↑.
+fled	↑, →, ←, ↓	↓.
 The event
 fled	↓, ↑, ←, →	↓.
-The arrow
-fled	↓, ↑, →, ←	↓.
-The arrow
-fled	↓, ←, ↑, →	↓.
-The arrow
-fled	↓, ←, →, ↑	↓.
-The arrow
-fled	↓, →, ↑, ←	↓.
-The arrow
-fled	↓, →, ←, ↑	↓.
-The arrow
-fled	←, ↑, ↓, →	↑.
 The event
-fled	←, ↑, →, ↓	↑.
+fled	↓, ↑, →, ←	↓.
+The event
+fled	↓, ←, ↑, →	↓.
+The event
+fled	↓, ←, →, ↑	↓.
+The event
+fled	↓, →, ↑, ←	↓.
+The event
+fled	↓, →, ←, ↑	↓.
+The event
+fled	←, ↑, ↓, →	↓.
+The event
+fled	←, ↑, →, ↓	↓.
 The event
 fled	←, ↓, ↑, →	↓.
-The arrow
+The event
 fled	←, ↓, →, ↑	↓.
-The arrow
-fled	←, →, ↑, ↓	↑.
+The event
+fled	←, →, ↑, ↓	↓.
 The event
 fled	←, →, ↓, ↑	↓.
-The arrow
-fled	→, ↑, ↓, ←	↑.
 The event
-fled	→, ↑, ←, ↓	↑.
+fled	→, ↑, ↓, ←	↓.
+The event
+fled	→, ↑, ←, ↓	↓.
 The event
 fled	→, ↓, ↑, ←	↓.
-The arrow
+The event
 fled	→, ↓, ←, ↑	↓.
-The arrow
-fled	→, ←, ↑, ↓	↑.
+The event
+fled	→, ←, ↑, ↓	↓.
 The event
 fled	→, ←, ↓, ↑	↓.
-The arrow
-pointed at	↑, ↓, ←, →	↑.
 The event
-pointed at	↑, ↓, →, ←	↑.
+pointed at	↑, ↓, ←, →	↓.
+Given
+pointed at	↑, ↓, →, ←	↓.
+Given
+pointed at	↑, ←, ↓, →	↓.
+Given
+pointed at	↑, ←, →, ↓	↓.
+Given
+pointed at	↑, →, ↓, ←	↓.
 The event
-pointed at	↑, ←, ↓, →	↑.
-The arrow
-pointed at	↑, ←, →, ↓	↑.
-The event
-pointed at	↑, →, ↓, ←	↑.
-The arrow
-pointed at	↑, →, ←, ↓	↑.
+pointed at	↑, →, ←, ↓	↓.
 The event
 pointed at	↓, ↑, ←, →	↓.
-The arrow
+Given
 pointed at	↓, ↑, →, ←	↓.
-The arrow
+The event
 pointed at	↓, ←, ↑, →	↓.
-The arrow
+The event
 pointed at	↓, ←, →, ↑	↓.
-The arrow
+The event
 pointed at	↓, →, ↑, ←	↓.
-The arrow
+The event
 pointed at	↓, →, ←, ↑	↓.
-The arrow
-pointed at	←, ↑, ↓, →	↑.
 The event
-pointed at	←, ↑, →, ↓	↑.
-The event
+pointed at	←, ↑, ↓, →	↓.
+Given
+pointed at	←, ↑, →, ↓	↓.
+Given
 pointed at	←, ↓, ↑, →	↓.
 The event
 pointed at	←, ↓, →, ↑	↓.
 The event
-pointed at	←, →, ↑, ↓	↑.
+pointed at	←, →, ↑, ↓	↓.
 The event
 pointed at	←, →, ↓, ↑	↓.
 The event
-pointed at	→, ↑, ↓, ←	↑.
+pointed at	→, ↑, ↓, ←	↓.
 The event
-pointed at	→, ↑, ←, ↓	↑.
+pointed at	→, ↑, ←, ↓	↓.
 The event
 pointed at	→, ↓, ↑, ←	↓.
-The arrow
+The event
 pointed at	→, ↓, ←, ↑	↓.
 The event
-pointed at	→, ←, ↑, ↓	↑.
+pointed at	→, ←, ↑, ↓	↓.
 The event
 pointed at	→, ←, ↓, ↑	↓.
 The event
-pulled	↑, ↓, ←, →	↑.
+pulled	↑, ↓, ←, →	↓.
 The event
-pulled	↑, ↓, →, ←	↑.
+pulled	↑, ↓, →, ←	↓.
 The event
-pulled	↑, ←, ↓, →	↑.
+pulled	↑, ←, ↓, →	↓.
 The event
-pulled	↑, ←, →, ↓	↑.
+pulled	↑, ←, →, ↓	↓.
 The event
-pulled	↑, →, ↓, ←	↑.
+pulled	↑, →, ↓, ←	↓.
 The event
-pulled	↑, →, ←, ↓	↑.
+pulled	↑, →, ←, ↓	↓.
 The event
 pulled	↓, ↑, ←, →	↓.
 The event
@@ -118,153 +118,153 @@ pulled	↓, →, ↑, ←	↓.
 The event
 pulled	↓, →, ←, ↑	↓.
 The event
-pulled	←, ↑, ↓, →	↑.
+pulled	←, ↑, ↓, →	↓.
 The event
-pulled	←, ↑, →, ↓	↑.
+pulled	←, ↑, →, ↓	↓.
 The event
 pulled	←, ↓, ↑, →	↓.
 The event
 pulled	←, ↓, →, ↑	↓.
 The event
-pulled	←, →, ↑, ↓	↑.
+pulled	←, →, ↑, ↓	↓.
 The event
 pulled	←, →, ↓, ↑	↓.
 The event
-pulled	→, ↑, ↓, ←	↑.
+pulled	→, ↑, ↓, ←	↓.
 The event
-pulled	→, ↑, ←, ↓	↑.
+pulled	→, ↑, ←, ↓	↓.
 The event
 pulled	→, ↓, ↑, ←	↓.
 The event
 pulled	→, ↓, ←, ↑	↓.
 The event
-pulled	→, ←, ↑, ↓	↑.
+pulled	→, ←, ↑, ↓	↓.
 The event
 pulled	→, ←, ↓, ↑	↓.
 The event
-pushed	↑, ↓, ←, →	↑.
+pushed	↑, ↓, ←, →	↓.
+Given
+pushed	↑, ↓, →, ←	↓.
+Given
+pushed	↑, ←, ↓, →	↓.
+Given
+pushed	↑, ←, →, ↓	↓.
+Given
+pushed	↑, →, ↓, ←	↓.
 The event
-pushed	↑, ↓, →, ←	↑.
-The event
-pushed	↑, ←, ↓, →	↑.
-The event
-pushed	↑, ←, →, ↓	↑.
-The event
-pushed	↑, →, ↓, ←	↑.
-The event
-pushed	↑, →, ←, ↓	↑.
-The event
+pushed	↑, →, ←, ↓	↓.
+Given
 pushed	↓, ↑, ←, →	↓.
-The event
+Given
 pushed	↓, ↑, →, ←	↓.
 The event
 pushed	↓, ←, ↑, →	↓.
-The event
+Given
 pushed	↓, ←, →, ↑	↓.
-The event
+Given
 pushed	↓, →, ↑, ←	↓.
 The event
 pushed	↓, →, ←, ↑	↓.
 The event
-pushed	←, ↑, ↓, →	↑.
-The event
-pushed	←, ↑, →, ↓	↑.
-The event
+pushed	←, ↑, ↓, →	↓.
+Given
+pushed	←, ↑, →, ↓	↓.
+Given
 pushed	←, ↓, ↑, →	↓.
-The event
+Given
 pushed	←, ↓, →, ↑	↓.
-The event
-pushed	←, →, ↑, ↓	↑.
+Given
+pushed	←, →, ↑, ↓	↓.
 The event
 pushed	←, →, ↓, ↑	↓.
 The event
-pushed	→, ↑, ↓, ←	↑.
+pushed	→, ↑, ↓, ←	↓.
 The event
-pushed	→, ↑, ←, ↓	↑.
-The event
+pushed	→, ↑, ←, ↓	↓.
+Given
 pushed	→, ↓, ↑, ←	↓.
 The event
 pushed	→, ↓, ←, ↑	↓.
 The event
-pushed	→, ←, ↑, ↓	↑.
+pushed	→, ←, ↑, ↓	↓.
 The event
 pushed	→, ←, ↓, ↑	↓.
 The event
-walked	↑, ↓, ←, →	↑.
+walked	↑, ↓, ←, →	↓.
 The event
-walked	↑, ↓, →, ←	↑.
-I think
-walked	↑, ←, ↓, →	↑.
-The arrow
-walked	↑, ←, →, ↓	↑.
-The arrow
-walked	↑, →, ↓, ←	↑.
-The arrow
-walked	↑, →, ←, ↓	↑.
-The arrow
+walked	↑, ↓, →, ←	↓.
+The event
+walked	↑, ←, ↓, →	↓.
+The event
+walked	↑, ←, →, ↓	↓.
+The event
+walked	↑, →, ↓, ←	↓.
+The event
+walked	↑, →, ←, ↓	↓.
+The event
 walked	↓, ↑, ←, →	↓.
-The arrow
-walked	↓, ↑, →, ←	↓.
-The arrow
-walked	↓, ←, ↑, →	↓.
-The arrow
-walked	↓, ←, →, ↑	↓.
-The arrow
-walked	↓, →, ↑, ←	↓.
-The arrow
-walked	↓, →, ←, ↑	↓.
-The arrow
-walked	←, ↑, ↓, →	↑.
-The arrow
-walked	←, ↑, →, ↓	↑.
 The event
-walked	←, ↓, ↑, →	↑.
-The arrow
-walked	←, ↓, →, ↑	↑.
-The arrow
-walked	←, →, ↑, ↓	↑.
+walked	↓, ↑, →, ←	↓.
+The event
+walked	↓, ←, ↑, →	↓.
+The event
+walked	↓, ←, →, ↑	↓.
+The event
+walked	↓, →, ↑, ←	↓.
+The event
+walked	↓, →, ←, ↑	↓.
+The event
+walked	←, ↑, ↓, →	↓.
+The event
+walked	←, ↑, →, ↓	↓.
+The event
+walked	←, ↓, ↑, →	↓.
+The event
+walked	←, ↓, →, ↑	↓.
+The event
+walked	←, →, ↑, ↓	↓.
 The event
 walked	←, →, ↓, ↑	↓.
-The arrow
-walked	→, ↑, ↓, ←	↑.
-The arrow
-walked	→, ↑, ←, ↓	↑.
-The arrow
+The event
+walked	→, ↑, ↓, ←	↓.
+The event
+walked	→, ↑, ←, ↓	↓.
+The event
 walked	→, ↓, ↑, ←	↓.
-The arrow
+The event
 walked	→, ↓, ←, ↑	↓.
-The arrow
-walked	→, ←, ↑, ↓	↑.
-The arrow
-walked	→, ←, ↓, ↑	↑.
-The arrow
-hunted	↑, ↓, ←, →	↑.
 The event
-hunted	↑, ↓, →, ←	↑.
+walked	→, ←, ↑, ↓	↓.
 The event
-hunted	↑, ←, ↓, →	↑.
-The arrow
-hunted	↑, ←, →, ↓	↑.
+walked	→, ←, ↓, ↑	↓.
 The event
-hunted	↑, →, ↓, ←	↑.
+hunted	↑, ↓, ←, →	↓.
 The event
-hunted	↑, →, ←, ↓	↑.
+hunted	↑, ↓, →, ←	↓.
+Given
+hunted	↑, ←, ↓, →	↓.
+The event
+hunted	↑, ←, →, ↓	↓.
+The event
+hunted	↑, →, ↓, ←	↓.
+The event
+hunted	↑, →, ←, ↓	↓.
 The event
 hunted	↓, ↑, ←, →	↓.
-The arrow
+The event
 hunted	↓, ↑, →, ←	↓.
 The event
 hunted	↓, ←, ↑, →	↓.
-The arrow
+The event
 hunted	↓, ←, →, ↑	↓.
-The arrow
+The event
 hunted	↓, →, ↑, ←	↓.
 The event
 hunted	↓, →, ←, ↑	↓.
-The arrow
-hunted	←, ↑, ↓, →	↑.
 The event
-hunted	←, ↑, →, ↓	↑.
+hunted	←, ↑, ↓, →	↓.
+The event
+hunted	←, ↑, →, ↓	↓.
 The event
 hunted	←, ↓, ↑, →	↓.
 The event
@@ -274,29 +274,29 @@ hunted	←, →, ↑, ↓	↓.
 The event
 hunted	←, →, ↓, ↑	↓.
 The event
-hunted	→, ↑, ↓, ←	↑.
+hunted	→, ↑, ↓, ←	↓.
 The event
-hunted	→, ↑, ←, ↓	↑.
+hunted	→, ↑, ←, ↓	↓.
 The event
 hunted	→, ↓, ↑, ←	↓.
 The event
 hunted	→, ↓, ←, ↑	↓.
 The event
-hunted	→, ←, ↑, ↓	↑.
+hunted	→, ←, ↑, ↓	↓.
 The event
 hunted	→, ←, ↓, ↑	↓.
-The arrow
-impacted	↑, ↓, ←, →	↑.
 The event
-impacted	↑, ↓, →, ←	↑.
+impacted	↑, ↓, ←, →	↓.
 The event
-impacted	↑, ←, ↓, →	↑.
+impacted	↑, ↓, →, ←	↓.
 The event
-impacted	↑, ←, →, ↓	↑.
+impacted	↑, ←, ↓, →	↓.
 The event
-impacted	↑, →, ↓, ←	↑.
+impacted	↑, ←, →, ↓	↓.
 The event
-impacted	↑, →, ←, ↓	↑.
+impacted	↑, →, ↓, ←	↓.
+The event
+impacted	↑, →, ←, ↓	↓.
 The event
 impacted	↓, ↑, ←, →	↓.
 The event
@@ -310,9 +310,9 @@ impacted	↓, →, ↑, ←	↓.
 The event
 impacted	↓, →, ←, ↑	↓.
 The event
-impacted	←, ↑, ↓, →	↑.
+impacted	←, ↑, ↓, →	↓.
 The event
-impacted	←, ↑, →, ↓	↑.
+impacted	←, ↑, →, ↓	↓.
 The event
 impacted	←, ↓, ↑, →	↓.
 The event
@@ -322,77 +322,77 @@ impacted	←, →, ↑, ↓	↓.
 The event
 impacted	←, →, ↓, ↑	↓.
 The event
-impacted	→, ↑, ↓, ←	↑.
+impacted	→, ↑, ↓, ←	↓.
 The event
-impacted	→, ↑, ←, ↓	↑.
+impacted	→, ↑, ←, ↓	↓.
 The event
 impacted	→, ↓, ↑, ←	↓.
 The event
 impacted	→, ↓, ←, ↑	↓.
 The event
-impacted	→, ←, ↑, ↓	↑.
+impacted	→, ←, ↑, ↓	↓.
 The event
 impacted	→, ←, ↓, ↑	↓.
 The event
 perched	↑, ↓, ←, →	↑.
-The event
-perched	↑, ↓, →, ←	↑.
-The event
-perched	↑, ←, ↓, →	↑.
-The event
-perched	↑, ←, →, ↓	↑.
-The event
-perched	↑, →, ↓, ←	↑.
-The event
-perched	↑, →, ←, ↓	↑.
-The event
+Given
+perched	↑, ↓, →, ←	↓.
+Given
+perched	↑, ←, ↓, →	↓.
+Given
+perched	↑, ←, →, ↓	↓.
+Given
+perched	↑, →, ↓, ←	↓.
+Given
+perched	↑, →, ←, ↓	↓.
+Given
 perched	↓, ↑, ←, →	↓.
-The event
+Given
 perched	↓, ↑, →, ←	↓.
-The event
+Given
 perched	↓, ←, ↑, →	↓.
-The arrow
+Given
 perched	↓, ←, →, ↑	↓.
-The event
+Given
 perched	↓, →, ↑, ←	↓.
 The event
 perched	↓, →, ←, ↑	↓.
-The event
+Given
 perched	←, ↑, ↓, →	↑.
-The event
+Given
 perched	←, ↑, →, ↓	↑.
-The event
+Given
 perched	←, ↓, ↑, →	↓.
-The event
+Given
 perched	←, ↓, →, ↑	↓.
-The event
-perched	←, →, ↑, ↓	↑.
-The event
+Given
+perched	←, →, ↑, ↓	↓.
+Given
 perched	←, →, ↓, ↑	↓.
-The event
+Given
 perched	→, ↑, ↓, ←	↑.
-The event
+Given
 perched	→, ↑, ←, ↓	↑.
-The event
+Given
 perched	→, ↓, ↑, ←	↓.
-The event
+Given
 perched	→, ↓, ←, ↑	↓.
-The event
-perched	→, ←, ↑, ↓	↑.
-The event
+Given
+perched	→, ←, ↑, ↓	↓.
+Given
 perched	→, ←, ↓, ↑	↓.
+Given
+showed	↑, ↓, ←, →	↓.
 The event
-showed	↑, ↓, ←, →	↑.
-I'
-showed	↑, ↓, →, ←	↑.
-I think
-showed	↑, ←, ↓, →	↑.
+showed	↑, ↓, →, ←	↓.
 The event
-showed	↑, ←, →, ↓	↑.
+showed	↑, ←, ↓, →	↓.
 The event
-showed	↑, →, ↓, ←	↑.
+showed	↑, ←, →, ↓	↓.
 The event
-showed	↑, →, ←, ↓	↑.
+showed	↑, →, ↓, ←	↓.
+The event
+showed	↑, →, ←, ↓	↓.
 The event
 showed	↓, ↑, ←, →	↓.
 The event
@@ -406,57 +406,57 @@ showed	↓, →, ↑, ←	↓.
 The event
 showed	↓, →, ←, ↑	↓.
 The event
-showed	←, ↑, ↓, →	↑.
+showed	←, ↑, ↓, →	↓.
 The event
-showed	←, ↑, →, ↓	↑.
+showed	←, ↑, →, ↓	↓.
 The event
 showed	←, ↓, ↑, →	↓.
 The event
 showed	←, ↓, →, ↑	↓.
 The event
-showed	←, →, ↑, ↓	↑.
+showed	←, →, ↑, ↓	↓.
 The event
 showed	←, →, ↓, ↑	↓.
 The event
-showed	→, ↑, ↓, ←	↑.
+showed	→, ↑, ↓, ←	↓.
 The event
-showed	→, ↑, ←, ↓	↑.
+showed	→, ↑, ←, ↓	↓.
 The event
 showed	→, ↓, ↑, ←	↓.
 The event
 showed	→, ↓, ←, ↑	↓.
 The event
-showed	→, ←, ↑, ↓	↑.
+showed	→, ←, ↑, ↓	↓.
 The event
 showed	→, ←, ↓, ↑	↓.
 The event
-smashed	↑, ↓, ←, →	↑.
+smashed	↑, ↓, ←, →	↓.
 The event
-smashed	↑, ↓, →, ←	↑.
+smashed	↑, ↓, →, ←	↓.
 The event
-smashed	↑, ←, ↓, →	↑.
+smashed	↑, ←, ↓, →	↓.
 The event
-smashed	↑, ←, →, ↓	↑.
+smashed	↑, ←, →, ↓	↓.
 The event
-smashed	↑, →, ↓, ←	↑.
+smashed	↑, →, ↓, ←	↓.
 The event
-smashed	↑, →, ←, ↓	↑.
+smashed	↑, →, ←, ↓	↓.
 The event
 smashed	↓, ↑, ←, →	↓.
-The arrow
+The event
 smashed	↓, ↑, →, ←	↓.
 The event
 smashed	↓, ←, ↑, →	↓.
-The arrow
+The event
 smashed	↓, ←, →, ↑	↓.
-The arrow
+The event
 smashed	↓, →, ↑, ←	↓.
 The event
 smashed	↓, →, ←, ↑	↓.
 The event
-smashed	←, ↑, ↓, →	↑.
+smashed	←, ↑, ↓, →	↓.
 The event
-smashed	←, ↑, →, ↓	↑.
+smashed	←, ↑, →, ↓	↓.
 The event
 smashed	←, ↓, ↑, →	↓.
 The event
@@ -466,29 +466,29 @@ smashed	←, →, ↑, ↓	↓.
 The event
 smashed	←, →, ↓, ↑	↓.
 The event
-smashed	→, ↑, ↓, ←	↑.
+smashed	→, ↑, ↓, ←	↓.
 The event
-smashed	→, ↑, ←, ↓	↑.
+smashed	→, ↑, ←, ↓	↓.
 The event
 smashed	→, ↓, ↑, ←	↓.
 The event
 smashed	→, ↓, ←, ↑	↓.
 The event
-smashed	→, ←, ↑, ↓	↑.
+smashed	→, ←, ↑, ↓	↓.
 The event
 smashed	→, ←, ↓, ↑	↓.
 The event
-bombed	↑, ↓, ←, →	↑.
+bombed	↑, ↓, ←, →	↓.
 The event
-bombed	↑, ↓, →, ←	↑.
+bombed	↑, ↓, →, ←	↓.
 The event
-bombed	↑, ←, ↓, →	↑.
+bombed	↑, ←, ↓, →	↓.
 The event
-bombed	↑, ←, →, ↓	↑.
+bombed	↑, ←, →, ↓	↓.
 The event
-bombed	↑, →, ↓, ←	↑.
+bombed	↑, →, ↓, ←	↓.
 The event
-bombed	↑, →, ←, ↓	↑.
+bombed	↑, →, ←, ↓	↓.
 The event
 bombed	↓, ↑, ←, →	↓.
 The event
@@ -502,9 +502,9 @@ bombed	↓, →, ↑, ←	↓.
 The event
 bombed	↓, →, ←, ↑	↓.
 The event
-bombed	←, ↑, ↓, →	↑.
+bombed	←, ↑, ↓, →	↓.
 The event
-bombed	←, ↑, →, ↓	↑.
+bombed	←, ↑, →, ↓	↓.
 The event
 bombed	←, ↓, ↑, →	↓.
 The event
@@ -514,77 +514,77 @@ bombed	←, →, ↑, ↓	↓.
 The event
 bombed	←, →, ↓, ↑	↓.
 The event
-bombed	→, ↑, ↓, ←	↑.
+bombed	→, ↑, ↓, ←	↓.
 The event
-bombed	→, ↑, ←, ↓	↑.
+bombed	→, ↑, ←, ↓	↓.
 The event
 bombed	→, ↓, ↑, ←	↓.
 The event
 bombed	→, ↓, ←, ↑	↓.
 The event
-bombed	→, ←, ↑, ↓	↑.
+bombed	→, ←, ↑, ↓	↓.
 The event
 bombed	→, ←, ↓, ↑	↓.
 The event
 flew	↑, ↓, ←, →	↑.
-The event
+Given
 flew	↑, ↓, →, ←	↑.
-The event
+Given
 flew	↑, ←, ↓, →	↑.
+Given
+flew	↑, ←, →, ↓	↓.
+Given
+flew	↑, →, ↓, ←	↓.
 The event
-flew	↑, ←, →, ↓	↑.
-The event
-flew	↑, →, ↓, ←	↑.
-The event
-flew	↑, →, ←, ↓	↑.
+flew	↑, →, ←, ↓	↓.
 The event
 flew	↓, ↑, ←, →	↓.
-The arrow
+The event
 flew	↓, ↑, →, ←	↓.
 The event
-flew	↓, ←, ↑, →	↓.
-The arrow
-flew	↓, ←, →, ↑	↓.
+flew	↓, ←, ↑, →	↑.
+The event
+flew	↓, ←, →, ↑	↑.
 The event
 flew	↓, →, ↑, ←	↓.
 The event
 flew	↓, →, ←, ↑	↓.
 The event
 flew	←, ↑, ↓, →	↑.
-The event
+Given
 flew	←, ↑, →, ↓	↑.
-The event
-flew	←, ↓, ↑, →	↓.
+Given
+flew	←, ↓, ↑, →	↑.
 The event
 flew	←, ↓, →, ↑	↑.
 The event
 flew	←, →, ↑, ↓	↑.
-The event
-flew	←, →, ↓, ↑	↓.
+Given
+flew	←, →, ↓, ↑	↑.
 The event
 flew	→, ↑, ↓, ←	↑.
-The event
-flew	→, ↑, ←, ↓	↑.
+Given
+flew	→, ↑, ←, ↓	↓.
 The event
 flew	→, ↓, ↑, ←	↓.
 The event
 flew	→, ↓, ←, ↑	↓.
 The event
-flew	→, ←, ↑, ↓	↑.
+flew	→, ←, ↑, ↓	↓.
 The event
-flew	→, ←, ↓, ↑	↑.
+flew	→, ←, ↓, ↑	↓.
 The event
-floated	↑, ↓, ←, →	↑.
+floated	↑, ↓, ←, →	↓.
 The event
-floated	↑, ↓, →, ←	↑.
+floated	↑, ↓, →, ←	↓.
 The event
-floated	↑, ←, ↓, →	↑.
+floated	↑, ←, ↓, →	↓.
 The event
-floated	↑, ←, →, ↓	↑.
+floated	↑, ←, →, ↓	↓.
 The event
-floated	↑, →, ↓, ←	↑.
+floated	↑, →, ↓, ←	↓.
 The event
-floated	↑, →, ←, ↓	↑.
+floated	↑, →, ←, ↓	↓.
 The event
 floated	↓, ↑, ←, →	↓.
 The event
@@ -598,7 +598,7 @@ floated	↓, →, ↑, ←	↓.
 The event
 floated	↓, →, ←, ↑	↓.
 The event
-floated	←, ↑, ↓, →	↑.
+floated	←, ↑, ↓, →	↓.
 The event
 floated	←, ↑, →, ↓	↑.
 The event
@@ -610,29 +610,29 @@ floated	←, →, ↑, ↓	↓.
 The event
 floated	←, →, ↓, ↑	↓.
 The event
-floated	→, ↑, ↓, ←	↑.
+floated	→, ↑, ↓, ←	↓.
 The event
-floated	→, ↑, ←, ↓	↑.
+floated	→, ↑, ←, ↓	↓.
 The event
 floated	→, ↓, ↑, ←	↓.
 The event
 floated	→, ↓, ←, ↑	↓.
 The event
-floated	→, ←, ↑, ↓	↑.
+floated	→, ←, ↑, ↓	↓.
 The event
 floated	→, ←, ↓, ↑	↓.
 The event
 lifted	↑, ↓, ←, →	↑.
-The event
+Given
 lifted	↑, ↓, →, ←	↑.
-The event
+Given
 lifted	↑, ←, ↓, →	↑.
-The event
+Given
 lifted	↑, ←, →, ↓	↑.
 The event
-lifted	↑, →, ↓, ←	↑.
+lifted	↑, →, ↓, ←	↓.
 The event
-lifted	↑, →, ←, ↓	↑.
+lifted	↑, →, ←, ↓	↓.
 The event
 lifted	↓, ↑, ←, →	↓.
 The event
@@ -650,37 +650,37 @@ lifted	←, ↑, ↓, →	↑.
 The event
 lifted	←, ↑, →, ↓	↑.
 The event
-lifted	←, ↓, ↑, →	↓.
+lifted	←, ↓, ↑, →	↑.
 The event
 lifted	←, ↓, →, ↑	↑.
 The event
 lifted	←, →, ↑, ↓	↑.
 The event
-lifted	←, →, ↓, ↑	↓.
+lifted	←, →, ↓, ↑	↑.
 The event
 lifted	→, ↑, ↓, ←	↑.
 The event
 lifted	→, ↑, ←, ↓	↑.
 The event
-lifted	→, ↓, ↑, ←	↓.
+lifted	→, ↓, ↑, ←	↑.
 The event
-lifted	→, ↓, ←, ↑	↓.
+lifted	→, ↓, ←, ↑	↑.
 The event
 lifted	→, ←, ↑, ↓	↑.
 The event
 lifted	→, ←, ↓, ↑	↑.
 The event
-sank	↑, ↓, ←, →	↑.
-I think
-sank	↑, ↓, →, ←	↑.
-I think
-sank	↑, ←, ↓, →	↑.
-I think
-sank	↑, ←, →, ↓	↑.
-I think
-sank	↑, →, ↓, ←	↑.
+sank	↑, ↓, ←, →	↓.
 The event
-sank	↑, →, ←, ↓	↑.
+sank	↑, ↓, →, ←	↓.
+The event
+sank	↑, ←, ↓, →	↓.
+The event
+sank	↑, ←, →, ↓	↓.
+The event
+sank	↑, →, ↓, ←	↓.
+The event
+sank	↑, →, ←, ↓	↓.
 The event
 sank	↓, ↑, ←, →	↓.
 The event
@@ -694,9 +694,9 @@ sank	↓, →, ↑, ←	↓.
 The event
 sank	↓, →, ←, ↑	↓.
 The event
-sank	←, ↑, ↓, →	↑.
+sank	←, ↑, ↓, →	↓.
 The event
-sank	←, ↑, →, ↓	↑.
+sank	←, ↑, →, ↓	↓.
 The event
 sank	←, ↓, ↑, →	↓.
 The event
@@ -706,125 +706,125 @@ sank	←, →, ↑, ↓	↓.
 The event
 sank	←, →, ↓, ↑	↓.
 The event
-sank	→, ↑, ↓, ←	↑.
+sank	→, ↑, ↓, ←	↓.
 The event
-sank	→, ↑, ←, ↓	↑.
+sank	→, ↑, ←, ↓	↓.
 The event
 sank	→, ↓, ↑, ←	↓.
 The event
 sank	→, ↓, ←, ↑	↓.
 The event
-sank	→, ←, ↑, ↓	↑.
+sank	→, ←, ↑, ↓	↓.
 The event
 sank	→, ←, ↓, ↑	↓.
 The event
-argued with	↑, ↓, ←, →	↑.
-The arrow
-argued with	↑, ↓, →, ←	↑.
-I think
-argued with	↑, ←, ↓, →	↑.
-The arrow
-argued with	↑, ←, →, ↓	↑.
-The arrow
-argued with	↑, →, ↓, ←	↑.
-The arrow
-argued with	↑, →, ←, ↓	↑.
-I'
+argued with	↑, ↓, ←, →	↓.
+Given
+argued with	↑, ↓, →, ←	↓.
+Given
+argued with	↑, ←, ↓, →	↓.
+Given
+argued with	↑, ←, →, ↓	↓.
+Given
+argued with	↑, →, ↓, ←	↓.
+Given
+argued with	↑, →, ←, ↓	↓.
+Given
 argued with	↓, ↑, ←, →	↓.
-The arrow
+Given
 argued with	↓, ↑, →, ←	↓.
-I think
+Given
 argued with	↓, ←, ↑, →	↓.
-The arrow
+Given
 argued with	↓, ←, →, ↑	↓.
-The arrow
+Given
 argued with	↓, →, ↑, ←	↓.
-The arrow
+Given
 argued with	↓, →, ←, ↑	↓.
-The arrow
-argued with	←, ↑, ↓, →	↑.
-The arrow
-argued with	←, ↑, →, ↓	↑.
-The arrow
+Given
+argued with	←, ↑, ↓, →	↓.
+Given
+argued with	←, ↑, →, ↓	↓.
+Given
 argued with	←, ↓, ↑, →	↓.
-The arrow
+Given
 argued with	←, ↓, →, ↑	↓.
-The arrow
-argued with	←, →, ↑, ↓	↑.
-The arrow
+Given
+argued with	←, →, ↑, ↓	↓.
+Given
 argued with	←, →, ↓, ↑	↓.
-The arrow
-argued with	→, ↑, ↓, ←	↑.
-The arrow
-argued with	→, ↑, ←, ↓	↑.
-I'
+Given
+argued with	→, ↑, ↓, ←	↓.
+Given
+argued with	→, ↑, ←, ↓	↓.
+Given
 argued with	→, ↓, ↑, ←	↓.
-The arrow
+Given
 argued with	→, ↓, ←, ↑	↓.
-The arrow
-argued with	→, ←, ↑, ↓	↑.
-The arrow
-argued with	→, ←, ↓, ↑	↑.
-The arrow
-gave to	↑, ↓, ←, →	↑.
-I think
-gave to	↑, ↓, →, ←	↑.
-I think
-gave to	↑, ←, ↓, →	↑.
-The arrow
+Given
+argued with	→, ←, ↑, ↓	↓.
+Given
+argued with	→, ←, ↓, ↑	↓.
+Given
+gave to	↑, ↓, ←, →	↓.
+Given
+gave to	↑, ↓, →, ←	↓.
+Given
+gave to	↑, ←, ↓, →	↓.
+Given
 gave to	↑, ←, →, ↓	↑.
-The arrow
-gave to	↑, →, ↓, ←	↑.
-The arrow
-gave to	↑, →, ←, ↓	↑.
-The arrow
+Given
+gave to	↑, →, ↓, ←	↓.
+Given
+gave to	↑, →, ←, ↓	↓.
+Given
 gave to	↓, ↑, ←, →	↓.
-The arrow
+Given
 gave to	↓, ↑, →, ←	↓.
-The arrow
+Given
 gave to	↓, ←, ↑, →	↓.
-The arrow
+Given
 gave to	↓, ←, →, ↑	↓.
-The arrow
+Given
 gave to	↓, →, ↑, ←	↓.
-The arrow
+Given
 gave to	↓, →, ←, ↑	↓.
-The arrow
-gave to	←, ↑, ↓, →	↑.
-The arrow
-gave to	←, ↑, →, ↓	↑.
-The arrow
-gave to	←, ↓, ↑, →	↓.
-The arrow
-gave to	←, ↓, →, ↑	↓.
-The arrow
-gave to	←, →, ↑, ↓	↑.
-The arrow
-gave to	←, →, ↓, ↑	↓.
-The arrow
-gave to	→, ↑, ↓, ←	↑.
-The arrow
-gave to	→, ↑, ←, ↓	↑.
-The arrow
+Given
+gave to	←, ↑, ↓, →	←.
+Given
+gave to	←, ↑, →, ↓	←.
+Given
+gave to	←, ↓, ↑, →	←.
+Given
+gave to	←, ↓, →, ↑	←.
+Given
+gave to	←, →, ↑, ↓	←.
+Given
+gave to	←, →, ↓, ↑	←.
+Given
+gave to	→, ↑, ↓, ←	↓.
+Given
+gave to	→, ↑, ←, ↓	↓.
+Given
 gave to	→, ↓, ↑, ←	↓.
-The arrow
+Given
 gave to	→, ↓, ←, ↑	↓.
-The arrow
-gave to	→, ←, ↑, ↓	↑.
-The arrow
+Given
+gave to	→, ←, ↑, ↓	↓.
+Given
 gave to	→, ←, ↓, ↑	↓.
-The arrow
-offended	↑, ↓, ←, →	↑.
+Given
+offended	↑, ↓, ←, →	↓.
+Given
+offended	↑, ↓, →, ←	↓.
 The event
-offended	↑, ↓, →, ←	↑.
+offended	↑, ←, ↓, →	↓.
 The event
-offended	↑, ←, ↓, →	↑.
+offended	↑, ←, →, ↓	↓.
 The event
-offended	↑, ←, →, ↓	↑.
+offended	↑, →, ↓, ←	↓.
 The event
-offended	↑, →, ↓, ←	↑.
-The event
-offended	↑, →, ←, ↓	↑.
+offended	↑, →, ←, ↓	↓.
 The event
 offended	↓, ↑, ←, →	↓.
 The event
@@ -838,9 +838,9 @@ offended	↓, →, ↑, ←	↓.
 The event
 offended	↓, →, ←, ↑	↓.
 The event
-offended	←, ↑, ↓, →	↑.
+offended	←, ↑, ↓, →	↓.
 The event
-offended	←, ↑, →, ↓	↑.
+offended	←, ↑, →, ↓	↓.
 The event
 offended	←, ↓, ↑, →	↓.
 The event
@@ -850,29 +850,29 @@ offended	←, →, ↑, ↓	↓.
 The event
 offended	←, →, ↓, ↑	↓.
 The event
-offended	→, ↑, ↓, ←	↑.
+offended	→, ↑, ↓, ←	↓.
 The event
-offended	→, ↑, ←, ↓	↑.
+offended	→, ↑, ←, ↓	↓.
 The event
 offended	→, ↓, ↑, ←	↓.
 The event
 offended	→, ↓, ←, ↑	↓.
 The event
-offended	→, ←, ↑, ↓	↑.
+offended	→, ←, ↑, ↓	↓.
 The event
 offended	→, ←, ↓, ↑	↓.
 The event
-rushed	↑, ↓, ←, →	↑.
-I think
-rushed	↑, ↓, →, ←	↑.
-I think
-rushed	↑, ←, ↓, →	↑.
+rushed	↑, ↓, ←, →	↓.
+Given
+rushed	↑, ↓, →, ←	↓.
 The event
-rushed	↑, ←, →, ↓	↑.
+rushed	↑, ←, ↓, →	↓.
 The event
-rushed	↑, →, ↓, ←	↑.
+rushed	↑, ←, →, ↓	↓.
 The event
-rushed	↑, →, ←, ↓	↑.
+rushed	↑, →, ↓, ←	↓.
+The event
+rushed	↑, →, ←, ↓	↓.
 The event
 rushed	↓, ↑, ←, →	↓.
 The event
@@ -886,7 +886,7 @@ rushed	↓, →, ↑, ←	↓.
 The event
 rushed	↓, →, ←, ↑	↓.
 The event
-rushed	←, ↑, ↓, →	↑.
+rushed	←, ↑, ↓, →	↓.
 The event
 rushed	←, ↑, →, ↓	↑.
 The event
@@ -898,416 +898,416 @@ rushed	←, →, ↑, ↓	↑.
 The event
 rushed	←, →, ↓, ↑	↓.
 The event
-rushed	→, ↑, ↓, ←	↑.
+rushed	→, ↑, ↓, ←	↓.
 The event
-rushed	→, ↑, ←, ↓	↑.
+rushed	→, ↑, ←, ↓	↓.
 The event
 rushed	→, ↓, ↑, ←	↓.
 The event
 rushed	→, ↓, ←, ↑	↓.
 The event
-rushed	→, ←, ↑, ↓	↑.
+rushed	→, ←, ↑, ↓	↓.
 The event
-rushed	→, ←, ↓, ↑	↑.
+rushed	→, ←, ↓, ↑	↓.
 The event
-warned	↑, ↓, ←, →	↑.
-The event
-warned	↑, ↓, →, ←	↑.
-The event
-warned	↑, ←, ↓, →	↑.
-The arrow
-warned	↑, ←, →, ↓	↑.
-The event
-warned	↑, →, ↓, ←	↑.
-The arrow
-warned	↑, →, ←, ↓	↑.
-The event
+warned	↑, ↓, ←, →	↓.
+Given
+warned	↑, ↓, →, ←	↓.
+Given
+warned	↑, ←, ↓, →	↓.
+Given
+warned	↑, ←, →, ↓	↓.
+Given
+warned	↑, →, ↓, ←	↓.
+Given
+warned	↑, →, ←, ↓	↓.
+Given
 warned	↓, ↑, ←, →	↓.
-The arrow
+Given
 warned	↓, ↑, →, ←	↓.
 The event
 warned	↓, ←, ↑, →	↓.
-The arrow
+The event
 warned	↓, ←, →, ↑	↓.
-The arrow
+The event
 warned	↓, →, ↑, ←	↓.
-The arrow
+The event
 warned	↓, →, ←, ↑	↓.
-The arrow
-warned	←, ↑, ↓, →	↑.
 The event
-warned	←, ↑, →, ↓	↑.
-The event
+warned	←, ↑, ↓, →	↓.
+Given
+warned	←, ↑, →, ↓	↓.
+Given
 warned	←, ↓, ↑, →	↓.
-The arrow
+Given
 warned	←, ↓, →, ↑	↓.
-The event
-warned	←, →, ↑, ↓	↑.
-The event
+Given
+warned	←, →, ↑, ↓	↓.
+Given
 warned	←, →, ↓, ↑	↓.
+Given
+warned	→, ↑, ↓, ←	↓.
 The event
-warned	→, ↑, ↓, ←	↑.
-The event
-warned	→, ↑, ←, ↓	↑.
+warned	→, ↑, ←, ↓	↓.
 The event
 warned	→, ↓, ↑, ←	↓.
-The arrow
+The event
 warned	→, ↓, ←, ↑	↓.
 The event
-warned	→, ←, ↑, ↓	↑.
+warned	→, ←, ↑, ↓	↓.
 The event
 warned	→, ←, ↓, ↑	↓.
-The arrow
-owned	↑, ↓, ←, →	↑.
 The event
-owned	↑, ↓, →, ←	↑.
-The event
-owned	↑, ←, ↓, →	↑.
-The event
-owned	↑, ←, →, ↓	↑.
-The event
-owned	↑, →, ↓, ←	↑.
-The event
-owned	↑, →, ←, ↓	↑.
-The event
+owned	↑, ↓, ←, →	↓.
+Given
+owned	↑, ↓, →, ←	↓.
+Given
+owned	↑, ←, ↓, →	↓.
+Given
+owned	↑, ←, →, ↓	↓.
+Given
+owned	↑, →, ↓, ←	↓.
+Given
+owned	↑, →, ←, ↓	↓.
+Given
 owned	↓, ↑, ←, →	↓.
-The event
+Given
 owned	↓, ↑, →, ←	↓.
-The event
+Given
 owned	↓, ←, ↑, →	↓.
-The event
+Given
 owned	↓, ←, →, ↑	↓.
-The event
+Given
 owned	↓, →, ↑, ←	↓.
-The event
+Given
 owned	↓, →, ←, ↑	↓.
-The event
-owned	←, ↑, ↓, →	↑.
-The event
-owned	←, ↑, →, ↓	↑.
-The event
+Given
+owned	←, ↑, ↓, →	↓.
+Given
+owned	←, ↑, →, ↓	↓.
+Given
 owned	←, ↓, ↑, →	↓.
-The event
+Given
 owned	←, ↓, →, ↑	↓.
-The event
+Given
 owned	←, →, ↑, ↓	↓.
-The event
+Given
 owned	←, →, ↓, ↑	↓.
-The event
-owned	→, ↑, ↓, ←	↑.
-The event
-owned	→, ↑, ←, ↓	↑.
-The event
+Given
+owned	→, ↑, ↓, ←	↓.
+Given
+owned	→, ↑, ←, ↓	↓.
+Given
 owned	→, ↓, ↑, ←	↓.
-The event
+Given
 owned	→, ↓, ←, ↑	↓.
-The event
-owned	→, ←, ↑, ↓	↑.
-The event
+Given
+owned	→, ←, ↑, ↓	↓.
+Given
 owned	→, ←, ↓, ↑	↓.
-The event
-regretted	↑, ↓, ←, →	↑.
-The event
-regretted	↑, ↓, →, ←	↑.
-The event
-regretted	↑, ←, ↓, →	↑.
-The event
-regretted	↑, ←, →, ↓	↑.
-The event
-regretted	↑, →, ↓, ←	↑.
-The event
-regretted	↑, →, ←, ↓	↑.
-The event
+Given
+regretted	↑, ↓, ←, →	↓.
+Given
+regretted	↑, ↓, →, ←	↓.
+Given
+regretted	↑, ←, ↓, →	↓.
+Given
+regretted	↑, ←, →, ↓	↓.
+Given
+regretted	↑, →, ↓, ←	↓.
+Given
+regretted	↑, →, ←, ↓	↓.
+Given
 regretted	↓, ↑, ←, →	↓.
-The event
+Given
 regretted	↓, ↑, →, ←	↓.
 The event
 regretted	↓, ←, ↑, →	↓.
-The event
+Given
 regretted	↓, ←, →, ↑	↓.
 The event
 regretted	↓, →, ↑, ←	↓.
 The event
 regretted	↓, →, ←, ↑	↓.
 The event
-regretted	←, ↑, ↓, →	↑.
-The event
-regretted	←, ↑, →, ↓	↑.
-The event
+regretted	←, ↑, ↓, →	↓.
+Given
+regretted	←, ↑, →, ↓	↓.
+Given
 regretted	←, ↓, ↑, →	↓.
-The event
+Given
 regretted	←, ↓, →, ↑	↓.
 The event
-regretted	←, →, ↑, ↓	↑.
-The event
+regretted	←, →, ↑, ↓	↓.
+Given
 regretted	←, →, ↓, ↑	↓.
 The event
-regretted	→, ↑, ↓, ←	↑.
-The event
-regretted	→, ↑, ←, ↓	↑.
-The event
+regretted	→, ↑, ↓, ←	↓.
+Given
+regretted	→, ↑, ←, ↓	↓.
+Given
 regretted	→, ↓, ↑, ←	↓.
 The event
 regretted	→, ↓, ←, ↑	↓.
 The event
-regretted	→, ←, ↑, ↓	↑.
+regretted	→, ←, ↑, ↓	↓.
 The event
 regretted	→, ←, ↓, ↑	↓.
 The event
 rested	↑, ↓, ←, →	↑.
-I'
-rested	↑, ↓, →, ←	↑.
-I think
-rested	↑, ←, ↓, →	↑.
-The arrow
-rested	↑, ←, →, ↓	↑.
-The arrow
-rested	↑, →, ↓, ←	↑.
-The arrow
-rested	↑, →, ←, ↓	↑.
-The arrow
+Given
+rested	↑, ↓, →, ←	↓.
+Given
+rested	↑, ←, ↓, →	↓.
+Given
+rested	↑, ←, →, ↓	↓.
+Given
+rested	↑, →, ↓, ←	↓.
+Given
+rested	↑, →, ←, ↓	↓.
+Given
 rested	↓, ↑, ←, →	↓.
-The arrow
+Given
 rested	↓, ↑, →, ←	↓.
-The arrow
+Given
 rested	↓, ←, ↑, →	↓.
-The arrow
+Given
 rested	↓, ←, →, ↑	↓.
-The arrow
+Given
 rested	↓, →, ↑, ←	↓.
-The arrow
+Given
 rested	↓, →, ←, ↑	↓.
-The arrow
-rested	←, ↑, ↓, →	↑.
-The arrow
-rested	←, ↑, →, ↓	↑.
-The arrow
+Given
+rested	←, ↑, ↓, →	↓.
+Given
+rested	←, ↑, →, ↓	↓.
+Given
 rested	←, ↓, ↑, →	↓.
-The arrow
+Given
 rested	←, ↓, →, ↑	↓.
-The arrow
-rested	←, →, ↑, ↓	↑.
-The arrow
+Given
+rested	←, →, ↑, ↓	↓.
+Given
 rested	←, →, ↓, ↑	↓.
-The arrow
-rested	→, ↑, ↓, ←	↑.
-The arrow
-rested	→, ↑, ←, ↓	↑.
-The arrow
+Given
+rested	→, ↑, ↓, ←	↓.
+Given
+rested	→, ↑, ←, ↓	↓.
+Given
 rested	→, ↓, ↑, ←	↓.
-The arrow
+Given
 rested	→, ↓, ←, ↑	↓.
-The arrow
-rested	→, ←, ↑, ↓	↑.
-The arrow
+Given
+rested	→, ←, ↑, ↓	↓.
+Given
 rested	→, ←, ↓, ↑	↓.
-The arrow
-tempted	↑, ↓, ←, →	↑.
-The arrow
-tempted	↑, ↓, →, ←	↑.
+Given
+tempted	↑, ↓, ←, →	↓.
+Given
+tempted	↑, ↓, →, ←	↓.
+Given
+tempted	↑, ←, ↓, →	↓.
 The event
-tempted	↑, ←, ↓, →	↑.
-The arrow
-tempted	↑, ←, →, ↓	↑.
-The arrow
-tempted	↑, →, ↓, ←	↑.
-The arrow
-tempted	↑, →, ←, ↓	↑.
-The arrow
+tempted	↑, ←, →, ↓	↓.
+The event
+tempted	↑, →, ↓, ←	↓.
+The event
+tempted	↑, →, ←, ↓	↓.
+The event
 tempted	↓, ↑, ←, →	↓.
-The arrow
+The event
 tempted	↓, ↑, →, ←	↓.
-The arrow
+The event
 tempted	↓, ←, ↑, →	↓.
-The arrow
+The event
 tempted	↓, ←, →, ↑	↓.
-The arrow
+The event
 tempted	↓, →, ↑, ←	↓.
-The arrow
+The event
 tempted	↓, →, ←, ↑	↓.
-The arrow
-tempted	←, ↑, ↓, →	↑.
-The arrow
-tempted	←, ↑, →, ↓	↑.
+The event
+tempted	←, ↑, ↓, →	↓.
+The event
+tempted	←, ↑, →, ↓	↓.
 The event
 tempted	←, ↓, ↑, →	↓.
-The arrow
+The event
 tempted	←, ↓, →, ↑	↓.
-The arrow
-tempted	←, →, ↑, ↓	↑.
+The event
+tempted	←, →, ↑, ↓	↓.
 The event
 tempted	←, →, ↓, ↑	↓.
-The arrow
-tempted	→, ↑, ↓, ←	↑.
-The arrow
-tempted	→, ↑, ←, ↓	↑.
-The arrow
+The event
+tempted	→, ↑, ↓, ←	↓.
+The event
+tempted	→, ↑, ←, ↓	↓.
+The event
 tempted	→, ↓, ↑, ←	↓.
-The arrow
+The event
 tempted	→, ↓, ←, ↑	↓.
-The arrow
-tempted	→, ←, ↑, ↓	↑.
-The arrow
+The event
+tempted	→, ←, ↑, ↓	↓.
+The event
 tempted	→, ←, ↓, ↑	↓.
-The arrow
+The event
 wanted	↑, ↓, ←, →	↑.
-The event
-wanted	↑, ↓, →, ←	↑.
-The event
-wanted	↑, ←, ↓, →	↑.
-The arrow
-wanted	↑, ←, →, ↓	↑.
-The event
-wanted	↑, →, ↓, ←	↑.
-The event
-wanted	↑, →, ←, ↓	↑.
-The event
+Given
+wanted	↑, ↓, →, ←	↓.
+Given
+wanted	↑, ←, ↓, →	↓.
+Given
+wanted	↑, ←, →, ↓	↓.
+Given
+wanted	↑, →, ↓, ←	↓.
+Given
+wanted	↑, →, ←, ↓	↓.
+Given
 wanted	↓, ↑, ←, →	↓.
-The arrow
+Given
 wanted	↓, ↑, →, ←	↓.
-The arrow
+Given
 wanted	↓, ←, ↑, →	↓.
-The arrow
+Given
 wanted	↓, ←, →, ↑	↓.
-The arrow
+Given
 wanted	↓, →, ↑, ←	↓.
-The arrow
+Given
 wanted	↓, →, ←, ↑	↓.
-The arrow
-wanted	←, ↑, ↓, →	↑.
-The event
-wanted	←, ↑, →, ↓	↑.
-The event
+Given
+wanted	←, ↑, ↓, →	↓.
+Given
+wanted	←, ↑, →, ↓	↓.
+Given
 wanted	←, ↓, ↑, →	↓.
-The arrow
+Given
 wanted	←, ↓, →, ↑	↓.
-The arrow
-wanted	←, →, ↑, ↓	↑.
-The event
+Given
+wanted	←, →, ↑, ↓	↓.
+Given
 wanted	←, →, ↓, ↑	↓.
-The arrow
-wanted	→, ↑, ↓, ←	↑.
-The event
-wanted	→, ↑, ←, ↓	↑.
-The event
+Given
+wanted	→, ↑, ↓, ←	↓.
+Given
+wanted	→, ↑, ←, ↓	↓.
+Given
 wanted	→, ↓, ↑, ←	↓.
-The arrow
+Given
 wanted	→, ↓, ←, ↑	↓.
-The event
-wanted	→, ←, ↑, ↓	↑.
-The event
+Given
+wanted	→, ←, ↑, ↓	↓.
+Given
 wanted	→, ←, ↓, ↑	↓.
-The event
+Given
 hoped	↑, ↓, ←, →	↑.
-The arrow
-hoped	↑, ↓, →, ←	↑.
-The arrow
-hoped	↑, ←, ↓, →	↑.
-The arrow
-hoped	↑, ←, →, ↓	↑.
-The arrow
-hoped	↑, →, ↓, ←	↑.
-The arrow
-hoped	↑, →, ←, ↓	↑.
-The arrow
+Given
+hoped	↑, ↓, →, ←	↓.
+Given
+hoped	↑, ←, ↓, →	↓.
+The event
+hoped	↑, ←, →, ↓	↓.
+The event
+hoped	↑, →, ↓, ←	↓.
+The event
+hoped	↑, →, ←, ↓	↓.
+The event
 hoped	↓, ↑, ←, →	↓.
-The arrow
+The event
 hoped	↓, ↑, →, ←	↓.
-The arrow
+The event
 hoped	↓, ←, ↑, →	↓.
-The arrow
+The event
 hoped	↓, ←, →, ↑	↓.
-The arrow
+The event
 hoped	↓, →, ↑, ←	↓.
-The arrow
+The event
 hoped	↓, →, ←, ↑	↓.
-The arrow
-hoped	←, ↑, ↓, →	↑.
-The arrow
-hoped	←, ↑, →, ↓	↑.
-The arrow
+The event
+hoped	←, ↑, ↓, →	↓.
+The event
+hoped	←, ↑, →, ↓	↓.
+The event
 hoped	←, ↓, ↑, →	↓.
-The arrow
+The event
 hoped	←, ↓, →, ↑	↓.
-The arrow
+The event
 hoped	←, →, ↑, ↓	↓.
-The arrow
+The event
 hoped	←, →, ↓, ↑	↓.
-The arrow
-hoped	→, ↑, ↓, ←	↑.
-The arrow
-hoped	→, ↑, ←, ↓	↑.
-The arrow
+The event
+hoped	→, ↑, ↓, ←	↓.
+The event
+hoped	→, ↑, ←, ↓	↓.
+The event
 hoped	→, ↓, ↑, ←	↓.
-The arrow
+The event
 hoped	→, ↓, ←, ↑	↓.
-The arrow
-hoped	→, ←, ↑, ↓	↑.
-The arrow
+The event
+hoped	→, ←, ↑, ↓	↓.
+The event
 hoped	→, ←, ↓, ↑	↓.
-The arrow
+The event
 increased	↑, ↓, ←, →	↑.
-The event
+Given
 increased	↑, ↓, →, ←	↑.
-The event
+Given
 increased	↑, ←, ↓, →	↑.
-The event
+Given
 increased	↑, ←, →, ↓	↑.
-The event
+Given
 increased	↑, →, ↓, ←	↑.
-The event
+Given
 increased	↑, →, ←, ↓	↑.
-The event
+Given
 increased	↓, ↑, ←, →	↓.
-The event
+Given
 increased	↓, ↑, →, ←	↓.
+Given
+increased	↓, ←, ↑, →	↑.
 The event
-increased	↓, ←, ↑, →	↓.
-The arrow
-increased	↓, ←, →, ↑	↓.
-The arrow
-increased	↓, →, ↑, ←	↓.
+increased	↓, ←, →, ↑	↑.
 The event
+increased	↓, →, ↑, ←	↑.
+Given
 increased	↓, →, ←, ↑	↓.
-The event
+Given
 increased	←, ↑, ↓, →	↑.
-The event
+Given
 increased	←, ↑, →, ↓	↑.
-The event
+Given
 increased	←, ↓, ↑, →	↑.
-The event
+Given
 increased	←, ↓, →, ↑	↑.
-The event
+Given
 increased	←, →, ↑, ↓	↑.
-The event
+Given
 increased	←, →, ↓, ↑	↑.
-The event
+Given
 increased	→, ↑, ↓, ←	↑.
-The event
+Given
 increased	→, ↑, ←, ↓	↑.
-The event
+Given
 increased	→, ↓, ↑, ←	↑.
-The event
-increased	→, ↓, ←, ↑	↑.
-The event
+Given
+increased	→, ↓, ←, ↑	↓.
+Given
 increased	→, ←, ↑, ↓	↑.
-The event
+Given
 increased	→, ←, ↓, ↑	↑.
-The event
-obeyed	↑, ↓, ←, →	↑.
-The event
-obeyed	↑, ↓, →, ←	↑.
-The event
-obeyed	↑, ←, ↓, →	↑.
-The event
-obeyed	↑, ←, →, ↓	↑.
-The event
-obeyed	↑, →, ↓, ←	↑.
-The event
-obeyed	↑, →, ←, ↓	↑.
-The event
+Given
+obeyed	↑, ↓, ←, →	↓.
+Given
+obeyed	↑, ↓, →, ←	↓.
+Given
+obeyed	↑, ←, ↓, →	↓.
+Given
+obeyed	↑, ←, →, ↓	↓.
+Given
+obeyed	↑, →, ↓, ←	↓.
+Given
+obeyed	↑, →, ←, ↓	↓.
+Given
 obeyed	↓, ↑, ←, →	↓.
-The event
+Given
 obeyed	↓, ↑, →, ←	↓.
 The event
 obeyed	↓, ←, ↑, →	↓.
@@ -1318,41 +1318,41 @@ obeyed	↓, →, ↑, ←	↓.
 The event
 obeyed	↓, →, ←, ↑	↓.
 The event
-obeyed	←, ↑, ↓, →	↑.
-The event
-obeyed	←, ↑, →, ↓	↑.
-The event
+obeyed	←, ↑, ↓, →	↓.
+Given
+obeyed	←, ↑, →, ↓	↓.
+Given
 obeyed	←, ↓, ↑, →	↓.
-The event
+Given
 obeyed	←, ↓, →, ↑	↓.
-The event
-obeyed	←, →, ↑, ↓	↑.
-The event
+Given
+obeyed	←, →, ↑, ↓	↓.
+Given
 obeyed	←, →, ↓, ↑	↓.
-The event
-obeyed	→, ↑, ↓, ←	↑.
-The event
-obeyed	→, ↑, ←, ↓	↑.
-The event
+Given
+obeyed	→, ↑, ↓, ←	↓.
+Given
+obeyed	→, ↑, ←, ↓	↓.
+Given
 obeyed	→, ↓, ↑, ←	↓.
 The event
 obeyed	→, ↓, ←, ↑	↓.
 The event
-obeyed	→, ←, ↑, ↓	↑.
+obeyed	→, ←, ↑, ↓	↓.
 The event
 obeyed	→, ←, ↓, ↑	↓.
 The event
 respected	↑, ↓, ←, →	↑.
 The event
 respected	↑, ↓, →, ←	↑.
-I think
-respected	↑, ←, ↓, →	↑.
 The event
-respected	↑, ←, →, ↓	↑.
+respected	↑, ←, ↓, →	↓.
 The event
-respected	↑, →, ↓, ←	↑.
+respected	↑, ←, →, ↓	↓.
 The event
-respected	↑, →, ←, ↓	↑.
+respected	↑, →, ↓, ←	↓.
+The event
+respected	↑, →, ←, ↓	↓.
 The event
 respected	↓, ↑, ←, →	↓.
 The event
@@ -1366,9 +1366,9 @@ respected	↓, →, ↑, ←	↓.
 The event
 respected	↓, →, ←, ↑	↓.
 The event
-respected	←, ↑, ↓, →	↑.
+respected	←, ↑, ↓, →	↓.
 The event
-respected	←, ↑, →, ↓	↑.
+respected	←, ↑, →, ↓	↓.
 The event
 respected	←, ↓, ↑, →	↓.
 The event
@@ -1380,61 +1380,61 @@ respected	←, →, ↓, ↑	↓.
 The event
 respected	→, ↑, ↓, ←	↑.
 The event
-respected	→, ↑, ←, ↓	↑.
+respected	→, ↑, ←, ↓	↓.
 The event
 respected	→, ↓, ↑, ←	↓.
 The event
 respected	→, ↓, ←, ↑	↓.
 The event
-respected	→, ←, ↑, ↓	↑.
+respected	→, ←, ↑, ↓	↓.
 The event
 respected	→, ←, ↓, ↑	↓.
 The event
 succeeded	↑, ↓, ←, →	↑.
-The event
+Given
 succeeded	↑, ↓, →, ←	↑.
-The event
-succeeded	↑, ←, ↓, →	↑.
-The event
+Given
+succeeded	↑, ←, ↓, →	↓.
+Given
 succeeded	↑, ←, →, ↓	↑.
-The event
-succeeded	↑, →, ↓, ←	↑.
-The event
-succeeded	↑, →, ←, ↓	↑.
-The event
+Given
+succeeded	↑, →, ↓, ←	↓.
+Given
+succeeded	↑, →, ←, ↓	↓.
+Given
 succeeded	↓, ↑, ←, →	↓.
-The event
+Given
 succeeded	↓, ↑, →, ←	↓.
-The event
+Given
 succeeded	↓, ←, ↑, →	↓.
-The event
+Given
 succeeded	↓, ←, →, ↑	↓.
-The event
+Given
 succeeded	↓, →, ↑, ←	↓.
-The event
+Given
 succeeded	↓, →, ←, ↑	↓.
-The event
-succeeded	←, ↑, ↓, →	↑.
-The event
-succeeded	←, ↑, →, ↓	↑.
-The event
+Given
+succeeded	←, ↑, ↓, →	↓.
+Given
+succeeded	←, ↑, →, ↓	↓.
+Given
 succeeded	←, ↓, ↑, →	↓.
-The event
+Given
 succeeded	←, ↓, →, ↑	↓.
-The event
-succeeded	←, →, ↑, ↓	↑.
-The event
+Given
+succeeded	←, →, ↑, ↓	↓.
+Given
 succeeded	←, →, ↓, ↑	↓.
-The event
-succeeded	→, ↑, ↓, ←	↑.
-The event
-succeeded	→, ↑, ←, ↓	↑.
-The event
+Given
+succeeded	→, ↑, ↓, ←	↓.
+Given
+succeeded	→, ↑, ←, ↓	↓.
+Given
 succeeded	→, ↓, ↑, ←	↓.
-The event
+Given
 succeeded	→, ↓, ←, ↑	↓.
-The event
-succeeded	→, ←, ↑, ↓	↑.
-The event
+Given
+succeeded	→, ←, ↑, ↓	↓.
+Given
 succeeded	→, ←, ↓, ↑	↓.
-The event
+Given

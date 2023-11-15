@@ -1,31 +1,31 @@
 Action	UP	DOWN	LEFT	RIGHT
-fled	16	0	8	0
+fled	14	0	10	0
 pointed at	1	0	0	23
-pulled	18	1	0	5
-pushed	1	6	0	17
-walked	1	4	3	16
-hunted	1	11	4	8
-impacted	1	9	1	13
+pulled	8	1	1	14
+pushed	0	6	1	17
+walked	2	4	4	14
+hunted	1	10	2	11
+impacted	0	8	1	15
 perched	24	0	0	0
-showed	23	0	0	1
+showed	18	0	1	5
 smashed	0	13	2	9
-bombed	1	10	10	3
+bombed	1	13	10	0
 flew	24	0	0	0
-floated	21	0	0	3
+floated	16	0	1	7
 lifted	24	0	0	0
 sank	0	24	0	0
-argued with	7	9	1	7
-gave to	2	0	1	21
-offended	0	6	3	15
+argued with	5	13	2	4
+gave to	2	0	3	19
+offended	0	8	3	13
 rushed	19	2	2	1
-warned	7	0	15	2
-owned	0	0	1	23
-regretted	0	6	18	0
+warned	5	0	15	4
+owned	1	0	1	22
+regretted	0	9	15	0
 rested	0	23	1	0
 tempted	17	0	2	5
-wanted	16	0	3	5
+wanted	13	1	2	8
 hoped	24	0	0	0
 increased	24	0	0	0
-obeyed	0	0	2	22
-respected	16	0	3	5
-succeeded	0	0	0	24
+obeyed	0	0	3	21
+respected	13	0	1	10
+succeeded	1	0	0	23
