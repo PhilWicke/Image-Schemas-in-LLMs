@@ -1,0 +1,3 @@
+Model	Average Similarity
+idefics-80b	0.5061833333333333
+idefics-80b	0.5061833333333333
