@@ -1,0 +1,25 @@
+UNICODE:
+Llama-2-13b-chat-hf: Horizontal - 0.6791466108187124, Vertical - 0.7893917583957877
+Llama-2-13b-hf: Horizontal - nan, Vertical - nan
+Llama-2-70b-chat-hf: Horizontal - 0.5137533243736868, Vertical - 0.5136961485542039
+Llama-2-70b-hf: Horizontal - 0.20388269129603556, Vertical - 0.20386000110718383
+davinci-002: Horizontal - 0.16631775406021368, Vertical - 0.1636595739412889
+gpt-4: Horizontal - 0.8270725570107373, Vertical - 0.8290759015747692
+text-davinci-002: Horizontal - 0.37712188859338547, Vertical - 0.5087611458543606
+text-davinci-003: Horizontal - 0.6794900339769462, Vertical - 0.6801985683854876
+
+TEXT:
+Llama-2-13b-chat-hf: Horizontal - 0.5310378728915186, Vertical - 0.5362136078911078
+Llama-2-13b-hf: Horizontal - 0.47779999101135606, Vertical - 0.48322787334997375
+Llama-2-70b-chat-hf: Horizontal - 0.587880198979323, Vertical - 0.5930091909892892
+Llama-2-70b-hf: Horizontal - 0.5402850965772542, Vertical - 0.5442189995090329
+davinci-002: Horizontal - 0.679321981857937, Vertical - 0.6827488145938608
+gpt-4: Horizontal - 0.5772228905827266, Vertical - 0.581151491688269
+text-davinci-002: Horizontal - 0.6933380118995554, Vertical - 0.602599032300709
+text-davinci-003: Horizontal - 0.7213965871849951, Vertical - 0.718592212769072
+
+VISUAL:
+gpt-4: Horizontal - N/A, Vertical - N/A
+idefics-80b: Horizontal - -0.2674488700010262, Vertical - -0.26872998347408045
+idefics-80b-instruct: Horizontal - -0.15696958556463453, Vertical - -0.15503669210627358
+
