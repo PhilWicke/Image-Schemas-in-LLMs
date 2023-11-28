@@ -1,0 +1,36 @@
+UNICODE:
+Llama-2-13b-chat-hf: Horizontal - 3.685179042482984e-05, Vertical - 2.1644333790449302e-07
+Llama-2-13b-hf: Horizontal - nan, Vertical - nan
+Llama-2-70b-chat-hf: Horizontal - 0.003685550727747159, Vertical - 0.0036900066007159635
+Llama-2-70b-hf: Horizontal - 0.27984746467086163, Vertical - 0.2799021415488197
+davinci-002: Horizontal - 0.37973081413804943, Vertical - 0.38750058973283685
+gpt-4: Horizontal - 1.758546235878276e-08, Vertical - 1.51360668739261e-08
+idefics-80b: Horizontal - N/A, Vertical - N/A
+idefics-80b-instruct: Horizontal - N/A, Vertical - N/A
+text-davinci-002: Horizontal - 0.03994038169657431, Vertical - 0.00409245744947523
+text-davinci-003: Horizontal - 3.6391356709035524e-05, Vertical - 3.545766111821321e-05
+
+TEXT:
+Llama-2-13b-chat-hf: Horizontal - 0.002533180948131366, Vertical - 0.0022554229758480976
+Llama-2-13b-hf: Horizontal - 0.007577941391838963, Vertical - 0.006829413899184349
+Llama-2-70b-chat-hf: Horizontal - 0.0006349788349333581, Vertical - 0.000553376238286571
+Llama-2-70b-hf: Horizontal - 0.002055833651691775, Vertical - 0.0018777099808246383
+davinci-002: Horizontal - 3.661601932534199e-05, Vertical - 3.22720148066056e-05
+gpt-4: Horizontal - 0.0008390091958352996, Vertical - 0.0007579513664723796
+idefics-80b: Horizontal - N/A, Vertical - N/A
+idefics-80b-instruct: Horizontal - N/A, Vertical - N/A
+text-davinci-002: Horizontal - 2.1611594365668537e-05, Vertical - 0.0004252082794395668
+text-davinci-003: Horizontal - 6.854153612255152e-06, Vertical - 7.734569315912002e-06
+
+VISUAL:
+Llama-2-13b-chat-hf: Horizontal - N/A, Vertical - N/A
+Llama-2-13b-hf: Horizontal - N/A, Vertical - N/A
+Llama-2-70b-chat-hf: Horizontal - N/A, Vertical - N/A
+Llama-2-70b-hf: Horizontal - N/A, Vertical - N/A
+davinci-002: Horizontal - N/A, Vertical - N/A
+gpt-4: Horizontal - N/A, Vertical - N/A
+idefics-80b: Horizontal - 0.15305794433794284, Vertical - 0.1510249633540393
+idefics-80b-instruct: Horizontal - 0.4074559883457549, Vertical - 0.4133274664588399
+text-davinci-002: Horizontal - N/A, Vertical - N/A
+text-davinci-003: Horizontal - N/A, Vertical - N/A
+
