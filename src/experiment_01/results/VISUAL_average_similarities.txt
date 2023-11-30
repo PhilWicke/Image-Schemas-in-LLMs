@@ -1,4 +1,6 @@
 Model	Average Similarity
 idefics-80b	0.5494833333333333
+idefics-80b-instruct-quantised	0.4996333333333334
 idefics-80b-instruct	0.47384999999999994
 idefics-80b-unquantised	0.5642333333333334
+gpt-4-vision-preview	0.5934666666666667
