@@ -19,9 +19,7 @@ text-davinci-002: Horizontal - 0.6933380118995554, Vertical - 0.602599032300709
 text-davinci-003: Horizontal - 0.7213965871849951, Vertical - 0.718592212769072
 
 VISUAL:
-gpt-4-vision: Horizontal - 0.5697567950747585, Vertical - 0.5643071812070073
-idefics-80b: Horizontal - -0.05691355097150323, Vertical - -0.05977552434935867
+gpt-4: Horizontal - N/A, Vertical - N/A
+idefics-80b: Horizontal - -0.2674488700010262, Vertical - -0.26872998347408045
 idefics-80b-instruct: Horizontal - -0.15696958556463453, Vertical - -0.15503669210627358
-idefics-80b-instruct-quantised: Horizontal - -0.01151881839698345, Vertical - -0.011517536462930513
-idefics-80b-unquantised: Horizontal - 0.004140375836754975, Vertical - 0.004139915052619471
 
