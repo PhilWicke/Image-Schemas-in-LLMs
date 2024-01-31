@@ -17,13 +17,15 @@ Original Papers:
 [The Embodied Approach to the Polysemy of the Spatial Preposition On](https://doi.org/10.1075/cilt.177.11bei)
 
 
+The [corresponding folder](https://github.com/PhilWicke/Image-Schemas-in-LLMs/tree/main/src/gibbs%3Abeitel%20experiments) contains notebooks to generate the model answers and analyze the results. The generated model outputs used for the analysis in our paper can be found in the subfolder [lm_generations](https://github.com/PhilWicke/Image-Schemas-in-LLMs/tree/main/src/gibbs%3Abeitel%20experiments/lm_generations).  
+
 
 ### Experiment 3: Richardson et al. (2001)
 
 Original Paper: ["Language is Spatial": Experimental Evidence for Image Schemas of Concrete and Abstract
 Verbs](https://escholarship.org/content/qt9vs820bx/qt9vs820bx.pdf)
 
-Three versions of the first experiment by Richardson et. al (2001) have been implemented. 
+Three versions of the first experiment by Richardson et al. (2001) have been implemented. 
 
 
 **Version 01** (labelled "01") represents a **text-image version**. Here, different prompts have been tested to probe the LM with version of Unicode options with the final prompt being:
